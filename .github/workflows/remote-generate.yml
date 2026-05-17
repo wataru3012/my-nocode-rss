@@ -29,3 +29,8 @@ jobs:
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           projectName: your-project
           directory: ./dist
+      - name: Copy static files
+        run: |
+         mkdir -p dist
+         cp index.html dist/
+         cp config.json dist/
