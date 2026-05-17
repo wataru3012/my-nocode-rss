@@ -1,87 +1,36 @@
-<!DOCTYPE html>
-<html lang="ja">
+<!doctype html>
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My RSS Generator WebUI</title>
-    <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; padding: 20px; max-width: 500px; margin: 0 auto; background: #f5f5f7; color: #1d1d1f; }
-        .card { background: white; padding: 24px; border-radius: 16px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); margin-top: 20px; }
-        h1 { font-size: 1.3rem; margin: 0 0 20px 0; font-weight: 600; text-align: center; }
-        label { display: block; margin-top: 14px; font-weight: 600; font-size: 0.85rem; color: #86868b; }
-        input { width: 100%; padding: 12px; margin-top: 6px; border: 1px solid #d2d2d7; border-radius: 8px; box-sizing: border-box; font-size: 1rem; background: #fbfbfd; }
-        input:focus { border-color: #0071e3; outline: none; background: white; }
-        button { width: 100%; padding: 14px; margin-top: 24px; background: #0071e3; color: white; border: none; border-radius: 8px; font-size: 1rem; font-weight: 600; cursor: pointer; transition: background 0.2s; }
-        button:hover { background: #0077ed; }
-        .note { font-size: 0.75rem; color: #86868b; margin-top: 4px; line-height: 1.4; }
-    </style>
+  <meta charset="utf-8" />
+  <title>RSS Engine</title>
+  <style>
+    body { font-family: sans-serif; max-width: 800px; margin: 40px auto; }
+    .card { padding: 12px; border: 1px solid #ddd; margin-bottom: 10px; }
+    a { text-decoration: none; }
+  </style>
 </head>
 <body>
-    <div class="card">
-        <h1>📻 RSSフィード新規追加</h1>
-        
-        <label for="token">GitHub Fine-grained TOKEN</label>
-        <input type="password" id="token" placeholder="github_pat_...">
-        <div class="note">※初回のみ入力。次回以降はブラウザに自動記憶されます。</div>
-        
-        <label for="feedId">フィードID (半角英数字、例: tech-blog)</label>
-        <input type="text" id="feedId" placeholder="tech-blog">
+  <h1>RSS Engine</h1>
+  <div id="feeds"></div>
 
-        <label for="url">RSS化したいURL</label>
-        <input type="url" id="url" placeholder="https://example.com/blog">
+  <script>
+    fetch("./config.json")
+      .then(r => r.json())
+      .then(cfg => {
+        const container = document.getElementById("feeds");
 
-        <label for="selector">本文のCSSセレクタ</label>
-        <input type="text" id="selector" placeholder=".entry-content">
+        cfg.feeds.forEach(f => {
+          const div = document.createElement("div");
+          div.className = "card";
 
-        <button onclick="triggerRssGeneration()">RSSを今すぐ生成・追加</button>
-    </div>
+          div.innerHTML = `
+            <h3>${f.title}</h3>
+            <p><a href="./${f.id}.xml">RSSを見る</a></p>
+          `;
 
-    <script>
-        window.onload = function() {
-            const savedToken = localStorage.getItem('gh_token');
-            if (savedToken) document.getElementById('token').value = savedToken;
-        };
-
-        async function triggerRssGeneration() {
-            const token = document.getElementById('token').value;
-            const feedId = document.getElementById('feedId').value.trim();
-            const targetUrl = document.getElementById('url').value.trim();
-            const selector = document.getElementById('selector').value.trim();
-
-            if(!token || !feedId || !targetUrl || !selector) {
-                alert('すべての項目を入力してください');
-                return;
-            }
-
-            localStorage.setItem('gh_token', token);
-
-            // GitHub Actionsを「手動（リモート）」で着火するAPI呼び出し
-            const response = await fetch('https://api.github.com/repos/wataru3012/my-nocode-rss/dispatches', {
-                method: 'POST',
-                headers: {
-                    'Authorization': `token ${token}`,
-                    'Accept': 'application/vnd.github.v3+json',
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify({
-                    event_type: 'webhook-rss-trigger',
-                    client_payload: {
-                        feed_id: feedId,
-                        url: targetUrl,
-                        selector: selector
-                    }
-                })
-            });
-
-            if(response.ok) {
-                alert('手動更新リクエストを送信しました！裏側でActionsが起動しましたので、1〜2分後にフィードが生成されます。');
-                document.getElementById('feedId').value = '';
-                document.getElementById('url').value = '';
-                document.getElementById('selector').value = '';
-            } else {
-                alert('エラーが発生しました。トークンの権限やユーザー名・リポジトリ名が正しいか確認してください。');
-            }
-        }
-    </script>
+          container.appendChild(div);
+        });
+      });
+  </script>
 </body>
 </html>
