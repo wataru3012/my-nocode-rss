@@ -52,6 +52,8 @@ jobs:
         run: |
           # 成果物を「dist」というフォルダにまとめて出力する設定にします
           mkdir dist
+          # ▼直下の index.html を配信フォルダ(dist)へ自動コピーする命令
+          cp index.html ./dist/
           npx rss-proxy --config config.json --output-dir ./dist
 
       - name: Commit and Push config.json Changes
