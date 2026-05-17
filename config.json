@@ -1,13 +1,12 @@
 {
   "feeds": [
     {
-      "id": "tools4hack",
-      "title": "Tools 4 Hack 全文プレビューフィード",
-      "url": "https://tools4hack.santalab.me/",
-      "itemSelector": "a.entry-card-wrap",
-      "titleSelector": "h2.entry-card-title",
-      "linkSelector": "a.entry-card-wrap",
-      "contentSelector": "div.entry-card-snippet"
+      "id": "example",
+      "title": "Example Feed",
+      "url": "https://example.com",
+      "itemSelector": "article",
+      "titleSelector": "h2",
+      "linkSelector": "a"
     }
   ]
 }
