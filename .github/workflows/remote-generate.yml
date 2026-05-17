@@ -23,51 +23,62 @@ jobs:
         run: npm install
 
       - name: Update config.json (Only for WebUI Trigger)
-        if: github.event.action == 'webhook-rss-trigger'
+        # ① if文での event_type 判定は安全なのでこのままでOK
+        if: github.event.event_type == 'webhook-rss-trigger'
+        # ② 安全に値を取り出すために、環境変数(env)を挟みます
+        env:
+          FEED_ID: ${{ github.event.client_payload.feed_id }}
+          FEED_URL: ${{ github.event.client_payload.url }}
+          FEED_SELECT: ${{ github.event.client_payload.selector }}
         run: |
-          ID="${{ github.event.client_payload.feed_id }}"
-          URL="${{ github.event.client_payload.url }}"
-          SELECT="${{ github.event.client_payload.selector }}"
-          
-          node -e "
-            import fs from 'fs';
-            const config = JSON.parse(fs.readFileSync('config.json'));
-            const exists = config.feeds.some(f => f.id === '$ID');
-            if(!exists) {
-              config.feeds.push({
-                id: '$ID',
-                title: '$ID の全文RSS',
-                url: '$URL',
-                itemSelector: 'article',
-                titleSelector: 'h2',
-                linkSelector: 'a',
-                contentSelector: '$SELECT'
-              });
-              fs.writeFileSync('config.json', JSON.stringify(config, null, 2));
-            }
-          "
+          # 空欄で送信された（手動強制アップデート）場合はconfigの書き換えをスキップ
+          if [ -z "$FEED_ID" ] || [ -z "$FEED_URL" ]; then
+            echo "Empty payload. Skipping config update. Just regenerating RSS."
+          else
+            node -e "
+              import fs from 'fs';
+              const config = JSON.parse(fs.readFileSync('config.json'));
+              const exists = config.feeds.some(f => f.id === process.env.FEED_ID);
+              if(!exists) {
+                // セレクタに特定の個別指定が含まれているかを判定
+                const isAdvanced = process.env.FEED_SELECT.includes(' ') || process.env.FEED_SELECT.includes('entry-card');
+                
+                config.feeds.push({
+                  id: process.env.FEED_ID,
+                  title: process.env.FEED_ID + ' の全文RSS',
+                  url: process.env.FEED_URL,
+                  itemSelector: isAdvanced ? 'a.entry-card-wrap' : 'article',
+                  titleSelector: isAdvanced ? 'h2.entry-card-title' : 'h2',
+                  linkSelector: isAdvanced ? 'a.entry-card-wrap' : 'a',
+                  contentSelector: process.env.FEED_SELECT
+                });
+                fs.writeFileSync('config.json', JSON.stringify(config, null, 2));
+                console.log('Successfully updated config.json with new feed!');
+              } else {
+                console.log('Feed ID already exists. Skipping config write.');
+              }
+            "
+          fi
 
       - name: Run Scraper Engine
         run: |
-          # 成果物を「dist」というフォルダにまとめて出力する設定にします
           mkdir dist
-          # ▼直下の index.html を配信フォルダ(dist)へ自動コピーする命令
+          # 直下の index.html を配信フォルダ(dist)へ自動コピーする命令
           cp index.html ./dist/
           npx rss-proxy --config config.json --output-dir ./dist
 
       - name: Commit and Push config.json Changes
-        if: github.event.action == 'webhook-rss-trigger'
+        if: github.event.event_type == 'webhook-rss-trigger'
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add config.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Add new feed via WebUI [${{ github.event.client_payload.feed_id }}]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Add new feed via WebUI" && git push)
 
-      # ★変更点：生成されたRSSフィードをCloudflare Pagesに直接送り込む
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/pages-action@v1
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: 'my-nocode-rss' # Cloudflare側で作るプロジェクト名
-          directory: './dist' # RSSが生成されるフォルダ
+          projectName: 'my-nocode-rss'
+          directory: './dist'
