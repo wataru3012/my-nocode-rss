@@ -21,8 +21,9 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          # ★ここを追記：npmが勝手にSSH通信に化けさせる癖を強制的にHTTPSへ上書きデバッグします
-          git config --global url."https://github.com/".insteadOf "ssh://git@github.com/"
+          rm -f package-lock.json
+          rm -rf node_modules
+          npm cache clean --force
           npm install
 
       - name: Update config.json (Only for WebUI Trigger)
