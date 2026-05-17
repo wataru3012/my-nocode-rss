@@ -1,0 +1,8 @@
+{
+  "name": "nocode-rss-platform",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "rss-proxy": "github:kelyvin/rss-proxy"
+  }
+}
