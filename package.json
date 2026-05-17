@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
-    "rss-proxy": "git+https://github.com/kelyvin/rss-proxy.git"
+    "rss-proxy": "git+https://github.com/damoeb/rss-proxy.git"
   }
 }
