@@ -2,14 +2,15 @@ name: Remote WebUI RSS Generator (Cloudflare Pages)
 
 on:
   repository_dispatch:
-    types: [webhook-rss-trigger] # WebUIからの手動追加を検知
+    types: [webhook-rss-trigger]
   schedule:
-    - cron: '0 */12 * * *' # 12時間ごとに自動巡回
+    - cron: '0 */12 * * *'
   workflow_dispatch:
 
 jobs:
   update-and-run:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -19,34 +20,43 @@ jobs:
         with:
           node-version: 20
 
-      - name: Install Dependencies
+      - name: Install Project Dependencies
         run: |
-          rm -f package-lock.json
-          rm -rf node_modules
-          npm cache clean --force
+          npm install
+
+      - name: Clone rss-proxy
+        run: |
+          git clone https://github.com/damoeb/rss-proxy.git rss-proxy-src
+          cd rss-proxy-src
           npm install
 
       - name: Update config.json (Only for WebUI Trigger)
-        # ① if文での event_type 判定は安全なのでこのままでOK
         if: github.event.event_type == 'webhook-rss-trigger'
-        # ② 安全に値を取り出すために、環境変数(env)を挟みます
         env:
           FEED_ID: ${{ github.event.client_payload.feed_id }}
           FEED_URL: ${{ github.event.client_payload.url }}
           FEED_SELECT: ${{ github.event.client_payload.selector }}
         run: |
-          # 空欄で送信された（手動強制アップデート）場合はconfigの書き換えをスキップ
           if [ -z "$FEED_ID" ] || [ -z "$FEED_URL" ]; then
-            echo "Empty payload. Skipping config update. Just regenerating RSS."
+            echo "Empty payload. Skipping config update."
           else
             node -e "
               import fs from 'fs';
+
               const config = JSON.parse(fs.readFileSync('config.json'));
-              const exists = config.feeds.some(f => f.id === process.env.FEED_ID);
-              if(!exists) {
-                // セレクタに特定の個別指定が含まれているかを判定
-                const isAdvanced = process.env.FEED_SELECT.includes(' ') || process.env.FEED_SELECT.includes('entry-card');
-                
+
+              const exists = config.feeds.some(
+                f => f.id === process.env.FEED_ID
+              );
+
+              if (!exists) {
+
+                const selector = process.env.FEED_SELECT || 'article';
+
+                const isAdvanced =
+                  selector.includes(' ') ||
+                  selector.includes('entry-card');
+
                 config.feeds.push({
                   id: process.env.FEED_ID,
                   title: process.env.FEED_ID + ' の全文RSS',
@@ -54,35 +64,46 @@ jobs:
                   itemSelector: isAdvanced ? 'a.entry-card-wrap' : 'article',
                   titleSelector: isAdvanced ? 'h2.entry-card-title' : 'h2',
                   linkSelector: isAdvanced ? 'a.entry-card-wrap' : 'a',
-                  contentSelector: process.env.FEED_SELECT
+                  contentSelector: selector
                 });
-                fs.writeFileSync('config.json', JSON.stringify(config, null, 2));
-                console.log('Successfully updated config.json with new feed!');
+
+                fs.writeFileSync(
+                  'config.json',
+                  JSON.stringify(config, null, 2)
+                );
+
+                console.log('config updated');
               } else {
-                console.log('Feed ID already exists. Skipping config write.');
+                console.log('feed exists');
               }
             "
           fi
 
-      - name: Run Scraper Engine
+      - name: Generate RSS
         run: |
-          mkdir dist
-          # 直下の index.html を配信フォルダ(dist)へ自動コピーする命令
-          cp index.html ./dist/
-          npx rss-proxy --config config.json --output-dir ./dist
+          mkdir -p dist
+          cp index.html dist/
 
-      - name: Commit and Push config.json Changes
+          cd rss-proxy-src
+          node src/index.js \
+            --config ../config.json \
+            --output-dir ../dist
+
+      - name: Commit config changes
         if: github.event.event_type == 'webhook-rss-trigger'
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
           git add config.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Add new feed via WebUI" && git push)
+
+          git diff --cached --quiet || \
+          (git commit -m "Add new feed via WebUI" && git push)
 
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/pages-action@v1
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: 'my-nocode-rss'
-          directory: './dist'
+          projectName: my-nocode-rss
+          directory: ./dist
