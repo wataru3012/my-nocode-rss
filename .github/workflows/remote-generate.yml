@@ -85,9 +85,14 @@ jobs:
           cp index.html dist/
 
           cd rss-proxy-src
-          node src/index.js \
-            --config ../config.json \
-            --output-dir ../dist
+
+          echo "===== repo files ====="
+          ls -la
+          echo "===== package.json ====="
+          cat package.json
+
+          npm run build || true
+          npm start -- --config ../config.json --output-dir ../dist
 
       - name: Commit config changes
         if: github.event.event_type == 'webhook-rss-trigger'
