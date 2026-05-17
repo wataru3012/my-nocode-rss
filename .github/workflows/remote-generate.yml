@@ -20,7 +20,10 @@ jobs:
           node-version: 20
 
       - name: Install Dependencies
-        run: npm install
+        run: |
+          # ★ここを追記：npmが勝手にSSH通信に化けさせる癖を強制的にHTTPSへ上書きデバッグします
+          git config --global url."https://github.com/".insteadOf "ssh://git@github.com/"
+          npm install
 
       - name: Update config.json (Only for WebUI Trigger)
         # ① if文での event_type 判定は安全なのでこのままでOK
