@@ -7,7 +7,7 @@ on:
   workflow_dispatch: # 手動実行用ボタン
 
 permissions:
-  contents: write # GitHub Pagesへのコミット・プッシュに必要
+  contents: write # GitHub Pagesへのコミットに必要
 
 jobs:
   build_and_deploy:
@@ -17,28 +17,18 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
-    - name: Create public directory
-      run: mkdir -p public
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
 
-    - name: Fetch RSS from Render RSSHub
+    - name: Install dependencies
       run: |
-        mkdir -p public
-        
-        # ------------------------------------------------------------------
-        # 最新の RSSHub (2026年5月版) の新しいパラメータ名 (***Selector) に修正
-        # ------------------------------------------------------------------
-        TARGET_URL="https://androidjiten.com/archives/sitemap" # 一覧ページのURL
-        ITEM_SEL="%2Epost-item"                                # .post-item をエンコード
-        TITLE_SEL="a"
-        LINK_SEL="a"
-        
-        # 最新仕様のキー名（itemSelector, titleSelector, linkSelector）でURLを合成
-        API_URL="https://rsshub-latest-soe9.onrender.com/html?url=${TARGET_URL}&itemSelector=${ITEM_SEL}&titleSelector=${TITLE_SEL}&linkSelector=${LINK_SEL}"
-        
-        echo "Fetching from: ${API_URL}"
-        
-        # 5回リトライ、30秒間隔で実行
-        curl -sLf --retry 5 --retry-delay 30 "${API_URL}" -o public/androidjiten.xml
+        pip install beautifulsoup4 feedgen
+
+    - name: Run RSS Generator
+      run: |
+        python generate_rss.py
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4
