@@ -2,7 +2,8 @@ name: Update RSS Feeds
 
 on:
   schedule:
-  - cron: '0 0 * * *'
+    # 毎日 日本時間の午前 2:00（世界標準時 UTC の 17:00）に定期実行
+    - cron: '0 17 * * *'
   workflow_dispatch: # 手動実行用ボタン
 
 permissions:
@@ -21,21 +22,27 @@ jobs:
 
     - name: Fetch RSS from Render RSSHub
       run: |
-        # ==========================================
-        # 【重要】Renderがスリープしている可能性があるため、
-        # 最大5回、30秒間隔でリトライ（--retry）するように設定して
-        # スリープからの復帰（コールドスタート）を確実に待ちます。
-        # ==========================================
+        # ------------------------------------------------------------------
+        # 特殊文字（. や & や スペース）のパースエラーを完全に防ぐため、
+        # 各種パラメータを1つずつ安全にURLエンコードしたURLを組み立てます。
+        # ------------------------------------------------------------------
+        TARGET_URL="https://androidjiten.com/"
+        ITEM_SELECTOR="%2Ecassette"          # .cassette をエンコード (. は %2E)
+        TITLE_SELECTOR="h2"
+        LINK_SELECTOR="h2%20a"               # 半角スペースをエンコード
+        DESC_SELECTOR="%2Edesc"              # .desc をエンコード
         
-        # 例1: 認証キー(ACCESS_KEY)を設定していない場合
-        # アンドロイド事典のカスタムRSS生成
-        mkdir -p public
-        curl -sLf --retry 5 --retry-delay 30 "https://rsshub-latest-soe9.onrender.com/html?url=https://androidjiten.com/\&item=.cassette\&title=h2\&link=a\&description=.desc" -o public/androidjiten.xml
+        # 最終的なリクエストURLを合成
+        API_URL="https://rsshub-latest-soe9.onrender.com/html?url=${TARGET_URL}&item=${ITEM_SELECTOR}&title=${TITLE_SELECTOR}&link=${LINK_SELECTOR}&description=${DESC_SELECTOR}"
         
+        echo "Fetching from: ${API_URL}"
+        
+        # 5回リトライ、30秒間隔で実行
+        curl -sLf --retry 5 --retry-delay 30 "${API_URL}" -o public/androidjiten.xml
+
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
-        # keep_files: false にすることで、毎回古いファイルをリセットし最新のXMLだけをクリーンに配置します
         keep_files: false
