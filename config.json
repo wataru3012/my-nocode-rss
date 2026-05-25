@@ -1,0 +1,18 @@
+[
+  {
+    "title": "アンドロイド事典 すべての記事",
+    "url": "https://androidjiten.com/archives/sitemap",
+    "filename": "androidjiten_all.xml",
+    "item_selector": ".post-item",
+    "title_selector": "a",
+    "link_selector": "a"
+  },
+  {
+    "title": "アンドロイド事典 新着トップ",
+    "url": "https://androidjiten.com/",
+    "filename": "androidjiten_top.xml",
+    "item_selector": ".cassette",
+    "title_selector": ".detail h2 a",
+    "link_selector": ".detail h2 a"
+  }
+]
