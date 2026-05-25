@@ -22,18 +22,18 @@ jobs:
 
     - name: Fetch RSS from Render RSSHub
       run: |
+        mkdir -p public
+        
         # ------------------------------------------------------------------
-        # 特殊文字（. や & や スペース）のパースエラーを完全に防ぐため、
-        # 各種パラメータを1つずつ安全にURLエンコードしたURLを組み立てます。
+        # 「すべての記事一覧（2枚目の画像）」の正確なHTML構造に合わせた設計
         # ------------------------------------------------------------------
-        TARGET_URL="https://androidjiten.com/"
-        ITEM_SELECTOR="%2Ecassette"          # .cassette をエンコード (. は %2E)
-        TITLE_SELECTOR="h2"
-        LINK_SELECTOR="h2%20a"               # 半角スペースをエンコード
-        DESC_SELECTOR="%2Edesc"              # .desc をエンコード
+        TARGET_URL="https://androidjiten.com/archives/sitemap" # ← 実際の記事一覧ページのURLをここに
+        ITEM_SELECTOR="%2Epost-item"                          # .post-item をエンコード
+        TITLE_SELECTOR="a"
+        LINK_SELECTOR="a"
         
         # 最終的なリクエストURLを合成
-        API_URL="https://rsshub-latest-soe9.onrender.com/html?url=${TARGET_URL}&item=${ITEM_SELECTOR}&title=${TITLE_SELECTOR}&link=${LINK_SELECTOR}&description=${DESC_SELECTOR}"
+        API_URL="https://rsshub-latest-soe9.onrender.com/html?url=${TARGET_URL}&item=${ITEM_SELECTOR}&title=${TITLE_SELECTOR}&link=${LINK_SELECTOR}"
         
         echo "Fetching from: ${API_URL}"
         
