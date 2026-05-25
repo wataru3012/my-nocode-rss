@@ -1,36 +1,42 @@
-name: RSS Build
+name: Update RSS Feeds
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
+  - cron: '0 0 * * *'
+  workflow_dispatch: # 手動実行用ボタン
+
+permissions:
+  contents: write # GitHub Pagesへのコミット・プッシュに必要
 
 jobs:
-  build:
+  build_and_deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+    - name: Checkout repository
+      uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
+    - name: Create public directory
+      run: mkdir -p public
 
-      - name: Install
-        run: npm install
+    - name: Fetch RSS from Render RSSHub
+      run: |
+        # ==========================================
+        # 【重要】Renderがスリープしている可能性があるため、
+        # 最大5回、30秒間隔でリトライ（--retry）するように設定して
+        # スリープからの復帰（コールドスタート）を確実に待ちます。
+        # ==========================================
+        
+        # 例1: 認証キー(ACCESS_KEY)を設定していない場合
+        # アンドロイド事典のカスタムRSS生成
+        curl -sLf --retry 5 --retry-delay 30 \
+          "https://your-app-name.onrender.com/general/generic?url=https://androidjiten.com/&item=.cassette&title=.detail%20h2%20a&link=.detail%20h2%20a&description=.desc" \
+          -o public/androidjiten.xml
 
-      - name: Build RSS
-        run: node generate-rss.js
-
-      - name: Deploy
-        uses: cloudflare/pages-action@v1
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: my-nocode-rss
-          directory: ./dist
-      - name: Copy static files
-        run: |
-         mkdir -p dist
-         cp index.html dist/
-         cp config.json dist/
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v4
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
+        # keep_files: false にすることで、毎回古いファイルをリセットし最新のXMLだけをクリーンに配置します
+        keep_files: false
