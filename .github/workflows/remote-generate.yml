@@ -30,7 +30,7 @@ jobs:
         # 例1: 認証キー(ACCESS_KEY)を設定していない場合
         # アンドロイド事典のカスタムRSS生成
         mkdir -p public
-        curl -sLf --retry 5 --retry-delay 30 "https://rsshub-latest-soe9.onrender.com/general/generic?url=https://androidjiten.com/&item=.cassette&title=h2&link=h2%20a&description=.desc" -o public/androidjiten.xml
+        curl -sLf --retry 5 --retry-delay 30 "https://rsshub-latest-soe9.onrender.com/html?url=https://androidjiten.com/&item=.cassette&title=h2&link=h2%20a&description=.desc" -o public/androidjiten.xml
         
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4
