@@ -11,8 +11,8 @@
     "title": "アンドロイド事典 新着トップ",
     "url": "https://androidjiten.com/",
     "filename": "androidjiten_top.xml",
-    "item_selector": ".cassette",
-    "title_selector": ".detail h2 a",
-    "link_selector": ".detail h2 a"
+    "item_selector": "/div/div[3]/main/div/div/div[2]/div/ul/li",
+    "title_selector": "",
+    "link_selector": "./a"
   }
 ]
