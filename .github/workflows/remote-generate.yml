@@ -1,37 +1,28 @@
-name: Update RSS Feeds
+name: Auto RSS Update
 
 on:
   schedule:
-    # 毎日 日本時間の午前 2:00（世界標準時 UTC の 17:00）に定期実行
-    - cron: '0 17 * * *'
-  workflow_dispatch: # 手動実行用ボタン
+    - cron: '0 17 * * *' # 毎日日本時間 深夜2:00
+  workflow_dispatch:
 
 permissions:
-  contents: write # GitHub Pagesへのコミットに必要
+  contents: write
 
 jobs:
-  build_and_deploy:
+  run:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-
-    - name: Set up Python
-      uses: actions/setup-python@v5
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
       with:
         python-version: '3.10'
-
-    - name: Install dependencies
-      run: |
-        pip install beautifulsoup4 feedgen
-
-    - name: Run RSS Generator
-      run: |
-        python generate_rss.py
-
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v4
+        
+    # cloudscraper とその依存ライブラリをまとめてインストール
+    - run: pip install beautifulsoup4 feedgen cloudscraper
+    
+    - run: python generate.py
+    
+    - uses: peaceiris/actions-gh-pages@v4
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
