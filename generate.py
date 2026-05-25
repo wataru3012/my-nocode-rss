@@ -30,7 +30,7 @@ for site in sites:
     fg.description(site['title'])
 
     # 各要素を抽出
-    for item in soup.select(site['item_selector'])[:30]:
+    for item in soup.select(site['item_selector'])[:100]:
         t_el = item.select_one(site['title_selector'])
         l_el = item.select_one(site['link_selector'])
         if t_el and l_el and l_el.get('href'):
