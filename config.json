@@ -1,11 +1,12 @@
 [
   {
-    "title": "格安ガジェットブログ"
+    "title": "格安ガジェットブログ",
     "url": "https://yasugad.hatenablog.com/archive",
     "filename": "yasugad.xml",
     "item_selector": "section.archive-entry",
     "title_selector": "h1.entry-title a",
-    "link_selector": "h1.entry-title a"
+    "link_selector": "h1.entry-title a",
+    "pages": 1
   },
   {
     "title": "SMARTASW",
@@ -13,22 +14,42 @@
     "filename": "smartasw_top.xml",
     "item_selector": "article",
     "title_selector": "h2",
-    "link_selector": "a"
-  }
+    "link_selector": "a",
+    "pages": 3
+  },
   {
     "title": "PC Watch ミニPCニュース",
     "url": "https://pc.watch.impress.co.jp/category/device/",
     "filename": "pc_watch_minipc.xml",
     "item_selector": "li.item",
     "title_selector": "p.title a",
-    "link_selector": "p.title a"
-  }
+    "link_selector": "p.title a",
+    "pages": 3
+  },
   {
     "title": "PC-Freedom",
     "url": "https://pc-freedom.net/",
     "filename": "pc-freedom.xml",
     "item_selector": "article",
     "title_selector": "h2 a",
-    "link_selector": "h2 a"
+    "link_selector": "h2 a",
+    "pages": 3
+  },
+  {
+    "title": "Wintab",
+    "url": "https://win-tab.net/",
+    "filename": "win-tab.xml",
+    "item_selector": "a.entry-card-wrap",
+    "title_selector": "h2.entry-card-title",
+    "link_selector": "a.entry-card-wrap",
+    "pages": 4
+  }
+  {
+   "title": "gadget-nyaa",
+   "url": "https://gadget-nyaa.com/tag/pikup-article/",
+   "filename": "gadget-nyaa.xml",
+   "item_selector": "li.p-postList__item",
+   "title_selector": "h2.p-postList__title",
+   "link_selector": "a.p-postList__link"
   }
 ]
