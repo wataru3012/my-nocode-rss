@@ -6,7 +6,7 @@
     "item_selector": "section.archive-entry",
     "title_selector": "h1.entry-title a",
     "link_selector": "h1.entry-title a",
-    "pages": 1
+    "pages": 4
   },
   {
     "title": "SMARTASW",
