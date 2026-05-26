@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>SMARTASW</title>
+    <link>https://smartasw.com/feed</link>
+    <description>SMARTASW</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Tue, 26 May 2026 15:30:46 +0000</lastBuildDate>
+    <item>
+      <title>Windows11の初期設定でネット接続/Microsoftアカウントへのログインを回避する方法</title>
+      <link>https://smartasw.com/archives/15843</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/15843</guid>
+    </item>
+    <item>
+      <title>Galaxy でカメラのシャッター音を無音にする方法【Android 12対応】</title>
+      <link>https://smartasw.com/archives/15920</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/15920</guid>
+    </item>
+    <item>
+      <title>Beta版を導入したPixel 6 Proをファクトリーイメージで元に戻す方法【Google Flash Tool】</title>
+      <link>https://smartasw.com/archives/15890</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/15890</guid>
+    </item>
+    <item>
+      <title>AndroidとカーナビをBluetooth接続したら自動で音楽を再生する方法</title>
+      <link>https://smartasw.com/archives/16025</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/16025</guid>
+    </item>
+    <item>
+      <title>iPhoneでアラームの”掛け忘れ”を防ぐための自動化方法【ショートカット】</title>
+      <link>https://smartasw.com/archives/16031</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/16031</guid>
+    </item>
+    <item>
+      <title>［2022年前半］買ってよかった/後悔したもの一覧［ガジェット/ツール/家電］</title>
+      <link>https://smartasw.com/archives/16034</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/16034</guid>
+    </item>
+    <item>
+      <title>CarPlay AI Boxでディスプレイオーディオを動画対応・高機能化してみた【実使用感レビュー】</title>
+      <link>https://smartasw.com/archives/16260</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/16260</guid>
+    </item>
+    <item>
+      <title>root不要でXposedを使える「LS Patch」でChMate・Twitterの広告ブロックする方法</title>
+      <link>https://smartasw.com/archives/16398</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/16398</guid>
+    </item>
+    <item>
+      <title>Android版GBoardのデザインや入力音を自由にカスタマイズする方法【root必須】</title>
+      <link>https://smartasw.com/archives/16452</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/16452</guid>
+    </item>
+    <item>
+      <title>ELECOMの超小型SSDレビュー。最大1TB SSDがUSBメモリサイズに</title>
+      <link>https://smartasw.com/archives/16339</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/16339</guid>
+    </item>
+    <item>
+      <title>Androidで「画面上部タップで上までスクロール」を有効化する方法（scrollToTop）</title>
+      <link>https://smartasw.com/archives/16493</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/16493</guid>
+    </item>
+    <item>
+      <title>「楽天ペイ」でFelica非搭載のAndroid端末でもタッチ決済をする方法【VISAタッチ】</title>
+      <link>https://smartasw.com/archives/16548</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/16548</guid>
+    </item>
+    <item>
+      <title>Windows 11で「新しいテキストドキュメント」が見当たらない場合の対処法</title>
+      <link>https://smartasw.com/archives/16927</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/16927</guid>
+    </item>
+    <item>
+      <title>Androidスマホの”電源ボタン長押し”でライトを点灯させる方法【Macrodroid】</title>
+      <link>https://smartasw.com/archives/17016</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/17016</guid>
+    </item>
+    <item>
+      <title>【備忘録】Android関連のカスタマイズメモ（adb/setprop/Magiskなど）</title>
+      <link>https://smartasw.com/archives/15866</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/15866</guid>
+    </item>
+    <item>
+      <title>SDM662搭載のCarPlay AI BOX「UX999」を購入したのでレビュー</title>
+      <link>https://smartasw.com/archives/17054</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/17054</guid>
+    </item>
+    <item>
+      <title>Pixel 7 Proを「MagSafe」に対応させてみた【オススメのステッカー3種類】</title>
+      <link>https://smartasw.com/archives/17153</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/17153</guid>
+    </item>
+    <item>
+      <title>【車内Wi-Fi】車に乗ったらAndroidスマホのテザリングを自動で有効化する方法【Macrodroid】</title>
+      <link>https://smartasw.com/archives/17173</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/17173</guid>
+    </item>
+    <item>
+      <title>UX999 Ultra（APM1688）でAndroidのアップデートを適用する方法【CarPlay AI Box】</title>
+      <link>https://smartasw.com/archives/17402</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/17402</guid>
+    </item>
+    <item>
+      <title>YouTube ReVancedの導入方法+オススメのパッチ一覧【広告削除・高機能化】</title>
+      <link>https://smartasw.com/archives/17311</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/17311</guid>
+    </item>
+    <item>
+      <title>Android端末に「CarPlay」の画面を表示できるUSBアダプタを試す【CarPlay AI Box/iPhone】</title>
+      <link>https://smartasw.com/archives/17480</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/17480</guid>
+    </item>
+    <item>
+      <title>Androidで「長押し」の判定時間を細かく調整する方法【ADB】</title>
+      <link>https://smartasw.com/archives/17448</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/17448</guid>
+    </item>
+    <item>
+      <title>Androidスマホのシャッター音を無音化する方法【Android 14対応】</title>
+      <link>https://smartasw.com/archives/17636</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/17636</guid>
+    </item>
+    <item>
+      <title>国内版Galaxy S23で「電源長押しでアシスタント起動」を有効化する方法【ADBコマンド】</title>
+      <link>https://smartasw.com/archives/17719</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/17719</guid>
+    </item>
+    <item>
+      <title>iPhone/カーナビをBluetooth接続したら音楽を自動再生する方法【iOS26対応】</title>
+      <link>https://smartasw.com/archives/17855</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/17855</guid>
+    </item>
+    <item>
+      <title>Androidタブレットの”電源ボタン長押し”で画面の向きを手動切替する方法</title>
+      <link>https://smartasw.com/archives/17862</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/17862</guid>
+    </item>
+    <item>
+      <title>Legion Y700(2023)にAndroid 13～のGSIを導入する方法 + 不具合の解消</title>
+      <link>https://smartasw.com/archives/17857</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/17857</guid>
+    </item>
+    <item>
+      <title>【Car TV Mate】CarPlayを「HDMI入力」に変換できるアダプタを試してみた</title>
+      <link>https://smartasw.com/archives/18121</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/18121</guid>
+    </item>
+    <item>
+      <title>AirTagの電池を10倍にする特大ケースを試す【Elevation Lab TimeCapsule】</title>
+      <link>https://smartasw.com/archives/18357</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/18357</guid>
+    </item>
+    <item>
+      <title>iPadにキックスタンドを追加できるバックカバーがマジで良い【Black Rock KickStand Cover Case】</title>
+      <link>https://smartasw.com/archives/18664</link>
+      <guid isPermaLink="false">https://smartasw.com/archives/18664</guid>
+    </item>
+  </channel>
+</rss>
