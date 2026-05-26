@@ -68,7 +68,6 @@
     "filename": "gigazine.xml",
     "item_selector": ".card",
     "title_selector": "h2 a span",
-    "link_selector": "h2 a",
-    "pages": 5
+    "link_selector": "h2 a"
   }
 ]
