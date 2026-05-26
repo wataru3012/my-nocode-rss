@@ -6,7 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 May 2026 14:30:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 14:49:47 +0000</lastBuildDate>
     <item>
       <title>Ryzen+メモリ16GB搭載ノートが11万円台に。マウスのAmazonスマイルSALE</title>
       <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2105739.html</link>
@@ -298,14 +298,14 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2111585.html</guid>
     </item>
     <item>
-      <title>ガチくんに! 第419回切り抜き「sakoさんに! こばやんDreamHack優勝/akiki両足骨折など」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2111502.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2111502.html</guid>
-    </item>
-    <item>
       <title>ボールでボールを支える新機構。エレコムのトラックボール「IST PLUS」</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2111526.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2111526.html</guid>
+    </item>
+    <item>
+      <title>ガチくんに! 第419回切り抜き「sakoさんに! こばやんDreamHack優勝/akiki両足骨折など」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2111502.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2111502.html</guid>
     </item>
     <item>
       <title>部屋干しにも便利なサーキュレータが1,640円引きで販売中</title>
