@@ -6,7 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 May 2026 14:52:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 14:57:12 +0000</lastBuildDate>
     <item>
       <title>Ryzen+メモリ16GB搭載ノートが11万円台に。マウスのAmazonスマイルSALE</title>
       <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2105739.html</link>
@@ -163,6 +163,11 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2109407.html</guid>
     </item>
     <item>
+      <title>Core Ultraシリーズ3を搭載した新「Surface Laptop」。画面サイズ3種で展開</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2109986.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2109986.html</guid>
+    </item>
+    <item>
       <title>Core Ultraシリーズ3でAIも対応。新「Surface Pro for Business」登場</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2109995.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2109995.html</guid>
@@ -243,99 +248,9 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/ubiq/2111027.html</guid>
     </item>
     <item>
-      <title>【コラム】曖昧な指示で全部やってくれる。AIエージェントが変えるPCとソフトウェアの新常識</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/ubiq/2109433.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/ubiq/2109433.html</guid>
-    </item>
-    <item>
-      <title>【コラム】単純な積層だけでは、もうDRAMやNANDの容量が拡大しない。次世代メモリの課題</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/semicon/2109345.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/semicon/2109345.html</guid>
-    </item>
-    <item>
-      <title>【コラム】IntelとAMD主導のx86向けAI拡張命令「ACE」、その詳細が判明</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/tidbit/2109099.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/tidbit/2109099.html</guid>
-    </item>
-    <item>
-      <title>Core Ultraシリーズ3を搭載した新「Surface Laptop」。画面サイズ3種で展開</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2109986.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2109986.html</guid>
-    </item>
-    <item>
-      <title>Windows 11、タスクバーが上下左右に配置可能へ。スタートメニュー改善も</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2109715.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2109715.html</guid>
-    </item>
-    <item>
-      <title>ロジクールのハイエンドワイヤレスマウスが3,060円引きでセール中！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2111531.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2111531.html</guid>
-    </item>
-    <item>
-      <title>ハイエンドスマホのGalaxy S26 Ultraが1万2,400円引きでオトク</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2111527.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2111527.html</guid>
-    </item>
-    <item>
       <title>約994gでバッテリ交換式。NECPC「LAVIE NEXTREME」登場</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2111329.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2111329.html</guid>
-    </item>
-    <item>
-      <title>PC価格、1カ月で3割高騰。出荷減でPC市場に本格冬到来</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2111549.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2111549.html</guid>
-    </item>
-    <item>
-      <title>XPPenの12.2型ペン付きAndroidタブレットが約1万千円引き！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2111585.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2111585.html</guid>
-    </item>
-    <item>
-      <title>ガチくんに! 第419回切り抜き「sakoさんに! こばやんDreamHack優勝/akiki両足骨折など」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2111502.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2111502.html</guid>
-    </item>
-    <item>
-      <title>ボールでボールを支える新機構。エレコムのトラックボール「IST PLUS」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2111526.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2111526.html</guid>
-    </item>
-    <item>
-      <title>部屋干しにも便利なサーキュレータが1,640円引きで販売中</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2111592.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2111592.html</guid>
-    </item>
-    <item>
-      <title>リンガーハットの長崎ちゃんぽん12食セットが2,821円オトク！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2111603.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2111603.html</guid>
-    </item>
-    <item>
-      <title>LEOPOLD、3種類の接続方法が選べるホットスワップ対応テンキー</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2111576.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2111576.html</guid>
-    </item>
-    <item>
-      <title>EIZO、大画面/フレームレス化した映像制作向け31.5型4Kモニター</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2111568.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2111568.html</guid>
-    </item>
-    <item>
-      <title>玄人志向、スリムPCにも装着できる約1万円の10GbE拡張カード</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2111709.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2111709.html</guid>
-    </item>
-    <item>
-      <title>SPARKLE、ブロワーファン搭載のIntel Arc Pro B50ビデオカード</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2111713.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2111713.html</guid>
-    </item>
-    <item>
-      <title>Apple、画質そのままにビットレートを3分の1にできるAI画像圧縮「PICO」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2111678.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2111678.html</guid>
     </item>
     <item>
       <title>GMKtec、AIミニPCなどが特価の「7周年記念 感謝還元セール」</title>
