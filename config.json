@@ -64,8 +64,8 @@
   },
   {
     "title": "gigazine",
-    "url": "https://gigazine.net/",
-    "filename": "gigazine.xml",
+    "url": "https://gigazine.net/news/C12/",
+    "filename": "gigazine.xmml",
     "item_selector": ".card",
     "title_selector": "h2 a span",
     "link_selector": "h2 a"
