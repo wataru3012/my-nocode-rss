@@ -61,5 +61,14 @@
     "title_selector": "title",
     "link_selector": "link",
     "pages": 5
+  },
+  {
+    "title": "gigazine",
+    "url": "https://gigazine.net/",
+    "filename": "gigazine.xml",
+    "item_selector": ".card",
+    "title_selector": "h2 a span",
+    "link_selector": "h2 a",
+    "pages": 5
   }
 ]
