@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>gigazine</title>
+    <link>https://gigazine.net/news/C12/</link>
+    <description>gigazine</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Tue, 26 May 2026 19:15:26 +0000</lastBuildDate>
+    <item>
+      <title>無料で「ComfyUI」「Open WebUI」などからローカルAIモデルをGPUで動かすDocker環境を一発で構築し動かし続ける「Puget Systems Docker App Packs」</title>
+      <link>https://gigazine.net/news/20260505-puget-systems-docker-app-packs/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260505-puget-systems-docker-app-packs/</guid>
+    </item>
+    <item>
+      <title>無料でYouTubeなどから動画・音楽をダウンロードできるAndroidアプリ「YTDLnis」、オープンソースで開発され広告やユーザー登録なしで利用可能</title>
+      <link>https://gigazine.net/news/20260505-ytdlnis/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260505-ytdlnis/</guid>
+    </item>
+    <item>
+      <title>無料で高機能な画像編集ソフト「GIMP」のUIをPhotoshopっぽくできる「PhotoGIMP」</title>
+      <link>https://gigazine.net/news/20260505-photogimp/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260505-photogimp/</guid>
+    </item>
+    <item>
+      <title>Siriショートカットを作成できるプログラミング言語「Cherri」</title>
+      <link>https://gigazine.net/news/20260506-cherri/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260506-cherri/</guid>
+    </item>
+    <item>
+      <title>YouTubeやXを見過ぎると猫ちゃんが現れて画面を占領してくるChrome拡張機能「Cat Gatekeeper」</title>
+      <link>https://gigazine.net/news/20260506-cat-gatekeeper/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260506-cat-gatekeeper/</guid>
+    </item>
+    <item>
+      <title>AMD Ryzen AI 7 350シリーズ搭載の超薄型軽量ノート「Acer Swift Air 16」でベンチマーク・バッテリー・熱など計測してみた</title>
+      <link>https://gigazine.net/news/20260506-swift-air-16-benchmark/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260506-swift-air-16-benchmark/</guid>
+    </item>
+    <item>
+      <title>ついにカメラの段差が消えた「Google Pixel 10a」の外観を徹底チェック</title>
+      <link>https://gigazine.net/news/20260506-google-pixel-10a-appearance/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260506-google-pixel-10a-appearance/</guid>
+    </item>
+    <item>
+      <title>リポジトリの同期時間が早く最新のUIと豊富な追加機能を備えたF-Droidクライアント「Neo Store」</title>
+      <link>https://gigazine.net/news/20260507-neo-store/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260507-neo-store/</guid>
+    </item>
+    <item>
+      <title>GWに鳥取砂丘こどもの国へ行ったら遊具もトイレも充実しまくりで財布にも優しい最高の施設だった</title>
+      <link>https://gigazine.net/news/20260508-kodomonokuni-golden-week/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260508-kodomonokuni-golden-week/</guid>
+    </item>
+    <item>
+      <title>無料でNotionやMiroのような自分専用知識データベースを構築できる「AFFiNE」、オープンソースでセルフホスト可能</title>
+      <link>https://gigazine.net/news/20260509-affine/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260509-affine/</guid>
+    </item>
+    <item>
+      <title>カメラの出っ張りゼロで背面フラットな「Google Pixel 10a」の写真撮影性能を検証するべくいろいろ撮影してきました</title>
+      <link>https://gigazine.net/news/20260509-google-pixel-10a-photo-example/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260509-google-pixel-10a-photo-example/</guid>
+    </item>
+    <item>
+      <title>GitHubだけで配布されているAndroid用アプリをF-Droidのようにインストールして管理＆自動更新できる「Obtainium」レビュー</title>
+      <link>https://gigazine.net/news/20260509-obtainium/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260509-obtainium/</guid>
+    </item>
+    <item>
+      <title>茨木市の日本最長の歩行者専用つり橋で3眼カメラドローン「DJI Mavic 4 Pro」空撮レビューしてみた</title>
+      <link>https://gigazine.net/news/20260510-dji-mavic-4-pro-gravitate-osaka/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260510-dji-mavic-4-pro-gravitate-osaka/</guid>
+    </item>
+    <item>
+      <title>AI生成画像の背景を透明化するのに役立つ画像背景削除ツール「Rembg」</title>
+      <link>https://gigazine.net/news/20260510-rembg/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260510-rembg/</guid>
+    </item>
+    <item>
+      <title>手持ちの小型扇風機みたいな見た目の折り畳み小型ドローン「DJI Flip」を飛ばして撮影性能を確かめてみた</title>
+      <link>https://gigazine.net/news/20260510-dji-flip-gravitate-osaka/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260510-dji-flip-gravitate-osaka/</guid>
+    </item>
+    <item>
+      <title>ドローンの空撮映像をリアルタイムでVRゲーム風に表示できるゴーグル型デバイス「DJI Goggles N3」レビュー</title>
+      <link>https://gigazine.net/news/20260510-dji-goggles-n3/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260510-dji-goggles-n3/</guid>
+    </item>
+    <item>
+      <title>Googleの廉価版スマホ「Google Pixel 10a」のベンチマークスコアやバッテリー持続時間を検証してみたよレビュー</title>
+      <link>https://gigazine.net/news/20260510-google-pixel-10a-benchmark-battery/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260510-google-pixel-10a-benchmark-battery/</guid>
+    </item>
+    <item>
+      <title>無料で使えるAndroid用RSSリーダー「Read You」、FreshRSSとの連係も可能</title>
+      <link>https://gigazine.net/news/20260510-read-you/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260510-read-you/</guid>
+    </item>
+    <item>
+      <title>映画『ゼイリブ』の「エイリアンによる支配」を再現する広告ブロッカー「they_live_adblocker」が登場</title>
+      <link>https://gigazine.net/news/20260513-they-live-adblocker/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260513-they-live-adblocker/</guid>
+    </item>
+    <item>
+      <title>自分の「好き」を記録しながら同じ趣味の人とゆるやかにつながりあえるSNS「コレクトピア」で自分の趣味をさくっとコレクションにまとめてみた</title>
+      <link>https://gigazine.net/news/20260515-collectopia/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260515-collectopia/</guid>
+    </item>
+    <item>
+      <title>画像生成AI「FLUX.2」によるアウトペインティングに特化した「FLUX Outpainting」が登場、実際に試してみた</title>
+      <link>https://gigazine.net/news/20260515-flux-outpainting/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260515-flux-outpainting/</guid>
+    </item>
+    <item>
+      <title>アニメ・イラストに強い画像生成AI「Anima」の正式版がついに登場、タグ・自然言語両対応でSDXLやIllustrious系モデルが動作するPCなら余裕でローカル実行可能</title>
+      <link>https://gigazine.net/news/20260515-anima-image-generation-ai/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260515-anima-image-generation-ai/</guid>
+    </item>
+    <item>
+      <title>ファミマで服を買う、出張で忘れ物しても24時間営業で丈夫な服を買えて超便利</title>
+      <link>https://gigazine.net/news/20260515-familymart-conveniencewear-machiasobi30/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260515-familymart-conveniencewear-machiasobi30/</guid>
+    </item>
+    <item>
+      <title>電子書籍を日本語など1000以上の言語で音声読み上げファイルに変換できる「ebook2audiobook」レビュー</title>
+      <link>https://gigazine.net/news/20260516-ebook2audiobook/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260516-ebook2audiobook/</guid>
+    </item>
+    <item>
+      <title>AI生成のドット絵・ピクセルアートをきちんと自動修正する「Sprite Fusion Pixel Snapper」</title>
+      <link>https://gigazine.net/news/20260516-spritefusion-pixel-snapper/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260516-spritefusion-pixel-snapper/</guid>
+    </item>
+    <item>
+      <title>AIモデルでブラウザを自動操作できる「Browser-Use」、オープンソースで開発され自然言語で簡単に指示可能</title>
+      <link>https://gigazine.net/news/20260517-browser-use/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260517-browser-use/</guid>
+    </item>
+    <item>
+      <title>Steam公式ゲームパッド・コントローラー「Steam Controller」実物レビュー、実際に触って使ってみるとこんな感じ</title>
+      <link>https://gigazine.net/news/20260518-steam-controller/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260518-steam-controller/</guid>
+    </item>
+    <item>
+      <title>ブラウザに表示されたボタンをクリックするだけでどんな情報が収集されるのかが分かるゲーム「Click Click Click」</title>
+      <link>https://gigazine.net/news/20260519-click/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260519-click/</guid>
+    </item>
+    <item>
+      <title>「Apple Sports」が日本でも利用可能になったので使ってみた、iPhoneでメジャーリーグやワールドカップの最新情報を確認できるApple公式アプリ</title>
+      <link>https://gigazine.net/news/20260521-apple-sports/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260521-apple-sports/</guid>
+    </item>
+    <item>
+      <title>画像生成AI「FLUX」の開発元が不要物削除ツール「Erase」を発表、無料で使えるデモアプリもあり</title>
+      <link>https://gigazine.net/news/20260522-flux-erase-black-forest-labs/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260522-flux-erase-black-forest-labs/</guid>
+    </item>
+    <item>
+      <title>宇宙船ヘイル・メアリー号の軌跡を星図調査のオープンソースデータを基に描く『プロジェクト・ヘイル・メアリー』の恒星航行図が公開中</title>
+      <link>https://gigazine.net/news/20260522-project-hail-mary-star-map/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260522-project-hail-mary-star-map/</guid>
+    </item>
+    <item>
+      <title>超薄型＆軽量でスマホの裏に貼り付けて充電もできるモバイルバッテリー「SMARTCOBY ULTRA SLIM 3K」レビュー</title>
+      <link>https://gigazine.net/news/20260523-smartcoby-ultra-slim-3k/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260523-smartcoby-ultra-slim-3k/</guid>
+    </item>
+    <item>
+      <title>Android搭載の小型ゲーム機「AYANEO Pocket S Mini」の外観はこんな感じ</title>
+      <link>https://gigazine.net/news/20260523-ayaneo-pocket-s-mini-appearance/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260523-ayaneo-pocket-s-mini-appearance/</guid>
+    </item>
+    <item>
+      <title>無料で簡単にLinuxサーバーのベンチマークができる「Yet-Another-Bench-Script」</title>
+      <link>https://gigazine.net/news/20260523-yet-another-bench-script/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260523-yet-another-bench-script/</guid>
+    </item>
+    <item>
+      <title>Windows XP風デスクトップでWikipediaをエクスプローラーのように探索できる「Wikipedia File Explorer」レビュー</title>
+      <link>https://gigazine.net/news/20260523-wikipedia-file-explorer/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260523-wikipedia-file-explorer/</guid>
+    </item>
+    <item>
+      <title>最高のプログラマーの特性・排水溝にコーヒーを流すべきではないなどAmazonで売上トップ10のGIGAZINE記事ランキング2026年4月版はコレ！</title>
+      <link>https://gigazine.net/news/20260524-gigazine-kindle-ranking-2026-04/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260524-gigazine-kindle-ranking-2026-04/</guid>
+    </item>
+    <item>
+      <title>有線LANポートをStarlinkルーターに増設できるサードパーティー製Starlink Ethernet Adapter Gen2アダプターを実際に使ってみたよレビュー</title>
+      <link>https://gigazine.net/news/20260524-starlink-ethernet-adapter-gen2/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260524-starlink-ethernet-adapter-gen2/</guid>
+    </item>
+    <item>
+      <title>Android搭載小型ゲーム機「AYANEO Pocket S Mini」は重量級ゲームをプレイ可能なのか？フォートナイトとNTEをプレイしてみたよレビュー</title>
+      <link>https://gigazine.net/news/20260524-ayaneo-pocket-s-mini-game-play/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260524-ayaneo-pocket-s-mini-game-play/</guid>
+    </item>
+    <item>
+      <title>マンガや同人誌を集めて読むためのオープンソースアプリ「LANraragi」</title>
+      <link>https://gigazine.net/news/20260524-lanraragi/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260524-lanraragi/</guid>
+    </item>
+    <item>
+      <title>古いアニメをAIで美麗に生まれ変わらせる「Aiarty Video Enhancer」使ってみたレビュー、簡単操作で低解像度の動画を4Kに高画質化</title>
+      <link>https://gigazine.net/news/20260526-aiarty-video-enhancer/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260526-aiarty-video-enhancer/</guid>
+    </item>
+  </channel>
+</rss>

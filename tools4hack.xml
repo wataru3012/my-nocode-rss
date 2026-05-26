@@ -6,12 +6,7 @@
     <description>tools4hack</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 May 2026 16:44:49 +0000</lastBuildDate>
-    <item>
-      <title>なにごと…？！昨日リリースされたばかりの「iOS 18.7.4」＆「iOS 16.7.13」＆「iOS 15.8.6」＆「iOS 12.5.8」のSHSHが発行停止</title>
-      <link>https://tools4hack.santalab.me/wtf-ios1258-ios1586-ios16713-ios1874-shsh-closed.html</link>
-      <guid isPermaLink="false">https://tools4hack.santalab.me/wtf-ios1258-ios1586-ios16713-ios1874-shsh-closed.html</guid>
-    </item>
+    <lastBuildDate>Tue, 26 May 2026 19:15:10 +0000</lastBuildDate>
     <item>
       <title>「iOS 12.5.8」＆「iOS 15.8.6」＆「iOS 18.7.4」のSHSHが発行再開、ただし「iOS 16.7.13」は継続停止中</title>
       <link>https://tools4hack.santalab.me/resigned-ios1258-ios1586-ios1874-but-stop-ios16713-shsh.html</link>
@@ -256,6 +251,11 @@
       <title>A11以下の一部デバイスにてiOS 16.7.16＆17.0～18.7.1の脱獄に対応「Dopamine 2.5 Beta 3」がリリース</title>
       <link>https://tools4hack.santalab.me/release-dopamine-25-beta3-support-jailbreak-ios16716-and-ios17-1871-for-arm64.html</link>
       <guid isPermaLink="false">https://tools4hack.santalab.me/release-dopamine-25-beta3-support-jailbreak-ios16716-and-ios17-1871-for-arm64.html</guid>
+    </item>
+    <item>
+      <title>テスター向けに「iOS 26.6 Beta 1 / iPadOS 26.6 Beta 1」がリリース、新たなベータテストが開始</title>
+      <link>https://tools4hack.santalab.me/ios266-ipados266-beta1-release.html</link>
+      <guid isPermaLink="false">https://tools4hack.santalab.me/ios266-ipados266-beta1-release.html</guid>
     </item>
   </channel>
 </rss>
