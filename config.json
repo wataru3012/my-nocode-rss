@@ -43,13 +43,14 @@
     "title_selector": "h2.entry-card-title",
     "link_selector": "a.entry-card-wrap",
     "pages": 4
-  }
+  },
   {
-   "title": "gadget-nyaa",
-   "url": "https://gadget-nyaa.com/tag/pikup-article/",
-   "filename": "gadget-nyaa.xml",
-   "item_selector": "li.p-postList__item",
-   "title_selector": "h2.p-postList__title",
-   "link_selector": "a.p-postList__link"
+    "title": "gadget-nyaa",
+    "url": "https://gadget-nyaa.com/tag/pikup-article/",
+    "filename": "gadget-nyaa.xml",
+    "item_selector": "li.p-postList__item",
+    "title_selector": "h2.p-postList__title",
+    "link_selector": "a.p-postList__link",
+    "pages": 5
   }
 ]
