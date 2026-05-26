@@ -8,11 +8,11 @@
     "link_selector": "a"
   },
   {
-    "title": "SMART ASW",
+    "title": "SMARTASW",
     "url": "https://smartasw.com/",
     "filename": "smartasw_top.xml",
-    "item_selector": "ul.list-card li.list-item",
-    "title_selector": "h2.list-title",
-    "link_selector": "a.list-link"
+    "item_selector": "article",
+    "title_selector": "h2",
+    "link_selector": "a"
   }
 ]
