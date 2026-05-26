@@ -10,11 +10,11 @@
   },
   {
     "title": "SMARTASW",
-    "url": "https://smartasw.com/",
+    "url": "https://smartasw.com/feed",
     "filename": "smartasw_top.xml",
-    "item_selector": "li.p-postlist_item",
-    "title_selector": "h2.p-postlist__title",
-    "link_selector": "a.p-postlist__link",
+    "item_selector": "item",
+    "title_selector": "title",
+    "link_selector": "link",
     "pages": 3
   },
   {
