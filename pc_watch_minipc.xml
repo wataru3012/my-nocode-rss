@@ -6,7 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 May 2026 14:49:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 14:52:35 +0000</lastBuildDate>
     <item>
       <title>Ryzen+メモリ16GB搭載ノートが11万円台に。マウスのAmazonスマイルSALE</title>
       <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2105739.html</link>
@@ -163,11 +163,6 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2109407.html</guid>
     </item>
     <item>
-      <title>Core Ultraシリーズ3を搭載した新「Surface Laptop」。画面サイズ3種で展開</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2109986.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2109986.html</guid>
-    </item>
-    <item>
       <title>Core Ultraシリーズ3でAIも対応。新「Surface Pro for Business」登場</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2109995.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2109995.html</guid>
@@ -249,28 +244,28 @@
     </item>
     <item>
       <title>【コラム】曖昧な指示で全部やってくれる。AIエージェントが変えるPCとソフトウェアの新常識</title>
-      <link>/docs/column/ubiq/2109433.html</link>
-      <guid isPermaLink="false">/docs/column/ubiq/2109433.html</guid>
+      <link>https://pc.watch.impress.co.jp/docs/column/ubiq/2109433.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/ubiq/2109433.html</guid>
     </item>
     <item>
       <title>【コラム】単純な積層だけでは、もうDRAMやNANDの容量が拡大しない。次世代メモリの課題</title>
-      <link>/docs/column/semicon/2109345.html</link>
-      <guid isPermaLink="false">/docs/column/semicon/2109345.html</guid>
+      <link>https://pc.watch.impress.co.jp/docs/column/semicon/2109345.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/semicon/2109345.html</guid>
     </item>
     <item>
       <title>【コラム】IntelとAMD主導のx86向けAI拡張命令「ACE」、その詳細が判明</title>
-      <link>/docs/column/tidbit/2109099.html</link>
-      <guid isPermaLink="false">/docs/column/tidbit/2109099.html</guid>
+      <link>https://pc.watch.impress.co.jp/docs/column/tidbit/2109099.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/tidbit/2109099.html</guid>
     </item>
     <item>
       <title>Core Ultraシリーズ3を搭載した新「Surface Laptop」。画面サイズ3種で展開</title>
-      <link>/docs/news/2109986.html</link>
-      <guid isPermaLink="false">/docs/news/2109986.html</guid>
+      <link>https://pc.watch.impress.co.jp/docs/news/2109986.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2109986.html</guid>
     </item>
     <item>
       <title>Windows 11、タスクバーが上下左右に配置可能へ。スタートメニュー改善も</title>
-      <link>/docs/news/2109715.html</link>
-      <guid isPermaLink="false">/docs/news/2109715.html</guid>
+      <link>https://pc.watch.impress.co.jp/docs/news/2109715.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2109715.html</guid>
     </item>
     <item>
       <title>ロジクールのハイエンドワイヤレスマウスが3,060円引きでセール中！</title>
@@ -298,14 +293,14 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2111585.html</guid>
     </item>
     <item>
-      <title>ボールでボールを支える新機構。エレコムのトラックボール「IST PLUS」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2111526.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2111526.html</guid>
-    </item>
-    <item>
       <title>ガチくんに! 第419回切り抜き「sakoさんに! こばやんDreamHack優勝/akiki両足骨折など」</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2111502.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2111502.html</guid>
+    </item>
+    <item>
+      <title>ボールでボールを支える新機構。エレコムのトラックボール「IST PLUS」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2111526.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2111526.html</guid>
     </item>
     <item>
       <title>部屋干しにも便利なサーキュレータが1,640円引きで販売中</title>
