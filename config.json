@@ -52,5 +52,14 @@
     "title_selector": "h2.p-postList__title",
     "link_selector": "a.p-postList__link",
     "pages": 5
-  }
+  },
+  {
+  "title": "tools4hack",
+  "url": "https://tools4hack.santalab.me/",
+  "filename": "tools4hack.xml",
+  "item_selector": "a.entry-card-wrap",
+  "title_selector": "h2.entry-card-title",
+  "link_selector": "a.entry-card-wrap", // 💡 ここを「.」から「a.entry-card-wrap」に修正
+  "pages": 5
+}
 ]
