@@ -6,7 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 May 2026 16:24:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 16:44:14 +0000</lastBuildDate>
     <item>
       <title>libavif ー JPEG画像をAVIFに一括変換！画質を落とさずストレージ容量を劇的に節約する</title>
       <link>https://win-tab.net/deskapp/libavif-2605062/</link>
