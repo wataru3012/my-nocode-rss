@@ -12,16 +12,16 @@
     "title": "SMARTASW",
     "url": "https://smartasw.com/",
     "filename": "smartasw_top.xml",
-    "item_selector": "h2.post-title",
-    "title_selector": "a",
-    "link_selector": "a",
+    "item_selector": "li.p-postlist_item",
+    "title_selector": "h2.p-postlist__title",
+    "link_selector": "a.p-postlist__link",
     "pages": 3
   },
   {
     "title": "PC Watch ミニPCニュース",
     "url": "https://pc.watch.impress.co.jp/category/device/",
     "filename": "pc_watch_minipc.xml",
-    "item_selector": "li.item",
+    "item_selector": "div.text",
     "title_selector": "p.title a",
     "link_selector": "p.title a",
     "pages": 3
@@ -30,18 +30,18 @@
     "title": "PC-Freedom",
     "url": "https://pc-freedom.net/",
     "filename": "pc-freedom.xml",
-    "item_selector": "h3.post-title",
-    "title_selector": "a",
-    "link_selector": "a",
+    "item_selector": "div.articleList__item",
+    "title_selector": "div.xw-article-media__body--title",
+    "link_selector": "a.xw-article-media",
     "pages": 3
   },
   {
     "title": "Wintab",
     "url": "https://win-tab.net/",
     "filename": "win-tab.xml",
-    "item_selector": "h2.entry-card-title",
-    "title_selector": "a",
-    "link_selector": "a",
+    "item_selector": "a.entry-card-wrap",
+    "title_selector": "h2.entry-card-title",
+    "link_selector": "a.entry-card-wrap",
     "pages": 4
   },
   {
