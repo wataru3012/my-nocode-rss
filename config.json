@@ -23,4 +23,12 @@
     "title_selector": "p.title a",
     "link_selector": "p.title a"
   }
+  {
+    "title": "PC-Freedom",
+    "url": "https://pc-freedom.net/",
+    "filename": "pc-freedom.xml",
+    "item_selector": "article",
+    "title_selector": "h2 a",
+    "link_selector": "h2 a"
+  }
 ]
