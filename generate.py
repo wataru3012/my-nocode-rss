@@ -26,21 +26,24 @@ for site in sites:
         target_url = site['url']
         
         if page_num > 1:
-            # 💡 404対策：WordPressなどの「/page/2/」形式か、通常の「?page=2」形式かを自動判定
-            if "hatenablog" in site['url'] or "impress" in site['url']:
+            # 💡 404対策：サイトの形式に合わせてページネーションURLを自動分岐
+            if "smartasw.com/feed" in site['url']:
+                # WordPressのRSSフィード過去ログ形式 (?paged=2)
+                target_url = f"{site['url']}?paged={page_num}"
+            elif "hatenablog" in site['url'] or "impress" in site['url']:
                 join_char = '&' if '?' in site['url'] else '?'
                 target_url = f"{site['url']}{join_char}page={page_num}&p={page_num}"
             else:
-                # 末尾のスラッシュを考慮して /page/2/ の形を作る（WordPress標準）
+                # 末尾のスラッシュを考慮して /page/2/ の形を作る（WordPress標準のHTML）
                 base_url = site['url'].rstrip('/')
                 target_url = f"{base_url}/page/{page_num}/"
                 
             print(f"  -> Fetching Page {page_num}: {target_url}")
 
         try:
-            # ⏳ 429対策：連続アクセスを避けるため、2ページ目以降は1.5秒待つ
+            # ⏳ 429対策：連続アクセスを避けるため、2ページ目以降は3.5秒待つ
             if page_num > 1:
-                time.sleep(3.0)
+                time.sleep(3.5)
 
             response = scraper.get(target_url, timeout=15)
             
@@ -52,7 +55,9 @@ for site in sites:
             print(f"   [Page Skip] アクセス失敗: {e}")
             break
 
-        soup = BeautifulSoup(html, 'html.parser')
+        # 💡 RSSフィード(XML)の場合は 'xml' パーサー、通常のHTMLは 'html.parser' を自動切り替え
+        parser_type = 'xml' if "smartasw.com/feed" in site['url'] else 'html.parser'
+        soup = BeautifulSoup(html, parser_type)
         items = soup.select(site['item_selector'])
         
         # 💡 デバッグ用：もし1件も取れなかったら、何が起きているかログを出す
@@ -68,9 +73,16 @@ for site in sites:
             t_el = item.select_one(site['title_selector'])
             l_el = item.select_one(site['link_selector'])
             
-            if t_el and l_el and l_el.get('href'):
-                link_url = l_el.get('href')
+            if t_el and l_el:
+                # 💡 通常のHTMLならhref属性、XMLフィードなら中のテキストからURLを取得
+                if "smartasw.com/feed" in site['url']:
+                    link_url = l_el.get_text(strip=True)
+                else:
+                    link_url = l_el.get('href')
                 
+                if not link_url:
+                    continue
+                    
                 # 相対パス（/entry/xxxなど）だった場合に絶対パスに補完
                 if link_url.startswith('/'):
                     from urllib.parse import urljoin
