@@ -59,7 +59,7 @@
   "filename": "tools4hack.xml",
   "item_selector": "a.entry-card-wrap",
   "title_selector": "h2.entry-card-title",
-  "link_selector": "a.entry-card-wrap", // 💡 ここを「.」から「a.entry-card-wrap」に修正
+  "link_selector": "a.entry-card-wrap", 
   "pages": 5
 }
 ]
