@@ -1,11 +1,11 @@
 [
   {
-    "title": "アンドロイド事典 すべての記事",
-    "url": "https://androidjiten.com/archives/sitemap",
-    "filename": "androidjiten_all.xml",
-    "item_selector": ".post-item",
-    "title_selector": "a",
-    "link_selector": "a"
+    "title": "格安ガジェットブログ"
+    "url": "https://yasugad.hatenablog.com/archive",
+    "filename": "yasugad.xml",
+    "item_selector": "section.archive-entry",
+    "title_selector": "h1.entry-title a",
+    "link_selector": "h1.entry-title a"
   },
   {
     "title": "SMARTASW",
