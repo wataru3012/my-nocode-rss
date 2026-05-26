@@ -22,28 +22,35 @@ for site in sites:
     
     added_links = set()
 
+    # 💡 共通判定：URLの末尾が /feed または /feed/ ならXMLフィードモードとみなす
+    is_xml_feed = site['url'].endswith('/feed') or site['url'].endswith('/feed/')
+
     for page_num in range(1, max_pages + 1):
         target_url = site['url']
         
         if page_num > 1:
             # 💡 404対策：サイトの形式に合わせてページネーションURLを自動分岐
-            if "smartasw.com/feed" in site['url']:
+            if is_xml_feed:
                 # WordPressのRSSフィード過去ログ形式 (?paged=2)
-                target_url = f"{site['url']}?paged={page_num}"
+                join_char = '&' if '?' in site['url'] else '?'
+                target_url = f"{site['url']}{join_char}paged={page_num}"
             elif "hatenablog" in site['url'] or "impress" in site['url']:
+                # はてなブログやインプレス系の過去ログ形式
                 join_char = '&' if '?' in site['url'] else '?'
                 target_url = f"{site['url']}{join_char}page={page_num}&p={page_num}"
             else:
-                # 末尾のスラッシュを考慮して /page/2/ の形を作る（WordPress標準のHTML）
+                # 通常のWordPress等のHTML：末尾のスラッシュを考慮して /page/2/ の形を作る
                 base_url = site['url'].rstrip('/')
                 target_url = f"{base_url}/page/{page_num}/"
                 
             print(f"  -> Fetching Page {page_num}: {target_url}")
 
         try:
-            # ⏳ 429対策：連続アクセスを避けるため、2ページ目以降は3.5秒待つ
+            # ⏳ 429（連続アクセス拒否）対策
             if page_num > 1:
-                time.sleep(3.5)
+                # はてなブログ(規制が厳しい)は5秒、それ以外は3.5秒待機
+                wait_time = 5.0 if "hatenablog" in site['url'] else 3.5
+                time.sleep(wait_time)
 
             response = scraper.get(target_url, timeout=15)
             
@@ -56,7 +63,7 @@ for site in sites:
             break
 
         # 💡 RSSフィード(XML)の場合は 'xml' パーサー、通常のHTMLは 'html.parser' を自動切り替え
-        parser_type = 'xml' if "smartasw.com/feed" in site['url'] else 'html.parser'
+        parser_type = 'xml' if is_xml_feed else 'html.parser'
         soup = BeautifulSoup(html, parser_type)
         items = soup.select(site['item_selector'])
         
@@ -74,8 +81,8 @@ for site in sites:
             l_el = item.select_one(site['link_selector'])
             
             if t_el and l_el:
-                # 💡 通常のHTMLならhref属性、XMLフィードなら中のテキストからURLを取得
-                if "smartasw.com/feed" in site['url']:
+                # 💡 二刀流ロジック：フィードなら中のテキスト、HTMLならhref属性からURLを取得
+                if is_xml_feed:
                     link_url = l_el.get_text(strip=True)
                 else:
                     link_url = l_el.get('href')
