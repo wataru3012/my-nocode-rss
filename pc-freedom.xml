@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>PC-Freedom</title>
+    <link>https://pc-freedom.net/</link>
+    <description>PC-Freedom</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Tue, 26 May 2026 15:14:29 +0000</lastBuildDate>
+    <item>
+      <title>Rhino Linux： Ubuntu ベースのローリングリリース型ディストリビューション</title>
+      <link>https://pc-freedom.net/linux/about-rhino-linux/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/linux/about-rhino-linux/</guid>
+    </item>
+    <item>
+      <title>wattOS： 軽量で省エネルギーな Linux ディストリビューション</title>
+      <link>https://pc-freedom.net/linux/about-wattos/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/linux/about-wattos/</guid>
+    </item>
+    <item>
+      <title>Qubes OS：セキュリティ重視の仮想化ベースLinuxディストリビューション</title>
+      <link>https://pc-freedom.net/linux/about-qubes-os/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/linux/about-qubes-os/</guid>
+    </item>
+    <item>
+      <title>Gentoo Linux：完全カスタマイズ可能なLinuxディストリビューション</title>
+      <link>https://pc-freedom.net/linux/about-gentoo-linux/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/linux/about-gentoo-linux/</guid>
+    </item>
+    <item>
+      <title>Bodhi Linux： 軽量でエレガントな Moksha デスクトップを搭載した Ubuntu ベースのディストリビューション</title>
+      <link>https://pc-freedom.net/linux/about-bodhi-linux/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/linux/about-bodhi-linux/</guid>
+    </item>
+    <item>
+      <title>Haiku： BeOS の後継として進化した軽量で効率的なオープンソース OS</title>
+      <link>https://pc-freedom.net/os/about-haiku-os/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/os/about-haiku-os/</guid>
+    </item>
+    <item>
+      <title>Arch Linux： シンプルで軽量、自由なカスタマイズが可能なローリングリリース型ディストリビューション</title>
+      <link>https://pc-freedom.net/linux/about-arch-linux/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/linux/about-arch-linux/</guid>
+    </item>
+    <item>
+      <title>ReactOS： Windows 互換のオープンソースオペレーティングシステム</title>
+      <link>https://pc-freedom.net/microsoft/windows/about-reactos/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/microsoft/windows/about-reactos/</guid>
+    </item>
+    <item>
+      <title>4MLinux： 軽量で機能豊富な独自系ミニマル Linux ディストリビューション</title>
+      <link>https://pc-freedom.net/linux/about-4mlinux/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/linux/about-4mlinux/</guid>
+    </item>
+    <item>
+      <title>PureOS： プライバシーとセキュリティに重点を置いたオープンソースの Linux ディストリビューション</title>
+      <link>https://pc-freedom.net/linux/about-pureos/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/linux/about-pureos/</guid>
+    </item>
+    <item>
+      <title>BigLinux： ブラジル発の多機能でカスタマイズ性に優れた Linux ディストリビューション</title>
+      <link>https://pc-freedom.net/linux/about-biglinux/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/linux/about-biglinux/</guid>
+    </item>
+    <item>
+      <title>Liya： シンプルで使いやすい Arch ベースのローリングリリース Linux ディストリビューション</title>
+      <link>https://pc-freedom.net/linux/about-liya/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/linux/about-liya/</guid>
+    </item>
+    <item>
+      <title>Artix Linux： システム管理の自由を追求する systemd フリーの Arch ベースディストリビューション</title>
+      <link>https://pc-freedom.net/linux/about-artix-linux/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/linux/about-artix-linux/</guid>
+    </item>
+    <item>
+      <title>RebornOS： カスタマイズ性と柔軟性を重視した Arch Linux ベースのディストリビューション</title>
+      <link>https://pc-freedom.net/linux/about-rebornos/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/linux/about-rebornos/</guid>
+    </item>
+    <item>
+      <title>ALT Linux： ロシア発の安定性とセキュリティに優れた Linux ディストリビューション</title>
+      <link>https://pc-freedom.net/linux/about-alt-linux/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/linux/about-alt-linux/</guid>
+    </item>
+    <item>
+      <title>Linuxfx： Windows に似たユーザー体験を提供する Linux ディストリビューション</title>
+      <link>https://pc-freedom.net/linux/about-linuxfx/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/linux/about-linuxfx/</guid>
+    </item>
+    <item>
+      <title>EuroLinux： 企業向けの安定性とセキュリティを重視したエンタープライズクラスの Linux ディストリビューション</title>
+      <link>https://pc-freedom.net/linux/about-eurolinux/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/linux/about-eurolinux/</guid>
+    </item>
+    <item>
+      <title>Mabox Linux： 高速・軽量・機能的でカスタマイズ性に優れた Manjaro ベースの Linux ディストリビューション</title>
+      <link>https://pc-freedom.net/linux/about-mabox-linux/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/linux/about-mabox-linux/</guid>
+    </item>
+    <item>
+      <title>小さいは正義！ミニ PC の人気の秘訣にせまる！！！BOSGAME P5で体感</title>
+      <link>https://pc-freedom.net/choose-pc/bosgame-p5-uncovers-secret-of-small-is-justice-mini-pc-popularity/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/choose-pc/bosgame-p5-uncovers-secret-of-small-is-justice-mini-pc-popularity/</guid>
+    </item>
+    <item>
+      <title>【実機レビュー】Intehill T10PA｜これ、小さいけれど高解像度のポータブルモニター</title>
+      <link>https://pc-freedom.net/review/intehill-t10pa/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/review/intehill-t10pa/</guid>
+    </item>
+    <item>
+      <title>SSD ってどれを選べばいい？ with ORICO O7000 実機レビュー</title>
+      <link>https://pc-freedom.net/review/ssd-choice-orico-o7000-review/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/review/ssd-choice-orico-o7000-review/</guid>
+    </item>
+    <item>
+      <title>【実機レビュー】モバイルCPUで組む“静かで速い”デスクトップPC｜Minisforum BD795M</title>
+      <link>https://pc-freedom.net/choose-pc/mobile-cpu-desktop-pc-modt-minisforum-bd795m/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/choose-pc/mobile-cpu-desktop-pc-modt-minisforum-bd795m/</guid>
+    </item>
+    <item>
+      <title>手動派だったぼくが、初めて電動を使って気づいたこと。【Tillmulya 48-in-1 電動精密ドライバーセット実機レビュー】</title>
+      <link>https://pc-freedom.net/review/electric-precision-screwdriver-review/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/review/electric-precision-screwdriver-review/</guid>
+    </item>
+    <item>
+      <title>画面が狭い…。もう限界。そんな時にこれ！ビジネス特化のサブモニター｜Gechic M141E【実機レビュー】</title>
+      <link>https://pc-freedom.net/review/gechic-m141e-review/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/review/gechic-m141e-review/</guid>
+    </item>
+    <item>
+      <title>大画面ノートPCって実際どう？AMD Ryzen 7 5700U 搭載 ACEMAGIC AX16 Pro【実機レビュー】</title>
+      <link>https://pc-freedom.net/choose-pc/acemagic-ax16-pro-review/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/choose-pc/acemagic-ax16-pro-review/</guid>
+    </item>
+    <item>
+      <title>+0.5画面ちょいたしモニター｜HAILESI 10.5 インチモバイルモニター【実機レビュー】</title>
+      <link>https://pc-freedom.net/today_pc_story/hailesi-10-5-inch-mobile-monitor-review/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/today_pc_story/hailesi-10-5-inch-mobile-monitor-review/</guid>
+    </item>
+    <item>
+      <title>中華タブレットにSnapdragonの安心を｜CHUWI AuPad 実機レビュー</title>
+      <link>https://pc-freedom.net/today_pc_story/chuwi-aupad-review/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/today_pc_story/chuwi-aupad-review/</guid>
+    </item>
+    <item>
+      <title>8 インチ Android タブレットの最適解はこれ？！｜ALLDOCUBE iPlay 70 mini Ultra 実機レビュー</title>
+      <link>https://pc-freedom.net/review/alldocube-iplay-70-mini-ultra-review/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/review/alldocube-iplay-70-mini-ultra-review/</guid>
+    </item>
+    <item>
+      <title>ThinkPad X1 Yogaから乗り換え？CHUWI FreeBook N150を使ってみた</title>
+      <link>https://pc-freedom.net/choose-pc/chuwi-freebook-n150-review/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/choose-pc/chuwi-freebook-n150-review/</guid>
+    </item>
+    <item>
+      <title>「タッチできるのに反射しない」モバイルモニター現る！Intehill U16ZT 実機レビュー</title>
+      <link>https://pc-freedom.net/review/intehill-u16zt-review/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/review/intehill-u16zt-review/</guid>
+    </item>
+    <item>
+      <title>Linux を使うのにちょうど良いノート PC がほしい | ACEMAGIC TX15 実機レビュー</title>
+      <link>https://pc-freedom.net/today_pc_story/acemagic-tx15-review/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/today_pc_story/acemagic-tx15-review/</guid>
+    </item>
+    <item>
+      <title>Linux を使うのにちょうど良いファンレスミニ PC | HiMeLE Quieter 4C N150 実機レビュー</title>
+      <link>https://pc-freedom.net/today_pc_story/linux-%e3%82%92%e4%bd%bf%e3%81%86%e3%81%ae%e3%81%ab%e3%81%a1%e3%82%87%e3%81%86%e3%81%a9%e8%89%af%e3%81%84%e3%83%95%e3%82%a1%e3%83%b3%e3%83%ac%e3%82%b9%e3%83%9f%e3%83%8b-pc-himele-quieter-4c-n150/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/today_pc_story/linux-%e3%82%92%e4%bd%bf%e3%81%86%e3%81%ae%e3%81%ab%e3%81%a1%e3%82%87%e3%81%86%e3%81%a9%e8%89%af%e3%81%84%e3%83%95%e3%82%a1%e3%83%b3%e3%83%ac%e3%82%b9%e3%83%9f%e3%83%8b-pc-himele-quieter-4c-n150/</guid>
+    </item>
+    <item>
+      <title>BIOS ロックを解除する！マスターパスワード生成サービスを試してみよう</title>
+      <link>https://pc-freedom.net/use-pc/bios-lock-kaijo/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/use-pc/bios-lock-kaijo/</guid>
+    </item>
+    <item>
+      <title>今年こそ Linux 元年！Windows から Linux へ移行する理由</title>
+      <link>https://pc-freedom.net/today_pc_story/why-switch-windows-to-linux/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/today_pc_story/why-switch-windows-to-linux/</guid>
+    </item>
+    <item>
+      <title>FOSMET QS40 | もう Apple Watch に戻れない…「ちょうどいい」スマートウォッチ</title>
+      <link>https://pc-freedom.net/today_pc_story/fosmet-qs40-review/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/today_pc_story/fosmet-qs40-review/</guid>
+    </item>
+    <item>
+      <title>Ubuntu 迷ったら、ここから始めよう！</title>
+      <link>https://pc-freedom.net/linux/about-ubuntu/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/linux/about-ubuntu/</guid>
+    </item>
+  </channel>
+</rss>
