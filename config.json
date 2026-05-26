@@ -37,11 +37,11 @@
   },
   {
     "title": "Wintab",
-    "url": "https://win-tab.net/",
+    "url": "https://win-tab.net/feed",
     "filename": "win-tab.xml",
-    "item_selector": "a.entry-card-wrap",
-    "title_selector": "h2.entry-card-title",
-    "link_selector": "a.entry-card-wrap",
+    "item_selector": "item",
+    "title_selector": "title",
+    "link_selector": "link",
     "pages": 4
   },
   {
@@ -54,12 +54,12 @@
     "pages": 5
   },
   {
-  "title": "tools4hack",
-  "url": "https://tools4hack.santalab.me/",
-  "filename": "tools4hack.xml",
-  "item_selector": "a.entry-card-wrap",
-  "title_selector": "h2.entry-card-title",
-  "link_selector": "a.entry-card-wrap", 
-  "pages": 5
-}
+    "title": "tools4hack",
+    "url": "https://tools4hack.santalab.me/feed",
+    "filename": "tools4hack.xml",
+    "item_selector": "item",
+    "title_selector": "title",
+    "link_selector": "link",
+    "pages": 5
+  }
 ]
