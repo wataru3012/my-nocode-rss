@@ -40,7 +40,7 @@ for site in sites:
         try:
             # ⏳ 429対策：連続アクセスを避けるため、2ページ目以降は1.5秒待つ
             if page_num > 1:
-                time.sleep(1.5)
+                time.sleep(3.0)
 
             response = scraper.get(target_url, timeout=15)
             
