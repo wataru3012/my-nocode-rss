@@ -15,4 +15,12 @@
     "title_selector": "h2",
     "link_selector": "a"
   }
+  {
+    "title": "PC Watch ミニPCニュース",
+    "url": "https://pc.watch.impress.co.jp/category/device/",
+    "filename": "pc_watch_minipc.xml",
+    "item_selector": "li.item",
+    "title_selector": "p.title a",
+    "link_selector": "p.title a"
+  }
 ]
