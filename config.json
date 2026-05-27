@@ -65,9 +65,18 @@
   {
     "title": "gigazine",
     "url": "https://gigazine.net/news/C12/",
-    "filename": "gigazine.xmml",
+    "filename": "gigazine.xml",
     "item_selector": ".card",
     "title_selector": "h2 a span",
     "link_selector": "h2 a"
+  },
+  {
+    "title": "kdroidwin",
+    "url": "https://kdroidwin.hatenablog.com/archive",
+    "filename": "kdroidwin.xml",
+    "item_selector": "section.archive-entry",
+    "title_selector": "h1.entry-title",
+    "link_selector": "a.entry-title-link",
+    "pages": 3
   }
 ]
