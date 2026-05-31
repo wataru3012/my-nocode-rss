@@ -6,22 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 May 2026 18:01:02 +0000</lastBuildDate>
-    <item>
-      <title>YouTubeやXを見過ぎると猫ちゃんが現れて画面を占領してくるChrome拡張機能「Cat Gatekeeper」</title>
-      <link>https://gigazine.net/news/20260506-cat-gatekeeper/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260506-cat-gatekeeper/</guid>
-    </item>
-    <item>
-      <title>AMD Ryzen AI 7 350シリーズ搭載の超薄型軽量ノート「Acer Swift Air 16」でベンチマーク・バッテリー・熱など計測してみた</title>
-      <link>https://gigazine.net/news/20260506-swift-air-16-benchmark/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260506-swift-air-16-benchmark/</guid>
-    </item>
-    <item>
-      <title>ついにカメラの段差が消えた「Google Pixel 10a」の外観を徹底チェック</title>
-      <link>https://gigazine.net/news/20260506-google-pixel-10a-appearance/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260506-google-pixel-10a-appearance/</guid>
-    </item>
+    <lastBuildDate>Sun, 31 May 2026 17:57:22 +0000</lastBuildDate>
     <item>
       <title>リポジトリの同期時間が早く最新のUIと豊富な追加機能を備えたF-Droidクライアント「Neo Store」</title>
       <link>https://gigazine.net/news/20260507-neo-store/</link>
@@ -206,6 +191,21 @@
       <title>ジンバル一体型カメラ「Osmo Pocket 4」の見た目はこんな感じレビュー</title>
       <link>https://gigazine.net/news/20260530-osmo-pocket-4-appearance/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260530-osmo-pocket-4-appearance/</guid>
+    </item>
+    <item>
+      <title>無料でAI透かしを除去できる「Remove-AI-Watermarks」、画像から可視（Gemini）および不可視（SynthID、C2PA、EXIF）のいずれも削除可能</title>
+      <link>https://gigazine.net/news/20260531-remove-ai-watermarks/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260531-remove-ai-watermarks/</guid>
+    </item>
+    <item>
+      <title>無料で分散型グループチャットができる「River」、ゼロから構築し直されたFreenet上に構築され中央サーバーなしで遅延が1秒未満のリアルタイムチャットが可能</title>
+      <link>https://gigazine.net/news/20260531-freenet-river/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260531-freenet-river/</guid>
+    </item>
+    <item>
+      <title>「猫の鳴き声で音を出すピアノ」や「色で奏でる鍵盤楽器」など実在しない楽器ばかりを集めたオンライン博物館「Museum of Imaginary Musical Instruments」を巡ってみた</title>
+      <link>https://gigazine.net/news/20260531-museum-imaginary-musical-instruments/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260531-museum-imaginary-musical-instruments/</guid>
     </item>
   </channel>
 </rss>

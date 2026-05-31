@@ -6,27 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 May 2026 17:59:40 +0000</lastBuildDate>
-    <item>
-      <title>薄・軽・速の新「Amazon Kindle Scribe」。初のカラーモデルも</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2108044.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2108044.html</guid>
-    </item>
-    <item>
-      <title>Gemini搭載ノートPC「Googlebook」登場。AndroidとChromeOSを融合</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2107987.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2107987.html</guid>
-    </item>
-    <item>
-      <title>TSUKUMO、Xeon 600とGeForce RTX 50搭載のプロ向けワークステーション</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2108043.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2108043.html</guid>
-    </item>
-    <item>
-      <title>Ryzen 7 260とGeForce RTX 50シリーズ搭載の18型/16型ゲーミングノート</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2108124.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2108124.html</guid>
-    </item>
+    <lastBuildDate>Sun, 31 May 2026 17:56:13 +0000</lastBuildDate>
     <item>
       <title>ソニー「Xperia 1 VIII」登場。カメラデザイン一新、望遠は大型センサーに</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2107803.html</link>
@@ -248,6 +228,11 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2112877.html</guid>
     </item>
     <item>
+      <title>Ryzen AI 9の高性能ミニPCが4万4千円引き、ビデオカードも増設可</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/special/2112688.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2112688.html</guid>
+    </item>
+    <item>
       <title>【コラム】曖昧な指示で全部やってくれる。AIエージェントが変えるPCとソフトウェアの新常識</title>
       <link>https://pc.watch.impress.co.jp/docs/column/ubiq/2109433.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/ubiq/2109433.html</guid>
@@ -271,31 +256,6 @@
       <title>Windows 11、タスクバーが上下左右に配置可能へ。スタートメニュー改善も</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2109715.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2109715.html</guid>
-    </item>
-    <item>
-      <title>ガチくんに! 第420回切り抜き「ぷげら不在なので、いろんなプレイヤーのイングリッドを見てみる」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2113033.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2113033.html</guid>
-    </item>
-    <item>
-      <title>サンコー、USBで動く電動うちわ。お値段9,980円</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2113031.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2113031.html</guid>
-    </item>
-    <item>
-      <title>プライム会員限定でゴメン。Microsoft 365が18%オフ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2113012.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2113012.html</guid>
-    </item>
-    <item>
-      <title>Core Ultra 7 256V搭載ミニPCが10万円切り。GMKtec K13特価販売中</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2113015.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2113015.html</guid>
-    </item>
-    <item>
-      <title>ベンキュー、集中力を切らさないプログラミング専用27型モニター</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2113051.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2113051.html</guid>
     </item>
     <item>
       <title>モニター余ってない？無料アプリ「World Monitor」を入れるだけで部屋がホワイトベースのブリッジになる件</title>
@@ -346,6 +306,31 @@
       <title>5万円以下、あとは謎。Snapdragon C搭載のAcer製ノートが公開中</title>
       <link>https://pc.watch.impress.co.jp/docs/news/event/2113148.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113148.html</guid>
+    </item>
+    <item>
+      <title>1.19kgの軽量14型ノート「Swift Air 14」、Coreシリーズ3搭載。スナドラノートも</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/event/2113152.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113152.html</guid>
+    </item>
+    <item>
+      <title>Intel Arc G搭載、Acerの8型ゲーム機「Predator Atlas 8」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/event/2113153.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113153.html</guid>
+    </item>
+    <item>
+      <title>メイン画面の下に置ける、Acer横長12.3型補助モニター「PM131QT」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/event/2113154.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113154.html</guid>
+    </item>
+    <item>
+      <title>Acer、960gのCore Ultraシリーズ3搭載14型ノートとAI開発用ミニPC</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/event/2113155.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113155.html</guid>
+    </item>
+    <item>
+      <title>Intel、携帯ゲーム機向け新SoC「Arc G3」。前世代よりも長時間駆動かつ高性能に</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/event/2113176.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113176.html</guid>
     </item>
   </channel>
 </rss>
