@@ -6,52 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 May 2026 17:56:13 +0000</lastBuildDate>
-    <item>
-      <title>ソニー「Xperia 1 VIII」登場。カメラデザイン一新、望遠は大型センサーに</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2107803.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2107803.html</guid>
-    </item>
-    <item>
-      <title>Core Ultraシリーズ3搭載で800g台の14型軽量薄型ノートPC、パソコン工房から</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2108224.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2108224.html</guid>
-    </item>
-    <item>
-      <title>マウス、Core Ultra 7 270K Plus搭載PCなどが最大7万円引きのセール</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2108284.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2108284.html</guid>
-    </item>
-    <item>
-      <title>約700台のVAIOノートが導入。茅野市役所が3つの理由で評価</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2108290.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2108290.html</guid>
-    </item>
-    <item>
-      <title>MSI、Core Ultra 7搭載ポータブルゲーミングPCに新色「Glacier Blue」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2108637.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2108637.html</guid>
-    </item>
-    <item>
-      <title>GeForce RTX 5060も搭載できる15.3型エントリーゲーミングノート「Alienware 15」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2108688.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2108688.html</guid>
-    </item>
-    <item>
-      <title>マウス、幅99mmのスリムデスクトップPC「mouse SH」に白モデル</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2108795.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2108795.html</guid>
-    </item>
-    <item>
-      <title>ゲームとAI開発を両立。GeForce RTX 5090搭載ノート「Razer Blade 18」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2108965.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2108965.html</guid>
-    </item>
-    <item>
-      <title>デル「Alienware 15」。RTX 50搭載でIntel/AMDが選べるゾ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2109007.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2109007.html</guid>
-    </item>
+    <lastBuildDate>Mon, 01 Jun 2026 20:52:23 +0000</lastBuildDate>
     <item>
       <title>GIGABYTE、第13世代Core+RTX 5060のエントリー向けゲーミングノート</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2109026.html</link>
@@ -228,9 +183,34 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2112877.html</guid>
     </item>
     <item>
+      <title>5万円以下、あとは謎。Snapdragon C搭載のAcer製ノートが公開中</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/event/2113148.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113148.html</guid>
+    </item>
+    <item>
       <title>Ryzen AI 9の高性能ミニPCが4万4千円引き、ビデオカードも増設可</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/special/2112688.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2112688.html</guid>
+    </item>
+    <item>
+      <title>1.19kgの軽量14型ノート「Swift Air 14」、Coreシリーズ3搭載。スナドラノートも</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/event/2113152.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113152.html</guid>
+    </item>
+    <item>
+      <title>Intel Arc G搭載、Acerの8型ゲーム機「Predator Atlas 8」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/event/2113153.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113153.html</guid>
+    </item>
+    <item>
+      <title>Acer、960gのCore Ultraシリーズ3搭載14型ノートとAI開発用ミニPC</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/event/2113155.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113155.html</guid>
+    </item>
+    <item>
+      <title>599ドルのMacBook Neoキラー「XPS 13」がDellから登場！1kgで高スペック</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/event/2113104.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113104.html</guid>
     </item>
     <item>
       <title>【コラム】曖昧な指示で全部やってくれる。AIエージェントが変えるPCとソフトウェアの新常識</title>
@@ -258,79 +238,79 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2109715.html</guid>
     </item>
     <item>
-      <title>モニター余ってない？無料アプリ「World Monitor」を入れるだけで部屋がホワイトベースのブリッジになる件</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2113061.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2113061.html</guid>
+      <title>祝MSI 40周年！ゲーミングノートやArc G搭載「Claw 8 EX AI+」一挙発表</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/event/2113214.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113214.html</guid>
     </item>
     <item>
-      <title>起動10秒！ Linuxすら捨てて「ラズパイ」をただの仮想CDドライブに変える変態ベアメタル環境</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2113065.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2113065.html</guid>
+      <title>Intel、新PコアサーバーCPUと、480GBメモリ搭載GPU「Crescent Island」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/event/2113158.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113158.html</guid>
     </item>
     <item>
-      <title>GMKtecのCore Ultra 5 226V搭載ミニPCが約2万9千円オフ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2113128.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2113128.html</guid>
+      <title>Eコア288基のロマン。Intel、Xeon 6+発表。旧世代比性能2.26倍</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/event/2113106.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113106.html</guid>
     </item>
     <item>
-      <title>メモリ16GB版のGeForce RTX 5060 Tiビデオカードが約2万9千円引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2113127.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2113127.html</guid>
+      <title>「Office 2019 for Mac」が“詰み”。7月13日から編集不可に</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2113294.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2113294.html</guid>
     </item>
     <item>
-      <title>120Hz有機ELのレノボ製ノートが約2万5千円オフ。32GBメモリ/1TB SSD搭載</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2113130.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2113130.html</guid>
+      <title>医療現場の事務作業をLLMで支援、商用レベルに迫る特化型AI登場</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2113333.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2113333.html</guid>
     </item>
     <item>
-      <title>キーボードやマウス、ペンなど付属のAndroidタブレットが1万9,999円で購入可能</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2113131.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2113131.html</guid>
+      <title>【速報】NVIDIA、Windows向けCPU「RTX Spark」を13年ぶり投入</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/event/2113317.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113317.html</guid>
     </item>
     <item>
-      <title>180Hz/WQHD表示の27型ゲーミングモニターが約8千円引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2113132.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2113132.html</guid>
+      <title>RTX Spark搭載ノート「Surface Laptop Ultra」見参！120BのLLMも動作</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2113383.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2113383.html</guid>
     </item>
     <item>
-      <title>ファン入り座面で長時間座っても蒸れないオフィスチェア「LiberNovo Omni Pro」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2113129.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2113129.html</guid>
+      <title>120Bモデルが動くNVIDIA「RTX Spark」、中身は「GB10」相当か</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2113403.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2113403.html</guid>
     </item>
     <item>
-      <title>NVIDIA製Windows向けCPUついに登場か。関連3社が意味深な投稿</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2113133.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2113133.html</guid>
+      <title>テクノスピーチ、しぐれういの声を再現するVoiSona Talk向け音声「雨衣」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2113433.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2113433.html</guid>
     </item>
     <item>
-      <title>5万円以下、あとは謎。Snapdragon C搭載のAcer製ノートが公開中</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/event/2113148.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113148.html</guid>
+      <title>実売約20万円、RTX 4050搭載のGIGABYTE製16型ノート「EAGLE」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2113436.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2113436.html</guid>
     </item>
     <item>
-      <title>1.19kgの軽量14型ノート「Swift Air 14」、Coreシリーズ3搭載。スナドラノートも</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/event/2113152.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113152.html</guid>
+      <title>Steam Deck OLEDが日本でも価格改定、1TB版は5万円強の値上げ</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2113431.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2113431.html</guid>
     </item>
     <item>
-      <title>Intel Arc G搭載、Acerの8型ゲーム機「Predator Atlas 8」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/event/2113153.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113153.html</guid>
+      <title>MSI、円偏光技術で目に優しい27型WQHDモニター「PRO MAX 271QPHW E14」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2113470.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2113470.html</guid>
     </item>
     <item>
-      <title>メイン画面の下に置ける、Acer横長12.3型補助モニター「PM131QT」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/event/2113154.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113154.html</guid>
+      <title>MSI、Core Ultra 5とRTX 5060 Ti搭載のエントリー向けゲーミングPC</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2113473.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2113473.html</guid>
     </item>
     <item>
-      <title>Acer、960gのCore Ultraシリーズ3搭載14型ノートとAI開発用ミニPC</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/event/2113155.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113155.html</guid>
+      <title>ASUS、消費電力320Wの18型フラグシップゲーミングノート「ROG Strix SCAR 18」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/event/2113520.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113520.html</guid>
     </item>
     <item>
-      <title>Intel、携帯ゲーム機向け新SoC「Arc G3」。前世代よりも長時間駆動かつ高性能に</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/event/2113176.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113176.html</guid>
+      <title>有機ELになって大画面化した「ROG Xbox Ally X20」登場</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/event/2113529.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113529.html</guid>
     </item>
   </channel>
 </rss>

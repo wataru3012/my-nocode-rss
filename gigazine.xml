@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 May 2026 17:57:22 +0000</lastBuildDate>
-    <item>
-      <title>リポジトリの同期時間が早く最新のUIと豊富な追加機能を備えたF-Droidクライアント「Neo Store」</title>
-      <link>https://gigazine.net/news/20260507-neo-store/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260507-neo-store/</guid>
-    </item>
-    <item>
-      <title>GWに鳥取砂丘こどもの国へ行ったら遊具もトイレも充実しまくりで財布にも優しい最高の施設だった</title>
-      <link>https://gigazine.net/news/20260508-kodomonokuni-golden-week/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260508-kodomonokuni-golden-week/</guid>
-    </item>
+    <lastBuildDate>Mon, 01 Jun 2026 20:53:37 +0000</lastBuildDate>
     <item>
       <title>無料でNotionやMiroのような自分専用知識データベースを構築できる「AFFiNE」、オープンソースでセルフホスト可能</title>
       <link>https://gigazine.net/news/20260509-affine/</link>
@@ -206,6 +196,16 @@
       <title>「猫の鳴き声で音を出すピアノ」や「色で奏でる鍵盤楽器」など実在しない楽器ばかりを集めたオンライン博物館「Museum of Imaginary Musical Instruments」を巡ってみた</title>
       <link>https://gigazine.net/news/20260531-museum-imaginary-musical-instruments/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260531-museum-imaginary-musical-instruments/</guid>
+    </item>
+    <item>
+      <title>無料でiPhone・iPad内で動くターミナルアプリ「a-Shell」を使ってみた、Pythonやyt-dlpなどのCLIツールを実行できてショートカット連携も可能</title>
+      <link>https://gigazine.net/news/20260601-a-shell/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260601-a-shell/</guid>
+    </item>
+    <item>
+      <title>医療従事者向けに作られたAI「OpenEvidence」に長年悩まされている症状について相談してみた</title>
+      <link>https://gigazine.net/news/20260601-openevidence-medical-ai-review/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260601-openevidence-medical-ai-review/</guid>
     </item>
   </channel>
 </rss>

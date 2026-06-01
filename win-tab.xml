@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 May 2026 17:56:31 +0000</lastBuildDate>
-    <item>
-      <title>Lenovo Yoga Slim 7x Gen 11 (14型 Snapdragon) － Snapdragon X2シリーズ搭載、薄型・軽量なCopilot+ PC</title>
-      <link>https://win-tab.net/lenovo/yoga-slim-7x-gen-11-snapdragon-2605121/</link>
-      <guid isPermaLink="false">https://win-tab.net/lenovo/yoga-slim-7x-gen-11-snapdragon-2605121/</guid>
-    </item>
-    <item>
-      <title>AORLYM P13PRO － 13.4インチサイズの大型タブレット、キーボードやマウスなど付属品も充実！</title>
-      <link>https://win-tab.net/android/aorlym-p13pro-2605122/</link>
-      <guid isPermaLink="false">https://win-tab.net/android/aorlym-p13pro-2605122/</guid>
-    </item>
+    <lastBuildDate>Mon, 01 Jun 2026 20:52:45 +0000</lastBuildDate>
     <item>
       <title>UGREEN Airシリーズ ー 容量や出力を確保しつつ、薄型・小型・軽量にこだわった充電機器、今なら28%OFF！</title>
       <link>https://win-tab.net/acc/ugreen-air-series-2605131/</link>
@@ -206,6 +196,16 @@
       <title>Android タブレットとの付き合い方 － Windows PCのサブモニターとして使ってみた</title>
       <link>https://win-tab.net/android/tablet-as-monitor-2605312/</link>
       <guid isPermaLink="false">https://win-tab.net/android/tablet-as-monitor-2605312/</guid>
+    </item>
+    <item>
+      <title>HP OmniBook 3 14-hz － OmniBookシリーズの「バリュークラス」にSnapdragon搭載モデルが追加！</title>
+      <link>https://win-tab.net/hp/omnibook-3-14-hz-2606011/</link>
+      <guid isPermaLink="false">https://win-tab.net/hp/omnibook-3-14-hz-2606011/</guid>
+    </item>
+    <item>
+      <title>13.4インチの大型タブレット、LZF ZPad2がAmazonでセール中、付属品山盛りで29,999円</title>
+      <link>https://win-tab.net/sale/lzf-zpad2-amazon-sale-2606012/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/lzf-zpad2-amazon-sale-2606012/</guid>
     </item>
   </channel>
 </rss>
