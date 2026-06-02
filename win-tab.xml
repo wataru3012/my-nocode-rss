@@ -6,22 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Jun 2026 20:52:45 +0000</lastBuildDate>
-    <item>
-      <title>UGREEN Airシリーズ ー 容量や出力を確保しつつ、薄型・小型・軽量にこだわった充電機器、今なら28%OFF！</title>
-      <link>https://win-tab.net/acc/ugreen-air-series-2605131/</link>
-      <guid isPermaLink="false">https://win-tab.net/acc/ugreen-air-series-2605131/</guid>
-    </item>
-    <item>
-      <title>FOSSiBOT Tab13 － タフネス系が得意なFOSSiBOTが普通の11.5インチタブレットを発売しました。Helio G99搭載</title>
-      <link>https://win-tab.net/android/fossibot-tab13-2605132/</link>
-      <guid isPermaLink="false">https://win-tab.net/android/fossibot-tab13-2605132/</guid>
-    </item>
-    <item>
-      <title>LZF ZPad2 レビュー － 13.4インチの大画面にキーボード・マウスも付属！「これ一台で完結」を目指した大型Androidタブレット</title>
-      <link>https://win-tab.net/android/lzf-zpad2-review-2605141/</link>
-      <guid isPermaLink="false">https://win-tab.net/android/lzf-zpad2-review-2605141/</guid>
-    </item>
+    <lastBuildDate>Tue, 02 Jun 2026 20:00:50 +0000</lastBuildDate>
     <item>
       <title>HP OmniBook 3 14-hy/hw － HPがOmniBookシリーズの「バリュークラス」のモバイルノートを発表</title>
       <link>https://win-tab.net/hp/omnibook-3-14-hy-hw-2605142/</link>
@@ -206,6 +191,21 @@
       <title>13.4インチの大型タブレット、LZF ZPad2がAmazonでセール中、付属品山盛りで29,999円</title>
       <link>https://win-tab.net/sale/lzf-zpad2-amazon-sale-2606012/</link>
       <guid isPermaLink="false">https://win-tab.net/sale/lzf-zpad2-amazon-sale-2606012/</guid>
+    </item>
+    <item>
+      <title>外付けWebカメラを簡易スキャナとして使ってみた － 書類読み取りにはかなり有用</title>
+      <link>https://win-tab.net/opinion/webcam-scan-2606021/</link>
+      <guid isPermaLink="false">https://win-tab.net/opinion/webcam-scan-2606021/</guid>
+    </item>
+    <item>
+      <title>Beelink、Core シリーズ3 (Wildcat Lake)搭載ミニPCの製品ラインナップを発表</title>
+      <link>https://win-tab.net/imported/beelink-wildcat-lake-2606022/</link>
+      <guid isPermaLink="false">https://win-tab.net/imported/beelink-wildcat-lake-2606022/</guid>
+    </item>
+    <item>
+      <title>Blackview MEGA 5 － 12.2インチ (3:2)ディスプレイ搭載、キーボード・マウス・ペンが全部入りの上位モデル</title>
+      <link>https://win-tab.net/android/blackview-mega-5-2606031/</link>
+      <guid isPermaLink="false">https://win-tab.net/android/blackview-mega-5-2606031/</guid>
     </item>
   </channel>
 </rss>

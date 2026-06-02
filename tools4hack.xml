@@ -6,12 +6,7 @@
     <description>tools4hack</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Jun 2026 20:53:20 +0000</lastBuildDate>
-    <item>
-      <title>「iOS 12.5.8」＆「iOS 15.8.6」＆「iOS 18.7.4」のSHSHが発行再開、ただし「iOS 16.7.13」は継続停止中</title>
-      <link>https://tools4hack.santalab.me/resigned-ios1258-ios1586-ios1874-but-stop-ios16713-shsh.html</link>
-      <guid isPermaLink="false">https://tools4hack.santalab.me/resigned-ios1258-ios1586-ios1874-but-stop-ios16713-shsh.html</guid>
-    </item>
+    <lastBuildDate>Tue, 02 Jun 2026 20:01:26 +0000</lastBuildDate>
     <item>
       <title>【注意】OTA無効化プロファイル「tvOS 26 Beta」へ切り替えを！tvOS 18 Betaプロファイルは期限切れで自動削除に</title>
       <link>https://tools4hack.santalab.me/warning-noota-tvos18-profile-expired-and-delete-switch-new-tvos26-profile.html</link>
@@ -256,6 +251,11 @@
       <title>テスター向けに「iOS 26.6 Beta 1 / iPadOS 26.6 Beta 1」がリリース、新たなベータテストが開始</title>
       <link>https://tools4hack.santalab.me/ios266-ipados266-beta1-release.html</link>
       <guid isPermaLink="false">https://tools4hack.santalab.me/ios266-ipados266-beta1-release.html</guid>
+    </item>
+    <item>
+      <title>iPhone 17シリーズ＆iPhone Air限定で「iOS 26.5.1」がリリース、バッテリー切れ時にUSB-Cでの充電不可問題を修正</title>
+      <link>https://tools4hack.santalab.me/ios2651-release.html</link>
+      <guid isPermaLink="false">https://tools4hack.santalab.me/ios2651-release.html</guid>
     </item>
   </channel>
 </rss>
