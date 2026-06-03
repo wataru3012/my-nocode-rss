@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 20:00:50 +0000</lastBuildDate>
-    <item>
-      <title>HP OmniBook 3 14-hy/hw － HPがOmniBookシリーズの「バリュークラス」のモバイルノートを発表</title>
-      <link>https://win-tab.net/hp/omnibook-3-14-hy-hw-2605142/</link>
-      <guid isPermaLink="false">https://win-tab.net/hp/omnibook-3-14-hy-hw-2605142/</guid>
-    </item>
-    <item>
-      <title>HP OmniBook 3 16-by/bw/bz － 16インチのバリュー・ノート、AMD版とSnapdragon版を選べます</title>
-      <link>https://win-tab.net/hp/hp-omnibook-3-16-by-bw-bz-2605151/</link>
-      <guid isPermaLink="false">https://win-tab.net/hp/hp-omnibook-3-16-by-bw-bz-2605151/</guid>
-    </item>
+    <lastBuildDate>Wed, 03 Jun 2026 20:14:14 +0000</lastBuildDate>
     <item>
       <title>Lenovo ThinkPad X13 Gen 7 (13型 Intel) － 13.3インチで重さ1キロを切る超軽量モバイルノート、CPUが新しくなりました</title>
       <link>https://win-tab.net/lenovo/thinkpad-x13-gen-7-intel-2605152/</link>
@@ -206,6 +196,16 @@
       <title>Blackview MEGA 5 － 12.2インチ (3:2)ディスプレイ搭載、キーボード・マウス・ペンが全部入りの上位モデル</title>
       <link>https://win-tab.net/android/blackview-mega-5-2606031/</link>
       <guid isPermaLink="false">https://win-tab.net/android/blackview-mega-5-2606031/</guid>
+    </item>
+    <item>
+      <title>Lenovo ThinkPad P14s Gen 7 － 高性能モバイルワークステーション、Intel版とAMD版は「名前が同じだけの別製品」です</title>
+      <link>https://win-tab.net/lenovo/thinkpad-p14s-gen-7-2606032/</link>
+      <guid isPermaLink="false">https://win-tab.net/lenovo/thinkpad-p14s-gen-7-2606032/</guid>
+    </item>
+    <item>
+      <title>Helio G99搭載の11インチタブレット「LZF ZPad3」が楽天スーパーSALEでお買い得に、LINEクーポン獲得で17,999円！</title>
+      <link>https://win-tab.net/sale/lzf-zpad3-sale-2606033/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/lzf-zpad3-sale-2606033/</guid>
     </item>
   </channel>
 </rss>
