@@ -6,12 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Jun 2026 20:15:05 +0000</lastBuildDate>
-    <item>
-      <title>無料でNotionやMiroのような自分専用知識データベースを構築できる「AFFiNE」、オープンソースでセルフホスト可能</title>
-      <link>https://gigazine.net/news/20260509-affine/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260509-affine/</guid>
-    </item>
+    <lastBuildDate>Thu, 04 Jun 2026 19:17:43 +0000</lastBuildDate>
     <item>
       <title>カメラの出っ張りゼロで背面フラットな「Google Pixel 10a」の写真撮影性能を検証するべくいろいろ撮影してきました</title>
       <link>https://gigazine.net/news/20260509-google-pixel-10a-photo-example/</link>
@@ -206,6 +201,11 @@
       <title>医療従事者向けに作られたAI「OpenEvidence」に長年悩まされている症状について相談してみた</title>
       <link>https://gigazine.net/news/20260601-openevidence-medical-ai-review/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260601-openevidence-medical-ai-review/</guid>
+    </item>
+    <item>
+      <title>ハイパー埼玉ギャル・春日部つむぎがデスクトップを盛り上げてくれる「Desktop Mate DLC『春日部つむぎ』」レビュー</title>
+      <link>https://gigazine.net/news/20260604-desktop-mate-tsumugi-dlc/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260604-desktop-mate-tsumugi-dlc/</guid>
     </item>
   </channel>
 </rss>

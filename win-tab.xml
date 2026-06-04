@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Jun 2026 20:14:14 +0000</lastBuildDate>
-    <item>
-      <title>Lenovo ThinkPad X13 Gen 7 (13型 Intel) － 13.3インチで重さ1キロを切る超軽量モバイルノート、CPUが新しくなりました</title>
-      <link>https://win-tab.net/lenovo/thinkpad-x13-gen-7-intel-2605152/</link>
-      <guid isPermaLink="false">https://win-tab.net/lenovo/thinkpad-x13-gen-7-intel-2605152/</guid>
-    </item>
-    <item>
-      <title>Lenovo ThinkPad T14s 2-in-1 Gen 2 (14型 Intel) － 高精度なペン入力ができる2-in-1タイプのThinkPad</title>
-      <link>https://win-tab.net/lenovo/thinkpad-t14s-2-in-1-gen-2-intel-2605161/</link>
-      <guid isPermaLink="false">https://win-tab.net/lenovo/thinkpad-t14s-2-in-1-gen-2-intel-2605161/</guid>
-    </item>
+    <lastBuildDate>Thu, 04 Jun 2026 19:16:52 +0000</lastBuildDate>
     <item>
       <title>Lenovo ThinkPad T14 Gen 7 / T16 Gen 5 － 3種類のCPUを選べる！ワイドバリエーションなThinkPad 2026年モデル</title>
       <link>https://win-tab.net/lenovo/thinkpad-t14-gen-7-t16-gen-5-intel-2605031/</link>
@@ -206,6 +196,16 @@
       <title>Helio G99搭載の11インチタブレット「LZF ZPad3」が楽天スーパーSALEでお買い得に、LINEクーポン獲得で17,999円！</title>
       <link>https://win-tab.net/sale/lzf-zpad3-sale-2606033/</link>
       <guid isPermaLink="false">https://win-tab.net/sale/lzf-zpad3-sale-2606033/</guid>
+    </item>
+    <item>
+      <title>HP OmniBook 7/5/3シリーズ比較（2026）－ 迷ったらどれ？HPのメインストリーム3シリーズ、用途別に最適なモデルを考える</title>
+      <link>https://win-tab.net/hp/omnibook-7-5-3-comparison-2026/</link>
+      <guid isPermaLink="false">https://win-tab.net/hp/omnibook-7-5-3-comparison-2026/</guid>
+    </item>
+    <item>
+      <title>楽天スーパーSALEでALLDOCUBEのタブレットが安い！実機レビュー済みタブレットのおすすめセール品をご紹介</title>
+      <link>https://win-tab.net/sale/alldocube-rakuten-sale-2606042/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/alldocube-rakuten-sale-2606042/</guid>
     </item>
   </channel>
 </rss>

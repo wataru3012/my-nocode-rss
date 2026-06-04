@@ -6,12 +6,7 @@
     <description>kdroidwin</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Jun 2026 20:15:07 +0000</lastBuildDate>
-    <item>
-      <title>ここ最近の重大 ニュース ビックテックによるサードパーティ製ツール規制の動き まとめ</title>
-      <link>https://kdroidwin.hatenablog.com/entry/2025/11/07/185359</link>
-      <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2025/11/07/185359</guid>
-    </item>
+    <lastBuildDate>Thu, 04 Jun 2026 19:17:45 +0000</lastBuildDate>
     <item>
       <title>個人的におすすめする MusicBeeの設定</title>
       <link>https://kdroidwin.hatenablog.com/entry/2025/11/08/162702</link>
@@ -456,6 +451,11 @@
       <title>AppleがApple Musicの無料(または低価格)のプランに取り組んでいる可能性</title>
       <link>https://kdroidwin.hatenablog.com/entry/2026/05/30/155933</link>
       <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2026/05/30/155933</guid>
+    </item>
+    <item>
+      <title>Chrome 151 Manifest V2拡張が有効化できないことが判明　Chome151以降はuBlock Origin非対応に</title>
+      <link>https://kdroidwin.hatenablog.com/entry/2026/06/04/185610</link>
+      <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2026/06/04/185610</guid>
     </item>
   </channel>
 </rss>
