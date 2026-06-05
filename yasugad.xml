@@ -6,12 +6,7 @@
     <description>格安ガジェットブログ</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Jun 2026 19:16:06 +0000</lastBuildDate>
-    <item>
-      <title>REALFORCEをルブしてみた</title>
-      <link>https://yasugad.hatenablog.com/entry/2025/09/12/190000</link>
-      <guid isPermaLink="false">https://yasugad.hatenablog.com/entry/2025/09/12/190000</guid>
-    </item>
+    <lastBuildDate>Fri, 05 Jun 2026 18:55:51 +0000</lastBuildDate>
     <item>
       <title>このブログについてのあれこれ</title>
       <link>https://yasugad.hatenablog.com/entry/2025/09/15/190000</link>
@@ -606,6 +601,11 @@
       <title>Xiaomi 17T Proがもう発売 流石に早すぎやしませんかね</title>
       <link>https://yasugad.hatenablog.com/entry/2026/06/02/190000</link>
       <guid isPermaLink="false">https://yasugad.hatenablog.com/entry/2026/06/02/190000</guid>
+    </item>
+    <item>
+      <title>現在のモバイルバッテリーの中身 リチウムイオンとナトリウムイオンの違いについて解説</title>
+      <link>https://yasugad.hatenablog.com/entry/2026/06/05/190000</link>
+      <guid isPermaLink="false">https://yasugad.hatenablog.com/entry/2026/06/05/190000</guid>
     </item>
   </channel>
 </rss>
