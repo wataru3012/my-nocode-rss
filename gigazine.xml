@@ -6,32 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 18:57:35 +0000</lastBuildDate>
-    <item>
-      <title>GitHubだけで配布されているAndroid用アプリをF-Droidのようにインストールして管理＆自動更新できる「Obtainium」レビュー</title>
-      <link>https://gigazine.net/news/20260509-obtainium/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260509-obtainium/</guid>
-    </item>
-    <item>
-      <title>茨木市の日本最長の歩行者専用つり橋で3眼カメラドローン「DJI Mavic 4 Pro」空撮レビューしてみた</title>
-      <link>https://gigazine.net/news/20260510-dji-mavic-4-pro-gravitate-osaka/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260510-dji-mavic-4-pro-gravitate-osaka/</guid>
-    </item>
-    <item>
-      <title>AI生成画像の背景を透明化するのに役立つ画像背景削除ツール「Rembg」</title>
-      <link>https://gigazine.net/news/20260510-rembg/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260510-rembg/</guid>
-    </item>
-    <item>
-      <title>手持ちの小型扇風機みたいな見た目の折り畳み小型ドローン「DJI Flip」を飛ばして撮影性能を確かめてみた</title>
-      <link>https://gigazine.net/news/20260510-dji-flip-gravitate-osaka/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260510-dji-flip-gravitate-osaka/</guid>
-    </item>
-    <item>
-      <title>ドローンの空撮映像をリアルタイムでVRゲーム風に表示できるゴーグル型デバイス「DJI Goggles N3」レビュー</title>
-      <link>https://gigazine.net/news/20260510-dji-goggles-n3/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260510-dji-goggles-n3/</guid>
-    </item>
+    <lastBuildDate>Sat, 06 Jun 2026 18:02:58 +0000</lastBuildDate>
     <item>
       <title>Googleの廉価版スマホ「Google Pixel 10a」のベンチマークスコアやバッテリー持続時間を検証してみたよレビュー</title>
       <link>https://gigazine.net/news/20260510-google-pixel-10a-benchmark-battery/</link>
@@ -206,6 +181,31 @@
       <title>無料でiPhone・iPadから直接YouTubeの動画をダウンロードして保存できる「SW-DLT」、YouTubeアプリから数タップでダウンロード可能</title>
       <link>https://gigazine.net/news/20260605-sw-dlt-youtube-download/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260605-sw-dlt-youtube-download/</guid>
+    </item>
+    <item>
+      <title>AIになりきって他人の質問に回答できるチャットボット「Your AI Slop Bores Me」</title>
+      <link>https://gigazine.net/news/20260606-your-ai-slop-bores-me/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260606-your-ai-slop-bores-me/</guid>
+    </item>
+    <item>
+      <title>音割れをリアルタイム防止＆USB接続でプロ品質の音声収録を&gt;簡単に実現できるElgatoの高性能マイク「Wave:3 MK.2」レビュー</title>
+      <link>https://gigazine.net/news/20260606-elgato-wave-3-mk-2/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260606-elgato-wave-3-mk-2/</guid>
+    </item>
+    <item>
+      <title>無料で自分のPCで動かせるローカルAIモデルがわかる「LLM Checker」</title>
+      <link>https://gigazine.net/news/20260606-llm-checker/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260606-llm-checker/</guid>
+    </item>
+    <item>
+      <title>モバイルルーター「Beryl 7」上でAdGuardを動かしあらゆるアプリで広告ブロック＆スマホをつないでUSBテザリングなどさまざまな機能を試してみたよレビュー</title>
+      <link>https://gigazine.net/news/20260606-beryl-7-adguard/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260606-beryl-7-adguard/</guid>
+    </item>
+    <item>
+      <title>無料でファイル・メモ共有ができ日本語化済みの「SkySend」、有効期限や最大ダウンロード数で自動削除設定でき、エンドツーエンド暗号化をサポートしてオープンソースでセルフホスト可能</title>
+      <link>https://gigazine.net/news/20260606-skysend/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260606-skysend/</guid>
     </item>
   </channel>
 </rss>

@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 18:56:43 +0000</lastBuildDate>
-    <item>
-      <title>Lenovo ThinkPad L14 Gen 7 (14型 Intel) / L16 Gen 3 (16型 Intel) － Core Ultra シリーズ3搭載のCopilot+ PC、ただし法人向けの色合いが強い？</title>
-      <link>https://win-tab.net/lenovo/thinkpad-l14-gen-7-l16-gen-3-2605181/</link>
-      <guid isPermaLink="false">https://win-tab.net/lenovo/thinkpad-l14-gen-7-l16-gen-3-2605181/</guid>
-    </item>
-    <item>
-      <title>Blackview ROCK 5 － 20,000 mAhバッテリーに138dB爆音スピーカー、明るいライトもついた、アウトドアで頼りになるタフネススマホ</title>
-      <link>https://win-tab.net/android/blackview-rock-5-2605182/</link>
-      <guid isPermaLink="false">https://win-tab.net/android/blackview-rock-5-2605182/</guid>
-    </item>
+    <lastBuildDate>Sat, 06 Jun 2026 18:02:05 +0000</lastBuildDate>
     <item>
       <title>HP OmniBook 3 17-df － Panther Lake搭載の17.3インチ大画面ノート、持ち運びを想定しないならこのサイズが最高！</title>
       <link>https://win-tab.net/hp/omnibook-3-17-df-2605191/</link>
@@ -206,6 +196,16 @@
       <title>HP セール情報 － 発売直後の17.3インチ大画面ノートがセール対象に！人気の超軽量ノートPCも大幅割引</title>
       <link>https://win-tab.net/sale/hp-sale-2606062/</link>
       <guid isPermaLink="false">https://win-tab.net/sale/hp-sale-2606062/</guid>
+    </item>
+    <item>
+      <title>Lenovo セール情報 － 夏のボーナス直前セールがスタート、Ryzen AI 400搭載のCopilot+ PCが11万円台から！</title>
+      <link>https://win-tab.net/sale/lenovo-sale-2606061/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/lenovo-sale-2606061/</guid>
+    </item>
+    <item>
+      <title>Lenovo LOQ 15AHP11(15.3型 AMD) － GeForce RTX5070も搭載可能なゲーミングノート、もはやLOQはエントリーブランドではない？</title>
+      <link>https://win-tab.net/lenovo/loq-15ahp11-amd-2606062/</link>
+      <guid isPermaLink="false">https://win-tab.net/lenovo/loq-15ahp11-amd-2606062/</guid>
     </item>
   </channel>
 </rss>
