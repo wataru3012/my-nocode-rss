@@ -6,22 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Jun 2026 18:02:58 +0000</lastBuildDate>
-    <item>
-      <title>Googleの廉価版スマホ「Google Pixel 10a」のベンチマークスコアやバッテリー持続時間を検証してみたよレビュー</title>
-      <link>https://gigazine.net/news/20260510-google-pixel-10a-benchmark-battery/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260510-google-pixel-10a-benchmark-battery/</guid>
-    </item>
-    <item>
-      <title>無料で使えるAndroid用RSSリーダー「Read You」、FreshRSSとの連係も可能</title>
-      <link>https://gigazine.net/news/20260510-read-you/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260510-read-you/</guid>
-    </item>
-    <item>
-      <title>映画『ゼイリブ』の「エイリアンによる支配」を再現する広告ブロッカー「they_live_adblocker」が登場</title>
-      <link>https://gigazine.net/news/20260513-they-live-adblocker/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260513-they-live-adblocker/</guid>
-    </item>
+    <lastBuildDate>Sun, 07 Jun 2026 18:01:31 +0000</lastBuildDate>
     <item>
       <title>自分の「好き」を記録しながら同じ趣味の人とゆるやかにつながりあえるSNS「コレクトピア」で自分の趣味をさくっとコレクションにまとめてみた</title>
       <link>https://gigazine.net/news/20260515-collectopia/</link>
@@ -188,7 +173,7 @@
       <guid isPermaLink="false">https://gigazine.net/news/20260606-your-ai-slop-bores-me/</guid>
     </item>
     <item>
-      <title>音割れをリアルタイム防止＆USB接続でプロ品質の音声収録を&gt;簡単に実現できるElgatoの高性能マイク「Wave:3 MK.2」レビュー</title>
+      <title>音割れをリアルタイム防止＆USB接続でプロ品質の音声収録を簡単に実現できるElgatoの高性能マイク「Wave:3 MK.2」レビュー</title>
       <link>https://gigazine.net/news/20260606-elgato-wave-3-mk-2/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260606-elgato-wave-3-mk-2/</guid>
     </item>
@@ -206,6 +191,21 @@
       <title>無料でファイル・メモ共有ができ日本語化済みの「SkySend」、有効期限や最大ダウンロード数で自動削除設定でき、エンドツーエンド暗号化をサポートしてオープンソースでセルフホスト可能</title>
       <link>https://gigazine.net/news/20260606-skysend/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260606-skysend/</guid>
+    </item>
+    <item>
+      <title>無料でタイムボックスと時間追跡が使える高度なToDoリストアプリ「Super Productivity」、セルフホスト可能でカレンダー・Jira・GitHubなどからタスクをインポート可能</title>
+      <link>https://gigazine.net/news/20260607-super-productivity/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260607-super-productivity/</guid>
+    </item>
+    <item>
+      <title>ダイヤル1つのシンプルデザインでXLRマイクに対応するElgatoのコンパクトなオーディオインターフェース「Wave XLR MK.2」を使ってみた</title>
+      <link>https://gigazine.net/news/20260607-elgato-wave-xlr-mk2/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260607-elgato-wave-xlr-mk2/</guid>
+    </item>
+    <item>
+      <title>声を指定して好きなセリフを喋らせられるローカルAI「Irodori-TTS」のV3が出たので使ってみた、音声の長さを指定可能で絵文字感情制御も簡単に</title>
+      <link>https://gigazine.net/news/20260607-irodori-tts-v3/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260607-irodori-tts-v3/</guid>
     </item>
   </channel>
 </rss>

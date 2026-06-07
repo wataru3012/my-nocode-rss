@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Jun 2026 18:02:05 +0000</lastBuildDate>
-    <item>
-      <title>HP OmniBook 3 17-df － Panther Lake搭載の17.3インチ大画面ノート、持ち運びを想定しないならこのサイズが最高！</title>
-      <link>https://win-tab.net/hp/omnibook-3-17-df-2605191/</link>
-      <guid isPermaLink="false">https://win-tab.net/hp/omnibook-3-17-df-2605191/</guid>
-    </item>
-    <item>
-      <title>Lenovo IdeaPad Slim 5x Gen 11 / 5x 2-in-1 Gen 11 － Snapdragon X2 Plus搭載のARM版Windowsモバイルノート＆2-in-1</title>
-      <link>https://win-tab.net/lenovo/ideapad-slim-5x-gen-11-2604131/</link>
-      <guid isPermaLink="false">https://win-tab.net/lenovo/ideapad-slim-5x-gen-11-2604131/</guid>
-    </item>
+    <lastBuildDate>Sun, 07 Jun 2026 18:00:38 +0000</lastBuildDate>
     <item>
       <title>HP OmniBook Ultra と Xシリーズ比較（2026） － 上位モデル5機種を比較・「選ぶポイント」を解説！</title>
       <link>https://win-tab.net/hp/omnibook-ultra-x-comparison-2026/</link>
@@ -206,6 +196,16 @@
       <title>Lenovo LOQ 15AHP11(15.3型 AMD) － GeForce RTX5070も搭載可能なゲーミングノート、もはやLOQはエントリーブランドではない？</title>
       <link>https://win-tab.net/lenovo/loq-15ahp11-amd-2606062/</link>
       <guid isPermaLink="false">https://win-tab.net/lenovo/loq-15ahp11-amd-2606062/</guid>
+    </item>
+    <item>
+      <title>BeelinkがストレージPC (NAS ミニPC)のME ProシリーズにRyzen AI 9など高性能CPU搭載のモデルを追加！</title>
+      <link>https://win-tab.net/imported/beelink-me-pro-new-2606071/</link>
+      <guid isPermaLink="false">https://win-tab.net/imported/beelink-me-pro-new-2606071/</guid>
+    </item>
+    <item>
+      <title>Lenovo ThinkPad P16s Gen 5 － 16インチのモバイルワークステーション、最新CPUとBlackwell世代のRTX PROを搭載、メモリはCAMM2</title>
+      <link>https://win-tab.net/lenovo/thinkpad-p16s-gen-5-2606072/</link>
+      <guid isPermaLink="false">https://win-tab.net/lenovo/thinkpad-p16s-gen-5-2606072/</guid>
     </item>
   </channel>
 </rss>
