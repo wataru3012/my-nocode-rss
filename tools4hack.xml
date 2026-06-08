@@ -6,17 +6,7 @@
     <description>tools4hack</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Jun 2026 18:01:15 +0000</lastBuildDate>
-    <item>
-      <title>【注意】OTA無効化プロファイル「tvOS 26 Beta」へ切り替えを！tvOS 18 Betaプロファイルは期限切れで自動削除に</title>
-      <link>https://tools4hack.santalab.me/warning-noota-tvos18-profile-expired-and-delete-switch-new-tvos26-profile.html</link>
-      <guid isPermaLink="false">https://tools4hack.santalab.me/warning-noota-tvos18-profile-expired-and-delete-switch-new-tvos26-profile.html</guid>
-    </item>
-    <item>
-      <title>iOS 16.xでサポート終了デバイス向けに「iOS 16.7.14」＆「iPadOS 16.7.14」がリリース、重要なバグを修正</title>
-      <link>https://tools4hack.santalab.me/ios16714-ipados16714-release.html</link>
-      <guid isPermaLink="false">https://tools4hack.santalab.me/ios16714-ipados16714-release.html</guid>
-    </item>
+    <lastBuildDate>Mon, 08 Jun 2026 19:17:54 +0000</lastBuildDate>
     <item>
       <title>「iOS 26.2」＆「iOS 18.7.3」＆「iOS 16.7.12」＆「iOS 15.8.5」＆「iOS 12.5.7」のSHSHが発行終了</title>
       <link>https://tools4hack.santalab.me/ios262-ios1873-ios16712-ios1585-ios1257-shsh-closed.html</link>
@@ -256,6 +246,16 @@
       <title>iPhone 17シリーズ＆iPhone Air限定で「iOS 26.5.1」がリリース、バッテリー切れ時にUSB-Cでの充電不可問題を修正</title>
       <link>https://tools4hack.santalab.me/ios2651-release.html</link>
       <guid isPermaLink="false">https://tools4hack.santalab.me/ios2651-release.html</guid>
+    </item>
+    <item>
+      <title>今年もあと数時間で「WWDC 2026」の開幕だよッ!! これまでのWWDCで発表された主な内容総おさらい！</title>
+      <link>https://tools4hack.santalab.me/upcoming-wwdc2026-wwdc-07-25-history.html</link>
+      <guid isPermaLink="false">https://tools4hack.santalab.me/upcoming-wwdc2026-wwdc-07-25-history.html</guid>
+    </item>
+    <item>
+      <title>テスター向けに「iOS 27.0 Beta 1」＆「iPadOS 27.0 Beta 1」がリリース！次期メジャーアップデートのテストが開始</title>
+      <link>https://tools4hack.santalab.me/ios270-ipados270-beta1-release.html</link>
+      <guid isPermaLink="false">https://tools4hack.santalab.me/ios270-ipados270-beta1-release.html</guid>
     </item>
   </channel>
 </rss>

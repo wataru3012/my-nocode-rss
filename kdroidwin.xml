@@ -6,17 +6,7 @@
     <description>kdroidwin</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Jun 2026 18:01:33 +0000</lastBuildDate>
-    <item>
-      <title>個人的におすすめする MusicBeeの設定</title>
-      <link>https://kdroidwin.hatenablog.com/entry/2025/11/08/162702</link>
-      <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2025/11/08/162702</guid>
-    </item>
-    <item>
-      <title>Siganal , Session , Simple X Chat の比較</title>
-      <link>https://kdroidwin.hatenablog.com/entry/2025/11/09/104731</link>
-      <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2025/11/09/104731</guid>
-    </item>
+    <lastBuildDate>Mon, 08 Jun 2026 19:18:12 +0000</lastBuildDate>
     <item>
       <title>Google、Androidの新しいサイドローディング制限を緩和へ！ ADBなしでも可能に</title>
       <link>https://kdroidwin.hatenablog.com/entry/2025/11/13/200504</link>
@@ -318,11 +308,6 @@
       <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2026/04/13/144344</guid>
     </item>
     <item>
-      <title>はてなブログ　の表記がおかしくなっている人へ　対策</title>
-      <link>https://kdroidwin.hatenablog.com/entry/2026/04/26/180912</link>
-      <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2026/04/26/180912</guid>
-    </item>
-    <item>
       <title>Braveに“コンテナタブ”実装の動き　Chromium系の常識を揺るがすレベルの機能</title>
       <link>https://kdroidwin.hatenablog.com/entry/2026/04/27/205108</link>
       <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2026/04/27/205108</guid>
@@ -456,6 +441,21 @@
       <title>Chrome 151 Manifest V2拡張が有効化できないことが判明　Chome151以降はuBlock Origin非対応に</title>
       <link>https://kdroidwin.hatenablog.com/entry/2026/06/04/185610</link>
       <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2026/06/04/185610</guid>
+    </item>
+    <item>
+      <title>SlimBrave Neo       Braveブラウザをデブロートし、強化</title>
+      <link>https://kdroidwin.hatenablog.com/entry/2026/06/08/214841</link>
+      <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2026/06/08/214841</guid>
+    </item>
+    <item>
+      <title>ente paste     Pastebin のプライバシー重視場</title>
+      <link>https://kdroidwin.hatenablog.com/entry/2026/06/08/223915</link>
+      <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2026/06/08/223915</guid>
+    </item>
+    <item>
+      <title>英国首相、子供がスマートフォンやタブレットで裸体画像を撮影・送受信・閲覧することを不可能にする技術的対策を講じるよう求める</title>
+      <link>https://kdroidwin.hatenablog.com/entry/2026/06/08/230807</link>
+      <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2026/06/08/230807</guid>
     </item>
   </channel>
 </rss>
