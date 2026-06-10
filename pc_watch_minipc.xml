@@ -6,7 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jun 2026 19:10:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 19:30:03 +0000</lastBuildDate>
     <item>
       <title>ゲーム機/タブレット/ノートスタイルで使えるRyzen搭載「OneXPlayer X1 Pro」発売</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2112464.html</link>
@@ -223,6 +223,26 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2115307.html</guid>
     </item>
     <item>
+      <title>「構図ミスったわ～」をAIで救済。Apple Intelligenceの新機能</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2115492.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2115492.html</guid>
+    </item>
+    <item>
+      <title>AIだけじゃない。iOS 27はアプリ起動高速化やカスタマイズ強化も</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2115493.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2115493.html</guid>
+    </item>
+    <item>
+      <title>駿河屋、ライブ配信向けマザー採用のGeForce RTX 5070 Ti搭載ゲーミングPC</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2115669.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2115669.html</guid>
+    </item>
+    <item>
+      <title>パソコン工房、対象PC購入で最大3万円分相当を還元する「超 ボーナス還元祭」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2115690.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2115690.html</guid>
+    </item>
+    <item>
       <title>競合比40%高速で消費電力は半分。「Intel Arc G3」が示す圧倒的な自信</title>
       <link>https://pc.watch.impress.co.jp/docs/news/event/2113962.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113962.html</guid>
@@ -248,94 +268,84 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2114427.html</guid>
     </item>
     <item>
-      <title>Apple、次世代「Siri AI」を発表。画面認識や複数デバイス間の会話引継ぎに対応</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2115477.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2115477.html</guid>
+      <title>ノイキャン&amp;DSP内蔵の配信者向けマイク「Razer Seiren V3 Pro」USB/XLR対応</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2115700.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2115700.html</guid>
     </item>
     <item>
-      <title>「構図ミスったわ～」をAIで救済。Apple Intelligenceの新機能</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2115492.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2115492.html</guid>
+      <title>NotebookLM大幅進化。WordやExcel、PowerPointで出力可能に</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2115907.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2115907.html</guid>
     </item>
     <item>
-      <title>エレコム、自作PCにも後付けできるWindows Hello対応USB指紋リーダー</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2115324.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2115324.html</guid>
+      <title>AI同時通訳対応「Gemini 3.5 Live Translate」公開。Google翻訳アプリでも可能</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2115868.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2115868.html</guid>
     </item>
     <item>
-      <title>Google AI Plusが月額725円に値下げ。ストレージは倍増</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2115523.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2115523.html</guid>
+      <title>200件超の脆弱性を修正したWindows 11 6月度パッチ。動作の高速化も</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2115935.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2115935.html</guid>
     </item>
     <item>
-      <title>AIだけじゃない。iOS 27はアプリ起動高速化やカスタマイズ強化も</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2115493.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2115493.html</guid>
+      <title>無音/無振動でPCを冷やすイオン冷却技術、ASUSとVentivaが提携</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2116000.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116000.html</guid>
     </item>
     <item>
-      <title>macOS 27 Golden Gate発表！ついにIntel CPU非対応に</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2115531.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2115531.html</guid>
+      <title>PowerToys v0.100.0公開。コマンドパレットの拡張機能が管理しやすく</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2116014.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116014.html</guid>
     </item>
     <item>
-      <title>NVIDIAとSK hynix、次世代メモリ開発/供給で提携。AIデータセンター向け</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2115543.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2115543.html</guid>
+      <title>Keychron、天然木×薄型磁気スイッチ搭載キーボード「K3 HE」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2116020.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116020.html</guid>
     </item>
     <item>
-      <title>OpenAIが上場へ前進。IPO届出書を提出</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2115590.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2115590.html</guid>
+      <title>巨大ビデオカードは自重でゆがむ？PCワンズが注意喚起</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/yajiuma/2116037.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/yajiuma/2116037.html</guid>
     </item>
     <item>
-      <title>膨張バッテリもすんなり捨てられたよ。ありがとう環境省</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2115667.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2115667.html</guid>
+      <title>アイ・オー、FPSに好適な240Hz駆動の23.8型フルHDゲーミングモニター</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2116063.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116063.html</guid>
     </item>
     <item>
-      <title>駿河屋、ライブ配信向けマザー採用のGeForce RTX 5070 Ti搭載ゲーミングPC</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2115669.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2115669.html</guid>
+      <title>アイ・オー、10Gbpsポート2基搭載のトライバンドWi-Fi 7ルーター</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2116071.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116071.html</guid>
     </item>
     <item>
-      <title>Bauhutte、強化ガラスでデバイスを飾れる150cm幅の昇降デスク天板</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2115682.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2115682.html</guid>
+      <title>【独占】解き放たれた「Mythos 5」。開発者が語る“覚醒”の舞台裏</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2116108.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116108.html</guid>
     </item>
     <item>
-      <title>握って直感操作、5,680円のペン型ワイヤレスマウス。サンワサプライから</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2115686.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2115686.html</guid>
+      <title>レノボの12型Androidタブレットが約1万1千円引き！3万円台に</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2115840.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2115840.html</guid>
     </item>
     <item>
-      <title>パソコン工房、対象PC購入で最大3万円分相当を還元する「超 ボーナス還元祭」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2115690.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2115690.html</guid>
+      <title>レグザの65型4K液晶TVが約2万円オトク！</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2115862.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2115862.html</guid>
     </item>
     <item>
-      <title>Ryzen 9 8945HS搭載ミニPCのベアボーンが約1万9千円オフ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2115466.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2115466.html</guid>
+      <title>BOSEのノイキャン対応ワイヤレスヘッドフォンが8,100円引きで販売中</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2115883.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2115883.html</guid>
     </item>
     <item>
-      <title>32GBメモリ/1TB SSD搭載のデル製ノートが1万5千円引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2115468.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2115468.html</guid>
+      <title>部屋干しのお供に！シャープの除湿機が2,300円引きで販売中</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2115908.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2115908.html</guid>
     </item>
     <item>
-      <title>モトローラの折り畳み式Androidスマホが約1万円オフ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2115474.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2115474.html</guid>
-    </item>
-    <item>
-      <title>エレコムのCat.8 LANケーブルがセールに。40Gbps対応</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2115478.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2115478.html</guid>
-    </item>
-    <item>
-      <title>160g入り！カルビーの大容量ポテトチップス×12袋セットがお買い得。じゃがりこも値引きに</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2115487.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2115487.html</guid>
+      <title>歯に優しいキシリトールガムボトルの2個セットがオトク！ロッテも割引価格で販売中</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2115925.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2115925.html</guid>
     </item>
   </channel>
 </rss>
