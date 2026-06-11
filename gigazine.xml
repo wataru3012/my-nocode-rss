@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Jun 2026 19:31:12 +0000</lastBuildDate>
-    <item>
-      <title>自分の「好き」を記録しながら同じ趣味の人とゆるやかにつながりあえるSNS「コレクトピア」で自分の趣味をさくっとコレクションにまとめてみた</title>
-      <link>https://gigazine.net/news/20260515-collectopia/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260515-collectopia/</guid>
-    </item>
-    <item>
-      <title>画像生成AI「FLUX.2」によるアウトペインティングに特化した「FLUX Outpainting」が登場、実際に試してみた</title>
-      <link>https://gigazine.net/news/20260515-flux-outpainting/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260515-flux-outpainting/</guid>
-    </item>
+    <lastBuildDate>Thu, 11 Jun 2026 19:30:50 +0000</lastBuildDate>
     <item>
       <title>アニメ・イラストに強い画像生成AI「Anima」の正式版がついに登場、タグ・自然言語両対応でSDXLやIllustrious系モデルが動作するPCなら余裕でローカル実行可能</title>
       <link>https://gigazine.net/news/20260515-anima-image-generation-ai/</link>
@@ -206,6 +196,16 @@
       <title>声を指定して好きなセリフを喋らせられるローカルAI「Irodori-TTS」のV3が出たので使ってみた、音声の長さを指定可能で絵文字感情制御も簡単に</title>
       <link>https://gigazine.net/news/20260607-irodori-tts-v3/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260607-irodori-tts-v3/</guid>
+    </item>
+    <item>
+      <title>超コンパクト＆超軽量のロジクール初の折りたたみワイヤレスマウス「Mobi Fold」レビュー</title>
+      <link>https://gigazine.net/news/20260611-logicool-mobi-fold/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260611-logicool-mobi-fold/</guid>
+    </item>
+    <item>
+      <title>デザインが一新されたソニーのフラッグシップスマホ「Xperia 1 VIII」外観レビュー、黄金のOREテクスチャはどんな手触りなのか？</title>
+      <link>https://gigazine.net/news/20260611-sony-xperia-1-viii-appearance/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260611-sony-xperia-1-viii-appearance/</guid>
     </item>
   </channel>
 </rss>
