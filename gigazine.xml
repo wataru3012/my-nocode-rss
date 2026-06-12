@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jun 2026 19:30:50 +0000</lastBuildDate>
-    <item>
-      <title>アニメ・イラストに強い画像生成AI「Anima」の正式版がついに登場、タグ・自然言語両対応でSDXLやIllustrious系モデルが動作するPCなら余裕でローカル実行可能</title>
-      <link>https://gigazine.net/news/20260515-anima-image-generation-ai/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260515-anima-image-generation-ai/</guid>
-    </item>
-    <item>
-      <title>ファミマで服を買う、出張で忘れ物しても24時間営業で丈夫な服を買えて超便利</title>
-      <link>https://gigazine.net/news/20260515-familymart-conveniencewear-machiasobi30/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260515-familymart-conveniencewear-machiasobi30/</guid>
-    </item>
+    <lastBuildDate>Fri, 12 Jun 2026 19:01:27 +0000</lastBuildDate>
     <item>
       <title>電子書籍を日本語など1000以上の言語で音声読み上げファイルに変換できる「ebook2audiobook」レビュー</title>
       <link>https://gigazine.net/news/20260516-ebook2audiobook/</link>
@@ -206,6 +196,16 @@
       <title>デザインが一新されたソニーのフラッグシップスマホ「Xperia 1 VIII」外観レビュー、黄金のOREテクスチャはどんな手触りなのか？</title>
       <link>https://gigazine.net/news/20260611-sony-xperia-1-viii-appearance/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260611-sony-xperia-1-viii-appearance/</guid>
+    </item>
+    <item>
+      <title>iPhoneにApp Storeで配布されていないアプリをインストールできるようにする代替アプリストア「AltStore PAL」の導入手順はこんな感じ</title>
+      <link>https://gigazine.net/news/20260612-altstore-pal/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260612-altstore-pal/</guid>
+    </item>
+    <item>
+      <title>Snapdragon 8 Elite Gen 5を搭載する「Xperia 1 VIII」のベンチマーク結果まとめ、ソニー・Xperiaシリーズのフラッグシップモデルの性能はどれほどか？</title>
+      <link>https://gigazine.net/news/20260612-sony-xperia-1-viii-benchmark/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260612-sony-xperia-1-viii-benchmark/</guid>
     </item>
   </channel>
 </rss>

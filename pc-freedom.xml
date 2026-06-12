@@ -6,7 +6,7 @@
     <description>PC-Freedom</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jun 2026 19:29:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 19:00:21 +0000</lastBuildDate>
     <item>
       <title>Rhino Linux： Ubuntu ベースのローリングリリース型ディストリビューション</title>
       <link>https://pc-freedom.net/linux/about-rhino-linux/</link>
@@ -128,11 +128,6 @@
       <guid isPermaLink="false">https://pc-freedom.net/review/gechic-m141e-review/</guid>
     </item>
     <item>
-      <title>大画面ノートPCって実際どう？AMD Ryzen 7 5700U 搭載 ACEMAGIC AX16 Pro【実機レビュー】</title>
-      <link>https://pc-freedom.net/choose-pc/acemagic-ax16-pro-review/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/choose-pc/acemagic-ax16-pro-review/</guid>
-    </item>
-    <item>
       <title>+0.5画面ちょいたしモニター｜HAILESI 10.5 インチモバイルモニター【実機レビュー】</title>
       <link>https://pc-freedom.net/today_pc_story/hailesi-10-5-inch-mobile-monitor-review/</link>
       <guid isPermaLink="false">https://pc-freedom.net/today_pc_story/hailesi-10-5-inch-mobile-monitor-review/</guid>
@@ -186,6 +181,11 @@
       <title>Ubuntu 迷ったら、ここから始めよう！</title>
       <link>https://pc-freedom.net/linux/about-ubuntu/</link>
       <guid isPermaLink="false">https://pc-freedom.net/linux/about-ubuntu/</guid>
+    </item>
+    <item>
+      <title>なぜ無料で使えるのか？オープンソースOSという不思議な世界｜世界のOS入門＃0</title>
+      <link>https://pc-freedom.net/basic/open-source-os-introduction/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/basic/open-source-os-introduction/</guid>
     </item>
   </channel>
 </rss>
