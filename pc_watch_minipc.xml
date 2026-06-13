@@ -6,12 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jun 2026 19:00:11 +0000</lastBuildDate>
-    <item>
-      <title>599ドルのMacBook Neoキラー「XPS 13」がDellから登場！1kgで高スペック</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/event/2113104.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113104.html</guid>
-    </item>
+    <lastBuildDate>Sat, 13 Jun 2026 18:03:56 +0000</lastBuildDate>
     <item>
       <title>祝MSI 40周年！ゲーミングノートやArc G搭載「Claw 8 EX AI+」一挙発表</title>
       <link>https://pc.watch.impress.co.jp/docs/news/event/2113214.html</link>
@@ -256,6 +251,11 @@
       <title>半固体バッテリ採用の10.1型2in1、FRONTIERから発売</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2116763.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116763.html</guid>
+    </item>
+    <item>
+      <title>「MacBook Neo」は買いか？9.9万円の衝撃と20万円台「M5 Air」との埋められない差</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2116775.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2116775.html</guid>
     </item>
   </channel>
 </rss>

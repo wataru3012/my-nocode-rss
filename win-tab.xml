@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jun 2026 19:00:32 +0000</lastBuildDate>
-    <item>
-      <title>Lenovo IdeaPad Pro 5a Gen 11 (AMD) － 「IdeaPad」のイメージを覆すプレミアム・Copilot+ PC</title>
-      <link>https://win-tab.net/lenovo/ideapad-pro-5a-gen-11-amd-2605242/</link>
-      <guid isPermaLink="false">https://win-tab.net/lenovo/ideapad-pro-5a-gen-11-amd-2605242/</guid>
-    </item>
-    <item>
-      <title>Blackview Wave 10C レビュー － 1万円台で買える低価格スマホを1週間メイン機として使ってみた</title>
-      <link>https://win-tab.net/android/blackview-wave-10c-review-2605251/</link>
-      <guid isPermaLink="false">https://win-tab.net/android/blackview-wave-10c-review-2605251/</guid>
-    </item>
+    <lastBuildDate>Sat, 13 Jun 2026 18:04:13 +0000</lastBuildDate>
     <item>
       <title>ThinkPad Eシリーズ比較（2026）－ 全機種Copilot+ PCに！価格も手ごろなスタンダードThinkPadの選び方</title>
       <link>https://win-tab.net/lenovo/thinkpad-e-series-comparison-2026/</link>
@@ -206,6 +196,16 @@
       <title>HP セール情報 － 最新CPUよりお買い得！実用性とコスパで今あえて狙いたい定番・人気のOmniBook</title>
       <link>https://win-tab.net/sale/hp-sale-2606122/</link>
       <guid isPermaLink="false">https://win-tab.net/sale/hp-sale-2606122/</guid>
+    </item>
+    <item>
+      <title>Lenovo セール情報 － あえて狙いたいRyzen AI 300シリーズ搭載ThinkPad T14 Gen 6。Yoga Slim 7a Gen 11は今週も格安！</title>
+      <link>https://win-tab.net/sale/lenovo-sale-2606131/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/lenovo-sale-2606131/</guid>
+    </item>
+    <item>
+      <title>ScreenDock － ミニディスプレイがついたドッキングステーション、USB PDにも対応</title>
+      <link>https://win-tab.net/acc/screendock-2606132/</link>
+      <guid isPermaLink="false">https://win-tab.net/acc/screendock-2606132/</guid>
     </item>
   </channel>
 </rss>
