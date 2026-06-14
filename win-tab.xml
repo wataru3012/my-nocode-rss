@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 18:04:13 +0000</lastBuildDate>
-    <item>
-      <title>ThinkPad Eシリーズ比較（2026）－ 全機種Copilot+ PCに！価格も手ごろなスタンダードThinkPadの選び方</title>
-      <link>https://win-tab.net/lenovo/thinkpad-e-series-comparison-2026/</link>
-      <guid isPermaLink="false">https://win-tab.net/lenovo/thinkpad-e-series-comparison-2026/</guid>
-    </item>
-    <item>
-      <title>ASUS Chromebook CM32 Detachable (CM3206) － 性能が大幅にアップし、一回り大きくなったデタッチャブルタイプのChromebook 2-in-1</title>
-      <link>https://win-tab.net/asus/chromebook-cm32-detachable-2605261/</link>
-      <guid isPermaLink="false">https://win-tab.net/asus/chromebook-cm32-detachable-2605261/</guid>
-    </item>
+    <lastBuildDate>Sun, 14 Jun 2026 18:09:05 +0000</lastBuildDate>
     <item>
       <title>Lenovo ThinkPad T14s Gen 7 － Core Ultraシリーズ3 / Ryzen AI 400シリーズ搭載のモバイルノート、新色「ブルー」も選べます</title>
       <link>https://win-tab.net/lenovo/thinkpad-t14s-gen-7-intel-2605032/</link>
@@ -206,6 +196,16 @@
       <title>ScreenDock － ミニディスプレイがついたドッキングステーション、USB PDにも対応</title>
       <link>https://win-tab.net/acc/screendock-2606132/</link>
       <guid isPermaLink="false">https://win-tab.net/acc/screendock-2606132/</guid>
+    </item>
+    <item>
+      <title>UGREENの薄型・小型・軽量なモバイル充電機器がセール中、読者クーポンもあります！</title>
+      <link>https://win-tab.net/sale/ugreen-amazon-sale-2606141/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/ugreen-amazon-sale-2606141/</guid>
+    </item>
+    <item>
+      <title>FRONTIER FRT300P － 先進の半固体バッテリーを搭載するデタッチャブル2-in-1、でも外観はちょっとレトロ</title>
+      <link>https://win-tab.net/others/frontier-frt300p-2606142/</link>
+      <guid isPermaLink="false">https://win-tab.net/others/frontier-frt300p-2606142/</guid>
     </item>
   </channel>
 </rss>

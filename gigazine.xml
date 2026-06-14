@@ -6,22 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 18:05:06 +0000</lastBuildDate>
-    <item>
-      <title>ブラウザに表示されたボタンをクリックするだけでどんな情報が収集されるのかが分かるゲーム「Click Click Click」</title>
-      <link>https://gigazine.net/news/20260519-click/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260519-click/</guid>
-    </item>
-    <item>
-      <title>「Apple Sports」が日本でも利用可能になったので使ってみた、iPhoneでメジャーリーグやワールドカップの最新情報を確認できるApple公式アプリ</title>
-      <link>https://gigazine.net/news/20260521-apple-sports/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260521-apple-sports/</guid>
-    </item>
-    <item>
-      <title>画像生成AI「FLUX」の開発元が不要物削除ツール「Erase」を発表、無料で使えるデモアプリもあり</title>
-      <link>https://gigazine.net/news/20260522-flux-erase-black-forest-labs/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260522-flux-erase-black-forest-labs/</guid>
-    </item>
+    <lastBuildDate>Sun, 14 Jun 2026 18:10:01 +0000</lastBuildDate>
     <item>
       <title>宇宙船ヘイル・メアリー号の軌跡を星図調査のオープンソースデータを基に描く『プロジェクト・ヘイル・メアリー』の恒星航行図が公開中</title>
       <link>https://gigazine.net/news/20260522-project-hail-mary-star-map/</link>
@@ -206,6 +191,21 @@
       <title>KDPで「予約注文禁止状態」になってから解除されるまでの経緯をまとめてみた</title>
       <link>https://gigazine.net/news/20260613-kdp-pre-orders/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260613-kdp-pre-orders/</guid>
+    </item>
+    <item>
+      <title>最大6690万画素の「α7R VI」で猫を撮影しまくりレビュー、猫の瞳にズバッとピントが合いホワイトバランスも勝手にいい感じにしてくれてベストショットを量産可能</title>
+      <link>https://gigazine.net/news/20260614-sony-alpha7r-vi-photo-example/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260614-sony-alpha7r-vi-photo-example/</guid>
+    </item>
+    <item>
+      <title>コーディングAIエージェント向けのオープンソースHeroku「InsForge」</title>
+      <link>https://gigazine.net/news/20260614-insforge/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260614-insforge/</guid>
+    </item>
+    <item>
+      <title>メモ書き機能付きAmazon純正電子書籍リーダー「Kindle Scribe」に初のカラー表示可能な「Kindle Scribe Colorsoft」を含む3モデルが新登場したので使ってみた</title>
+      <link>https://gigazine.net/news/20260614-kindle-scribe-2026/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260614-kindle-scribe-2026/</guid>
     </item>
   </channel>
 </rss>

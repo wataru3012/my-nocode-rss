@@ -6,17 +6,7 @@
     <description>PC-Freedom</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 18:04:04 +0000</lastBuildDate>
-    <item>
-      <title>Rhino Linux： Ubuntu ベースのローリングリリース型ディストリビューション</title>
-      <link>https://pc-freedom.net/linux/about-rhino-linux/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/linux/about-rhino-linux/</guid>
-    </item>
-    <item>
-      <title>wattOS： 軽量で省エネルギーな Linux ディストリビューション</title>
-      <link>https://pc-freedom.net/linux/about-wattos/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/linux/about-wattos/</guid>
-    </item>
+    <lastBuildDate>Sun, 14 Jun 2026 18:08:56 +0000</lastBuildDate>
     <item>
       <title>Qubes OS：セキュリティ重視の仮想化ベースLinuxディストリビューション</title>
       <link>https://pc-freedom.net/linux/about-qubes-os/</link>
@@ -128,6 +118,11 @@
       <guid isPermaLink="false">https://pc-freedom.net/review/gechic-m141e-review/</guid>
     </item>
     <item>
+      <title>大画面ノートPCって実際どう？AMD Ryzen 7 5700U 搭載 ACEMAGIC AX16 Pro【実機レビュー】</title>
+      <link>https://pc-freedom.net/choose-pc/acemagic-ax16-pro-review/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/choose-pc/acemagic-ax16-pro-review/</guid>
+    </item>
+    <item>
       <title>+0.5画面ちょいたしモニター｜HAILESI 10.5 インチモバイルモニター【実機レビュー】</title>
       <link>https://pc-freedom.net/today_pc_story/hailesi-10-5-inch-mobile-monitor-review/</link>
       <guid isPermaLink="false">https://pc-freedom.net/today_pc_story/hailesi-10-5-inch-mobile-monitor-review/</guid>
@@ -186,6 +181,11 @@
       <title>なぜ Ubuntu は世界で最も有名な Linux になったのか？</title>
       <link>https://pc-freedom.net/basic/why-ubuntu-popular/</link>
       <guid isPermaLink="false">https://pc-freedom.net/basic/why-ubuntu-popular/</guid>
+    </item>
+    <item>
+      <title>Debian とは？Ubuntu の土台を支える「静かな巨人」を解説</title>
+      <link>https://pc-freedom.net/basic/what-is-debian/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-debian/</guid>
     </item>
   </channel>
 </rss>

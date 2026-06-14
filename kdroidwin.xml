@@ -6,12 +6,7 @@
     <description>kdroidwin</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 18:05:07 +0000</lastBuildDate>
-    <item>
-      <title>紅茶掲示板 第2、3のエッヂを目指す 平和で快適な掲示板 書き込む やり方</title>
-      <link>https://kdroidwin.hatenablog.com/entry/2025/11/20/153703</link>
-      <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2025/11/20/153703</guid>
-    </item>
+    <lastBuildDate>Sun, 14 Jun 2026 18:10:02 +0000</lastBuildDate>
     <item>
       <title>iPhone側にも追加アプリは不要  ついにPixel 10にAirDrop対応</title>
       <link>https://kdroidwin.hatenablog.com/entry/2025/11/21/075341</link>
@@ -456,6 +451,11 @@
       <title>Steam、物理ギフトカードの店頭補充を停止　日本でも影響</title>
       <link>https://kdroidwin.hatenablog.com/entry/2026/06/10/190112</link>
       <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2026/06/10/190112</guid>
+    </item>
+    <item>
+      <title>Suica NFC Reader by Kdroidwin  交通系 IC 物理カード（Suica など）の残高確認</title>
+      <link>https://kdroidwin.hatenablog.com/entry/2026/06/14/132318</link>
+      <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2026/06/14/132318</guid>
     </item>
   </channel>
 </rss>
