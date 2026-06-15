@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Jun 2026 18:09:05 +0000</lastBuildDate>
-    <item>
-      <title>Lenovo ThinkPad T14s Gen 7 － Core Ultraシリーズ3 / Ryzen AI 400シリーズ搭載のモバイルノート、新色「ブルー」も選べます</title>
-      <link>https://win-tab.net/lenovo/thinkpad-t14s-gen-7-intel-2605032/</link>
-      <guid isPermaLink="false">https://win-tab.net/lenovo/thinkpad-t14s-gen-7-intel-2605032/</guid>
-    </item>
-    <item>
-      <title>TECLASTのタブレット、P50TがAmazonスマイルSaleでお買い得に！タッチペンもついて15,104円</title>
-      <link>https://win-tab.net/sale/teclast-p50t-sale-2605271/</link>
-      <guid isPermaLink="false">https://win-tab.net/sale/teclast-p50t-sale-2605271/</guid>
-    </item>
+    <lastBuildDate>Mon, 15 Jun 2026 20:22:55 +0000</lastBuildDate>
     <item>
       <title>HP EliteBook X Flip G2i 14 AI PC レビュー － 個人購入もOK！仕事から趣味まで妥協なし、HPの最上位法人向け2-in-1</title>
       <link>https://win-tab.net/hp/elitebook-x-flip-g2i-14-ai-pc-review-2605272/</link>
@@ -206,6 +196,16 @@
       <title>FRONTIER FRT300P － 先進の半固体バッテリーを搭載するデタッチャブル2-in-1、でも外観はちょっとレトロ</title>
       <link>https://win-tab.net/others/frontier-frt300p-2606142/</link>
       <guid isPermaLink="false">https://win-tab.net/others/frontier-frt300p-2606142/</guid>
+    </item>
+    <item>
+      <title>HP OmniBook 3 14-hu/hs/ht － バリュークラスの14インチにIntel版が登場！Core Ultra シリーズ2/3搭載</title>
+      <link>https://win-tab.net/hp/omnibook-3-14-hu-ht-2606151/</link>
+      <guid isPermaLink="false">https://win-tab.net/hp/omnibook-3-14-hu-ht-2606151/</guid>
+    </item>
+    <item>
+      <title>HP OmniBook 3 16-bu/bs － 16インチのバリュー・ノートにIntel版が追加され、ワイドバリエーションに</title>
+      <link>https://win-tab.net/hp/omnibook-3-16-bu-bs-2606152/</link>
+      <guid isPermaLink="false">https://win-tab.net/hp/omnibook-3-16-bu-bs-2606152/</guid>
     </item>
   </channel>
 </rss>

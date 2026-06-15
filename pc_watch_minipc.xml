@@ -6,17 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Jun 2026 18:08:48 +0000</lastBuildDate>
-    <item>
-      <title>祝MSI 40周年！ゲーミングノートやArc G搭載「Claw 8 EX AI+」一挙発表</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/event/2113214.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113214.html</guid>
-    </item>
-    <item>
-      <title>【速報】NVIDIA、Windows向けCPU「RTX Spark」を13年ぶり投入</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/event/2113317.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113317.html</guid>
-    </item>
+    <lastBuildDate>Mon, 15 Jun 2026 20:22:35 +0000</lastBuildDate>
     <item>
       <title>RTX Spark搭載ノート「Surface Laptop Ultra」見参！120BのLLMも動作</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2113383.html</link>
@@ -238,99 +228,9 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116653.html</guid>
     </item>
     <item>
-      <title>【コラム】NVIDIAのRTX Sparkは、新しいWindowsを切り拓くターニングポイント</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/ubiq/2114838.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/ubiq/2114838.html</guid>
-    </item>
-    <item>
-      <title>【レビュー】待ってたよ100W！サンワのUSBポート付き充電タップを試した</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2115265.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2115265.html</guid>
-    </item>
-    <item>
-      <title>【特集】眠っているPC、まだ捨てないで！最軽量級OS「Lubuntu」で古いPCを完全再生</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2115274.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2115274.html</guid>
-    </item>
-    <item>
-      <title>【独占】解き放たれた「Mythos 5」。開発者が語る“覚醒”の舞台裏</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2116108.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116108.html</guid>
-    </item>
-    <item>
-      <title>【特集】有機ELテレビをPCモニターに5年使った結果。避けられなかった焼き付きとその顛末</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2115770.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2115770.html</guid>
-    </item>
-    <item>
       <title>小中高生向け「手づくりレッツノート工房」、最新SC7/FC7の組み立て体験</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2116689.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116689.html</guid>
-    </item>
-    <item>
-      <title>究極のデスク環境を体験、Elgato×PREDUCTSの初共同イベントが12日一般公開</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2116674.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116674.html</guid>
-    </item>
-    <item>
-      <title>ベルキン、3画面出力や96W給電対応のThunderbolt 4ドック</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2116701.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116701.html</guid>
-    </item>
-    <item>
-      <title>半固体バッテリ採用の10.1型2in1、FRONTIERから発売</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2116763.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116763.html</guid>
-    </item>
-    <item>
-      <title>MCP連携でOpus 4.8超え、1兆パラメータLLM「Kimi K2.7 Code」無償公開</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2116913.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116913.html</guid>
-    </item>
-    <item>
-      <title>Facebookに障害発生。メッセンジャーも見られず</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2116924.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116924.html</guid>
-    </item>
-    <item>
-      <title>「MacBook Neo」は買いか？9.9万円の衝撃と20万円台「M5 Air」との埋められない差</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2116775.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2116775.html</guid>
-    </item>
-    <item>
-      <title>AndroidでSteamライブラリのゲームが遊べる「GameHub」を徹底検証</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2116777.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2116777.html</guid>
-    </item>
-    <item>
-      <title>Gemini 3.1 Proと互角、4,280億パラメータLLM「MiniMax M3」公開</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2116933.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116933.html</guid>
-    </item>
-    <item>
-      <title>ClaudeのMythosとFable 5が利用不可に。米政府の輸出規制で公開3日で</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2116935.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116935.html</guid>
-    </item>
-    <item>
-      <title>Claude Fable 5/Mythos 5停止の補償か、全ユーザーの利用制限リセット</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2116946.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116946.html</guid>
-    </item>
-    <item>
-      <title>100万トークン対応コーディングLLM「GLM-5.2」公開、来週オープンソース化</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2116962.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116962.html</guid>
-    </item>
-    <item>
-      <title>マグネット装着可能なポータブルSSDが約1,200円引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2116655.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2116655.html</guid>
-    </item>
-    <item>
-      <title>「松屋」のピラフや餃子などが食べられる13種30食セットが約8千円引き！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2116658.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2116658.html</guid>
     </item>
     <item>
       <title>Core i9-14900HX搭載ミニPCが11万円台。ACEMAGIC 4周年記念セール</title>
@@ -338,14 +238,24 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2116696.html</guid>
     </item>
     <item>
-      <title>モトローラの5Gスマホが2万6,820円に！Amazonセール</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2116928.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2116928.html</guid>
+      <title>半固体バッテリ採用の10.1型2in1、FRONTIERから発売</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2116763.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116763.html</guid>
     </item>
     <item>
-      <title>Jackeryの1,070Whポタ電が約5万円引き！ソーラーパネル付きモデルも</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2116930.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2116930.html</guid>
+      <title>「MacBook Neo」は買いか？9.9万円の衝撃と20万円台「M5 Air」との埋められない差</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2116775.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2116775.html</guid>
+    </item>
+    <item>
+      <title>Ryzen 3搭載ミニPCが4万2,998円になるクーポン！Amazonで限定割引中</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/special/2116780.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2116780.html</guid>
+    </item>
+    <item>
+      <title>“何でもやってくれる”AIエージェント「OpenClaw」を試して知った魔力と怖さ</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2117008.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2117008.html</guid>
     </item>
   </channel>
 </rss>

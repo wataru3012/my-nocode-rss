@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Jun 2026 18:10:01 +0000</lastBuildDate>
-    <item>
-      <title>宇宙船ヘイル・メアリー号の軌跡を星図調査のオープンソースデータを基に描く『プロジェクト・ヘイル・メアリー』の恒星航行図が公開中</title>
-      <link>https://gigazine.net/news/20260522-project-hail-mary-star-map/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260522-project-hail-mary-star-map/</guid>
-    </item>
-    <item>
-      <title>超薄型＆軽量でスマホの裏に貼り付けて充電もできるモバイルバッテリー「SMARTCOBY ULTRA SLIM 3K」レビュー</title>
-      <link>https://gigazine.net/news/20260523-smartcoby-ultra-slim-3k/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260523-smartcoby-ultra-slim-3k/</guid>
-    </item>
+    <lastBuildDate>Mon, 15 Jun 2026 20:23:48 +0000</lastBuildDate>
     <item>
       <title>Android搭載の小型ゲーム機「AYANEO Pocket S Mini」の外観はこんな感じ</title>
       <link>https://gigazine.net/news/20260523-ayaneo-pocket-s-mini-appearance/</link>
@@ -206,6 +196,16 @@
       <title>メモ書き機能付きAmazon純正電子書籍リーダー「Kindle Scribe」に初のカラー表示可能な「Kindle Scribe Colorsoft」を含む3モデルが新登場したので使ってみた</title>
       <link>https://gigazine.net/news/20260614-kindle-scribe-2026/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260614-kindle-scribe-2026/</guid>
+    </item>
+    <item>
+      <title>誰でも無料で高機能な予約システムが作れる「SelectType」に便利なGoogleカレンダー双方向連携＆Google MeetのURL自動発行機能が登場したので使ってみた</title>
+      <link>https://gigazine.net/news/20260615-select-type-google-calendar-gmeet/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260615-select-type-google-calendar-gmeet/</guid>
+    </item>
+    <item>
+      <title>ソニーのハイエンドスマホ「Xperia 1 VIII」の発熱やバッテリーの持ちが気になったのでチェックしてみたよレビュー</title>
+      <link>https://gigazine.net/news/20260615-sony-xperia-1-viii-battery/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260615-sony-xperia-1-viii-battery/</guid>
     </item>
   </channel>
 </rss>
