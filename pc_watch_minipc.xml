@@ -6,47 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Jun 2026 20:22:35 +0000</lastBuildDate>
-    <item>
-      <title>RTX Spark搭載ノート「Surface Laptop Ultra」見参！120BのLLMも動作</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2113383.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2113383.html</guid>
-    </item>
-    <item>
-      <title>実売約20万円、RTX 4050搭載のGIGABYTE製16型ノート「EAGLE」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2113436.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2113436.html</guid>
-    </item>
-    <item>
-      <title>Steam Deck OLEDが日本でも価格改定、1TB版は5万円強の値上げ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2113431.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2113431.html</guid>
-    </item>
-    <item>
-      <title>MSI、Core Ultra 5とRTX 5060 Ti搭載のエントリー向けゲーミングPC</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2113473.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2113473.html</guid>
-    </item>
-    <item>
-      <title>ASUS、消費電力320Wの18型フラグシップゲーミングノート「ROG Strix SCAR 18」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/event/2113520.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113520.html</guid>
-    </item>
-    <item>
-      <title>有機ELになって大画面化した「ROG Xbox Ally X20」登場</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/event/2113529.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113529.html</guid>
-    </item>
-    <item>
-      <title>ミニPCにも激震！Qualcomm×ASUSが挑む「Snapdragon X2 Elite」時代の幕開け</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/event/2113545.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113545.html</guid>
-    </item>
-    <item>
-      <title>「14型タッチ付きで1kg切り」の奇跡。富士通の技術が詰まった超軽量FMVが物欲を刺激</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2113493.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2113493.html</guid>
-    </item>
+    <lastBuildDate>Tue, 16 Jun 2026 20:11:07 +0000</lastBuildDate>
     <item>
       <title>GeForce RTX 5090のミニPCや4枚の5090を動かすバケモノ電源も。ROG 20周年記念で展示</title>
       <link>https://pc.watch.impress.co.jp/docs/news/event/2113665.html</link>
@@ -256,6 +216,46 @@
       <title>“何でもやってくれる”AIエージェント「OpenClaw」を試して知った魔力と怖さ</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/feature/2117008.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2117008.html</guid>
+    </item>
+    <item>
+      <title>Mac紛失時のデータ漏洩を防ぐ「FileVault」はオンにすべき？</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/macinfo/2117346.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/macinfo/2117346.html</guid>
+    </item>
+    <item>
+      <title>上下2画面で別次元のゲーム体験！5090を積んだROG Zephyrus Duoが楽しい</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/short-review/2117370.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/short-review/2117370.html</guid>
+    </item>
+    <item>
+      <title>15万円台から、シリーズ最薄最軽量の13.4型ノート「XPS 13」本日国内発売</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2117415.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2117415.html</guid>
+    </item>
+    <item>
+      <title>Core Ultra 5とGeForce RTX 5060/5070のゲーミングPC、パソコン工房から</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/special/2117417.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2117417.html</guid>
+    </item>
+    <item>
+      <title>デル、14型と16型のモバイルワークステーション</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2117484.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2117484.html</guid>
+    </item>
+    <item>
+      <title>マウスが「親子パソコン組み立て教室」を8月開催。花火大会も楽しめる</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2117580.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2117580.html</guid>
+    </item>
+    <item>
+      <title>ローカルAIで攻略も。Arc G3 Extreme搭載の新生ONEXPLAYER</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2117610.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2117610.html</guid>
+    </item>
+    <item>
+      <title>Microsoft、GPU性能5割増のSnapdragon X2搭載「Surface Pro/Laptop」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2117636.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2117636.html</guid>
     </item>
   </channel>
 </rss>

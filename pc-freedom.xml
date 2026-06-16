@@ -6,7 +6,7 @@
     <description>PC-Freedom</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Jun 2026 20:22:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 20:11:16 +0000</lastBuildDate>
     <item>
       <title>Gentoo Linux：完全カスタマイズ可能なLinuxディストリビューション</title>
       <link>https://pc-freedom.net/linux/about-gentoo-linux/</link>
@@ -128,11 +128,6 @@
       <guid isPermaLink="false">https://pc-freedom.net/today_pc_story/chuwi-aupad-review/</guid>
     </item>
     <item>
-      <title>8 インチ Android タブレットの最適解はこれ？！｜ALLDOCUBE iPlay 70 mini Ultra 実機レビュー</title>
-      <link>https://pc-freedom.net/review/alldocube-iplay-70-mini-ultra-review/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/review/alldocube-iplay-70-mini-ultra-review/</guid>
-    </item>
-    <item>
       <title>ThinkPad X1 Yogaから乗り換え？CHUWI FreeBook N150を使ってみた</title>
       <link>https://pc-freedom.net/choose-pc/chuwi-freebook-n150-review/</link>
       <guid isPermaLink="false">https://pc-freedom.net/choose-pc/chuwi-freebook-n150-review/</guid>
@@ -186,6 +181,11 @@
       <title>Fedora とは？最新技術をいち早く体験できるアメリカ生まれの Linux</title>
       <link>https://pc-freedom.net/basic/what-is-fedora-2/</link>
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-fedora-2/</guid>
+    </item>
+    <item>
+      <title>openSUSE とは？派手さよりも管理しやすさで選ぶドイツ生まれの Linux</title>
+      <link>https://pc-freedom.net/basic/what-is-opensuse/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-opensuse/</guid>
     </item>
   </channel>
 </rss>
