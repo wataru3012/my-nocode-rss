@@ -6,12 +6,7 @@
     <description>kdroidwin</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jun 2026 20:12:18 +0000</lastBuildDate>
-    <item>
-      <title>iPhone側にも追加アプリは不要  ついにPixel 10にAirDrop対応</title>
-      <link>https://kdroidwin.hatenablog.com/entry/2025/11/21/075341</link>
-      <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2025/11/21/075341</guid>
-    </item>
+    <lastBuildDate>Wed, 17 Jun 2026 19:21:48 +0000</lastBuildDate>
     <item>
       <title>買うべき USBフラッシュメモリ</title>
       <link>https://kdroidwin.hatenablog.com/entry/2025/10/28/141322</link>
@@ -456,6 +451,11 @@
       <title>suicanfc kd  交通系 IC 物理カード（Suica など）の残高確認</title>
       <link>https://kdroidwin.hatenablog.com/entry/2026/06/14/132318</link>
       <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2026/06/14/132318</guid>
+    </item>
+    <item>
+      <title>約3年ぶりの更新  v3.0.0  必死チェッカーdroid mod</title>
+      <link>https://kdroidwin.hatenablog.com/entry/2026/06/17/155000</link>
+      <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2026/06/17/155000</guid>
     </item>
   </channel>
 </rss>

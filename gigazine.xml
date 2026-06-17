@@ -6,12 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jun 2026 20:12:17 +0000</lastBuildDate>
-    <item>
-      <title>Android搭載の小型ゲーム機「AYANEO Pocket S Mini」の外観はこんな感じ</title>
-      <link>https://gigazine.net/news/20260523-ayaneo-pocket-s-mini-appearance/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260523-ayaneo-pocket-s-mini-appearance/</guid>
-    </item>
+    <lastBuildDate>Wed, 17 Jun 2026 19:21:47 +0000</lastBuildDate>
     <item>
       <title>無料で簡単にLinuxサーバーのベンチマークができる「Yet-Another-Bench-Script」</title>
       <link>https://gigazine.net/news/20260523-yet-another-bench-script/</link>
@@ -206,6 +201,11 @@
       <title>ソニーのハイエンドスマホ「Xperia 1 VIII」の発熱やバッテリーの持ちが気になったのでチェックしてみたよレビュー</title>
       <link>https://gigazine.net/news/20260615-sony-xperia-1-viii-battery/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260615-sony-xperia-1-viii-battery/</guid>
+    </item>
+    <item>
+      <title>無料でウェブページの変化を自動検知できる「changedetection.io」をDockerでセットアップして実際に監視してみた</title>
+      <link>https://gigazine.net/news/20260617-changedetection-io-setup/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260617-changedetection-io-setup/</guid>
     </item>
   </channel>
 </rss>

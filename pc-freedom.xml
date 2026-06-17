@@ -6,17 +6,7 @@
     <description>PC-Freedom</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jun 2026 20:11:16 +0000</lastBuildDate>
-    <item>
-      <title>Gentoo Linux：完全カスタマイズ可能なLinuxディストリビューション</title>
-      <link>https://pc-freedom.net/linux/about-gentoo-linux/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/linux/about-gentoo-linux/</guid>
-    </item>
-    <item>
-      <title>Bodhi Linux： 軽量でエレガントな Moksha デスクトップを搭載した Ubuntu ベースのディストリビューション</title>
-      <link>https://pc-freedom.net/linux/about-bodhi-linux/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/linux/about-bodhi-linux/</guid>
-    </item>
+    <lastBuildDate>Wed, 17 Jun 2026 19:20:38 +0000</lastBuildDate>
     <item>
       <title>Haiku： BeOS の後継として進化した軽量で効率的なオープンソース OS</title>
       <link>https://pc-freedom.net/os/about-haiku-os/</link>
@@ -128,6 +118,11 @@
       <guid isPermaLink="false">https://pc-freedom.net/today_pc_story/chuwi-aupad-review/</guid>
     </item>
     <item>
+      <title>8 インチ Android タブレットの最適解はこれ？！｜ALLDOCUBE iPlay 70 mini Ultra 実機レビュー</title>
+      <link>https://pc-freedom.net/review/alldocube-iplay-70-mini-ultra-review/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/review/alldocube-iplay-70-mini-ultra-review/</guid>
+    </item>
+    <item>
       <title>ThinkPad X1 Yogaから乗り換え？CHUWI FreeBook N150を使ってみた</title>
       <link>https://pc-freedom.net/choose-pc/chuwi-freebook-n150-review/</link>
       <guid isPermaLink="false">https://pc-freedom.net/choose-pc/chuwi-freebook-n150-review/</guid>
@@ -186,6 +181,11 @@
       <title>openSUSE とは？派手さよりも管理しやすさで選ぶドイツ生まれの Linux</title>
       <link>https://pc-freedom.net/basic/what-is-opensuse/</link>
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-opensuse/</guid>
+    </item>
+    <item>
+      <title>Arch Linux とは？「自分で理解して使う」思想が詰まった Linux</title>
+      <link>https://pc-freedom.net/basic/what-is-arch-linux/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-arch-linux/</guid>
     </item>
   </channel>
 </rss>

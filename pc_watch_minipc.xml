@@ -6,32 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jun 2026 20:11:07 +0000</lastBuildDate>
-    <item>
-      <title>GeForce RTX 5090のミニPCや4枚の5090を動かすバケモノ電源も。ROG 20周年記念で展示</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/event/2113665.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113665.html</guid>
-    </item>
-    <item>
-      <title>MSI、Core Ultra 7 270K PlusとRTX 50を備えたハイエンドゲーミングPC</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2113811.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2113811.html</guid>
-    </item>
-    <item>
-      <title>レノボ、全機種5G対応の「ThinkPad P」などワークステーション7機種</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2113890.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2113890.html</guid>
-    </item>
-    <item>
-      <title>RTX Spark搭載AI PC、ASUSはクリエイター向け3種展開</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/event/2113889.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113889.html</guid>
-    </item>
-    <item>
-      <title>1PFLOPSのMicrosoft製AIミニPC「Surface RTX Spark Dev Box」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/event/2113907.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2113907.html</guid>
-    </item>
+    <lastBuildDate>Wed, 17 Jun 2026 19:20:29 +0000</lastBuildDate>
     <item>
       <title>Intel Arc G3搭載で注目のMSI新型携帯機「Claw 8 EX AI+」、競合を圧倒</title>
       <link>https://pc.watch.impress.co.jp/docs/news/event/2114026.html</link>
@@ -256,6 +231,116 @@
       <title>Microsoft、GPU性能5割増のSnapdragon X2搭載「Surface Pro/Laptop」</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2117636.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2117636.html</guid>
+    </item>
+    <item>
+      <title>【コラム】NVIDIAのRTX Sparkは、新しいWindowsを切り拓くターニングポイント</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/ubiq/2114838.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/ubiq/2114838.html</guid>
+    </item>
+    <item>
+      <title>【レビュー】待ってたよ100W！サンワのUSBポート付き充電タップを試した</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2115265.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2115265.html</guid>
+    </item>
+    <item>
+      <title>【特集】眠っているPC、まだ捨てないで！最軽量級OS「Lubuntu」で古いPCを完全再生</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2115274.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2115274.html</guid>
+    </item>
+    <item>
+      <title>【独占】解き放たれた「Mythos 5」。開発者が語る“覚醒”の舞台裏</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2116108.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116108.html</guid>
+    </item>
+    <item>
+      <title>【特集】有機ELテレビをPCモニターに5年使った結果。避けられなかった焼き付きとその顛末</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2115770.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2115770.html</guid>
+    </item>
+    <item>
+      <title>XPS 13が日本でMacBook Neoキラー価格にならなかったワケ</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2117717.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2117717.html</guid>
+    </item>
+    <item>
+      <title>Noctua初の簡易水冷「NL-LC1」登場。240/360/420mmの3サイズ</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2117766.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2117766.html</guid>
+    </item>
+    <item>
+      <title>Android 17公開。アプリをウィンドウ化できるバブルなど機能追加</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2117815.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2117815.html</guid>
+    </item>
+    <item>
+      <title>数千のファイル比較も自律実行、AI「Copilot Cowork」正式公開</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2117854.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2117854.html</guid>
+    </item>
+    <item>
+      <title>1.1kgで2層OLED搭載、ゲームも爆速。14型「ASUS ExpertBook Ultra」</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2117757.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2117757.html</guid>
+    </item>
+    <item>
+      <title>これぞ次世代基準!? 約990gで3倍明るいOLED採用14型ノート「ExpertBook Ultra」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2117861.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2117861.html</guid>
+    </item>
+    <item>
+      <title>Lenovo、JBL製9スピーカー搭載の12.1型エンタメタブレット「Tab Plus Gen 2」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2117873.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2117873.html</guid>
+    </item>
+    <item>
+      <title>電卓として使えて、計算結果をPCに送れるテンキー</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2117894.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2117894.html</guid>
+    </item>
+    <item>
+      <title>SpaceXが買収のCursor、AI向けGit基盤「Origin」を今秋提供へ</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2117893.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2117893.html</guid>
+    </item>
+    <item>
+      <title>Microsoft 365 Copilotに脆弱性。検索悪用しメールや組織内データを盗む</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2117930.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2117930.html</guid>
+    </item>
+    <item>
+      <title>ASUS、Core Ultra 9とGeForce RTX 5090搭載の最上位ゲーミングノートなど5機種</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2117990.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2117990.html</guid>
+    </item>
+    <item>
+      <title>「枕元のランプ以外の明かりを消して」で通じる「Google Homeスピーカー」発売</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2117859.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2117859.html</guid>
+    </item>
+    <item>
+      <title>レノボの14型ノートPCが約3万円引きで販売中！</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2117721.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2117721.html</guid>
+    </item>
+    <item>
+      <title>NECのWi-Fi 6ルーターとメッシュ中継器セットが約5千円引き</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2117472.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2117472.html</guid>
+    </item>
+    <item>
+      <title>SwitchBotの顔認証付きスマートロックが7,000円オトク！</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2117769.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2117769.html</guid>
+    </item>
+    <item>
+      <title>リラックマの耳付きハンディファンが1,501円引きの1,979円で販売中</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2117811.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2117811.html</guid>
+    </item>
+    <item>
+      <title>カゴメの720mlペットボトルのトマトジュースが約500円引きで販売中</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2117816.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2117816.html</guid>
     </item>
   </channel>
 </rss>
