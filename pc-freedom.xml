@@ -6,12 +6,7 @@
     <description>PC-Freedom</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jun 2026 19:20:38 +0000</lastBuildDate>
-    <item>
-      <title>Haiku： BeOS の後継として進化した軽量で効率的なオープンソース OS</title>
-      <link>https://pc-freedom.net/os/about-haiku-os/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/os/about-haiku-os/</guid>
-    </item>
+    <lastBuildDate>Thu, 18 Jun 2026 19:22:53 +0000</lastBuildDate>
     <item>
       <title>Arch Linux： シンプルで軽量、自由なカスタマイズが可能なローリングリリース型ディストリビューション</title>
       <link>https://pc-freedom.net/linux/about-arch-linux/</link>
@@ -186,6 +181,11 @@
       <title>Arch Linux とは？「自分で理解して使う」思想が詰まった Linux</title>
       <link>https://pc-freedom.net/basic/what-is-arch-linux/</link>
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-arch-linux/</guid>
+    </item>
+    <item>
+      <title>Linux Mint とは？Windows から乗り換えやすい定番 Linux を解説</title>
+      <link>https://pc-freedom.net/basic/what-is-linux-mint/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-linux-mint/</guid>
     </item>
   </channel>
 </rss>
