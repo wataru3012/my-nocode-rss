@@ -6,7 +6,7 @@
     <description>PC-Freedom</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Jun 2026 19:22:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 18:29:23 +0000</lastBuildDate>
     <item>
       <title>Arch Linux： シンプルで軽量、自由なカスタマイズが可能なローリングリリース型ディストリビューション</title>
       <link>https://pc-freedom.net/linux/about-arch-linux/</link>
@@ -128,11 +128,6 @@
       <guid isPermaLink="false">https://pc-freedom.net/review/intehill-u16zt-review/</guid>
     </item>
     <item>
-      <title>Linux を使うのにちょうど良いノート PC がほしい | ACEMAGIC TX15 実機レビュー</title>
-      <link>https://pc-freedom.net/today_pc_story/acemagic-tx15-review/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/today_pc_story/acemagic-tx15-review/</guid>
-    </item>
-    <item>
       <title>Linux を使うのにちょうど良いファンレスミニ PC | HiMeLE Quieter 4C N150 実機レビュー</title>
       <link>https://pc-freedom.net/today_pc_story/linux-%e3%82%92%e4%bd%bf%e3%81%86%e3%81%ae%e3%81%ab%e3%81%a1%e3%82%87%e3%81%86%e3%81%a9%e8%89%af%e3%81%84%e3%83%95%e3%82%a1%e3%83%b3%e3%83%ac%e3%82%b9%e3%83%9f%e3%83%8b-pc-himele-quieter-4c-n150/</link>
       <guid isPermaLink="false">https://pc-freedom.net/today_pc_story/linux-%e3%82%92%e4%bd%bf%e3%81%86%e3%81%ae%e3%81%ab%e3%81%a1%e3%82%87%e3%81%86%e3%81%a9%e8%89%af%e3%81%84%e3%83%95%e3%82%a1%e3%83%b3%e3%83%ac%e3%82%b9%e3%83%9f%e3%83%8b-pc-himele-quieter-4c-n150/</guid>
@@ -186,6 +181,11 @@
       <title>Linux Mint とは？Windows から乗り換えやすい定番 Linux を解説</title>
       <link>https://pc-freedom.net/basic/what-is-linux-mint/</link>
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-linux-mint/</guid>
+    </item>
+    <item>
+      <title>Manjaro とは？Arch に憧れる人のための現実的な Linux</title>
+      <link>https://pc-freedom.net/basic/what-is-manjaro/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-manjaro/</guid>
     </item>
   </channel>
 </rss>
