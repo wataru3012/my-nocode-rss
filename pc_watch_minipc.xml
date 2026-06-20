@@ -6,7 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Jun 2026 18:29:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 18:06:56 +0000</lastBuildDate>
     <item>
       <title>【もはや化け物】ノートPCで1PFLOPS!?「Surface Laptop Ultra」の中身が異次元すぎる</title>
       <link>https://pc.watch.impress.co.jp/docs/news/event/2114703.html</link>
@@ -233,6 +233,11 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2118284.html</guid>
     </item>
     <item>
+      <title>GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2118416.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2118416.html</guid>
+    </item>
+    <item>
       <title>【特集】無料で使える「LM Studio」でローカルLLM入門。導入から性能比較まで</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/feature/2090806.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2090806.html</guid>
@@ -256,16 +261,6 @@
       <title>【特集】“何でもやってくれる”AIエージェント「OpenClaw」を試して知った魔力と怖さ</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/feature/2117008.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2117008.html</guid>
-    </item>
-    <item>
-      <title>ASUSの16型ゲーミングノートが6万円引きでセール中！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2118418.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2118418.html</guid>
-    </item>
-    <item>
-      <title>GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2118416.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2118416.html</guid>
     </item>
     <item>
       <title>ノートPC向け世界初の1,000Wh/Lバッテリ、LenovoがThinkPadに搭載へ</title>
@@ -306,6 +301,21 @@
       <title>サンコー、折りたたんで持ち運べる15.6型4Kの2画面モニター</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2118661.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2118661.html</guid>
+    </item>
+    <item>
+      <title>あの頃、僕らはSocket 7に夢中だった。CPU栄枯盛衰30年史</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2118740.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2118740.html</guid>
+    </item>
+    <item>
+      <title>ノートPCにグラボを挿すというロマン。弱小PCをゲーミング環境に変貌させる「GPUドック」の威力</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2118743.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2118743.html</guid>
+    </item>
+    <item>
+      <title>Windowsのゴミ箱からファイル削除時、別名が表示される不具合。6月更新に起因</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2118763.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2118763.html</guid>
     </item>
     <item>
       <title>ASUSのビジネスノートが6万円引きでオトク！</title>
