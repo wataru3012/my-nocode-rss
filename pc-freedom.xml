@@ -6,12 +6,7 @@
     <description>PC-Freedom</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Jun 2026 18:07:04 +0000</lastBuildDate>
-    <item>
-      <title>ReactOS： Windows 互換のオープンソースオペレーティングシステム</title>
-      <link>https://pc-freedom.net/microsoft/windows/about-reactos/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/microsoft/windows/about-reactos/</guid>
-    </item>
+    <lastBuildDate>Sun, 21 Jun 2026 18:15:58 +0000</lastBuildDate>
     <item>
       <title>4MLinux： 軽量で機能豊富な独自系ミニマル Linux ディストリビューション</title>
       <link>https://pc-freedom.net/linux/about-4mlinux/</link>
@@ -123,6 +118,11 @@
       <guid isPermaLink="false">https://pc-freedom.net/today_pc_story/acemagic-tx15-review/</guid>
     </item>
     <item>
+      <title>Linux を使うのにちょうど良いファンレスミニ PC | HiMeLE Quieter 4C N150 実機レビュー</title>
+      <link>https://pc-freedom.net/today_pc_story/linux-%e3%82%92%e4%bd%bf%e3%81%86%e3%81%ae%e3%81%ab%e3%81%a1%e3%82%87%e3%81%86%e3%81%a9%e8%89%af%e3%81%84%e3%83%95%e3%82%a1%e3%83%b3%e3%83%ac%e3%82%b9%e3%83%9f%e3%83%8b-pc-himele-quieter-4c-n150/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/today_pc_story/linux-%e3%82%92%e4%bd%bf%e3%81%86%e3%81%ae%e3%81%ab%e3%81%a1%e3%82%87%e3%81%86%e3%81%a9%e8%89%af%e3%81%84%e3%83%95%e3%82%a1%e3%83%b3%e3%83%ac%e3%82%b9%e3%83%9f%e3%83%8b-pc-himele-quieter-4c-n150/</guid>
+    </item>
+    <item>
       <title>BIOS ロックを解除する！マスターパスワード生成サービスを試してみよう</title>
       <link>https://pc-freedom.net/use-pc/bios-lock-kaijo/</link>
       <guid isPermaLink="false">https://pc-freedom.net/use-pc/bios-lock-kaijo/</guid>
@@ -181,6 +181,11 @@
       <title>Mageia とは？Mandriva の魂を受け継ぐフランス発コミュニティ Linux</title>
       <link>https://pc-freedom.net/basic/what-is-mageia/</link>
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-mageia/</guid>
+    </item>
+    <item>
+      <title>Zorin OS とは？ Windows から Linux へ移行しやすいアイルランド発 OS</title>
+      <link>https://pc-freedom.net/basic/what-is-zorin-os/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-zorin-os/</guid>
     </item>
   </channel>
 </rss>

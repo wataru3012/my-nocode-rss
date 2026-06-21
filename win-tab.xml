@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Jun 2026 18:07:15 +0000</lastBuildDate>
-    <item>
-      <title>外付けWebカメラを簡易スキャナとして使ってみた － 書類読み取りにはかなり有用</title>
-      <link>https://win-tab.net/opinion/webcam-scan-2606021/</link>
-      <guid isPermaLink="false">https://win-tab.net/opinion/webcam-scan-2606021/</guid>
-    </item>
-    <item>
-      <title>Beelink、Core シリーズ3 (Wildcat Lake)搭載ミニPCの製品ラインナップを発表</title>
-      <link>https://win-tab.net/imported/beelink-wildcat-lake-2606022/</link>
-      <guid isPermaLink="false">https://win-tab.net/imported/beelink-wildcat-lake-2606022/</guid>
-    </item>
+    <lastBuildDate>Sun, 21 Jun 2026 18:16:08 +0000</lastBuildDate>
     <item>
       <title>Blackview MEGA 5 － 12.2インチ (3:2)ディスプレイ搭載、キーボード・マウス・ペンが全部入りの上位モデル</title>
       <link>https://win-tab.net/android/blackview-mega-5-2606031/</link>
@@ -206,6 +196,16 @@
       <title>HP ProBook 4 G2i 14/16 AI PC － 強力なセキュリティ機能を搭載するビジネスノートがCopilot+ PCになりました</title>
       <link>https://win-tab.net/hp/probook-4-g2i-14-16-ai-pc-2606202/</link>
       <guid isPermaLink="false">https://win-tab.net/hp/probook-4-g2i-14-16-ai-pc-2606202/</guid>
+    </item>
+    <item>
+      <title>Lenovo ThinkPad X13 Gen 7 － 13.3インチで重さ1キロを切る超軽量モバイルノート、Intel版とAMD版を選べます</title>
+      <link>https://win-tab.net/lenovo/thinkpad-x13-gen-7-intel-2605152/</link>
+      <guid isPermaLink="false">https://win-tab.net/lenovo/thinkpad-x13-gen-7-intel-2605152/</guid>
+    </item>
+    <item>
+      <title>FRONTIER NSP － Core Ultraシリーズ3と2.8K有機ELディスプレイ搭載、重さ837 gの超軽量モバイルノート</title>
+      <link>https://win-tab.net/others/frontier-nsp-2606212/</link>
+      <guid isPermaLink="false">https://win-tab.net/others/frontier-nsp-2606212/</guid>
     </item>
   </channel>
 </rss>
