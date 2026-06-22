@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Jun 2026 18:17:01 +0000</lastBuildDate>
-    <item>
-      <title>iPhoneでローカル動作する画像生成AI「Bonsai Image 4B」が登場したので使ってみた、FLUX.2 Klein 4Bを1bit版に魔改造してメモリ使用量を8.3分の1に削減</title>
-      <link>https://gigazine.net/news/20260527-bonsai-image-4b-image-generation-ai/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260527-bonsai-image-4b-image-generation-ai/</guid>
-    </item>
-    <item>
-      <title>無料でリンク・メモ・画像・動画・PDFを保存してあとでスマホなどで読むアプリ「Karakeep」、オープンソースでセルフホスト可能</title>
-      <link>https://gigazine.net/news/20260530-karakeep/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260530-karakeep/</guid>
-    </item>
+    <lastBuildDate>Mon, 22 Jun 2026 20:01:32 +0000</lastBuildDate>
     <item>
       <title>持ち運び便利＆設定ラクラクで公衆Wi-Fiをより安全に使用できるモバイルルーター「Beryl 7」を使ってみた</title>
       <link>https://gigazine.net/news/20260530-glinet-beryl-7/</link>
@@ -206,6 +196,16 @@
       <title>無料でグラボのVRAMが壊れていないかチェックできるツール「memtest_vulkan」の使い方、インストール不要でダブルクリックして待つだけでOK</title>
       <link>https://gigazine.net/news/20260621-gpu-vram-check-memtest-vulkan/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260621-gpu-vram-check-memtest-vulkan/</guid>
+    </item>
+    <item>
+      <title>選挙区の境界線を引いて対立候補よりも多くの議席を獲得して選挙に勝利することを目指すパズルゲーム「Gerrymandle」</title>
+      <link>https://gigazine.net/news/20260622-gerrymandle/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260622-gerrymandle/</guid>
+    </item>
+    <item>
+      <title>「iPhone・iPadがこっそり公開している情報」で広告やウェブサイトがユーザーの行動を個別に追跡する仕組みが垣間見える「Loupe」</title>
+      <link>https://gigazine.net/news/20260622-loupe-for-ios/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260622-loupe-for-ios/</guid>
     </item>
   </channel>
 </rss>

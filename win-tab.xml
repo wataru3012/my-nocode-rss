@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Jun 2026 18:16:08 +0000</lastBuildDate>
-    <item>
-      <title>Blackview MEGA 5 － 12.2インチ (3:2)ディスプレイ搭載、キーボード・マウス・ペンが全部入りの上位モデル</title>
-      <link>https://win-tab.net/android/blackview-mega-5-2606031/</link>
-      <guid isPermaLink="false">https://win-tab.net/android/blackview-mega-5-2606031/</guid>
-    </item>
-    <item>
-      <title>Lenovo ThinkPad P14s Gen 7 － 高性能モバイルワークステーション、Intel版とAMD版は「名前が同じだけの別製品」です</title>
-      <link>https://win-tab.net/lenovo/thinkpad-p14s-gen-7-2606032/</link>
-      <guid isPermaLink="false">https://win-tab.net/lenovo/thinkpad-p14s-gen-7-2606032/</guid>
-    </item>
+    <lastBuildDate>Mon, 22 Jun 2026 20:00:40 +0000</lastBuildDate>
     <item>
       <title>Helio G99搭載の11インチタブレット「LZF ZPad3」が楽天スーパーSALEでお買い得に、LINEクーポン獲得で17,999円！</title>
       <link>https://win-tab.net/sale/lzf-zpad3-sale-2606033/</link>
@@ -206,6 +196,16 @@
       <title>FRONTIER NSP － Core Ultraシリーズ3と2.8K有機ELディスプレイ搭載、重さ837 gの超軽量モバイルノート</title>
       <link>https://win-tab.net/others/frontier-nsp-2606212/</link>
       <guid isPermaLink="false">https://win-tab.net/others/frontier-nsp-2606212/</guid>
+    </item>
+    <item>
+      <title>MSI Modern 14S/16S AI+ G3M － Core Ultra シリーズ3搭載のCopilot+ PC、14インチと16インチの薄型ビジネスノート</title>
+      <link>https://win-tab.net/msi/modern-14s-16s-ai-plus-g3m-2606221/</link>
+      <guid isPermaLink="false">https://win-tab.net/msi/modern-14s-16s-ai-plus-g3m-2606221/</guid>
+    </item>
+    <item>
+      <title>GMKtec EVO-X3 － Ryzen AI Max+ 395搭載でRAM/SSDも大容量な高性能AI PC、7月6日発売です</title>
+      <link>https://win-tab.net/imported/gmktec-evo-x3-2606222/</link>
+      <guid isPermaLink="false">https://win-tab.net/imported/gmktec-evo-x3-2606222/</guid>
     </item>
   </channel>
 </rss>

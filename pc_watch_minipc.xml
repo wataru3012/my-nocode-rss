@@ -6,17 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Jun 2026 18:15:50 +0000</lastBuildDate>
-    <item>
-      <title>【もはや化け物】ノートPCで1PFLOPS!?「Surface Laptop Ultra」の中身が異次元すぎる</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/event/2114703.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2114703.html</guid>
-    </item>
-    <item>
-      <title>MSI、Core Ultra 9 290HX Plus搭載のハイエンドゲーミングノート</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2114713.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2114713.html</guid>
-    </item>
+    <lastBuildDate>Mon, 22 Jun 2026 20:00:19 +0000</lastBuildDate>
     <item>
       <title>デル史上最薄13.3型Ryzen AI PRO搭載ノートなど8モデル一挙投入</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2114746.html</link>
@@ -143,11 +133,6 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2116780.html</guid>
     </item>
     <item>
-      <title>“何でもやってくれる”AIエージェント「OpenClaw」を試して知った魔力と怖さ</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2117008.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2117008.html</guid>
-    </item>
-    <item>
       <title>Mac紛失時のデータ漏洩を防ぐ「FileVault」はオンにすべき？</title>
       <link>https://pc.watch.impress.co.jp/docs/column/macinfo/2117346.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/macinfo/2117346.html</guid>
@@ -256,6 +241,116 @@
       <title>10台限定で約30万円、駿河屋のRyzen 7/Radeon RX 9070 XT搭載ゲーミングPC</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2118624.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2118624.html</guid>
+    </item>
+    <item>
+      <title>ソロでも優秀だが、外付けGPUで覚醒！ミニPCを最強化してみた</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/special/2118052.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2118052.html</guid>
+    </item>
+    <item>
+      <title>「中身入ってる？」と疑う軽さ！840gのMILスペ14型ノートが侮れない</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/pckoubou_review/2118817.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/pckoubou_review/2118817.html</guid>
+    </item>
+    <item>
+      <title>【特集】無料で使える「LM Studio」でローカルLLM入門。導入から性能比較まで</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2090806.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2090806.html</guid>
+    </item>
+    <item>
+      <title>【特集】眠っているPC、まだ捨てないで！最軽量級OS「Lubuntu」で古いPCを完全再生</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2115274.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2115274.html</guid>
+    </item>
+    <item>
+      <title>【独占】解き放たれた「Mythos 5」。開発者が語る“覚醒”の舞台裏</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2116108.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116108.html</guid>
+    </item>
+    <item>
+      <title>【特集】有機ELテレビをPCモニターに5年使った結果。避けられなかった焼き付きとその顛末</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2115770.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2115770.html</guid>
+    </item>
+    <item>
+      <title>【特集】“何でもやってくれる”AIエージェント「OpenClaw」を試して知った魔力と怖さ</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2117008.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2117008.html</guid>
+    </item>
+    <item>
+      <title>あの頃、僕らはSocket 7に夢中だった。CPU栄枯盛衰30年史</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2118740.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2118740.html</guid>
+    </item>
+    <item>
+      <title>ノートPCにグラボを挿すというロマン。弱小PCをゲーミング環境に変貌させる「GPUドック」の威力</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2118743.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2118743.html</guid>
+    </item>
+    <item>
+      <title>Windowsのゴミ箱からファイル削除時、別名が表示される不具合。6月更新に起因</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2118763.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2118763.html</guid>
+    </item>
+    <item>
+      <title>高性能メモリHBM、冷却用“煙突”が必要になる時代に突入</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/tidbit/2118676.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/tidbit/2118676.html</guid>
+    </item>
+    <item>
+      <title>Windows AIの一部がGeForce RTX 30以降に対応、非Copilot+ PCでも</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2118861.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2118861.html</guid>
+    </item>
+    <item>
+      <title>ガチくんに! 第422回切り抜き「新キャラ攻略に定評のあるぷげら、ヤスミンでもその片鱗を見せる」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2118868.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2118868.html</guid>
+    </item>
+    <item>
+      <title>AI向けx86拡張命令「ACE」、106ページの詳細仕様が公開</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2118932.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2118932.html</guid>
+    </item>
+    <item>
+      <title>WAN/LANに2.5Gigabit Ethernet搭載の有線LANルーター</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2118947.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2118947.html</guid>
+    </item>
+    <item>
+      <title>Fable 5に匹敵、複数AIの力を束ねて実現したSakana AI「Fugu Ultra」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2119021.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2119021.html</guid>
+    </item>
+    <item>
+      <title>GIGABYTE、神鷹凛仕様で白基調のB850搭載ATXマザーボード</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2119027.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2119027.html</guid>
+    </item>
+    <item>
+      <title>今なら9万円以下！ASUSのモバイルノートが5万円引き</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2118836.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2118836.html</guid>
+    </item>
+    <item>
+      <title>GeForce RTX 5070搭載！高性能ゲーミングノートが3万円引き</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2118841.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2118841.html</guid>
+    </item>
+    <item>
+      <title>ほぼ5万円！メモリ16GB&amp;SSD 512GBの実用的ミニPCが9,600円引き</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2118864.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2118864.html</guid>
+    </item>
+    <item>
+      <title>30食セット！「松屋を一度に楽しめる特別福袋」がほぼ半額</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2118879.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2118879.html</guid>
+    </item>
+    <item>
+      <title>200Hzと高速！REGZAのゲーミングモニターが6,600円引き</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2118876.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2118876.html</guid>
     </item>
   </channel>
 </rss>
