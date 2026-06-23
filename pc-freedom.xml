@@ -6,12 +6,7 @@
     <description>PC-Freedom</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 20:00:28 +0000</lastBuildDate>
-    <item>
-      <title>PureOS： プライバシーとセキュリティに重点を置いたオープンソースの Linux ディストリビューション</title>
-      <link>https://pc-freedom.net/linux/about-pureos/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/linux/about-pureos/</guid>
-    </item>
+    <lastBuildDate>Tue, 23 Jun 2026 19:06:33 +0000</lastBuildDate>
     <item>
       <title>BigLinux： ブラジル発の多機能でカスタマイズ性に優れた Linux ディストリビューション</title>
       <link>https://pc-freedom.net/linux/about-biglinux/</link>
@@ -186,6 +181,11 @@
       <title>MX Linux とは？Linux Mint の次に試したい「工具箱つき Debian」</title>
       <link>https://pc-freedom.net/basic/what-is-mx-linux/</link>
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-mx-linux/</guid>
+    </item>
+    <item>
+      <title>EndeavourOS とは？親切すぎないから学べる Arch 系 Linux</title>
+      <link>https://pc-freedom.net/basic/what-is-endeavouros/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-endeavouros/</guid>
     </item>
   </channel>
 </rss>
