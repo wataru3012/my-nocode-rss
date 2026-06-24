@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jun 2026 19:07:32 +0000</lastBuildDate>
-    <item>
-      <title>持ち運び便利＆設定ラクラクで公衆Wi-Fiをより安全に使用できるモバイルルーター「Beryl 7」を使ってみた</title>
-      <link>https://gigazine.net/news/20260530-glinet-beryl-7/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260530-glinet-beryl-7/</guid>
-    </item>
-    <item>
-      <title>ジンバル一体型カメラ「Osmo Pocket 4」の見た目はこんな感じレビュー</title>
-      <link>https://gigazine.net/news/20260530-osmo-pocket-4-appearance/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260530-osmo-pocket-4-appearance/</guid>
-    </item>
+    <lastBuildDate>Wed, 24 Jun 2026 18:30:15 +0000</lastBuildDate>
     <item>
       <title>無料でAI透かしを除去できる「Remove-AI-Watermarks」、画像から可視（Gemini）および不可視（SynthID、C2PA、EXIF）のいずれも削除可能</title>
       <link>https://gigazine.net/news/20260531-remove-ai-watermarks/</link>
@@ -206,6 +196,16 @@
       <title>「iPhone・iPadがこっそり公開している情報」で広告やウェブサイトがユーザーの行動を個別に追跡する仕組みが垣間見える「Loupe」</title>
       <link>https://gigazine.net/news/20260622-loupe-for-ios/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260622-loupe-for-ios/</guid>
+    </item>
+    <item>
+      <title>画像生成AI「Krea 2」がオープンモデル化されてローカル生成可能になったのでComfyUIで実写風画像とイラスト風画像を生成してみたよレビュー</title>
+      <link>https://gigazine.net/news/20260624-krea-2-raw-turbo/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260624-krea-2-raw-turbo/</guid>
+    </item>
+    <item>
+      <title>VRAM32GBで激安なIntelグラボ「Intel Arc Pro B70 Creator 32GB」を買ったので開封の儀、外観や搭載ポートはこんな感じ</title>
+      <link>https://gigazine.net/news/20260624-asrock-intel-arc-pro-b70-creator-32gb-appearance/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260624-asrock-intel-arc-pro-b70-creator-32gb-appearance/</guid>
     </item>
   </channel>
 </rss>
