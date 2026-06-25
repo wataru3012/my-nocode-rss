@@ -6,12 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 18:29:23 +0000</lastBuildDate>
-    <item>
-      <title>HP セール情報 － 発売直後の17.3インチ大画面ノートがセール対象に！人気の超軽量ノートPCも大幅割引</title>
-      <link>https://win-tab.net/sale/hp-sale-2606062/</link>
-      <guid isPermaLink="false">https://win-tab.net/sale/hp-sale-2606062/</guid>
-    </item>
+    <lastBuildDate>Thu, 25 Jun 2026 19:04:03 +0000</lastBuildDate>
     <item>
       <title>Lenovo セール情報 － 夏のボーナス直前セールがスタート、Ryzen AI 400搭載のCopilot+ PCが11万円台から！</title>
       <link>https://win-tab.net/sale/lenovo-sale-2606061/</link>
@@ -198,14 +193,19 @@
       <guid isPermaLink="false">https://win-tab.net/msi/cubi-nuc-ai-plus-3mg-024jp-2606232/</guid>
     </item>
     <item>
-      <title>ノートPC用CPU一覧 － Core Ultraシリーズ1 / 2 / 3（6月24日更新）</title>
+      <title>HP EliteBook 6 G2i 16 AI PC － Panther Lake搭載の16インチビジネスノートPC、セキュリティ機能も強力！</title>
+      <link>https://win-tab.net/hp/elitebook-6-g2i-16-ai-pc-2606242/</link>
+      <guid isPermaLink="false">https://win-tab.net/hp/elitebook-6-g2i-16-ai-pc-2606242/</guid>
+    </item>
+    <item>
+      <title>Arc G3シリーズ追加！ノートPC用CPU一覧 － Core Ultraシリーズ1 / 2 / 3、Arc G3シリーズ（6月25日更新）</title>
       <link>https://win-tab.net/opinion/mobile_cpu_list1/</link>
       <guid isPermaLink="false">https://win-tab.net/opinion/mobile_cpu_list1/</guid>
     </item>
     <item>
-      <title>HP EliteBook 6 G2i 16 AI PC － Panther Lake搭載の16インチビジネスノートPC、セキュリティ機能も強力！</title>
-      <link>https://win-tab.net/hp/elitebook-6-g2i-16-ai-pc-2606242/</link>
-      <guid isPermaLink="false">https://win-tab.net/hp/elitebook-6-g2i-16-ai-pc-2606242/</guid>
+      <title>サンワダイレクト 小型冷却ファン 400-CLN041 － コンパクトサイズで2つのファンを搭載するガジェット用冷却ファン</title>
+      <link>https://win-tab.net/acc/sanwa-400-cln041-2606252/</link>
+      <guid isPermaLink="false">https://win-tab.net/acc/sanwa-400-cln041-2606252/</guid>
     </item>
   </channel>
 </rss>

@@ -6,27 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 18:29:05 +0000</lastBuildDate>
-    <item>
-      <title>MINISFORUM、Core Ultra搭載ミニPCやRyzen AI Max+ 395搭載NASなど展示</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/event/2115307.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2115307.html</guid>
-    </item>
-    <item>
-      <title>「構図ミスったわ～」をAIで救済。Apple Intelligenceの新機能</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2115492.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2115492.html</guid>
-    </item>
-    <item>
-      <title>AIだけじゃない。iOS 27はアプリ起動高速化やカスタマイズ強化も</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2115493.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2115493.html</guid>
-    </item>
-    <item>
-      <title>駿河屋、ライブ配信向けマザー採用のGeForce RTX 5070 Ti搭載ゲーミングPC</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2115669.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2115669.html</guid>
-    </item>
+    <lastBuildDate>Thu, 25 Jun 2026 19:03:45 +0000</lastBuildDate>
     <item>
       <title>パソコン工房、対象PC購入で最大3万円分相当を還元する「超 ボーナス還元祭」</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2115690.html</link>
@@ -96,11 +76,6 @@
       <title>Ryzen 3搭載ミニPCが4万2,998円になるクーポン！Amazonで限定割引中</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/special/2116780.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2116780.html</guid>
-    </item>
-    <item>
-      <title>“何でもやってくれる”AIエージェント「OpenClaw」を試して知った魔力と怖さ</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2117008.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2117008.html</guid>
     </item>
     <item>
       <title>Mac紛失時のデータ漏洩を防ぐ「FileVault」はオンにすべき？</title>
@@ -256,6 +231,131 @@
       <title>Kindleの大画面モデルがついにカラー化。「Kindle Scribe Colorsoft」を試す</title>
       <link>https://pc.watch.impress.co.jp/docs/column/ebook/2119548.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/ebook/2119548.html</guid>
+    </item>
+    <item>
+      <title>4万円台でアクセサリ全部入り。Blackviewの12.2型タブ「MEGA 5」</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2119812.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2119812.html</guid>
+    </item>
+    <item>
+      <title>【特集】有機ELテレビをPCモニターに5年使った結果。避けられなかった焼き付きとその顛末</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2115770.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2115770.html</guid>
+    </item>
+    <item>
+      <title>【特集】“何でもやってくれる”AIエージェント「OpenClaw」を試して知った魔力と怖さ</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2117008.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2117008.html</guid>
+    </item>
+    <item>
+      <title>【コラム】ごめんLLM、もう君だけじゃ物足りない。気づけばOpenClaw沼にハマった話</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2117740.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2117740.html</guid>
+    </item>
+    <item>
+      <title>【特集】壊れて不要になったモニター、どう処分する？ 2つの方法を比較してみた</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2118387.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2118387.html</guid>
+    </item>
+    <item>
+      <title>【コラム】高性能メモリHBM、冷却用“煙突”が必要になる時代に突入</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/tidbit/2118676.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/tidbit/2118676.html</guid>
+    </item>
+    <item>
+      <title>JAPANNEXT、WQHD/280Hzの有機ELなど多機能スタンド搭載モニター4製品</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2119845.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2119845.html</guid>
+    </item>
+    <item>
+      <title>NVIDIAもAMDもなし。CPUだけで2.19EFLOPS達成した中国スパコンが首位</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2119870.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2119870.html</guid>
+    </item>
+    <item>
+      <title>空気が読めるようになった「GPT-5.5 Instant」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2119918.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2119918.html</guid>
+    </item>
+    <item>
+      <title>Core Ultra 9とRTX 5080搭載の18型/16型ゲーミングノート、日本エイサーから</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2119921.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2119921.html</guid>
+    </item>
+    <item>
+      <title>「Gemini 3.5 Flash」がコンピュータ利用対応。Sonnet 4.6やGPT-5.5に比肩</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2119957.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2119957.html</guid>
+    </item>
+    <item>
+      <title>LLM処理効率を最大475倍にする新技術。富士通が開発</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2119985.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2119985.html</guid>
+    </item>
+    <item>
+      <title>Qualcomm、HBMの6倍の電力効率を誇る新メモリ技術「HBC」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2120014.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2120014.html</guid>
+    </item>
+    <item>
+      <title>SteamOS最新版、AMD GPU搭載デスクトップとの互換性向上</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2120004.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2120004.html</guid>
+    </item>
+    <item>
+      <title>ロジクール、8,000Hzポーリングレートやホットスワップに対応した有線ゲーミングキーボード</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2118266.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2118266.html</guid>
+    </item>
+    <item>
+      <title>MSI、RGBストライプ構造のQD-OLEDを採用した34型湾曲ゲーミングモニター</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2120120.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2120120.html</guid>
+    </item>
+    <item>
+      <title>日本エイサー、Core 7 240HとRTX 50シリーズ搭載の16型ゲーミングノート4モデル</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2120139.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2120139.html</guid>
+    </item>
+    <item>
+      <title>1nm未満の微細化へ、IBMが「ナノスタック」技術の0.7nm世代で性能約50%向上</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2119895.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2119895.html</guid>
+    </item>
+    <item>
+      <title>まだ終わらんよ！Windows 10のサポートが1年延長。来年10月まで実質無料に</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2120164.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2120164.html</guid>
+    </item>
+    <item>
+      <title>MacとiPadが値上げ。MacBook Neoは11万9,800円からに</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2120193.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2120193.html</guid>
+    </item>
+    <item>
+      <title>Ryzen 7搭載ミニPCが約1万4千円オフで6万3,999円に</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2119835.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2119835.html</guid>
+    </item>
+    <item>
+      <title>32GBメモリ/1TB SSDのGeForce RTX 5060ゲーミングノートが3万円引き</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2119836.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2119836.html</guid>
+    </item>
+    <item>
+      <title>スナドラ搭載のAndroidポータブルゲーミング機が約1万7千円オフ</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2119843.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2119843.html</guid>
+    </item>
+    <item>
+      <title>5ベイの外付けSSD/HDDケースが4,600円オフ。RAID対応でmicroSDスロットも装備！</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2119866.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2119866.html</guid>
+    </item>
+    <item>
+      <title>レッドブル エナジードリンクの8本セットがセール中。オロナミンCやチオビタも値引きに</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2119881.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2119881.html</guid>
     </item>
   </channel>
 </rss>
