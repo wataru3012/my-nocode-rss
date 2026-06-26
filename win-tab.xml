@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 19:04:03 +0000</lastBuildDate>
-    <item>
-      <title>Lenovo セール情報 － 夏のボーナス直前セールがスタート、Ryzen AI 400搭載のCopilot+ PCが11万円台から！</title>
-      <link>https://win-tab.net/sale/lenovo-sale-2606061/</link>
-      <guid isPermaLink="false">https://win-tab.net/sale/lenovo-sale-2606061/</guid>
-    </item>
-    <item>
-      <title>Lenovo LOQ 15AHP11(15.3型 AMD) － GeForce RTX5070も搭載可能なゲーミングノート、もはやLOQはエントリーブランドではない？</title>
-      <link>https://win-tab.net/lenovo/loq-15ahp11-amd-2606062/</link>
-      <guid isPermaLink="false">https://win-tab.net/lenovo/loq-15ahp11-amd-2606062/</guid>
-    </item>
+    <lastBuildDate>Fri, 26 Jun 2026 18:26:00 +0000</lastBuildDate>
     <item>
       <title>BeelinkがストレージPC (NAS ミニPC)のME ProシリーズにRyzen AI 9など高性能CPU搭載のモデルを追加！</title>
       <link>https://win-tab.net/imported/beelink-me-pro-new-2606071/</link>
@@ -206,6 +196,16 @@
       <title>サンワダイレクト 小型冷却ファン 400-CLN041 － コンパクトサイズで2つのファンを搭載するガジェット用冷却ファン</title>
       <link>https://win-tab.net/acc/sanwa-400-cln041-2606252/</link>
       <guid isPermaLink="false">https://win-tab.net/acc/sanwa-400-cln041-2606252/</guid>
+    </item>
+    <item>
+      <title>Lenovo ThinkBook 14x (14型 Intel) － 重さ約990gの超軽量Copilot+ PC、Core Ultraシリーズ2搭載でお買い得感もあり</title>
+      <link>https://win-tab.net/lenovo/thinkbook-14x-intel-2606261/</link>
+      <guid isPermaLink="false">https://win-tab.net/lenovo/thinkbook-14x-intel-2606261/</guid>
+    </item>
+    <item>
+      <title>TECLASTのエントリータブレット「M50T」がAmazonで12,900円 (6月30日まで)、手軽な情報端末としていかが？</title>
+      <link>https://win-tab.net/sale/teclast-m50t-amazon-sale-2606262/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/teclast-m50t-amazon-sale-2606262/</guid>
     </item>
   </channel>
 </rss>
