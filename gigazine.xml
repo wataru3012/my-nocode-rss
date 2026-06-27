@@ -6,22 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jun 2026 18:26:59 +0000</lastBuildDate>
-    <item>
-      <title>「猫の鳴き声で音を出すピアノ」や「色で奏でる鍵盤楽器」など実在しない楽器ばかりを集めたオンライン博物館「Museum of Imaginary Musical Instruments」を巡ってみた</title>
-      <link>https://gigazine.net/news/20260531-museum-imaginary-musical-instruments/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260531-museum-imaginary-musical-instruments/</guid>
-    </item>
-    <item>
-      <title>無料でiPhone・iPad内で動くターミナルアプリ「a-Shell」を使ってみた、Pythonやyt-dlpなどのCLIツールを実行できてショートカット連携も可能</title>
-      <link>https://gigazine.net/news/20260601-a-shell/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260601-a-shell/</guid>
-    </item>
-    <item>
-      <title>医療従事者向けに作られたAI「OpenEvidence」に長年悩まされている症状について相談してみた</title>
-      <link>https://gigazine.net/news/20260601-openevidence-medical-ai-review/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260601-openevidence-medical-ai-review/</guid>
-    </item>
+    <lastBuildDate>Sat, 27 Jun 2026 17:57:56 +0000</lastBuildDate>
     <item>
       <title>ハイパー埼玉ギャル・春日部つむぎがデスクトップを盛り上げてくれる「Desktop Mate DLC『春日部つむぎ』」レビュー</title>
       <link>https://gigazine.net/news/20260604-desktop-mate-tsumugi-dlc/</link>
@@ -206,6 +191,21 @@
       <title>作家や批評家が選んだ「史上最高の小説100選」・空が青い理由などAmazonで売上トップ10のGIGAZINE記事ランキング2026年5月版はコレ！</title>
       <link>https://gigazine.net/news/20260627-gigazine-kindle-ranking-2026-05/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260627-gigazine-kindle-ranking-2026-05/</guid>
+    </item>
+    <item>
+      <title>無料でセルフホスト型のChatGPTやClaudeっぽいローカルAIワークスペースが実現できる「Odysseus」、ファイルアップロード・モデルダウンロード・ウェブ検索・メール/カレンダー連携が可能</title>
+      <link>https://gigazine.net/news/20260627-odysseus/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260627-odysseus/</guid>
+    </item>
+    <item>
+      <title>無料でChrome・Firefoxで訪問したウェブサイトを自動的にローカルに保存しインデックス化＆定期自動取得で最新状態を維持し続ける汎用検索エンジン「Hister」、セルフホスト可能でMCPサーバー化させてAIとの連携やローカルのファイル検索も実現</title>
+      <link>https://gigazine.net/news/20260627-hister/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260627-hister/</guid>
+    </item>
+    <item>
+      <title>無料で創作に生かせる3Dポーズ作成ツール「SetPose」</title>
+      <link>https://gigazine.net/news/20260627-setpose-3d/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260627-setpose-3d/</guid>
     </item>
   </channel>
 </rss>

@@ -6,17 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jun 2026 18:25:40 +0000</lastBuildDate>
-    <item>
-      <title>MSI、創立40周年特別デザインのRTX 5090搭載18型ゲーミングノート</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2116358.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116358.html</guid>
-    </item>
-    <item>
-      <title>日本エイサー、Core UltraとRTX 50シリーズ搭載のゲーミングノート4モデル</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2116399.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116399.html</guid>
-    </item>
+    <lastBuildDate>Sat, 27 Jun 2026 17:56:40 +0000</lastBuildDate>
     <item>
       <title>コーディングや動画編集に最高！おすすめの「2画面ノート」ってどんなもの？</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/special/2115136.html</link>
@@ -243,6 +233,11 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2117517.html</guid>
     </item>
     <item>
+      <title>2万6千円引き！Ryzen 5搭載ミニPCがクーポンで5万円台に</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/special/2119997.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2119997.html</guid>
+    </item>
+    <item>
       <title>【特集】有機ELテレビをPCモニターに5年使った結果。避けられなかった焼き付きとその顛末</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/feature/2115770.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2115770.html</guid>
@@ -266,16 +261,6 @@
       <title>【コラム】高性能メモリHBM、冷却用“煙突”が必要になる時代に突入</title>
       <link>https://pc.watch.impress.co.jp/docs/column/tidbit/2118676.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/tidbit/2118676.html</guid>
-    </item>
-    <item>
-      <title>進化した生成拡張で自然に画像を拡張する</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/1minute_photoshop/2120002.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/1minute_photoshop/2120002.html</guid>
-    </item>
-    <item>
-      <title>170言語対応の「Mistral OCR 4」発表。領域分類も高精度に</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2120234.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2120234.html</guid>
     </item>
     <item>
       <title>6月26日は「ノートパソコンの日」。日本記念日協会が認定</title>
@@ -318,14 +303,24 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2120513.html</guid>
     </item>
     <item>
-      <title>Xiaomiの最新ハイエンドスマホが6,001円引き！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2120232.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2120232.html</guid>
+      <title>10万円以下の「iPhone 17e」、15/16から乗り換えるべき理由と注意点</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2120318.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2120318.html</guid>
     </item>
     <item>
-      <title>コンパクトな8型Androidタブレットが約1,500円引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2120250.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2120250.html</guid>
+      <title>リアル「ほんやくコンニャク」だ！Googleライブ翻訳の爆速レスポンスに驚いた</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2120324.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2120324.html</guid>
+    </item>
+    <item>
+      <title>Claude Mythos 5が米一部企業で利用可能に。Fable 5の一般再開はまだ</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2120573.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2120573.html</guid>
+    </item>
+    <item>
+      <title>OpenAI、Fable 5とMythos 5超えうたう「GPT-5.6」発表。ただし、米政府要求で限定公開</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2120574.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2120574.html</guid>
     </item>
     <item>
       <title>BOSEのワイヤレススピーカーが約1万円オトクなセール中！</title>
@@ -341,6 +336,16 @@
       <title>CoCo壱のコクとうまみのまろやかカレー24食セットが約2,700円オトク！</title>
       <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2120319.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2120319.html</guid>
+    </item>
+    <item>
+      <title>2万9,400円引き！レノボのRTX 5060ゲーミングノートがAmazonで割引</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2120576.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2120576.html</guid>
+    </item>
+    <item>
+      <title>DDR5メモリが3万円弱の割引！CORSAIR製32GBがAmazonでセール</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2120578.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2120578.html</guid>
     </item>
   </channel>
 </rss>

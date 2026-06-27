@@ -6,7 +6,7 @@
     <description>PC-Freedom</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jun 2026 18:25:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 17:56:48 +0000</lastBuildDate>
     <item>
       <title>RebornOS： カスタマイズ性と柔軟性を重視した Arch Linux ベースのディストリビューション</title>
       <link>https://pc-freedom.net/linux/about-rebornos/</link>
@@ -128,11 +128,6 @@
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-debian/</guid>
     </item>
     <item>
-      <title>Fedora とは？最新技術をいち早く体験できるアメリカ生まれの Linux</title>
-      <link>https://pc-freedom.net/basic/what-is-fedora-2/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-fedora-2/</guid>
-    </item>
-    <item>
       <title>openSUSE とは？派手さよりも管理しやすさで選ぶドイツ生まれの Linux</title>
       <link>https://pc-freedom.net/basic/what-is-opensuse/</link>
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-opensuse/</guid>
@@ -186,6 +181,11 @@
       <title>Gentoo Linux とは？自分で組み上げる Linux が教えてくれる自由の世界</title>
       <link>https://pc-freedom.net/basic/what-is-gentoo-linux/</link>
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-gentoo-linux/</guid>
+    </item>
+    <item>
+      <title>Slackware とは？今も残る Linux の原点と、その不便な自由</title>
+      <link>https://pc-freedom.net/basic/what-is-slackware/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-slackware/</guid>
     </item>
   </channel>
 </rss>
