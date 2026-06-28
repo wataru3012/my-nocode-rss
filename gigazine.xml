@@ -6,27 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Jun 2026 17:57:56 +0000</lastBuildDate>
-    <item>
-      <title>ハイパー埼玉ギャル・春日部つむぎがデスクトップを盛り上げてくれる「Desktop Mate DLC『春日部つむぎ』」レビュー</title>
-      <link>https://gigazine.net/news/20260604-desktop-mate-tsumugi-dlc/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260604-desktop-mate-tsumugi-dlc/</guid>
-    </item>
-    <item>
-      <title>無料でiPhone・iPadから直接YouTubeの動画をダウンロードして保存できる「SW-DLT」、YouTubeアプリから数タップでダウンロード可能</title>
-      <link>https://gigazine.net/news/20260605-sw-dlt-youtube-download/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260605-sw-dlt-youtube-download/</guid>
-    </item>
-    <item>
-      <title>AIになりきって他人の質問に回答できるチャットボット「Your AI Slop Bores Me」</title>
-      <link>https://gigazine.net/news/20260606-your-ai-slop-bores-me/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260606-your-ai-slop-bores-me/</guid>
-    </item>
-    <item>
-      <title>音割れをリアルタイム防止＆USB接続でプロ品質の音声収録を簡単に実現できるElgatoの高性能マイク「Wave:3 MK.2」レビュー</title>
-      <link>https://gigazine.net/news/20260606-elgato-wave-3-mk-2/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260606-elgato-wave-3-mk-2/</guid>
-    </item>
+    <lastBuildDate>Sun, 28 Jun 2026 18:01:29 +0000</lastBuildDate>
     <item>
       <title>無料で自分のPCで動かせるローカルAIモデルがわかる「LLM Checker」</title>
       <link>https://gigazine.net/news/20260606-llm-checker/</link>
@@ -206,6 +186,26 @@
       <title>無料で創作に生かせる3Dポーズ作成ツール「SetPose」</title>
       <link>https://gigazine.net/news/20260627-setpose-3d/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260627-setpose-3d/</guid>
+    </item>
+    <item>
+      <title>無料でAI最適化「AEO」をChatGPT・Google AI Overviews・Perplexity・Gemini・Copilot・Grokなどで確認できる「Elmo」、オープンソースで開発されセルフホスト可能</title>
+      <link>https://gigazine.net/news/20260628-elmo/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260628-elmo/</guid>
+    </item>
+    <item>
+      <title>カシオ計算機が「自然な聞こえ」を目指す新ブランド「earU」第1弾のワイヤレスイヤホン「ER-100」外観レビュー</title>
+      <link>https://gigazine.net/news/20260628-casio-earu-er-100-appearance/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260628-casio-earu-er-100-appearance/</guid>
+    </item>
+    <item>
+      <title>脱獄不要＆Mac不要でiPhoneに野良アプリをインストールできる「SideStore」の導入手順まとめ</title>
+      <link>https://gigazine.net/news/20260628-sidestore-sideloading-ios/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260628-sidestore-sideloading-ios/</guid>
+    </item>
+    <item>
+      <title>iPhoneでFirefox用拡張機能を使えるウェブブラウザ「Reynard」のインストール手順、WebKitではなくGeckoを搭載した野良アプリ</title>
+      <link>https://gigazine.net/news/20260628-reynard-ios-gecko-browser/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260628-reynard-ios-gecko-browser/</guid>
     </item>
   </channel>
 </rss>
