@@ -6,17 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Jun 2026 18:00:23 +0000</lastBuildDate>
-    <item>
-      <title>コーディングや動画編集に最高！おすすめの「2画面ノート」ってどんなもの？</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/special/2115136.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2115136.html</guid>
-    </item>
-    <item>
-      <title>PC高すぎ問題へのアンチテーゼ！あえて「3年前のスペック」で作られた10万円ミニPCの実力</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2116566.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2116566.html</guid>
-    </item>
+    <lastBuildDate>Mon, 29 Jun 2026 19:00:13 +0000</lastBuildDate>
     <item>
       <title>AIゲーム制作も体験できる「FMVパソコン組み立て教室」が8月開催</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2116609.html</link>
@@ -256,6 +246,16 @@
       <title>2万6千円引き！Ryzen 5搭載ミニPCがクーポンで5万円台に</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/special/2119997.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2119997.html</guid>
+    </item>
+    <item>
+      <title>いつの間にか16型もモバイルノートに!? 大画面・軽いが両立するノートPCの正体は？</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/special/2119127.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2119127.html</guid>
+    </item>
+    <item>
+      <title>マウス、「PRAGMATA」動作確認済みのゲーミングPC 3機種</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2120882.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2120882.html</guid>
     </item>
   </channel>
 </rss>

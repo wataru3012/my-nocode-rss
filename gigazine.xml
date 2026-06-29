@@ -6,12 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Jun 2026 18:01:29 +0000</lastBuildDate>
-    <item>
-      <title>無料で自分のPCで動かせるローカルAIモデルがわかる「LLM Checker」</title>
-      <link>https://gigazine.net/news/20260606-llm-checker/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260606-llm-checker/</guid>
-    </item>
+    <lastBuildDate>Mon, 29 Jun 2026 19:01:32 +0000</lastBuildDate>
     <item>
       <title>モバイルルーター「Beryl 7」上でAdGuardを動かしあらゆるアプリで広告ブロック＆スマホをつないでUSBテザリングなどさまざまな機能を試してみたよレビュー</title>
       <link>https://gigazine.net/news/20260606-beryl-7-adguard/</link>
@@ -206,6 +201,11 @@
       <title>iPhoneでFirefox用拡張機能を使えるウェブブラウザ「Reynard」のインストール手順、WebKitではなくGeckoを搭載した野良アプリ</title>
       <link>https://gigazine.net/news/20260628-reynard-ios-gecko-browser/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260628-reynard-ios-gecko-browser/</guid>
+    </item>
+    <item>
+      <title>自作の量子乱数生成器を使った占いアプリ「A Quantum Magic 8-Ball」</title>
+      <link>https://gigazine.net/news/20260629-a-quantum-magic-8-ball/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260629-a-quantum-magic-8-ball/</guid>
     </item>
   </channel>
 </rss>
