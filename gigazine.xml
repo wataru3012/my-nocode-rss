@@ -6,12 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Jun 2026 19:01:32 +0000</lastBuildDate>
-    <item>
-      <title>モバイルルーター「Beryl 7」上でAdGuardを動かしあらゆるアプリで広告ブロック＆スマホをつないでUSBテザリングなどさまざまな機能を試してみたよレビュー</title>
-      <link>https://gigazine.net/news/20260606-beryl-7-adguard/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260606-beryl-7-adguard/</guid>
-    </item>
+    <lastBuildDate>Tue, 30 Jun 2026 18:53:00 +0000</lastBuildDate>
     <item>
       <title>無料でファイル・メモ共有ができ日本語化済みの「SkySend」、有効期限や最大ダウンロード数で自動削除設定でき、エンドツーエンド暗号化をサポートしてオープンソースでセルフホスト可能</title>
       <link>https://gigazine.net/news/20260606-skysend/</link>
@@ -188,7 +183,7 @@
       <guid isPermaLink="false">https://gigazine.net/news/20260628-elmo/</guid>
     </item>
     <item>
-      <title>カシオ計算機が「自然な聞こえ」を目指す新ブランド「earU」第1弾のワイヤレスイヤホン「ER-100」外観レビュー</title>
+      <title>カシオ計算機が「自然な聞こえ」を目指す新ブランド「earU」第1弾のヒアリングアシストイヤホン「ER-100」外観レビュー</title>
       <link>https://gigazine.net/news/20260628-casio-earu-er-100-appearance/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260628-casio-earu-er-100-appearance/</guid>
     </item>
@@ -206,6 +201,11 @@
       <title>自作の量子乱数生成器を使った占いアプリ「A Quantum Magic 8-Ball」</title>
       <link>https://gigazine.net/news/20260629-a-quantum-magic-8-ball/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260629-a-quantum-magic-8-ball/</guid>
+    </item>
+    <item>
+      <title>あのキズナアイをデスクトップ上に配置してモーションを観察＆ボイスを楽しめる「Desktop Mate キズナアイ DLC」レビュー</title>
+      <link>https://gigazine.net/news/20260630-desktop-mate-kizuna-ai/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260630-desktop-mate-kizuna-ai/</guid>
     </item>
   </channel>
 </rss>

@@ -6,32 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Jun 2026 19:00:13 +0000</lastBuildDate>
-    <item>
-      <title>AIゲーム制作も体験できる「FMVパソコン組み立て教室」が8月開催</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2116609.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116609.html</guid>
-    </item>
-    <item>
-      <title>MINISFORUM、最大200TBも可能なRyzen AI Max搭載NASキット</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2116653.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116653.html</guid>
-    </item>
-    <item>
-      <title>小中高生向け「手づくりレッツノート工房」、最新SC7/FC7の組み立て体験</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2116689.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116689.html</guid>
-    </item>
-    <item>
-      <title>Core i9-14900HX搭載ミニPCが11万円台。ACEMAGIC 4周年記念セール</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2116696.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2116696.html</guid>
-    </item>
-    <item>
-      <title>半固体バッテリ採用の10.1型2in1、FRONTIERから発売</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2116763.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2116763.html</guid>
-    </item>
+    <lastBuildDate>Tue, 30 Jun 2026 18:51:43 +0000</lastBuildDate>
     <item>
       <title>「MacBook Neo」は買いか？9.9万円の衝撃と20万円台「M5 Air」との埋められない差</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2116775.html</link>
@@ -256,6 +231,31 @@
       <title>マウス、「PRAGMATA」動作確認済みのゲーミングPC 3機種</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2120882.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2120882.html</guid>
+    </item>
+    <item>
+      <title>マウス、ビジネス向けのRyzen搭載14型モバイルノート。15.6型も新発売</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2121073.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2121073.html</guid>
+    </item>
+    <item>
+      <title>マウス不要でMacを爆速操作！新世代ランチャー「Tuna」登場</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/macinfo/2121019.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/macinfo/2121019.html</guid>
+    </item>
+    <item>
+      <title>マウス、DAIV 10周年で柊マグネタイトとコラボ。特別モデルのPCも発売</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2121084.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2121084.html</guid>
+    </item>
+    <item>
+      <title>日本エイサー、Core Ultraシリーズ3搭載で薄型軽量な14型モバイルノート</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2121238.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2121238.html</guid>
+    </item>
+    <item>
+      <title>レノボ、スピーカー9基/キックスタンド搭載のエンタメ向け12.1型タブレット</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2121106.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2121106.html</guid>
     </item>
   </channel>
 </rss>
