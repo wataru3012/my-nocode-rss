@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Jun 2026 18:52:02 +0000</lastBuildDate>
-    <item>
-      <title>WUBEN G5 レビュー － ずっしりとした塊感！コンパクトで高輝度なフラッシュライト</title>
-      <link>https://win-tab.net/acc/wuben-g5-review-2606102/</link>
-      <guid isPermaLink="false">https://win-tab.net/acc/wuben-g5-review-2606102/</guid>
-    </item>
-    <item>
-      <title>ThinkPad Tシリーズ比較（2026）－ ワイドバリエーションで据え置きにもモバイルにも対応、用途別の最適モデルは？</title>
-      <link>https://win-tab.net/lenovo/thinkpad_t_series_comparison_2026/</link>
-      <guid isPermaLink="false">https://win-tab.net/lenovo/thinkpad_t_series_comparison_2026/</guid>
-    </item>
+    <lastBuildDate>Wed, 01 Jul 2026 18:56:57 +0000</lastBuildDate>
     <item>
       <title>Logicool Mobi Fold － 折りたたみ式のワイヤレスマウス、機能性にも妥協なし！</title>
       <link>https://win-tab.net/acc/logicool-mobi-fold-2606112/</link>
@@ -206,6 +196,16 @@
       <title>Lenovo Tab Plus Gen 2 － JBLスピーカーを9ユニット搭載！音にこだわる人向けの個性派タブレット</title>
       <link>https://win-tab.net/android/lenovo-tab-plus-gen-2-2606302/</link>
       <guid isPermaLink="false">https://win-tab.net/android/lenovo-tab-plus-gen-2-2606302/</guid>
+    </item>
+    <item>
+      <title>TECLAST P30T (2026) － 10.1インチのエントリータブレットがリニューアル、7月6日までクーポン利用で13,900円</title>
+      <link>https://win-tab.net/android/teclast-p30t-2026-2607011/</link>
+      <guid isPermaLink="false">https://win-tab.net/android/teclast-p30t-2026-2607011/</guid>
+    </item>
+    <item>
+      <title>ASUS Chromebook CM14 (CM1405) / CM15 (CM1505) － 最新SoCを搭載するChromebook、6万円台から購入できます</title>
+      <link>https://win-tab.net/asus/chromebook-cm14-cm15-2607012/</link>
+      <guid isPermaLink="false">https://win-tab.net/asus/chromebook-cm14-cm15-2607012/</guid>
     </item>
   </channel>
 </rss>

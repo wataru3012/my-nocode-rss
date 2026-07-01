@@ -6,12 +6,7 @@
     <description>格安ガジェットブログ</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Jun 2026 18:51:17 +0000</lastBuildDate>
-    <item>
-      <title>国産スマホとかもうオワコンだろ</title>
-      <link>https://yasugad.hatenablog.com/entry/2025/10/06/190000</link>
-      <guid isPermaLink="false">https://yasugad.hatenablog.com/entry/2025/10/06/190000</guid>
-    </item>
+    <lastBuildDate>Wed, 01 Jul 2026 18:56:13 +0000</lastBuildDate>
     <item>
       <title>そろそろスマホを買い替えたいので候補を考察</title>
       <link>https://yasugad.hatenablog.com/entry/2025/10/08/190000</link>
@@ -606,6 +601,11 @@
       <title>遊戯王 マスターデュエル 2026年6月の評価</title>
       <link>https://yasugad.hatenablog.com/entry/2026/06/29/190000</link>
       <guid isPermaLink="false">https://yasugad.hatenablog.com/entry/2026/06/29/190000</guid>
+    </item>
+    <item>
+      <title>Steam Machineについて解説 ついに発売開始したけど正直これはいらないと思った</title>
+      <link>https://yasugad.hatenablog.com/entry/2026/07/01/190000</link>
+      <guid isPermaLink="false">https://yasugad.hatenablog.com/entry/2026/07/01/190000</guid>
     </item>
   </channel>
 </rss>
