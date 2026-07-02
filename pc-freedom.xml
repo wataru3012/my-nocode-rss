@@ -6,7 +6,7 @@
     <description>PC-Freedom</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Jul 2026 18:56:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 18:24:00 +0000</lastBuildDate>
     <item>
       <title>【実機レビュー】Intehill T10PA｜これ、小さいけれど高解像度のポータブルモニター</title>
       <link>https://pc-freedom.net/review/intehill-t10pa/</link>
@@ -66,11 +66,6 @@
       <title>Linux を使うのにちょうど良いノート PC がほしい | ACEMAGIC TX15 実機レビュー</title>
       <link>https://pc-freedom.net/today_pc_story/acemagic-tx15-review/</link>
       <guid isPermaLink="false">https://pc-freedom.net/today_pc_story/acemagic-tx15-review/</guid>
-    </item>
-    <item>
-      <title>Linux を使うのにちょうど良いファンレスミニ PC | HiMeLE Quieter 4C N150 実機レビュー</title>
-      <link>https://pc-freedom.net/today_pc_story/linux-%e3%82%92%e4%bd%bf%e3%81%86%e3%81%ae%e3%81%ab%e3%81%a1%e3%82%87%e3%81%86%e3%81%a9%e8%89%af%e3%81%84%e3%83%95%e3%82%a1%e3%83%b3%e3%83%ac%e3%82%b9%e3%83%9f%e3%83%8b-pc-himele-quieter-4c-n150/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/today_pc_story/linux-%e3%82%92%e4%bd%bf%e3%81%86%e3%81%ae%e3%81%ab%e3%81%a1%e3%82%87%e3%81%86%e3%81%a9%e8%89%af%e3%81%84%e3%83%95%e3%82%a1%e3%83%b3%e3%83%ac%e3%82%b9%e3%83%9f%e3%83%8b-pc-himele-quieter-4c-n150/</guid>
     </item>
     <item>
       <title>BIOS ロックを解除する！マスターパスワード生成サービスを試してみよう</title>
@@ -186,6 +181,11 @@
       <title>Bodhi Linux とは？古い PC に“軽さと個性”を取り戻す Ubuntu 系 Linux</title>
       <link>https://pc-freedom.net/basic/what-is-bodhi-linux/</link>
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-bodhi-linux/</guid>
+    </item>
+    <item>
+      <title>Void Linux とは？Arch でも Debian でも systemd でもない、もうひとつの Linux の道</title>
+      <link>https://pc-freedom.net/today_pc_story/what-is-void-linux/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/today_pc_story/what-is-void-linux/</guid>
     </item>
   </channel>
 </rss>
