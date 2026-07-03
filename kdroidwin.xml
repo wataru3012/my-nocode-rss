@@ -6,27 +6,7 @@
     <description>kdroidwin</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jul 2026 18:25:00 +0000</lastBuildDate>
-    <item>
-      <title>SimpleX Chat の連絡先変わってます。</title>
-      <link>https://kdroidwin.hatenablog.com/entry/2025/12/08/140539</link>
-      <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2025/12/08/140539</guid>
-    </item>
-    <item>
-      <title>Portmaster 最強クラスの個人環境で使えるオープンソースの通信制御ツール</title>
-      <link>https://kdroidwin.hatenablog.com/entry/2025/12/11/104219</link>
-      <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2025/12/11/104219</guid>
-    </item>
-    <item>
-      <title>EeveeSpotifyReborn 開発終了</title>
-      <link>https://kdroidwin.hatenablog.com/entry/2025/12/30/092605</link>
-      <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2025/12/30/092605</guid>
-    </item>
-    <item>
-      <title>没記事 没ネタ 一覧  ’25</title>
-      <link>https://kdroidwin.hatenablog.com/entry/2025/12/31/193224</link>
-      <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2025/12/31/193224</guid>
-    </item>
+    <lastBuildDate>Fri, 03 Jul 2026 18:10:02 +0000</lastBuildDate>
     <item>
       <title>Revanced Extended 開発終了</title>
       <link>https://kdroidwin.hatenablog.com/entry/2026/01/01/090114</link>
@@ -456,6 +436,26 @@
       <title>開発に使うためのお金が欲しいです。</title>
       <link>https://kdroidwin.hatenablog.com/entry/2026/06/23/190103</link>
       <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2026/06/23/190103</guid>
+    </item>
+    <item>
+      <title>今まで非公開にしてきたファイルを限定公開します。</title>
+      <link>https://kdroidwin.hatenablog.com/entry/2026/07/03/101824</link>
+      <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2026/07/03/101824</guid>
+    </item>
+    <item>
+      <title>Gmaps A　GmapsWV用の経路ウィジェットアプリ</title>
+      <link>https://kdroidwin.hatenablog.com/entry/2026/07/03/102419</link>
+      <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2026/07/03/102419</guid>
+    </item>
+    <item>
+      <title>Actually Legitimate URL Shortener ToolがuBlock Origin Liteでの使用を拒否</title>
+      <link>https://kdroidwin.hatenablog.com/entry/2026/07/03/145748</link>
+      <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2026/07/03/145748</guid>
+    </item>
+    <item>
+      <title>同期歌詞を自動生成するソフト  CTCLRCをリリース</title>
+      <link>https://kdroidwin.hatenablog.com/entry/2026/07/03/200047</link>
+      <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2026/07/03/200047</guid>
     </item>
   </channel>
 </rss>

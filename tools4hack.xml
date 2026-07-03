@@ -6,7 +6,7 @@
     <description>tools4hack</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jul 2026 18:24:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 18:09:43 +0000</lastBuildDate>
     <item>
       <title>Windows版「AltServer」がv1.7.3へアップデート、AltStoreでのエラー「1100 / -22410」」問題を修正</title>
       <link>https://tools4hack.santalab.me/update-altserver-for-windows-173-fix-error-1100-22410.html</link>

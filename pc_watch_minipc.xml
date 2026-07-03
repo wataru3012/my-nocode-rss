@@ -6,42 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jul 2026 18:23:51 +0000</lastBuildDate>
-    <item>
-      <title>上下2画面で別次元のゲーム体験！5090を積んだROG Zephyrus Duoが楽しい</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/short-review/2117370.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/short-review/2117370.html</guid>
-    </item>
-    <item>
-      <title>15万円台から、シリーズ最薄最軽量の13.4型ノート「XPS 13」本日国内発売</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2117415.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2117415.html</guid>
-    </item>
-    <item>
-      <title>Core Ultra 5とGeForce RTX 5060/5070のゲーミングPC、パソコン工房から</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/special/2117417.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2117417.html</guid>
-    </item>
-    <item>
-      <title>デル、14型と16型のモバイルワークステーション</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2117484.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2117484.html</guid>
-    </item>
-    <item>
-      <title>マウスが「親子パソコン組み立て教室」を8月開催。花火大会も楽しめる</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2117580.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2117580.html</guid>
-    </item>
-    <item>
-      <title>ローカルAIで攻略も。Arc G3 Extreme搭載の新生ONEXPLAYER</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2117610.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2117610.html</guid>
-    </item>
-    <item>
-      <title>Microsoft、GPU性能5割増のSnapdragon X2搭載「Surface Pro/Laptop」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2117636.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2117636.html</guid>
-    </item>
+    <lastBuildDate>Fri, 03 Jul 2026 18:08:46 +0000</lastBuildDate>
     <item>
       <title>XPS 13が日本でMacBook Neoキラー価格にならなかったワケ</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2117717.html</link>
@@ -256,6 +221,116 @@
       <title>天空、数量限定でCore 3 N350搭載の7型UMPC「GPD MicroPC 2」</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2121984.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2121984.html</guid>
+    </item>
+    <item>
+      <title>ほぼ同価格でSteam Machineを凌駕！SteamOSでゲーミングPCを自作してみた</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2121983.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2121983.html</guid>
+    </item>
+    <item>
+      <title>8万7千円引きでほぼ半額！Ryzen 7搭載ミニPCがAmazonセール</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/special/2121777.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2121777.html</guid>
+    </item>
+    <item>
+      <title>【特集】有機ELテレビをPCモニターに5年使った結果。避けられなかった焼き付きとその顛末</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2115770.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2115770.html</guid>
+    </item>
+    <item>
+      <title>【特集】“何でもやってくれる”AIエージェント「OpenClaw」を試して知った魔力と怖さ</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2117008.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2117008.html</guid>
+    </item>
+    <item>
+      <title>【コラム】ごめんLLM、もう君だけじゃ物足りない。気づけばOpenClaw沼にハマった話</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2117740.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2117740.html</guid>
+    </item>
+    <item>
+      <title>【特集】壊れて不要になったモニター、どう処分する？ 2つの方法を比較してみた</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2118387.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2118387.html</guid>
+    </item>
+    <item>
+      <title>【コラム】高性能メモリHBM、冷却用“煙突”が必要になる時代に突入</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/tidbit/2118676.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/tidbit/2118676.html</guid>
+    </item>
+    <item>
+      <title>パソコン工房、270HX Plus+RTX 5070搭載のゲーミングノート</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2122090.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2122090.html</guid>
+    </item>
+    <item>
+      <title>Core Ultra 7 270K Plus/5 250K Plusが最大50ドルの値上げ</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2122119.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2122119.html</guid>
+    </item>
+    <item>
+      <title>ディズニーコラボのVAIO F14/F16に「トイ・ストーリー」モデル登場</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2122114.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2122114.html</guid>
+    </item>
+    <item>
+      <title>ASUS、Snapdragon X2搭載の「Zenbook SORA 16」にメモリ24GBモデル</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2122135.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2122135.html</guid>
+    </item>
+    <item>
+      <title>Claude Pro/MaxプランでもWebアプリ共有機能「Artifacts」が利用可能に</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2122167.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2122167.html</guid>
+    </item>
+    <item>
+      <title>Samsung、最大リード10.8GB/sのUFS 5.0フラッシュ</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2122212.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2122212.html</guid>
+    </item>
+    <item>
+      <title>Windows 11プレビューパッチ、すぐ適用すべき。SSDが数十GB消費される不具合解消</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2122217.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2122217.html</guid>
+    </item>
+    <item>
+      <title>パソコン工房、Core UltraとGeForce RTX 5090/80搭載の18型ゲーミングノート</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2122238.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2122238.html</guid>
+    </item>
+    <item>
+      <title>Intel N100搭載の12型着脱式2in1、aiwaから</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2122329.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2122329.html</guid>
+    </item>
+    <item>
+      <title>ゆうパック10月値上げ、170サイズは最大20%増</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2122381.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2122381.html</guid>
+    </item>
+    <item>
+      <title>999gのLG薄型ノートが約4万9千円引きでオトク！</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2122091.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2122091.html</guid>
+    </item>
+    <item>
+      <title>MSIの26.5型OLEDゲーミングモニターが2万円引き！</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2122126.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2122126.html</guid>
+    </item>
+    <item>
+      <title>Wi-Fi 7メッシュルーターの2台セットが1万6,800円で販売中</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2122137.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2122137.html</guid>
+    </item>
+    <item>
+      <title>タイガー魔法瓶の電気ケトルが1,500円引きで販売中</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2122156.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2122156.html</guid>
+    </item>
+    <item>
+      <title>にくきゅうで癒されるぷにぷに食感のグミ6袋セットがオトク！</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2122165.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2122165.html</guid>
     </item>
   </channel>
 </rss>

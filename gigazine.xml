@@ -6,12 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jul 2026 18:24:59 +0000</lastBuildDate>
-    <item>
-      <title>無料でファイル・メモ共有ができ日本語化済みの「SkySend」、有効期限や最大ダウンロード数で自動削除設定でき、エンドツーエンド暗号化をサポートしてオープンソースでセルフホスト可能</title>
-      <link>https://gigazine.net/news/20260606-skysend/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260606-skysend/</guid>
-    </item>
+    <lastBuildDate>Fri, 03 Jul 2026 18:10:00 +0000</lastBuildDate>
     <item>
       <title>無料でタイムボックスと時間追跡が使える高度なToDoリストアプリ「Super Productivity」、セルフホスト可能でカレンダー・Jira・GitHubなどからタスクをインポート可能</title>
       <link>https://gigazine.net/news/20260607-super-productivity/</link>
@@ -206,6 +201,11 @@
       <title>あのキズナアイをデスクトップ上に配置してモーションを観察＆ボイスを楽しめる「Desktop Mate キズナアイ DLC」レビュー</title>
       <link>https://gigazine.net/news/20260630-desktop-mate-kizuna-ai/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260630-desktop-mate-kizuna-ai/</guid>
+    </item>
+    <item>
+      <title>Steam公式ゲーミングPC「Steam Machine」を買って届いたので開封の儀、大きさや搭載ポートを詳しくチェックしてみたよレビュー</title>
+      <link>https://gigazine.net/news/20260703-steam-machine-appearance/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260703-steam-machine-appearance/</guid>
     </item>
   </channel>
 </rss>
