@@ -6,12 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Jul 2026 18:08:46 +0000</lastBuildDate>
-    <item>
-      <title>XPS 13が日本でMacBook Neoキラー価格にならなかったワケ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2117717.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2117717.html</guid>
-    </item>
+    <lastBuildDate>Sat, 04 Jul 2026 17:58:23 +0000</lastBuildDate>
     <item>
       <title>1.1kgで2層OLED搭載、ゲームも爆速。14型「ASUS ExpertBook Ultra」</title>
       <link>https://pc.watch.impress.co.jp/docs/column/hothot/2117757.html</link>
@@ -233,6 +228,16 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2121777.html</guid>
     </item>
     <item>
+      <title>パソコン工房、270HX Plus+RTX 5070搭載のゲーミングノート</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2122090.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2122090.html</guid>
+    </item>
+    <item>
+      <title>ディズニーコラボのVAIO F14/F16に「トイ・ストーリー」モデル登場</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2122114.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2122114.html</guid>
+    </item>
+    <item>
       <title>【特集】有機ELテレビをPCモニターに5年使った結果。避けられなかった焼き付きとその顛末</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/feature/2115770.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2115770.html</guid>
@@ -256,21 +261,6 @@
       <title>【コラム】高性能メモリHBM、冷却用“煙突”が必要になる時代に突入</title>
       <link>https://pc.watch.impress.co.jp/docs/column/tidbit/2118676.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/tidbit/2118676.html</guid>
-    </item>
-    <item>
-      <title>パソコン工房、270HX Plus+RTX 5070搭載のゲーミングノート</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2122090.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2122090.html</guid>
-    </item>
-    <item>
-      <title>Core Ultra 7 270K Plus/5 250K Plusが最大50ドルの値上げ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2122119.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2122119.html</guid>
-    </item>
-    <item>
-      <title>ディズニーコラボのVAIO F14/F16に「トイ・ストーリー」モデル登場</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2122114.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2122114.html</guid>
     </item>
     <item>
       <title>ASUS、Snapdragon X2搭載の「Zenbook SORA 16」にメモリ24GBモデル</title>
@@ -308,19 +298,19 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2122381.html</guid>
     </item>
     <item>
-      <title>999gのLG薄型ノートが約4万9千円引きでオトク！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2122091.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2122091.html</guid>
+      <title>さすがMacBook Pro M5 Max！秒間100トークン超え、画像生成4.4倍でM5とProを蹴散らす</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2122407.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2122407.html</guid>
     </item>
     <item>
-      <title>MSIの26.5型OLEDゲーミングモニターが2万円引き！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2122126.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2122126.html</guid>
+      <title>さよならレバー。 格ゲー界を席巻する「レバーレス」の歴史とおすすめ7選</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2122408.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2122408.html</guid>
     </item>
     <item>
-      <title>Wi-Fi 7メッシュルーターの2台セットが1万6,800円で販売中</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2122137.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2122137.html</guid>
+      <title>激安2.3万円“4K超え”28型モニター「CRUA CR280HDM」に落とし穴はないのか!?実機チェック</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2122409.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2122409.html</guid>
     </item>
     <item>
       <title>タイガー魔法瓶の電気ケトルが1,500円引きで販売中</title>
@@ -331,6 +321,21 @@
       <title>にくきゅうで癒されるぷにぷに食感のグミ6袋セットがオトク！</title>
       <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2122165.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2122165.html</guid>
+    </item>
+    <item>
+      <title>ソニーの55型4K液晶テレビが5万2,000円引き！50/43型もAmazonでセール中</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2122425.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2122425.html</guid>
+    </item>
+    <item>
+      <title>ハーマンミラーの高級チェアが2万3,320円引き。Amazonセール</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2122427.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2122427.html</guid>
+    </item>
+    <item>
+      <title>「アーロンチェア」が約5万3千円オフ！Amazonでセール中</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2122433.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2122433.html</guid>
     </item>
   </channel>
 </rss>
