@@ -6,17 +6,7 @@
     <description>tools4hack</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Jul 2026 17:58:25 +0000</lastBuildDate>
-    <item>
-      <title>Windows版「AltServer」がv1.7.3へアップデート、AltStoreでのエラー「1100 / -22410」」問題を修正</title>
-      <link>https://tools4hack.santalab.me/update-altserver-for-windows-173-fix-error-1100-22410.html</link>
-      <guid isPermaLink="false">https://tools4hack.santalab.me/update-altserver-for-windows-173-fix-error-1100-22410.html</guid>
-    </item>
-    <item>
-      <title>「iOS 26.3」＆「iPadOS 26.3」へアップデート、重要なバグ修正とセキュリティアップデートを実施</title>
-      <link>https://tools4hack.santalab.me/ios263-ipados263-release.html</link>
-      <guid isPermaLink="false">https://tools4hack.santalab.me/ios263-ipados263-release.html</guid>
-    </item>
+    <lastBuildDate>Mon, 06 Jul 2026 18:53:18 +0000</lastBuildDate>
     <item>
       <title>iOS 18.xでサポート終了のデバイス向けに「iOS 18.7.5」＆「iPadOS 18.7.5」がリリース、重要なセキュリティ修正を実施</title>
       <link>https://tools4hack.santalab.me/ios1875-ipados1875-release.html</link>
@@ -256,6 +246,16 @@
       <title>「iOS 26.5.2」＆「iPadOS 26.5.2」がリリース、セキュリティアップデートを実施</title>
       <link>https://tools4hack.santalab.me/ios2652-ipados2652-release.html</link>
       <guid isPermaLink="false">https://tools4hack.santalab.me/ios2652-ipados2652-release.html</guid>
+    </item>
+    <item>
+      <title>テスター向けに「iOS 26.6 Beta 4」＆「iPadOS 26.6 Beta 4」がリリース、1週間隔に短縮</title>
+      <link>https://tools4hack.santalab.me/ios266-ipados266-beta4-release.html</link>
+      <guid isPermaLink="false">https://tools4hack.santalab.me/ios266-ipados266-beta4-release.html</guid>
+    </item>
+    <item>
+      <title>テスター向けに「iOS 27.0 Beta 3」＆「iPadOS 27.0 Beta 3」がリリース、Beta 2から2週間隔</title>
+      <link>https://tools4hack.santalab.me/ios270-ipados270-beta3-release.html</link>
+      <guid isPermaLink="false">https://tools4hack.santalab.me/ios270-ipados270-beta3-release.html</guid>
     </item>
   </channel>
 </rss>

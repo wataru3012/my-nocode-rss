@@ -6,22 +6,7 @@
     <description>PC-Freedom</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Jul 2026 17:57:38 +0000</lastBuildDate>
-    <item>
-      <title>【実機レビュー】モバイルCPUで組む“静かで速い”デスクトップPC｜Minisforum BD795M</title>
-      <link>https://pc-freedom.net/choose-pc/mobile-cpu-desktop-pc-modt-minisforum-bd795m/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/choose-pc/mobile-cpu-desktop-pc-modt-minisforum-bd795m/</guid>
-    </item>
-    <item>
-      <title>手動派だったぼくが、初めて電動を使って気づいたこと。【Tillmulya 48-in-1 電動精密ドライバーセット実機レビュー】</title>
-      <link>https://pc-freedom.net/review/electric-precision-screwdriver-review/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/review/electric-precision-screwdriver-review/</guid>
-    </item>
-    <item>
-      <title>画面が狭い…。もう限界。そんな時にこれ！ビジネス特化のサブモニター｜Gechic M141E【実機レビュー】</title>
-      <link>https://pc-freedom.net/review/gechic-m141e-review/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/review/gechic-m141e-review/</guid>
-    </item>
+    <lastBuildDate>Mon, 06 Jul 2026 18:52:31 +0000</lastBuildDate>
     <item>
       <title>大画面ノートPCって実際どう？AMD Ryzen 7 5700U 搭載 ACEMAGIC AX16 Pro【実機レビュー】</title>
       <link>https://pc-freedom.net/choose-pc/acemagic-ax16-pro-review/</link>
@@ -66,6 +51,16 @@
       <title>BIOS ロックを解除する！マスターパスワード生成サービスを試してみよう</title>
       <link>https://pc-freedom.net/use-pc/bios-lock-kaijo/</link>
       <guid isPermaLink="false">https://pc-freedom.net/use-pc/bios-lock-kaijo/</guid>
+    </item>
+    <item>
+      <title>今年こそ Linux 元年！Windows から Linux へ移行する理由</title>
+      <link>https://pc-freedom.net/today_pc_story/why-switch-windows-to-linux/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/today_pc_story/why-switch-windows-to-linux/</guid>
+    </item>
+    <item>
+      <title>FOSMET QS40 | もう Apple Watch に戻れない…「ちょうどいい」スマートウォッチ</title>
+      <link>https://pc-freedom.net/today_pc_story/fosmet-qs40-review/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/today_pc_story/fosmet-qs40-review/</guid>
     </item>
     <item>
       <title>なぜ無料で使えるのか？オープンソースOSという不思議な世界｜世界のOS入門＃0</title>
@@ -186,6 +181,11 @@
       <title>Tails とは？使った痕跡を残しにくい、匿名性重視の Debian 系 Linux</title>
       <link>https://pc-freedom.net/basic/what-is-tails-linux/</link>
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-tails-linux/</guid>
+    </item>
+    <item>
+      <title>Kali Linux とは？“ハッカー向け Linux”の正体と、普段使いに向かない理由</title>
+      <link>https://pc-freedom.net/basic/what-is-kali-linux/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-kali-linux/</guid>
     </item>
   </channel>
 </rss>
