@@ -6,27 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Jul 2026 18:53:35 +0000</lastBuildDate>
-    <item>
-      <title>Snapdragon 8 Elite Gen 5を搭載する「Xperia 1 VIII」のベンチマーク結果まとめ、ソニー・Xperiaシリーズのフラッグシップモデルの性能はどれほどか？</title>
-      <link>https://gigazine.net/news/20260612-sony-xperia-1-viii-benchmark/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260612-sony-xperia-1-viii-benchmark/</guid>
-    </item>
-    <item>
-      <title>最大6690万画素のソニー製ミラーレス一眼カメラ「α7R VI」の外観をじっくり観察してみたよレビュー</title>
-      <link>https://gigazine.net/news/20260613-sony-alpha7r-vi-appearance/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260613-sony-alpha7r-vi-appearance/</guid>
-    </item>
-    <item>
-      <title>インライン3Dグラフィックスを備えたGPUレンダリングのターミナルエミュレータ「Ratty」、回転するネズミのカーソル付き</title>
-      <link>https://gigazine.net/news/20260613-ratty/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260613-ratty/</guid>
-    </item>
-    <item>
-      <title>無料でローカルで動きデバイス間で同期可能な自分だけのObsidianを作ってメモや知識をため込んで整理できる「Files.md」、オープンソースでセルフホストも可能</title>
-      <link>https://gigazine.net/news/20260613-files-md/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260613-files-md/</guid>
-    </item>
+    <lastBuildDate>Tue, 07 Jul 2026 18:57:22 +0000</lastBuildDate>
     <item>
       <title>KDPで「予約注文禁止状態」になってから解除されるまでの経緯をまとめてみた</title>
       <link>https://gigazine.net/news/20260613-kdp-pre-orders/</link>
@@ -206,6 +186,26 @@
       <title>あなたが「OS」となってプロセス・メモリ・入出力イベントを管理しなければならないゲーム「You’re the OS!」</title>
       <link>https://gigazine.net/news/20260706-youre-the-os/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260706-youre-the-os/</guid>
+    </item>
+    <item>
+      <title>動画ダウンローダー「yt-dlp」のインストール手順まとめ、wingetコマンドでサクッとインストール可能</title>
+      <link>https://gigazine.net/news/20260707-yt-dlp-python/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260707-yt-dlp-python/</guid>
+    </item>
+    <item>
+      <title>Sakana AIが翻訳機能「Sakana Translate」をリリース、日英中の双方向翻訳に対応＆カジュアル・簡潔・大阪弁などに変換可能</title>
+      <link>https://gigazine.net/news/20260707-sakana-translate/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260707-sakana-translate/</guid>
+    </item>
+    <item>
+      <title>AMDのAI開発キット「Ryzen AI Halo」レビューがさっそく登場、約64万円で128GBの超大容量ユニファイドメモリ＆Zen 5CPU＆Radeon 8060S GPUを搭載した強力ミニワークステーション</title>
+      <link>https://gigazine.net/news/20260707-amd-ryzen-ai-halo/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260707-amd-ryzen-ai-halo/</guid>
+    </item>
+    <item>
+      <title>コードレスで家中どこでも使え連続70時間運転＆スマホで遠隔操作＆静音で夜でも気にならない「SwitchBot スマートサーキュレーター2 Pro」を使ってみた</title>
+      <link>https://gigazine.net/news/20260707-switchbot-smart-circulator-2-pro/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260707-switchbot-smart-circulator-2-pro/</guid>
     </item>
   </channel>
 </rss>

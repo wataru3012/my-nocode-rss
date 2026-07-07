@@ -6,12 +6,7 @@
     <description>kdroidwin</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Jul 2026 18:53:37 +0000</lastBuildDate>
-    <item>
-      <title>TizenTubeCobalt 公式UIを備えたAndroidTV版 YouTube Revancedの代替</title>
-      <link>https://kdroidwin.hatenablog.com/entry/2026/01/01/162402</link>
-      <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2026/01/01/162402</guid>
-    </item>
+    <lastBuildDate>Tue, 07 Jul 2026 18:57:23 +0000</lastBuildDate>
     <item>
       <title>注意喚起 違法アップロードされた一部のアダルトゲームにマルウェアが混入されたとのこと</title>
       <link>https://kdroidwin.hatenablog.com/entry/2026/01/02/100932</link>
@@ -456,6 +451,11 @@
       <title>MISSAVを快適に閲覧するためのオープンソースAndroidアプリ 「MISSPipe」をリリース</title>
       <link>https://kdroidwin.hatenablog.com/entry/2026/07/04/164938</link>
       <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2026/07/04/164938</guid>
+    </item>
+    <item>
+      <title>セール中 SMS認証可能な超格安プリペイドSIM</title>
+      <link>https://kdroidwin.hatenablog.com/entry/2026/07/07/181512</link>
+      <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2026/07/07/181512</guid>
     </item>
   </channel>
 </rss>
