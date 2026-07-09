@@ -6,22 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Jul 2026 18:15:06 +0000</lastBuildDate>
-    <item>
-      <title>最大6690万画素の「α7R VI」で猫を撮影しまくりレビュー、猫の瞳にズバッとピントが合いホワイトバランスも勝手にいい感じにしてくれてベストショットを量産可能</title>
-      <link>https://gigazine.net/news/20260614-sony-alpha7r-vi-photo-example/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260614-sony-alpha7r-vi-photo-example/</guid>
-    </item>
-    <item>
-      <title>コーディングAIエージェント向けのオープンソースHeroku「InsForge」</title>
-      <link>https://gigazine.net/news/20260614-insforge/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260614-insforge/</guid>
-    </item>
-    <item>
-      <title>メモ書き機能付きAmazon純正電子書籍リーダー「Kindle Scribe」に初のカラー表示可能な「Kindle Scribe Colorsoft」を含む3モデルが新登場したので使ってみた</title>
-      <link>https://gigazine.net/news/20260614-kindle-scribe-2026/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260614-kindle-scribe-2026/</guid>
-    </item>
+    <lastBuildDate>Thu, 09 Jul 2026 18:47:56 +0000</lastBuildDate>
     <item>
       <title>誰でも無料で高機能な予約システムが作れる「SelectType」に便利なGoogleカレンダー双方向連携＆Google MeetのURL自動発行機能が登場したので使ってみた</title>
       <link>https://gigazine.net/news/20260615-select-type-google-calendar-gmeet/</link>
@@ -206,6 +191,21 @@
       <title>無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「Cloudflare Tunnel」を使ってみた</title>
       <link>https://gigazine.net/news/20260708-cloudflare-tunnel/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260708-cloudflare-tunnel/</guid>
+    </item>
+    <item>
+      <title>デスクトップにバーチャル・シンガーのMEIKOとKAITOが登場して大人の魅力を振りまくDesktop Mateの「MEIKO DLC」「KAITO DLC」レビュー</title>
+      <link>https://gigazine.net/news/20260709-desktop-mate-meiko-kaito/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260709-desktop-mate-meiko-kaito/</guid>
+    </item>
+    <item>
+      <title>HTMLやCSSをドラッグ＆ドロップするだけでウェブサイトとして公開できる「Cloudflare Drop」を使ってみた</title>
+      <link>https://gigazine.net/news/20260709-cloudflare-drop/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260709-cloudflare-drop/</guid>
+    </item>
+    <item>
+      <title>山手線の各駅の発車メロディ・ドア開閉音・車内アナウンスを延々ループ再生し続ける「Yamanote.fun」</title>
+      <link>https://gigazine.net/news/20260709-yamanote-fun/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260709-yamanote-fun/</guid>
     </item>
   </channel>
 </rss>
