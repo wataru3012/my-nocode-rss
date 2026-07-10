@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Jul 2026 18:47:56 +0000</lastBuildDate>
-    <item>
-      <title>誰でも無料で高機能な予約システムが作れる「SelectType」に便利なGoogleカレンダー双方向連携＆Google MeetのURL自動発行機能が登場したので使ってみた</title>
-      <link>https://gigazine.net/news/20260615-select-type-google-calendar-gmeet/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260615-select-type-google-calendar-gmeet/</guid>
-    </item>
-    <item>
-      <title>ソニーのハイエンドスマホ「Xperia 1 VIII」の発熱やバッテリーの持ちが気になったのでチェックしてみたよレビュー</title>
-      <link>https://gigazine.net/news/20260615-sony-xperia-1-viii-battery/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260615-sony-xperia-1-viii-battery/</guid>
-    </item>
+    <lastBuildDate>Fri, 10 Jul 2026 18:19:25 +0000</lastBuildDate>
     <item>
       <title>無料でウェブページの変化を自動検知できる「changedetection.io」をDockerでセットアップして実際に監視してみた</title>
       <link>https://gigazine.net/news/20260617-changedetection-io-setup/</link>
@@ -206,6 +196,16 @@
       <title>山手線の各駅の発車メロディ・ドア開閉音・車内アナウンスを延々ループ再生し続ける「Yamanote.fun」</title>
       <link>https://gigazine.net/news/20260709-yamanote-fun/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260709-yamanote-fun/</guid>
+    </item>
+    <item>
+      <title>無料でYouTubeの動画やチャンネルが消えたときのために保存しておける「PreserveTube」</title>
+      <link>https://gigazine.net/news/20260710-preservetube-youtube/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260710-preservetube-youtube/</guid>
+    </item>
+    <item>
+      <title>無料で使えるCloudflare Accessで安全にローカルのAIを外部から使えるように設定してみた</title>
+      <link>https://gigazine.net/news/20260710-cloudflare-tunnel-access/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260710-cloudflare-tunnel-access/</guid>
     </item>
   </channel>
 </rss>
