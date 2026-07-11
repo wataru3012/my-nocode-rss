@@ -6,7 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Jul 2026 18:18:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 17:48:22 +0000</lastBuildDate>
     <item>
       <title>「中身入ってる？」と疑う軽さ！840gのMILスペ14型ノートが侮れない</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/pckoubou_review/2118817.html</link>
@@ -243,6 +243,16 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2122459.html</guid>
     </item>
     <item>
+      <title>GIGABYTE、Ryzen AI+RTX 50搭載の薄型大画面ゲーミングノート</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2124177.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2124177.html</guid>
+    </item>
+    <item>
+      <title>キックスタンド内蔵、14型/16型の大型Androidタブレット「Acer Iconia」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2124203.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2124203.html</guid>
+    </item>
+    <item>
       <title>【特集】有機ELテレビをPCモニターに5年使った結果。避けられなかった焼き付きとその顛末</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/feature/2115770.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2115770.html</guid>
@@ -268,31 +278,6 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/tidbit/2118676.html</guid>
     </item>
     <item>
-      <title>ChatGPTが仕事してくれる「ChatGPTワーク」登場！最先端GPT-5.6で賢く処理</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2124045.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2124045.html</guid>
-    </item>
-    <item>
-      <title>Windows Defenderにディスクを食い潰す穴が発見される</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2124087.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2124087.html</guid>
-    </item>
-    <item>
-      <title>ブラウザを小さくするとAI画像生成が最大4割高速に？Windows環境で発生する謎</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2124141.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2124141.html</guid>
-    </item>
-    <item>
-      <title>GIGABYTE、Ryzen AI+RTX 50搭載の薄型大画面ゲーミングノート</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2124177.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2124177.html</guid>
-    </item>
-    <item>
-      <title>キックスタンド内蔵、14型/16型の大型Androidタブレット「Acer Iconia」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2124203.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2124203.html</guid>
-    </item>
-    <item>
       <title>「GPT-5.6」がMicrosoft 365 Copilotでも利用可能に</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2124231.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2124231.html</guid>
@@ -308,54 +293,64 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2124277.html</guid>
     </item>
     <item>
-      <title>ARグラス「XREAL One Pro」がAmazonで8,500円引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2123910.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2123910.html</guid>
+      <title>「Claude Cowork」5つの使い方。定型業務を丸ごとAIに任せてみる</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2124398.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2124398.html</guid>
     </item>
     <item>
-      <title>ASUSのRTX5060搭載ゲーミングノートが6万円引きでオトク！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2124032.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2124032.html</guid>
-    </item>
-    <item>
-      <title>SHUREのPC対応ダイナミックマイクが約1万円引きでセール中！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2124047.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2124047.html</guid>
-    </item>
-    <item>
-      <title>ロボット掃除機のルンバが7万円引きでセール中</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2124082.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2124082.html</guid>
-    </item>
-    <item>
-      <title>三菱電機の除湿器が約1万円引きでセール中！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2124105.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2124105.html</guid>
-    </item>
-    <item>
-      <title>ビターなキットカット60個入りボックスが1,252円引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2124107.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2124107.html</guid>
-    </item>
-    <item>
-      <title>GEEKOMのRyzen AI 9 HX 470搭載ミニPCが約2万4千円引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2124184.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2124184.html</guid>
-    </item>
-    <item>
-      <title>Adobe Creative Cloud Pro 12カ月分が新規キャンペーンで半額</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2124209.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2124209.html</guid>
-    </item>
-    <item>
-      <title>Word/Excelが使えるMicrosoft 365 Personalが4,430円オフ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2124215.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2124215.html</guid>
+      <title>プログラミング知識ゼロ。バイブコーディングでローカルLLMマスコットを作ったよ</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2124399.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2124399.html</guid>
     </item>
     <item>
       <title>XPPenの液晶ペンタブレットがプライムデーでお得！27型が約6万円安</title>
       <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2124224.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2124224.html</guid>
+    </item>
+    <item>
+      <title>Ryzen AI搭載ノートが5万円引き！Amazonプライムデーセール</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2124407.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2124407.html</guid>
+    </item>
+    <item>
+      <title>ミニPCでGeForce RTX 5060！本格ゲーミングタイプが約5万7千円オフ</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2124408.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2124408.html</guid>
+    </item>
+    <item>
+      <title>MSIのGeForce RTX 5060 Tiビデオカードが約1万7千円引き</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2124409.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2124409.html</guid>
+    </item>
+    <item>
+      <title>約7万6千円オフ！32GBメモリ/1TB SSDのRyzenノートがお買い得に</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2124410.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2124410.html</guid>
+    </item>
+    <item>
+      <title>GeForce RTX 5070/Ryzen搭載ゲーミングノートが約4万円オフ</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2124411.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2124411.html</guid>
+    </item>
+    <item>
+      <title>キオクシアのNVMe SSD 1TBが6,450円引き。PCIe 5.0対応で高速！</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2124413.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2124413.html</guid>
+    </item>
+    <item>
+      <title>Galaxy Tabが3万4,770円に割引！ペン付きモデルも安くなってる</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2124426.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2124426.html</guid>
+    </item>
+    <item>
+      <title>エネループの20本パックが1,780円引き！4本パックも20%オフ！プライムデーセール</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2124439.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2124439.html</guid>
+    </item>
+    <item>
+      <title>コンパクトキーボードのREALFORCE RC1が3,828円引き中</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2124446.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2124446.html</guid>
     </item>
   </channel>
 </rss>

@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Jul 2026 18:19:25 +0000</lastBuildDate>
-    <item>
-      <title>無料でウェブページの変化を自動検知できる「changedetection.io」をDockerでセットアップして実際に監視してみた</title>
-      <link>https://gigazine.net/news/20260617-changedetection-io-setup/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260617-changedetection-io-setup/</guid>
-    </item>
-    <item>
-      <title>ゲームみたいに移動可能な世界をリアルタイム生成できるAI「HappyOyster 1.0」が登場したので使ってみた</title>
-      <link>https://gigazine.net/news/20260618-happyoyster-real-time-world-model/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260618-happyoyster-real-time-world-model/</guid>
-    </item>
+    <lastBuildDate>Sat, 11 Jul 2026 17:49:33 +0000</lastBuildDate>
     <item>
       <title>メモ書き機能付きAmazon純正電子書籍リーダー「Kindle Scribe」2026年モデルに追加された新機能や初のカラーモデルのメモ書きを使ってみた</title>
       <link>https://gigazine.net/news/20260620-kindle-scribe-writing/</link>
@@ -206,6 +196,16 @@
       <title>無料で使えるCloudflare Accessで安全にローカルのAIを外部から使えるように設定してみた</title>
       <link>https://gigazine.net/news/20260710-cloudflare-tunnel-access/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260710-cloudflare-tunnel-access/</guid>
+    </item>
+    <item>
+      <title>無料で複数人の旅行を計画するためリアルタイムコラボ＆インタラクティブマップ＆予算管理＆持ち物リストを管理・共有できる「trek」</title>
+      <link>https://gigazine.net/news/20260711-trek/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260711-trek/</guid>
+    </item>
+    <item>
+      <title>「Steam Machine」をセットアップしてゲームをプレイしてみたよレビュー</title>
+      <link>https://gigazine.net/news/20260711-steam-machine-game-play/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260711-steam-machine-game-play/</guid>
     </item>
   </channel>
 </rss>

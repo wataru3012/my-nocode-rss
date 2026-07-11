@@ -6,12 +6,7 @@
     <description>PC-Freedom</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Jul 2026 18:18:19 +0000</lastBuildDate>
-    <item>
-      <title>ThinkPad X1 Yogaから乗り換え？CHUWI FreeBook N150を使ってみた</title>
-      <link>https://pc-freedom.net/choose-pc/chuwi-freebook-n150-review/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/choose-pc/chuwi-freebook-n150-review/</guid>
-    </item>
+    <lastBuildDate>Sat, 11 Jul 2026 17:48:31 +0000</lastBuildDate>
     <item>
       <title>「タッチできるのに反射しない」モバイルモニター現る！Intehill U16ZT 実機レビュー</title>
       <link>https://pc-freedom.net/review/intehill-u16zt-review/</link>
@@ -186,6 +181,11 @@
       <title>Peppermint OS とは？ブラウザすら自分で選ぶ、軽量 Debian 系 Linux</title>
       <link>https://pc-freedom.net/basic/what-is-peppermint-os/</link>
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-peppermint-os/</guid>
+    </item>
+    <item>
+      <title>Garuda Linux とは？Arch 系を“全部盛り”にした、派手で実用的な Linux</title>
+      <link>https://pc-freedom.net/basic/what-is-garuda-linux/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-garuda-linux/</guid>
     </item>
   </channel>
 </rss>
