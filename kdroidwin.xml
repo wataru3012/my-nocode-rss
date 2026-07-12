@@ -6,12 +6,7 @@
     <description>kdroidwin</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Jul 2026 17:49:34 +0000</lastBuildDate>
-    <item>
-      <title>LuluStream から動画をダウンロードする方法 download</title>
-      <link>https://kdroidwin.hatenablog.com/entry/2026/01/12/114437</link>
-      <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2026/01/12/114437</guid>
-    </item>
+    <lastBuildDate>Sun, 12 Jul 2026 17:55:05 +0000</lastBuildDate>
     <item>
       <title>【PR】SongGetで簡単にApple MusicとAmazon Musicをにダウンロードする方法</title>
       <link>https://kdroidwin.hatenablog.com/entry/PRSongGet1</link>
@@ -453,9 +448,14 @@
       <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2026/07/09/090840</guid>
     </item>
     <item>
-      <title>私のなりすましをNGして非表示にする方法</title>
+      <title>私のなりすましである常同症さんをNGにして非表示にする方法</title>
       <link>https://kdroidwin.hatenablog.com/entry/2026/07/11/134405</link>
       <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2026/07/11/134405</guid>
+    </item>
+    <item>
+      <title>IOMate 古いChMateを復活させよう</title>
+      <link>https://kdroidwin.hatenablog.com/entry/2026/07/12/204454</link>
+      <guid isPermaLink="false">https://kdroidwin.hatenablog.com/entry/2026/07/12/204454</guid>
     </item>
   </channel>
 </rss>

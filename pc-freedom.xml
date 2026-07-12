@@ -6,12 +6,7 @@
     <description>PC-Freedom</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Jul 2026 17:48:31 +0000</lastBuildDate>
-    <item>
-      <title>「タッチできるのに反射しない」モバイルモニター現る！Intehill U16ZT 実機レビュー</title>
-      <link>https://pc-freedom.net/review/intehill-u16zt-review/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/review/intehill-u16zt-review/</guid>
-    </item>
+    <lastBuildDate>Sun, 12 Jul 2026 17:54:04 +0000</lastBuildDate>
     <item>
       <title>Linux を使うのにちょうど良いノート PC がほしい | ACEMAGIC TX15 実機レビュー</title>
       <link>https://pc-freedom.net/today_pc_story/acemagic-tx15-review/</link>
@@ -78,7 +73,7 @@
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-manjaro/</guid>
     </item>
     <item>
-      <title>Mageia とは？Mandriva の魂を受け継ぐフランス発コミュニティ Linux</title>
+      <title>Mageia とは？Mandrake の思想を受け継ぐ、管理しやすい独立系 Linux</title>
       <link>https://pc-freedom.net/basic/what-is-mageia/</link>
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-mageia/</guid>
     </item>
@@ -186,6 +181,11 @@
       <title>Garuda Linux とは？Arch 系を“全部盛り”にした、派手で実用的な Linux</title>
       <link>https://pc-freedom.net/basic/what-is-garuda-linux/</link>
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-garuda-linux/</guid>
+    </item>
+    <item>
+      <title>OpenMandriva Lx とは？Mandriva の血を引く、Clang ビルドの独立系 RPM Linux</title>
+      <link>https://pc-freedom.net/basic/what-is-openmandriva-lx/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-openmandriva-lx/</guid>
     </item>
   </channel>
 </rss>
