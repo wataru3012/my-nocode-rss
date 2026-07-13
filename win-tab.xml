@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Jul 2026 17:54:12 +0000</lastBuildDate>
-    <item>
-      <title>FRONTIER NSP － Core Ultraシリーズ3と2.8K有機ELディスプレイ搭載、重さ837 gの超軽量モバイルノート</title>
-      <link>https://win-tab.net/others/frontier-nsp-2606212/</link>
-      <guid isPermaLink="false">https://win-tab.net/others/frontier-nsp-2606212/</guid>
-    </item>
-    <item>
-      <title>MSI Modern 14S/16S AI+ G3M － Core Ultra シリーズ3搭載のCopilot+ PC、14インチと16インチの薄型ビジネスノート</title>
-      <link>https://win-tab.net/msi/modern-14s-16s-ai-plus-g3m-2606221/</link>
-      <guid isPermaLink="false">https://win-tab.net/msi/modern-14s-16s-ai-plus-g3m-2606221/</guid>
-    </item>
+    <lastBuildDate>Mon, 13 Jul 2026 18:27:51 +0000</lastBuildDate>
     <item>
       <title>GMKtec EVO-X3 － Ryzen AI Max+ 395搭載でRAM/SSDも大容量な高性能AI PC、7月6日発売です</title>
       <link>https://win-tab.net/imported/gmktec-evo-x3-2606222/</link>
@@ -206,6 +196,16 @@
       <title>【Amazonプライムデー】WUBENのコンパクトで爆光！なLEDライトがセール中、アウトドア用だけでなく通勤・通学用にもおすすめ！</title>
       <link>https://win-tab.net/sale/wuben-amazon-prime-day-2607122/</link>
       <guid isPermaLink="false">https://win-tab.net/sale/wuben-amazon-prime-day-2607122/</guid>
+    </item>
+    <item>
+      <title>Lenovo Yoga Pro 7 Gen 11 (15.3型 AMD) － Ryzen AI Maxシリーズ搭載、タッチパッドをペンタブレットとして使えるクリエイター向けノート</title>
+      <link>https://win-tab.net/lenovo/yoga-pro-7-gen-11-amd-2607131/</link>
+      <guid isPermaLink="false">https://win-tab.net/lenovo/yoga-pro-7-gen-11-amd-2607131/</guid>
+    </item>
+    <item>
+      <title>【Amazonプライムデー】あれ？PCモニターってこんなに安かったっけ？</title>
+      <link>https://win-tab.net/sale/pc-monitor-amazon-prime-day-2607132/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/pc-monitor-amazon-prime-day-2607132/</guid>
     </item>
   </channel>
 </rss>
