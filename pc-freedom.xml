@@ -6,12 +6,7 @@
     <description>PC-Freedom</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Jul 2026 18:27:43 +0000</lastBuildDate>
-    <item>
-      <title>Linux を使うのにちょうど良いファンレスミニ PC | HiMeLE Quieter 4C N150 実機レビュー</title>
-      <link>https://pc-freedom.net/today_pc_story/linux-%e3%82%92%e4%bd%bf%e3%81%86%e3%81%ae%e3%81%ab%e3%81%a1%e3%82%87%e3%81%86%e3%81%a9%e8%89%af%e3%81%84%e3%83%95%e3%82%a1%e3%83%b3%e3%83%ac%e3%82%b9%e3%83%9f%e3%83%8b-pc-himele-quieter-4c-n150/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/today_pc_story/linux-%e3%82%92%e4%bd%bf%e3%81%86%e3%81%ae%e3%81%ab%e3%81%a1%e3%82%87%e3%81%86%e3%81%a9%e8%89%af%e3%81%84%e3%83%95%e3%82%a1%e3%83%b3%e3%83%ac%e3%82%b9%e3%83%9f%e3%83%8b-pc-himele-quieter-4c-n150/</guid>
-    </item>
+    <lastBuildDate>Tue, 14 Jul 2026 17:57:46 +0000</lastBuildDate>
     <item>
       <title>BIOS ロックを解除する！マスターパスワード生成サービスを試してみよう</title>
       <link>https://pc-freedom.net/use-pc/bios-lock-kaijo/</link>
@@ -186,6 +181,11 @@
       <title>Pop!_OS とは？Ubuntu との違い、日本語入力、COSMIC の特徴を解説</title>
       <link>https://pc-freedom.net/basic/what-is-pop_os/</link>
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-pop_os/</guid>
+    </item>
+    <item>
+      <title>Bazzite とは？普通の PC をゲーム機のように使えるゲーミング Linux</title>
+      <link>https://pc-freedom.net/basic/wha-is-bazzite/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/basic/wha-is-bazzite/</guid>
     </item>
   </channel>
 </rss>
