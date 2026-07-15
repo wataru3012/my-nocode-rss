@@ -6,22 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Jul 2026 17:58:43 +0000</lastBuildDate>
-    <item>
-      <title>無料でグラボのVRAMが壊れていないかチェックできるツール「memtest_vulkan」の使い方、インストール不要でダブルクリックして待つだけでOK</title>
-      <link>https://gigazine.net/news/20260621-gpu-vram-check-memtest-vulkan/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260621-gpu-vram-check-memtest-vulkan/</guid>
-    </item>
-    <item>
-      <title>選挙区の境界線を引いて対立候補よりも多くの議席を獲得して選挙に勝利することを目指すパズルゲーム「Gerrymandle」</title>
-      <link>https://gigazine.net/news/20260622-gerrymandle/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260622-gerrymandle/</guid>
-    </item>
-    <item>
-      <title>「iPhone・iPadがこっそり公開している情報」で広告やウェブサイトがユーザーの行動を個別に追跡する仕組みが垣間見える「Loupe」</title>
-      <link>https://gigazine.net/news/20260622-loupe-for-ios/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260622-loupe-for-ios/</guid>
-    </item>
+    <lastBuildDate>Wed, 15 Jul 2026 18:02:29 +0000</lastBuildDate>
     <item>
       <title>画像生成AI「Krea 2」がオープンモデル化されてローカル生成可能になったのでComfyUIで実写風画像とイラスト風画像を生成してみたよレビュー</title>
       <link>https://gigazine.net/news/20260624-krea-2-raw-turbo/</link>
@@ -206,6 +191,21 @@
       <title>ループ状のコースを走って街が流れていくのを眺める「densha」、Lo-Fi音楽をBGMに日本語認定試験目安N5の文章を読み上げ</title>
       <link>https://gigazine.net/news/20260714-densha/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260714-densha/</guid>
+    </item>
+    <item>
+      <title>古代ローマ時代に遊ばれていた可能性があるボードゲーム「Ludus Coriovalli」を実際に遊んでみた</title>
+      <link>https://gigazine.net/news/20260715-ludus-coriovalli/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260715-ludus-coriovalli/</guid>
+    </item>
+    <item>
+      <title>路線に沿って駅名を入力してタイピング力を鍛える無料ゲーム「電車でタイピング」レビュー、乗り換え手順を考える楽しさもアリ</title>
+      <link>https://gigazine.net/news/20260715-train-typing-training/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260715-train-typing-training/</guid>
+    </item>
+    <item>
+      <title>Starlinkなどを含む合計3万基以上の人工衛星の現在位置がわかるライブマップ「Satellite Tracker」</title>
+      <link>https://gigazine.net/news/20260715-satellite-tracker-live-map/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260715-satellite-tracker-live-map/</guid>
     </item>
   </channel>
 </rss>

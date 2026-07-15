@@ -6,12 +6,7 @@
     <description>格安ガジェットブログ</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Jul 2026 17:57:10 +0000</lastBuildDate>
-    <item>
-      <title>スマホはすぐ買い替えるべきか長く使うべきか</title>
-      <link>https://yasugad.hatenablog.com/entry/2025/10/20/190000</link>
-      <guid isPermaLink="false">https://yasugad.hatenablog.com/entry/2025/10/20/190000</guid>
-    </item>
+    <lastBuildDate>Wed, 15 Jul 2026 18:00:49 +0000</lastBuildDate>
     <item>
       <title>パソコンでゲーム環境を整えるとどれだけお金がかかる？</title>
       <link>https://yasugad.hatenablog.com/entry/2025/10/22/190000</link>
@@ -606,6 +601,11 @@
       <title>グローバルモデルのスマートフォンを買う際に注意すること</title>
       <link>https://yasugad.hatenablog.com/entry/2026/07/13/190000</link>
       <guid isPermaLink="false">https://yasugad.hatenablog.com/entry/2026/07/13/190000</guid>
+    </item>
+    <item>
+      <title>オーオタの視点で見る、音の変化について</title>
+      <link>https://yasugad.hatenablog.com/entry/2026/07/15/190000</link>
+      <guid isPermaLink="false">https://yasugad.hatenablog.com/entry/2026/07/15/190000</guid>
     </item>
   </channel>
 </rss>

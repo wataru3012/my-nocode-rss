@@ -6,12 +6,7 @@
     <description>PC-Freedom</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Jul 2026 17:57:46 +0000</lastBuildDate>
-    <item>
-      <title>BIOS ロックを解除する！マスターパスワード生成サービスを試してみよう</title>
-      <link>https://pc-freedom.net/use-pc/bios-lock-kaijo/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/use-pc/bios-lock-kaijo/</guid>
-    </item>
+    <lastBuildDate>Wed, 15 Jul 2026 18:01:27 +0000</lastBuildDate>
     <item>
       <title>今年こそ Linux 元年！Windows から Linux へ移行する理由</title>
       <link>https://pc-freedom.net/today_pc_story/why-switch-windows-to-linux/</link>
@@ -186,6 +181,11 @@
       <title>Bazzite とは？普通の PC をゲーム機のように使えるゲーミング Linux</title>
       <link>https://pc-freedom.net/basic/wha-is-bazzite/</link>
       <guid isPermaLink="false">https://pc-freedom.net/basic/wha-is-bazzite/</guid>
+    </item>
+    <item>
+      <title>Devuan とは？Debian との違い、軽さ、日本語環境を解説</title>
+      <link>https://pc-freedom.net/basic/what-is-devuan/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-devuan/</guid>
     </item>
   </channel>
 </rss>
