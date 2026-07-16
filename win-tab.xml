@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 18:01:36 +0000</lastBuildDate>
-    <item>
-      <title>Arc G3シリーズ追加！ノートPC用CPU一覧 － Core Ultraシリーズ1 / 2 / 3、Arc G3シリーズ（6月25日更新）</title>
-      <link>https://win-tab.net/opinion/mobile_cpu_list1/</link>
-      <guid isPermaLink="false">https://win-tab.net/opinion/mobile_cpu_list1/</guid>
-    </item>
-    <item>
-      <title>サンワダイレクト 小型冷却ファン 400-CLN041 － コンパクトサイズで2つのファンを搭載するガジェット用冷却ファン</title>
-      <link>https://win-tab.net/acc/sanwa-400-cln041-2606252/</link>
-      <guid isPermaLink="false">https://win-tab.net/acc/sanwa-400-cln041-2606252/</guid>
-    </item>
+    <lastBuildDate>Thu, 16 Jul 2026 18:00:06 +0000</lastBuildDate>
     <item>
       <title>Lenovo ThinkBook 14x (14型 Intel) － 重さ約990gの超軽量Copilot+ PC、Core Ultraシリーズ2搭載でお買い得感もあり</title>
       <link>https://win-tab.net/lenovo/thinkbook-14x-intel-2606261/</link>
@@ -206,6 +196,16 @@
       <title>HP OmniBook 7/5/3シリーズ比較（2026）－ 迷ったらどれ？HPのメインストリーム3シリーズ、用途別に最適なモデルを考える</title>
       <link>https://win-tab.net/hp/omnibook-7-5-3-comparison-2026/</link>
       <guid isPermaLink="false">https://win-tab.net/hp/omnibook-7-5-3-comparison-2026/</guid>
+    </item>
+    <item>
+      <title>TECLAST P50T － エントリータブレットに「強化版」が登場、スペックアップしたところだけでなく、スペックダウンしたところも</title>
+      <link>https://win-tab.net/android/teclast-p50t-2026-2607161/</link>
+      <guid isPermaLink="false">https://win-tab.net/android/teclast-p50t-2026-2607161/</guid>
+    </item>
+    <item>
+      <title>実はAmazonで人気！フィリップスのAndroidタブレット、最新モデル「T7250」はこんな製品</title>
+      <link>https://win-tab.net/android/philips-tablet-2607162/</link>
+      <guid isPermaLink="false">https://win-tab.net/android/philips-tablet-2607162/</guid>
     </item>
   </channel>
 </rss>
