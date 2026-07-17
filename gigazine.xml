@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 18:01:03 +0000</lastBuildDate>
-    <item>
-      <title>画像生成AI「Krea 2」がオープンモデル化されてローカル生成可能になったのでComfyUIで実写風画像とイラスト風画像を生成してみたよレビュー</title>
-      <link>https://gigazine.net/news/20260624-krea-2-raw-turbo/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260624-krea-2-raw-turbo/</guid>
-    </item>
-    <item>
-      <title>VRAM32GBで激安なIntelグラボ「Intel Arc Pro B70 Creator 32GB」を買ったので開封の儀、外観や搭載ポートはこんな感じ</title>
-      <link>https://gigazine.net/news/20260624-asrock-intel-arc-pro-b70-creator-32gb-appearance/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260624-asrock-intel-arc-pro-b70-creator-32gb-appearance/</guid>
-    </item>
+    <lastBuildDate>Fri, 17 Jul 2026 17:59:53 +0000</lastBuildDate>
     <item>
       <title>YouTube・X(旧Twitter)・TikTok・Instagramなど1000超のサービスからオリジナル画質のまま動画をダウンロードできる「VideoProc Converter AI」を使ってみた</title>
       <link>https://gigazine.net/news/20260626-videoproc-converter-ai/</link>
@@ -206,6 +196,16 @@
       <title>Starlinkなどを含む合計3万基以上の人工衛星の現在位置がわかるライブマップ「Satellite Tracker」</title>
       <link>https://gigazine.net/news/20260715-satellite-tracker-live-map/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260715-satellite-tracker-live-map/</guid>
+    </item>
+    <item>
+      <title>人間には読めるのにAIには別の文字に見えてしまうフォント「Decoy Font」が登場</title>
+      <link>https://gigazine.net/news/20260717-decoy-font/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260717-decoy-font/</guid>
+    </item>
+    <item>
+      <title>画像の好きな部分を揺らせる「ぷるぷるメーカー」が登場、「ぷるぷる」「ばいんばいん」「ぶるぶる」「ふわふわ」いろんな揺らし方に対応</title>
+      <link>https://gigazine.net/news/20260717-purupuru-maker/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260717-purupuru-maker/</guid>
     </item>
   </channel>
 </rss>
