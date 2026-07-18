@@ -6,22 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Jul 2026 17:59:53 +0000</lastBuildDate>
-    <item>
-      <title>YouTube・X(旧Twitter)・TikTok・Instagramなど1000超のサービスからオリジナル画質のまま動画をダウンロードできる「VideoProc Converter AI」を使ってみた</title>
-      <link>https://gigazine.net/news/20260626-videoproc-converter-ai/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260626-videoproc-converter-ai/</guid>
-    </item>
-    <item>
-      <title>作家や批評家が選んだ「史上最高の小説100選」・空が青い理由などAmazonで売上トップ10のGIGAZINE記事ランキング2026年5月版はコレ！</title>
-      <link>https://gigazine.net/news/20260627-gigazine-kindle-ranking-2026-05/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260627-gigazine-kindle-ranking-2026-05/</guid>
-    </item>
-    <item>
-      <title>無料でセルフホスト型のChatGPTやClaudeっぽいローカルAIワークスペースが実現できる「Odysseus」、ファイルアップロード・モデルダウンロード・ウェブ検索・メール/カレンダー連携が可能</title>
-      <link>https://gigazine.net/news/20260627-odysseus/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260627-odysseus/</guid>
-    </item>
+    <lastBuildDate>Sat, 18 Jul 2026 17:51:58 +0000</lastBuildDate>
     <item>
       <title>無料でChrome・Firefoxで訪問したウェブサイトを自動的にローカルに保存しインデックス化＆定期自動取得で最新状態を維持し続ける汎用検索エンジン「Hister」、セルフホスト可能でMCPサーバー化させてAIとの連携やローカルのファイル検索も実現</title>
       <link>https://gigazine.net/news/20260627-hister/</link>
@@ -206,6 +191,21 @@
       <title>画像の好きな部分を揺らせる「ぷるぷるメーカー」が登場、「ぷるぷる」「ばいんばいん」「ぶるぶる」「ふわふわ」いろんな揺らし方に対応</title>
       <link>https://gigazine.net/news/20260717-purupuru-maker/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260717-purupuru-maker/</guid>
+    </item>
+    <item>
+      <title>3アイテム同時にワイヤレス充電可能＆折りたたんでコンパクトに持ち運びもできるAnkerの「Prime Wireless Charging Station(3-in-1, MagGo,AirCool,Foldable)」レビュー</title>
+      <link>https://gigazine.net/news/20260718-anker-b25n1n12/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260718-anker-b25n1n12/</guid>
+    </item>
+    <item>
+      <title>無料でネット接続なしのオフラインでも使える地図アプリ「CoMaps」、オープンソースで開発され広告なし・個人追跡なし</title>
+      <link>https://gigazine.net/news/20260718-comaps/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260718-comaps/</guid>
+    </item>
+    <item>
+      <title>無料でWindows・macOS・Linux用のデスクトップ同期アプリとセルフホスト可能なサーバーアプリでファイルの双方向と一方向同期・自動バックグラウンド同期などが複数ユーザーで可能な「Sync-in」</title>
+      <link>https://gigazine.net/news/20260718-sync-in/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260718-sync-in/</guid>
     </item>
   </channel>
 </rss>

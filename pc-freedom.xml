@@ -6,12 +6,7 @@
     <description>PC-Freedom</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Jul 2026 17:58:51 +0000</lastBuildDate>
-    <item>
-      <title>なぜ無料で使えるのか？オープンソースOSという不思議な世界｜世界のOS入門＃0</title>
-      <link>https://pc-freedom.net/basic/open-source-os-introduction/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/basic/open-source-os-introduction/</guid>
-    </item>
+    <lastBuildDate>Sat, 18 Jul 2026 17:50:58 +0000</lastBuildDate>
     <item>
       <title>なぜ Ubuntu は世界で最も有名な Linux になったのか？</title>
       <link>https://pc-freedom.net/basic/why-ubuntu-popular/</link>
@@ -186,6 +181,11 @@
       <title>KDE neon とは？最新の KDE Plasma を最短で試せる Ubuntu ベース Linux</title>
       <link>https://pc-freedom.net/basic/what-is-kde-neon/</link>
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-kde-neon/</guid>
+    </item>
+    <item>
+      <title>elementary OS とは？美しさより「迷わせない設計」を選んだ Ubuntu 系 Linux</title>
+      <link>https://pc-freedom.net/basic/what-is-elementary-os/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-elementary-os/</guid>
     </item>
   </channel>
 </rss>
