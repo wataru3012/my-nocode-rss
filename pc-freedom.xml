@@ -6,12 +6,7 @@
     <description>PC-Freedom</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Jul 2026 17:50:58 +0000</lastBuildDate>
-    <item>
-      <title>なぜ Ubuntu は世界で最も有名な Linux になったのか？</title>
-      <link>https://pc-freedom.net/basic/why-ubuntu-popular/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/basic/why-ubuntu-popular/</guid>
-    </item>
+    <lastBuildDate>Sun, 19 Jul 2026 17:52:49 +0000</lastBuildDate>
     <item>
       <title>Debian とは？Ubuntu の土台を支える「静かな巨人」を解説</title>
       <link>https://pc-freedom.net/basic/what-is-debian/</link>
@@ -186,6 +181,11 @@
       <title>elementary OS とは？美しさより「迷わせない設計」を選んだ Ubuntu 系 Linux</title>
       <link>https://pc-freedom.net/basic/what-is-elementary-os/</link>
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-elementary-os/</guid>
+    </item>
+    <item>
+      <title>TUXEDO OS とは？Linux PC メーカーが作る KDE 環境と Kubuntu との違い</title>
+      <link>https://pc-freedom.net/basic/what-is-tuxedo-os/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-tuxedo-os/</guid>
     </item>
   </channel>
 </rss>

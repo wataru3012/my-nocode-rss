@@ -6,22 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Jul 2026 17:51:58 +0000</lastBuildDate>
-    <item>
-      <title>無料でChrome・Firefoxで訪問したウェブサイトを自動的にローカルに保存しインデックス化＆定期自動取得で最新状態を維持し続ける汎用検索エンジン「Hister」、セルフホスト可能でMCPサーバー化させてAIとの連携やローカルのファイル検索も実現</title>
-      <link>https://gigazine.net/news/20260627-hister/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260627-hister/</guid>
-    </item>
-    <item>
-      <title>無料で創作に生かせる3Dポーズ作成ツール「SetPose」</title>
-      <link>https://gigazine.net/news/20260627-setpose-3d/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260627-setpose-3d/</guid>
-    </item>
-    <item>
-      <title>無料でAI最適化「AEO」をChatGPT・Google AI Overviews・Perplexity・Gemini・Copilot・Grokなどで確認できる「Elmo」、オープンソースで開発されセルフホスト可能</title>
-      <link>https://gigazine.net/news/20260628-elmo/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260628-elmo/</guid>
-    </item>
+    <lastBuildDate>Sun, 19 Jul 2026 17:53:47 +0000</lastBuildDate>
     <item>
       <title>カシオ計算機が「自然な聞こえ」を目指す新ブランド「earU」第1弾のヒアリングアシストイヤホン「ER-100」外観レビュー</title>
       <link>https://gigazine.net/news/20260628-casio-earu-er-100-appearance/</link>
@@ -206,6 +191,21 @@
       <title>無料でWindows・macOS・Linux用のデスクトップ同期アプリとセルフホスト可能なサーバーアプリでファイルの双方向と一方向同期・自動バックグラウンド同期などが複数ユーザーで可能な「Sync-in」</title>
       <link>https://gigazine.net/news/20260718-sync-in/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260718-sync-in/</guid>
+    </item>
+    <item>
+      <title>イヤホン単体で通話録音ができ文字起こし連携も可能＆透明デザインで中身が透けてるノイズキャンセリングワイヤレスイヤホン「Nothing Ear(3a)」を実際に使ってみたレビュー</title>
+      <link>https://gigazine.net/news/20260719-nothing-ear-3a/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260719-nothing-ear-3a/</guid>
+    </item>
+    <item>
+      <title>無料でブラウザ・ShareX・iOSのショートカットなどから即座にファイルをアップロードして共有できる「Zipline」、オープンソースでセルフホスト可能</title>
+      <link>https://gigazine.net/news/20260719-zipline/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260719-zipline/</guid>
+    </item>
+    <item>
+      <title>AI疑惑のホラー小説出版停止騒動・昔は良かった企業が変貌する理由などAmazonで売上トップ10のGIGAZINE記事ランキング2026年6月版はコレ！</title>
+      <link>https://gigazine.net/news/20260720-gigazine-kindle-ranking-2026-06/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260720-gigazine-kindle-ranking-2026-06/</guid>
     </item>
   </channel>
 </rss>
