@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Jul 2026 17:52:58 +0000</lastBuildDate>
-    <item>
-      <title>電子ペーパーガジェットの流行到来！ ― スマホ貼り付け型やキーホルダーなど、遊びがいあるミニガジェットが次々登場</title>
-      <link>https://win-tab.net/opinion/eink-gadget-2606292/</link>
-      <guid isPermaLink="false">https://win-tab.net/opinion/eink-gadget-2606292/</guid>
-    </item>
-    <item>
-      <title>サブスクよさらば！買い切りクラウド「pCloud」が七夕セールで最大70%OFF＆暗号化オプションも無料セット！</title>
-      <link>https://win-tab.net/sale/pcloud-sale-2606301/</link>
-      <guid isPermaLink="false">https://win-tab.net/sale/pcloud-sale-2606301/</guid>
-    </item>
+    <lastBuildDate>Mon, 20 Jul 2026 18:49:45 +0000</lastBuildDate>
     <item>
       <title>Lenovo Tab Plus Gen 2 － JBLスピーカーを9ユニット搭載！音にこだわる人向けの個性派タブレット</title>
       <link>https://win-tab.net/android/lenovo-tab-plus-gen-2-2606302/</link>
@@ -206,6 +196,16 @@
       <title>HP EliteBook 8 G2i 13 AI PC/EliteBook 8 Flip G2i 13 AI PC － 強力なセキュリティ機能を備えた13インチノート＆2-in-1</title>
       <link>https://win-tab.net/hp/elitebook-8-g2i-13-2607192/</link>
       <guid isPermaLink="false">https://win-tab.net/hp/elitebook-8-g2i-13-2607192/</guid>
+    </item>
+    <item>
+      <title>MSI Cubi NUC AI+ 3MG-026JP － Core Ultra 5 322搭載のミニPC、キーボードとマウスも付属するCopilot+ PCです</title>
+      <link>https://win-tab.net/msi/cubi-nuc-ai-3mg-026jp-2607201/</link>
+      <guid isPermaLink="false">https://win-tab.net/msi/cubi-nuc-ai-3mg-026jp-2607201/</guid>
+    </item>
+    <item>
+      <title>Core シリーズ3 (Wildcat Lake)追加！ノートPC用CPU一覧 － 第13世代、第14世代Coreシリーズ、Coreシリーズ1、Coreシリーズ2、Coreシリーズ3 (7月20日更新)</title>
+      <link>https://win-tab.net/opinion/mobile_cpu_list3/</link>
+      <guid isPermaLink="false">https://win-tab.net/opinion/mobile_cpu_list3/</guid>
     </item>
   </channel>
 </rss>
