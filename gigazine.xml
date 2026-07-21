@@ -6,12 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Jul 2026 18:50:37 +0000</lastBuildDate>
-    <item>
-      <title>自作の量子乱数生成器を使った占いアプリ「A Quantum Magic 8-Ball」</title>
-      <link>https://gigazine.net/news/20260629-a-quantum-magic-8-ball/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260629-a-quantum-magic-8-ball/</guid>
-    </item>
+    <lastBuildDate>Tue, 21 Jul 2026 18:13:38 +0000</lastBuildDate>
     <item>
       <title>あのキズナアイをデスクトップ上に配置してモーションを観察＆ボイスを楽しめる「Desktop Mate キズナアイ DLC」レビュー</title>
       <link>https://gigazine.net/news/20260630-desktop-mate-kizuna-ai/</link>
@@ -206,6 +201,11 @@
       <title>単語を並び替えて簡単な英単語を作る無料ゲーム「18 Words」</title>
       <link>https://gigazine.net/news/20260720-18-words/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260720-18-words/</guid>
+    </item>
+    <item>
+      <title>無料で使えるCloudflare Accessの「サービス認証」を設定して外出先のアプリから自宅のローカルAIにアクセスしてみた</title>
+      <link>https://gigazine.net/news/20260721-cloudflare-service-token/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260721-cloudflare-service-token/</guid>
     </item>
   </channel>
 </rss>
