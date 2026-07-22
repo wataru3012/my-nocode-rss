@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Jul 2026 18:12:46 +0000</lastBuildDate>
-    <item>
-      <title>ASUS Chromebook CM14 (CM1405) / CM15 (CM1505) － 最新SoCを搭載するChromebook、6万円台から購入できます</title>
-      <link>https://win-tab.net/asus/chromebook-cm14-cm15-2607012/</link>
-      <guid isPermaLink="false">https://win-tab.net/asus/chromebook-cm14-cm15-2607012/</guid>
-    </item>
-    <item>
-      <title>ASUS Chromebook CM32 Detachable (CM3206) レビュー － 従来モデルから超進化！快適性が別次元に。もうWindowsは不要！？</title>
-      <link>https://win-tab.net/asus/chromebook-cm32-detachable-review-2607021/</link>
-      <guid isPermaLink="false">https://win-tab.net/asus/chromebook-cm32-detachable-review-2607021/</guid>
-    </item>
+    <lastBuildDate>Wed, 22 Jul 2026 18:04:59 +0000</lastBuildDate>
     <item>
       <title>エレコム EGG MOUSE － エレコム創業40周年を象徴する「いつでもそばに置いておきたいマウス」</title>
       <link>https://win-tab.net/acc/elecom-egg-mouse-2607022/</link>
@@ -206,6 +196,16 @@
       <title>Blackview LINK 5 － Android 17をいちはやく搭載！キーボードやマウスも付属するエントリータブレット</title>
       <link>https://win-tab.net/android/blackview-link-5-2607212/</link>
       <guid isPermaLink="false">https://win-tab.net/android/blackview-link-5-2607212/</guid>
+    </item>
+    <item>
+      <title>8.7インチでHelio G99搭載のTECLAST T50MiniがAmazonでセール中、18,900円で買えます。ALLDOCUBEとどっちにする？</title>
+      <link>https://win-tab.net/sale/teclast-t50-mini-amazon-sale-2607221/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/teclast-t50-mini-amazon-sale-2607221/</guid>
+    </item>
+    <item>
+      <title>MSI Claw 8 EX AI+ CG3EM － Intel Arc G3 Extreme搭載のポータブルゲーミングPC</title>
+      <link>https://win-tab.net/msi/claw-8-ex-ai-cg3em-2607222/</link>
+      <guid isPermaLink="false">https://win-tab.net/msi/claw-8-ex-ai-cg3em-2607222/</guid>
     </item>
   </channel>
 </rss>

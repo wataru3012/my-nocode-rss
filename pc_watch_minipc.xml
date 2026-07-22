@@ -6,12 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Jul 2026 18:12:27 +0000</lastBuildDate>
-    <item>
-      <title>マウス、「PRAGMATA」動作確認済みのゲーミングPC 3機種</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2120882.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2120882.html</guid>
-    </item>
+    <lastBuildDate>Wed, 22 Jul 2026 18:04:41 +0000</lastBuildDate>
     <item>
       <title>マウス、ビジネス向けのRyzen搭載14型モバイルノート。15.6型も新発売</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2121073.html</link>
@@ -98,9 +93,19 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2122407.html</guid>
     </item>
     <item>
+      <title>電源内蔵で0.9Lの衝撃。Core Ultra X7の性能を極限まで引き出したミニPC「GPD BOX」</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2122365.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2122365.html</guid>
+    </item>
+    <item>
       <title>ローカルAI特化の縦型ミニPC「EVO-X3」発売、Ryzen AI Max+ 395搭載</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2122508.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2122508.html</guid>
+    </item>
+    <item>
+      <title>OpenClawとQwen3.5-9Bプリインで届いてすぐローカルAIが動くミニPC「SER9 Pro」</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2122604.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2122604.html</guid>
     </item>
     <item>
       <title>組み込みRyzenのミニPCが2万7千円引きで3万2,998円！Amazonセール</title>
@@ -243,114 +248,14 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2126330.html</guid>
     </item>
     <item>
-      <title>【特集】電源内蔵で0.9Lの衝撃。Core Ultra X7の性能を極限まで引き出したミニPC「GPD BOX」</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2122365.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2122365.html</guid>
-    </item>
-    <item>
-      <title>【レビュー】給電が途切れない優れもの！バッファロー製Type-C充電器の検証で分かったこと</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2122842.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2122842.html</guid>
-    </item>
-    <item>
-      <title>【コラム】OpenClawとQwen3.5-9Bプリインで届いてすぐローカルAIが動くミニPC「SER9 Pro」</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2122604.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2122604.html</guid>
-    </item>
-    <item>
-      <title>【特集】あぢぃ～もう無理ぽ！千円の闘魂タオルから着るエアコンまで、夏の冷感グッズ一挙紹介</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2123635.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2123635.html</guid>
-    </item>
-    <item>
-      <title>【特集】あなたのPCスペックにドンピシャな「ローカルLLM」の選び方と快適化テク</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2123979.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2123979.html</guid>
-    </item>
-    <item>
-      <title>Android版Xアプリが刷新。新機能は今後Android先行で提供へ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2126430.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2126430.html</guid>
-    </item>
-    <item>
-      <title>「Grok for Excel」無償公開、データ分析やチャート/グラフ作成をAIが代行</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2126439.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2126439.html</guid>
-    </item>
-    <item>
-      <title>Mythos並みのセキュリティ特化AI「Fugu-Cyber」、Sakana AIが発表</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2126490.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2126490.html</guid>
-    </item>
-    <item>
       <title>本体は約200機種を網羅！FM TOWNSの本体/ソフトの情報を網羅した冊子発売</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2126526.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2126526.html</guid>
     </item>
     <item>
-      <title>スマホの横幅より小さいType-Cハブ、100W給電や映像出力に対応</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2126605.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2126605.html</guid>
-    </item>
-    <item>
-      <title>プラネックス、10Gbps対応LAN拡張カード。RJ-45とSFP+の2タイプ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2126613.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2126613.html</guid>
-    </item>
-    <item>
-      <title>1,700円でPCをBluetooth 6.0化する超小型USBアダプタ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2126617.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2126617.html</guid>
-    </item>
-    <item>
-      <title>NVIDIA、ロボットの自律行動を支援するAIモデル「Cosmos 3 Edge」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2126630.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2126630.html</guid>
-    </item>
-    <item>
-      <title>フィジカルAIで広がるロボット応用。そしてAI導入の障壁を解消する「NemoClaw」とは</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2126537.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2126537.html</guid>
-    </item>
-    <item>
-      <title>AMDとMicrosoft、AIインフラで提携拡大。Heliosや第6世代EPYCなど投入</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2126642.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2126642.html</guid>
-    </item>
-    <item>
-      <title>Gemini 3.6 Flash登場！17%効率化+値下げ。3.5 Flash-Liteも</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2126733.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2126733.html</guid>
-    </item>
-    <item>
-      <title>政府・提携先に限定提供、脆弱性対策特化のGemini 3.5 Flash Cyber</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2126734.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2126734.html</guid>
-    </item>
-    <item>
-      <title>12.2型Androidタブレットが約5千円引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2126399.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2126399.html</guid>
-    </item>
-    <item>
-      <title>VSDINSIDEの拡張キーボードが約2,400円オトク</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2126436.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2126436.html</guid>
-    </item>
-    <item>
-      <title>容量93Lの1ドア冷蔵庫が約3,300円引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2126447.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2126447.html</guid>
-    </item>
-    <item>
-      <title>ミツカンのワッフル6種セットがオトクに販売中</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2126466.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2126466.html</guid>
-    </item>
-    <item>
-      <title>東芝の充電池8本入りが10%オフ。Amazonタイムセール</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2126649.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2126649.html</guid>
+      <title>MSI、Arc G3 Extreme搭載8型ハンドヘルドゲーミングPCを国内発売</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2126981.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2126981.html</guid>
     </item>
   </channel>
 </rss>

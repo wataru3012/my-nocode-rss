@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Jul 2026 18:13:38 +0000</lastBuildDate>
-    <item>
-      <title>あのキズナアイをデスクトップ上に配置してモーションを観察＆ボイスを楽しめる「Desktop Mate キズナアイ DLC」レビュー</title>
-      <link>https://gigazine.net/news/20260630-desktop-mate-kizuna-ai/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260630-desktop-mate-kizuna-ai/</guid>
-    </item>
-    <item>
-      <title>Steam公式ゲーミングPC「Steam Machine」を買って届いたので開封の儀、大きさや搭載ポートを詳しくチェックしてみたよレビュー</title>
-      <link>https://gigazine.net/news/20260703-steam-machine-appearance/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260703-steam-machine-appearance/</guid>
-    </item>
+    <lastBuildDate>Wed, 22 Jul 2026 18:05:49 +0000</lastBuildDate>
     <item>
       <title>無料で簡単にYouTubeなどから動画をダウンロードして保存できる「Parabolic」、ブラウザ拡張機能との連携もあり</title>
       <link>https://gigazine.net/news/20260704-parabolic/</link>
@@ -206,6 +196,16 @@
       <title>無料で使えるCloudflare Accessの「サービス認証」を設定して外出先のアプリから自宅のローカルAIにアクセスしてみた</title>
       <link>https://gigazine.net/news/20260721-cloudflare-service-token/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260721-cloudflare-service-token/</guid>
+    </item>
+    <item>
+      <title>3つのアナログ時計をできるだけ速く正確に読み取る無料ゲーム「analog.watch」</title>
+      <link>https://gigazine.net/news/20260722-analog-watch-game/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260722-analog-watch-game/</guid>
+    </item>
+    <item>
+      <title>画像生成AI「Qwen-Image-3.0」が登場したので使ってみた、イラストや日本語テキストの描画性能はいかに</title>
+      <link>https://gigazine.net/news/20260722-qwen-image-3/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260722-qwen-image-3/</guid>
     </item>
   </channel>
 </rss>

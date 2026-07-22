@@ -6,7 +6,7 @@
     <description>PC-Freedom</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Jul 2026 18:12:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 18:04:50 +0000</lastBuildDate>
     <item>
       <title>openSUSE とは？派手さよりも管理しやすさで選ぶドイツ生まれの Linux</title>
       <link>https://pc-freedom.net/basic/what-is-opensuse/</link>
@@ -128,11 +128,6 @@
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-cachyos/</guid>
     </item>
     <item>
-      <title>Peppermint OS とは？ブラウザすら自分で選ぶ、軽量 Debian 系 Linux</title>
-      <link>https://pc-freedom.net/basic/what-is-peppermint-os/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-peppermint-os/</guid>
-    </item>
-    <item>
       <title>Garuda Linux とは？Arch 系を“全部盛り”にした、派手で実用的な Linux</title>
       <link>https://pc-freedom.net/basic/what-is-garuda-linux/</link>
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-garuda-linux/</guid>
@@ -186,6 +181,11 @@
       <title>AlmaLinux とは？CentOS の後継として選ばれる理由と使い道</title>
       <link>https://pc-freedom.net/basic/what-is-almalinux/</link>
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-almalinux/</guid>
+    </item>
+    <item>
+      <title>Rocky Linux とは？CentOS Stream・AlmaLinux との違いと使い道を解説</title>
+      <link>https://pc-freedom.net/basic/what-is-rocky-linux/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-rocky-linux/</guid>
     </item>
   </channel>
 </rss>
