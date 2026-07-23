@@ -6,17 +6,7 @@
     <description>PC-Freedom</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 18:04:50 +0000</lastBuildDate>
-    <item>
-      <title>openSUSE とは？派手さよりも管理しやすさで選ぶドイツ生まれの Linux</title>
-      <link>https://pc-freedom.net/basic/what-is-opensuse/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-opensuse/</guid>
-    </item>
-    <item>
-      <title>Arch Linux とは？「自分で理解して使う」思想が詰まった Linux</title>
-      <link>https://pc-freedom.net/basic/what-is-arch-linux/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-arch-linux/</guid>
-    </item>
+    <lastBuildDate>Thu, 23 Jul 2026 18:08:44 +0000</lastBuildDate>
     <item>
       <title>Linux Mint とは？Windows から乗り換えやすい定番 Linux を解説</title>
       <link>https://pc-freedom.net/basic/what-is-linux-mint/</link>
@@ -128,6 +118,11 @@
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-cachyos/</guid>
     </item>
     <item>
+      <title>Peppermint OS とは？ブラウザすら自分で選ぶ、軽量 Debian 系 Linux</title>
+      <link>https://pc-freedom.net/basic/what-is-peppermint-os/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-peppermint-os/</guid>
+    </item>
+    <item>
       <title>Garuda Linux とは？Arch 系を“全部盛り”にした、派手で実用的な Linux</title>
       <link>https://pc-freedom.net/basic/what-is-garuda-linux/</link>
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-garuda-linux/</guid>
@@ -186,6 +181,11 @@
       <title>Rocky Linux とは？CentOS Stream・AlmaLinux との違いと使い道を解説</title>
       <link>https://pc-freedom.net/basic/what-is-rocky-linux/</link>
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-rocky-linux/</guid>
+    </item>
+    <item>
+      <title>Raspberry Pi OS とは？できること、日本語入力、Debian・Ubuntu との違いを解説</title>
+      <link>https://pc-freedom.net/basic/what-is-raspberry-pi-os/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-raspberry-pi-os/</guid>
     </item>
   </channel>
 </rss>
