@@ -6,12 +6,7 @@
     <description>格安ガジェットブログ</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 18:08:07 +0000</lastBuildDate>
-    <item>
-      <title>ライブ配信で気をつけるべきこと</title>
-      <link>https://yasugad.hatenablog.com/entry/2025/10/29/190000</link>
-      <guid isPermaLink="false">https://yasugad.hatenablog.com/entry/2025/10/29/190000</guid>
-    </item>
+    <lastBuildDate>Fri, 24 Jul 2026 18:12:48 +0000</lastBuildDate>
     <item>
       <title>遊戯王マスターデュエル 2025年10月の評価</title>
       <link>https://yasugad.hatenablog.com/entry/2025/10/31/190000</link>
@@ -606,6 +601,11 @@
       <title>スマホとAndroidゲーム機の決定的な違い</title>
       <link>https://yasugad.hatenablog.com/entry/2026/07/22/190000</link>
       <guid isPermaLink="false">https://yasugad.hatenablog.com/entry/2026/07/22/190000</guid>
+    </item>
+    <item>
+      <title>Grim Dawn オフライン向けのトレハンハクスラゲーとしては最高のゲームかもしれない</title>
+      <link>https://yasugad.hatenablog.com/entry/2026/07/24/190000</link>
+      <guid isPermaLink="false">https://yasugad.hatenablog.com/entry/2026/07/24/190000</guid>
     </item>
   </channel>
 </rss>

@@ -6,17 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 18:08:35 +0000</lastBuildDate>
-    <item>
-      <title>レノボ、スピーカー9基/キックスタンド搭載のエンタメ向け12.1型タブレット</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2121106.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2121106.html</guid>
-    </item>
-    <item>
-      <title>再生PC「Reborn VAIO」を長野パルセイロに導入、CO2排出量削減へ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2121635.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2121635.html</guid>
-    </item>
+    <lastBuildDate>Fri, 24 Jul 2026 18:13:15 +0000</lastBuildDate>
     <item>
       <title>マウス、大人も子どもも使えるRTX 3050搭載の15.6型ノート</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2121746.html</link>
@@ -233,6 +223,21 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2127001.html</guid>
     </item>
     <item>
+      <title>さよなら「Mate」、「VersaPro」。NEC PC法人向けブランドが「LAVIE」に統合</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2127137.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127137.html</guid>
+    </item>
+    <item>
+      <title>あの“変態仕様”がPanther Lakeで帰ってきた！MINISFORUM「MS-03」が予約開始</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2127249.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127249.html</guid>
+    </item>
+    <item>
+      <title>ASUS、GeForce RTX 50シリーズ搭載のミドルタワーゲーミングPC</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2127306.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127306.html</guid>
+    </item>
+    <item>
       <title>【特集】電源内蔵で0.9Lの衝撃。Core Ultra X7の性能を極限まで引き出したミニPC「GPD BOX」</title>
       <link>https://pc.watch.impress.co.jp/docs/column/hothot/2122365.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2122365.html</guid>
@@ -258,99 +263,84 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2123979.html</guid>
     </item>
     <item>
-      <title>NVIDIAのGPU向けストレージやIBMの自律AI向けファイルシステムなどがFMS 2026を賑わす</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/semicon/2127115.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/semicon/2127115.html</guid>
+      <title>NVIDIA超えを強調、AMDは2nmの第6世代EPYCとMI455Xに自信</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2127540.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127540.html</guid>
     </item>
     <item>
-      <title>さよなら「Mate」、「VersaPro」。NEC PC法人向けブランドが「LAVIE」に統合</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2127137.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127137.html</guid>
+      <title>「AIキルスイッチ法案」が米国で提出。AI暴走に政府が介入</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2127555.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127555.html</guid>
     </item>
     <item>
-      <title>好調の中国AI「Kimi K3」に米政府が待った、Fable蒸留の疑い</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2127165.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127165.html</guid>
+      <title>1泊2日の出張ならACアダプタ不要!?50.8時間動く驚異の999gノート「LAVIE BM94C」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2127570.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127570.html</guid>
     </item>
     <item>
-      <title>初代XboxのゲームをPCで遊べるように。後方互換機能が提供開始</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2127222.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127222.html</guid>
+      <title>LG製モニターをつなぐとMcAfeeの広告が勝手に出る問題。Microsoftが対応開始</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2127600.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127600.html</guid>
     </item>
     <item>
-      <title>磁力でピタッとまとまって絡まない！バッファローのType-C LAN変換ケーブル</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2127230.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127230.html</guid>
+      <title>RTX 5050～5070搭載の16型ゲーミングノート「Nitro V 16 AI」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2127614.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127614.html</guid>
     </item>
     <item>
-      <title>AndroidがiPhoneからの移行強化。eSIMやパスワードも転送可能に</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2127257.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127257.html</guid>
+      <title>Grok 4.5がモバイルアプリ/Web/Xで利用可能に</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2127605.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127605.html</guid>
     </item>
     <item>
-      <title>あの“変態仕様”がPanther Lakeで帰ってきた！MINISFORUM「MS-03」が予約開始</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2127249.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127249.html</guid>
+      <title>折りたたんで持ち運べる15.6型2画面モニター</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2127643.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127643.html</guid>
     </item>
     <item>
-      <title>Menaち襲来、15歳プロ参戦……史上最も予測不能なSFL2026全チーム取材</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2127279.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127279.html</guid>
+      <title>Macのファイルが丸見え!? Claude Coworkにサンドボックス脱出の脆弱性</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2127652.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127652.html</guid>
     </item>
     <item>
-      <title>MSI、280Hz/0.03ms駆動のQD-OLED搭載26.5型ゲーミングモニター</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2127277.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127277.html</guid>
+      <title>JAPANNEXT、「モニ研」コラボのアーム付き27型WQHDゲーミングモニター</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2127716.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127716.html</guid>
     </item>
     <item>
-      <title>ASUS、GeForce RTX 50シリーズ搭載のミドルタワーゲーミングPC</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2127306.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127306.html</guid>
+      <title>暴走AIは法で止めるべき？米AI規制法案にNVIDIAらが共同書簡で対抗</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2127831.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127831.html</guid>
     </item>
     <item>
-      <title>MSI、目の疲労度をチェックできる23.8型/21.45型ビジネスモニター</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2127360.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127360.html</guid>
+      <title>「Fable 5級を半額で」Claude Opus 5登場。Proでも最強モデルに</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2127832.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127832.html</guid>
     </item>
     <item>
-      <title>マウス、USB Type-C対応でドック機能付きの23.8型フルHDビジネスモニター</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2127369.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127369.html</guid>
+      <title>Core Ultra 5搭載ミニPCが約1万5千円引き</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2127503.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2127503.html</guid>
     </item>
     <item>
-      <title>ASUS、LoL世界王者「T1」コラボデザインのRTX 5070/5060 Ti</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2127410.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127410.html</guid>
+      <title>8.8型サイズのAndroidタブレットが1万2,500円引き</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2127505.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2127505.html</guid>
     </item>
     <item>
-      <title>サンワサプライ、卓上や壁にハブやルーターを収納できるラック</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2127417.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127417.html</guid>
+      <title>10.5型のフルHDモバイルモニターが約1,000円弱の引き</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2127518.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2127518.html</guid>
     </item>
     <item>
-      <title>64GBメモリのCore Ultra X7搭載ミニPCが約5万7千円オフ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2127097.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2127097.html</guid>
+      <title>アウトドアでも使えるプライバシーテント付き簡易トイレがセール中</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2127526.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2127526.html</guid>
     </item>
     <item>
-      <title>MSIのGeForce RTX 5060搭載ゲーミングノートが2万円オフ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2127105.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2127105.html</guid>
-    </item>
-    <item>
-      <title>Razerの左手ゲーミングキーボードが3,630円引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2127108.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2127108.html</guid>
-    </item>
-    <item>
-      <title>20,000mAhバッテリ付属のファン付き作業服が4,999円！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2127118.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2127118.html</guid>
-    </item>
-    <item>
-      <title>UCCのアイスコーヒー×12本セットがセール。午後の紅茶も値引きに</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2127135.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2127135.html</guid>
+      <title>松のやの豚かつやから揚げ30食セットが約3千円引き！</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2127529.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2127529.html</guid>
     </item>
   </channel>
 </rss>

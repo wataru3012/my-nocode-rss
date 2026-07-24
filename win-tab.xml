@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 18:08:56 +0000</lastBuildDate>
-    <item>
-      <title>HP セール情報 －「27周年大祭り 第2弾」がスタート、OmniBookシリーズの最新モデルもセール価格に！</title>
-      <link>https://win-tab.net/sale/hp-sale-2607032/</link>
-      <guid isPermaLink="false">https://win-tab.net/sale/hp-sale-2607032/</guid>
-    </item>
-    <item>
-      <title>ASUS StoreでExpertBookシリーズのセール中、仕事用のノートPCを探している人は要チェックです！</title>
-      <link>https://win-tab.net/sale/asus-sale-2607041/</link>
-      <guid isPermaLink="false">https://win-tab.net/sale/asus-sale-2607041/</guid>
-    </item>
+    <lastBuildDate>Fri, 24 Jul 2026 18:13:35 +0000</lastBuildDate>
     <item>
       <title>【Amazonプライムデー】SOUNDPEATSの高品質なイヤホンが限定クーポンで最大50% OFF</title>
       <link>https://win-tab.net/sale/soundpeats-amazon-prime-day-2607051/</link>
@@ -206,6 +196,16 @@
       <title>ノートPC用CPU一覧 － Ryzen AI Maxシリーズ、Ryzen AI 300シリーズ、Ryzen 200/100シリーズ (7月23日更新)</title>
       <link>https://win-tab.net/opinion/mobile_cpu_list2/</link>
       <guid isPermaLink="false">https://win-tab.net/opinion/mobile_cpu_list2/</guid>
+    </item>
+    <item>
+      <title>HP セール情報 － サマーセール＆週末限定セールを開催中！OmniBook 7 14-frはどう考えても激安！</title>
+      <link>https://win-tab.net/sale/hp-sale-2607241/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/hp-sale-2607241/</guid>
+    </item>
+    <item>
+      <title>エレコム 士郎正宗 復刻デザインマウス － 新色「レッド」追加！描き下ろしイラストカードも付属します</title>
+      <link>https://win-tab.net/acc/elecom-mapp-mouse-2607242/</link>
+      <guid isPermaLink="false">https://win-tab.net/acc/elecom-mapp-mouse-2607242/</guid>
     </item>
   </channel>
 </rss>
