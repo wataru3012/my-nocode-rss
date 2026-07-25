@@ -6,22 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Jul 2026 18:14:26 +0000</lastBuildDate>
-    <item>
-      <title>コードレスで家中どこでも使え連続70時間運転＆スマホで遠隔操作＆静音で夜でも気にならない「SwitchBot スマートサーキュレーター2 Pro」を使ってみた</title>
-      <link>https://gigazine.net/news/20260707-switchbot-smart-circulator-2-pro/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260707-switchbot-smart-circulator-2-pro/</guid>
-    </item>
-    <item>
-      <title>Sakana AIが翻訳機能「Sakana Translate」をリリース、日英中の双方向翻訳に対応＆カジュアル・簡潔・大阪弁などに変換可能</title>
-      <link>https://gigazine.net/news/20260707-sakana-translate/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260707-sakana-translate/</guid>
-    </item>
-    <item>
-      <title>AMDのAI開発キット「Ryzen AI Halo」レビューがさっそく登場、約64万円で128GBの超大容量ユニファイドメモリ＆Zen 5CPU＆Radeon 8060S GPUを搭載した強力ミニワークステーション</title>
-      <link>https://gigazine.net/news/20260707-amd-ryzen-ai-halo/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260707-amd-ryzen-ai-halo/</guid>
-    </item>
+    <lastBuildDate>Sat, 25 Jul 2026 17:54:21 +0000</lastBuildDate>
     <item>
       <title>無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「Cloudflare Tunnel」を使ってみた</title>
       <link>https://gigazine.net/news/20260708-cloudflare-tunnel/</link>
@@ -193,19 +178,34 @@
       <guid isPermaLink="false">https://gigazine.net/news/20260724-castle-map/</guid>
     </item>
     <item>
-      <title>重力反転を駆使してトラップだらけのステージを攻略する高難度アクションゲーム「LOVE ETERNAL」プレイレビュー</title>
-      <link>https://gigazine.net/news/20260724-love-eternal/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260724-love-eternal/</guid>
-    </item>
-    <item>
       <title>GIGAZINE夏のプレゼント大放出企画「アンケートに答えて全部持っていってください！」、全部で60品目以上あり！</title>
       <link>https://gigazine.net/news/20260724-present-summer-2026/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260724-present-summer-2026/</guid>
     </item>
     <item>
+      <title>重力反転を駆使してトラップだらけのステージを攻略する高難度アクションゲーム「LOVE ETERNAL」プレイレビュー</title>
+      <link>https://gigazine.net/news/20260724-love-eternal/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260724-love-eternal/</guid>
+    </item>
+    <item>
       <title>作家や批評家が選ぶ「史上最高の小説100選」・アニメ監督や作家インタビューなどAmazonで売上トップ100のGIGAZINE記事ランキング2026年第2四半期版まとめ</title>
       <link>https://gigazine.net/news/20260725-gigazine-kindle-ranking-2026-q2/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260725-gigazine-kindle-ranking-2026-q2/</guid>
+    </item>
+    <item>
+      <title>無料でページのJavaScriptを削除してサイト全体をまとめてローカルに保存しオフラインで閲覧できるようにする「kage」</title>
+      <link>https://gigazine.net/news/20260725-kage/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260725-kage/</guid>
+    </item>
+    <item>
+      <title>iPhoneの充電に最適＆充電状況をディスプレイで確認できる45W充電アダプター「Anker Nano Charger(45W、Display、スイングプラグ)」レビュー</title>
+      <link>https://gigazine.net/news/20260725-anker-nano-charger-45w-display/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260725-anker-nano-charger-45w-display/</guid>
+    </item>
+    <item>
+      <title>無料・無制限でPDF・画像・EPUB・テキストファイル・音声とカメラ入力をスマホでオフライン翻訳できる「Offline Translator」、60言語に対応し日本語の縦書きもOK</title>
+      <link>https://gigazine.net/news/20260725-offline-translator/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260725-offline-translator/</guid>
     </item>
   </channel>
 </rss>
