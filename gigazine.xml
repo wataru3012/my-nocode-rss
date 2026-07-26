@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Jul 2026 17:54:21 +0000</lastBuildDate>
-    <item>
-      <title>無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「Cloudflare Tunnel」を使ってみた</title>
-      <link>https://gigazine.net/news/20260708-cloudflare-tunnel/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260708-cloudflare-tunnel/</guid>
-    </item>
-    <item>
-      <title>デスクトップにバーチャル・シンガーのMEIKOとKAITOが登場して大人の魅力を振りまくDesktop Mateの「MEIKO DLC」「KAITO DLC」レビュー</title>
-      <link>https://gigazine.net/news/20260709-desktop-mate-meiko-kaito/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260709-desktop-mate-meiko-kaito/</guid>
-    </item>
+    <lastBuildDate>Sun, 26 Jul 2026 17:58:09 +0000</lastBuildDate>
     <item>
       <title>HTMLやCSSをドラッグ＆ドロップするだけでウェブサイトとして公開できる「Cloudflare Drop」を使ってみた</title>
       <link>https://gigazine.net/news/20260709-cloudflare-drop/</link>
@@ -206,6 +196,16 @@
       <title>無料・無制限でPDF・画像・EPUB・テキストファイル・音声とカメラ入力をスマホでオフライン翻訳できる「Offline Translator」、60言語に対応し日本語の縦書きもOK</title>
       <link>https://gigazine.net/news/20260725-offline-translator/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260725-offline-translator/</guid>
+    </item>
+    <item>
+      <title>無料でターミナルセッションをアニメーションGIFに変換できる「VHS」</title>
+      <link>https://gigazine.net/news/20260726-vhs/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260726-vhs/</guid>
+    </item>
+    <item>
+      <title>無料で広告ブロック対策のアクセスウォールを検出して無効化できる「Unwall」</title>
+      <link>https://gigazine.net/news/20260726-unwall/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260726-unwall/</guid>
     </item>
   </channel>
 </rss>
