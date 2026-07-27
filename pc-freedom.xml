@@ -6,12 +6,7 @@
     <description>PC-Freedom</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Jul 2026 17:57:03 +0000</lastBuildDate>
-    <item>
-      <title>Linux Mint とは？Windows から乗り換えやすい定番 Linux を解説</title>
-      <link>https://pc-freedom.net/basic/what-is-linux-mint/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-linux-mint/</guid>
-    </item>
+    <lastBuildDate>Mon, 27 Jul 2026 18:19:53 +0000</lastBuildDate>
     <item>
       <title>Manjaro とは？Arch に憧れる人のための現実的な Linux</title>
       <link>https://pc-freedom.net/basic/what-is-manjaro/</link>
@@ -186,6 +181,11 @@
       <title>Raspberry Pi OS とは？できること、日本語入力、Debian・Ubuntu との違いを解説</title>
       <link>https://pc-freedom.net/basic/what-is-raspberry-pi-os/</link>
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-raspberry-pi-os/</guid>
+    </item>
+    <item>
+      <title>Ubuntu 公式フレーバーとは？Kubuntu・Xubuntu・Lubuntu の違いと選び方</title>
+      <link>https://pc-freedom.net/basic/what-is-ubuntu-flavours/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-ubuntu-flavours/</guid>
     </item>
   </channel>
 </rss>
