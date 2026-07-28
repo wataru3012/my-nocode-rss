@@ -6,17 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Jul 2026 18:19:44 +0000</lastBuildDate>
-    <item>
-      <title>8万7千円引きでほぼ半額！Ryzen 7搭載ミニPCがAmazonセール</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/special/2121777.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2121777.html</guid>
-    </item>
-    <item>
-      <title>パソコン工房、270HX Plus+RTX 5070搭載のゲーミングノート</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2122090.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2122090.html</guid>
-    </item>
+    <lastBuildDate>Tue, 28 Jul 2026 18:07:58 +0000</lastBuildDate>
     <item>
       <title>ディズニーコラボのVAIO F14/F16に「トイ・ストーリー」モデル登場</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2122114.html</link>
@@ -233,6 +223,21 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127995.html</guid>
     </item>
     <item>
+      <title>パソコン工房、東雲うみコラボゲーミングPCが5千円オフ。夏の表紙ジャック記念で</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2128068.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128068.html</guid>
+    </item>
+    <item>
+      <title>ドスパラ、初心者も安心の自作PC組立イベントを8月開催</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2128223.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128223.html</guid>
+    </item>
+    <item>
+      <title>マウス、16GBメモリ搭載で価格を抑えた15.6/14型ノートPC</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2128234.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128234.html</guid>
+    </item>
+    <item>
       <title>【特集】電源内蔵で0.9Lの衝撃。Core Ultra X7の性能を極限まで引き出したミニPC「GPD BOX」</title>
       <link>https://pc.watch.impress.co.jp/docs/column/hothot/2122365.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2122365.html</guid>
@@ -258,89 +263,89 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2123979.html</guid>
     </item>
     <item>
-      <title>あの最強コーディングAI「Kimi K3」が手元で動く！今夜ウェイト公開へ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128001.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128001.html</guid>
+      <title>ガチくんに! 第426回切り抜き「ヤスミンの対戦動画を見ても決して強いと断言しないsakoさん」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2128350.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128350.html</guid>
     </item>
     <item>
-      <title>Grok 4.6は2週間後、4.7は4週間後に登場か。イーロン・マスク氏が予告</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128021.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128021.html</guid>
+      <title>周囲の声や騒音を除去する「音声分離」機能、Windows 11プレビュー版に登場</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2128431.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128431.html</guid>
     </item>
     <item>
-      <title>「AIキルスイッチ法案」への反発拡大、Google、OpenAI、AMD含む77社・団体が共同署名</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128033.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128033.html</guid>
+      <title>「リセットしたい気分だ」の一言で、Codexの週間利用枠がまた復活</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2128476.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128476.html</guid>
     </item>
     <item>
-      <title>パソコン工房、東雲うみコラボゲーミングPCが5千円オフ。夏の表紙ジャック記念で</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128068.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128068.html</guid>
+      <title>Jetsonを使ったローカル生成AIの解説ライブ。NVIDIAが開催</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2128468.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128468.html</guid>
     </item>
     <item>
-      <title>Hugging Face、AI侵入のOpenAIに透明性確保とサイバー防衛支援要求</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128099.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128099.html</guid>
+      <title>次世代のAIインフラを支えるウルトライーサネットやPCIe 8.0などをFMS 2026で披露</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/semicon/2128501.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/semicon/2128501.html</guid>
     </item>
     <item>
-      <title>ベルキン、140W給電や8K/60Hz出力対応のThunderbolt 5ドック</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128157.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128157.html</guid>
+      <title>世界的に見ると日本のiPhoneは安め、次世代機は8～13%値上げか。MM総研調べ</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2128534.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128534.html</guid>
     </item>
     <item>
-      <title>レノボ、米国のサーバー製造拠点を2倍に拡張。約1,000人を新規雇用</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128208.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128208.html</guid>
+      <title>デスクの「2台PC問題」を解決！ワンタッチ切り替えできるエレコムのPC切替器</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2128556.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128556.html</guid>
     </item>
     <item>
-      <title>ドスパラ、初心者も安心の自作PC組立イベントを8月開催</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128223.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128223.html</guid>
+      <title>色のブレをなくす。BenQ、27型4Kデザイナー向けモニター</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2128592.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128592.html</guid>
     </item>
     <item>
-      <title>マウス、16GBメモリ搭載で価格を抑えた15.6/14型ノートPC</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128234.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128234.html</guid>
+      <title>スマホやPCを3台切り替え、厚さ6.5mmの曲げて使える静音マウス「GoFold」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2128619.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128619.html</guid>
     </item>
     <item>
-      <title>「AI使っても評価されない」の壁を崩せるか？日本マイクロソフトが描くAI協働の未来</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128236.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128236.html</guid>
+      <title>AIが職場の活動範囲をどう広げているか、OpenAIが調査を公表</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2128626.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128626.html</guid>
     </item>
     <item>
-      <title>Claude Codeで複数AIを束ねる「Fugu」が使えるように</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128260.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128260.html</guid>
+      <title>Java版「マイクラ」システム要件、メモリ2GBから8GBに引き上げ</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2128632.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128632.html</guid>
     </item>
     <item>
-      <title>Fable 5に迫る「Kimi K3」オープンウェイト版が公開。MXFP4形式で1.56TB</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128308.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128308.html</guid>
+      <title>DGX Sparkと同じAI性能を激安で!?独自プロセッサで100BのLLMを走らせられるミニPC</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2128607.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128607.html</guid>
     </item>
     <item>
-      <title>メモリ24GBのOffice付きノートPCが4万980円引き！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2127991.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2127991.html</guid>
+      <title>組み込み用Ryzen搭載ミニPCが約1万2千円引き</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2128346.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2128346.html</guid>
     </item>
     <item>
-      <title>Ryzen 5搭載ミニPCが1万5,301円オフ！高速端子が充実</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2128012.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2128012.html</guid>
+      <title>フルHD液晶搭載の11型Androidタブレットが約5千円引き</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2128410.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2128410.html</guid>
     </item>
     <item>
-      <title>LGの5K対応27型Mini LEDモニターが3万7,351円オフ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2128031.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2128031.html</guid>
+      <title>360度回転できる小型プロジェクタが1万7千円オトク</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2128422.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2128422.html</guid>
     </item>
     <item>
-      <title>レグザの65型テレビが2万円オフ！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2128055.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2128055.html</guid>
+      <title>スマホで操作できるポータブル冷蔵庫が1,400円引き</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2128447.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2128447.html</guid>
     </item>
     <item>
-      <title>伊藤園「緑茶」ラベルレス500ml×24本が660円引き！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2128064.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2128064.html</guid>
+      <title>赤色の缶「金麦 濃い目 ラガー」24本セットがオトク。ストゼロも安い！</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2128450.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2128450.html</guid>
     </item>
   </channel>
 </rss>
