@@ -6,17 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Jul 2026 18:07:58 +0000</lastBuildDate>
-    <item>
-      <title>ディズニーコラボのVAIO F14/F16に「トイ・ストーリー」モデル登場</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2122114.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2122114.html</guid>
-    </item>
-    <item>
-      <title>ASUS、Snapdragon X2搭載の「Zenbook SORA 16」にメモリ24GBモデル</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2122135.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2122135.html</guid>
-    </item>
+    <lastBuildDate>Wed, 29 Jul 2026 18:02:29 +0000</lastBuildDate>
     <item>
       <title>パソコン工房、Core UltraとGeForce RTX 5090/80搭載の18型ゲーミングノート</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2122238.html</link>
@@ -33,9 +23,19 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2122407.html</guid>
     </item>
     <item>
+      <title>電源内蔵で0.9Lの衝撃。Core Ultra X7の性能を極限まで引き出したミニPC「GPD BOX」</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2122365.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2122365.html</guid>
+    </item>
+    <item>
       <title>ローカルAI特化の縦型ミニPC「EVO-X3」発売、Ryzen AI Max+ 395搭載</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2122508.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2122508.html</guid>
+    </item>
+    <item>
+      <title>OpenClawとQwen3.5-9Bプリインで届いてすぐローカルAIが動くミニPC「SER9 Pro」</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2122604.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2122604.html</guid>
     </item>
     <item>
       <title>組み込みRyzenのミニPCが2万7千円引きで3万2,998円！Amazonセール</title>
@@ -238,84 +238,9 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128234.html</guid>
     </item>
     <item>
-      <title>【特集】電源内蔵で0.9Lの衝撃。Core Ultra X7の性能を極限まで引き出したミニPC「GPD BOX」</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2122365.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2122365.html</guid>
-    </item>
-    <item>
-      <title>【レビュー】給電が途切れない優れもの！バッファロー製Type-C充電器の検証で分かったこと</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2122842.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2122842.html</guid>
-    </item>
-    <item>
-      <title>【コラム】OpenClawとQwen3.5-9Bプリインで届いてすぐローカルAIが動くミニPC「SER9 Pro」</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2122604.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2122604.html</guid>
-    </item>
-    <item>
-      <title>【特集】あぢぃ～もう無理ぽ！千円の闘魂タオルから着るエアコンまで、夏の冷感グッズ一挙紹介</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2123635.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2123635.html</guid>
-    </item>
-    <item>
-      <title>【特集】あなたのPCスペックにドンピシャな「ローカルLLM」の選び方と快適化テク</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2123979.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2123979.html</guid>
-    </item>
-    <item>
-      <title>ガチくんに! 第426回切り抜き「ヤスミンの対戦動画を見ても決して強いと断言しないsakoさん」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128350.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128350.html</guid>
-    </item>
-    <item>
-      <title>周囲の声や騒音を除去する「音声分離」機能、Windows 11プレビュー版に登場</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128431.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128431.html</guid>
-    </item>
-    <item>
-      <title>「リセットしたい気分だ」の一言で、Codexの週間利用枠がまた復活</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128476.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128476.html</guid>
-    </item>
-    <item>
-      <title>Jetsonを使ったローカル生成AIの解説ライブ。NVIDIAが開催</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128468.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128468.html</guid>
-    </item>
-    <item>
-      <title>次世代のAIインフラを支えるウルトライーサネットやPCIe 8.0などをFMS 2026で披露</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/semicon/2128501.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/semicon/2128501.html</guid>
-    </item>
-    <item>
       <title>世界的に見ると日本のiPhoneは安め、次世代機は8～13%値上げか。MM総研調べ</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2128534.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128534.html</guid>
-    </item>
-    <item>
-      <title>デスクの「2台PC問題」を解決！ワンタッチ切り替えできるエレコムのPC切替器</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128556.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128556.html</guid>
-    </item>
-    <item>
-      <title>色のブレをなくす。BenQ、27型4Kデザイナー向けモニター</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128592.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128592.html</guid>
-    </item>
-    <item>
-      <title>スマホやPCを3台切り替え、厚さ6.5mmの曲げて使える静音マウス「GoFold」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128619.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128619.html</guid>
-    </item>
-    <item>
-      <title>AIが職場の活動範囲をどう広げているか、OpenAIが調査を公表</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128626.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128626.html</guid>
-    </item>
-    <item>
-      <title>Java版「マイクラ」システム要件、メモリ2GBから8GBに引き上げ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128632.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128632.html</guid>
     </item>
     <item>
       <title>DGX Sparkと同じAI性能を激安で!?独自プロセッサで100BのLLMを走らせられるミニPC</title>
@@ -323,29 +248,14 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128607.html</guid>
     </item>
     <item>
-      <title>組み込み用Ryzen搭載ミニPCが約1万2千円引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2128346.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2128346.html</guid>
+      <title>「Apple Upgrade」開始。iPhoneやMacを月額で借りられるサービス</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2128762.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128762.html</guid>
     </item>
     <item>
-      <title>フルHD液晶搭載の11型Androidタブレットが約5千円引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2128410.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2128410.html</guid>
-    </item>
-    <item>
-      <title>360度回転できる小型プロジェクタが1万7千円オトク</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2128422.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2128422.html</guid>
-    </item>
-    <item>
-      <title>スマホで操作できるポータブル冷蔵庫が1,400円引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2128447.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2128447.html</guid>
-    </item>
-    <item>
-      <title>赤色の缶「金麦 濃い目 ラガー」24本セットがオトク。ストゼロも安い！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2128450.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2128450.html</guid>
+      <title>水冷Ryzen 9にRTX 50をぶち込む！GMKtecが放つ小型ゲーミングPC</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2128832.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128832.html</guid>
     </item>
   </channel>
 </rss>
