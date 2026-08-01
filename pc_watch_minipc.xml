@@ -6,12 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Jul 2026 18:16:16 +0000</lastBuildDate>
-    <item>
-      <title>バッテリ25時間駆動！あえて1世代前CPUで高コスパな1kg切りモバイルノート「LAVIE NEXTREME」</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/short-review/2122659.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/short-review/2122659.html</guid>
-    </item>
+    <lastBuildDate>Sat, 01 Aug 2026 17:55:21 +0000</lastBuildDate>
     <item>
       <title>MINISFORUM、DDR4メモリ採用により32GBで13万円台のCore i9搭載ミニPC</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2123293.html</link>
@@ -248,14 +243,114 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2129539.html</guid>
     </item>
     <item>
+      <title>【特集】電源内蔵で0.9Lの衝撃。Core Ultra X7の性能を極限まで引き出したミニPC「GPD BOX」</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2122365.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2122365.html</guid>
+    </item>
+    <item>
+      <title>【レビュー】給電が途切れない優れもの！バッファロー製Type-C充電器の検証で分かったこと</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2122842.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2122842.html</guid>
+    </item>
+    <item>
+      <title>【コラム】OpenClawとQwen3.5-9Bプリインで届いてすぐローカルAIが動くミニPC「SER9 Pro」</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2122604.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2122604.html</guid>
+    </item>
+    <item>
+      <title>【特集】あぢぃ～もう無理ぽ！千円の闘魂タオルから着るエアコンまで、夏の冷感グッズ一挙紹介</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2123635.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2123635.html</guid>
+    </item>
+    <item>
+      <title>【特集】あなたのPCスペックにドンピシャな「ローカルLLM」の選び方と快適化テク</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2123979.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2123979.html</guid>
+    </item>
+    <item>
+      <title>従来の4分の1で賢い！AIエージェントに最適なLLM「Inkling-Small」無償公開</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2129545.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2129545.html</guid>
+    </item>
+    <item>
+      <title>Claudeが演習と勘違いし実在システムに攻撃。原因は設定ミス</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2129514.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2129514.html</guid>
+    </item>
+    <item>
       <title>FRONTIER、Core 7 150U搭載で高耐久設計の15.6型ノート</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2129588.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2129588.html</guid>
     </item>
     <item>
+      <title>Razerがついに磁気式に本気参入！超高速8KHz・ラピッドトリガーの新型キーボード</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2129597.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2129597.html</guid>
+    </item>
+    <item>
+      <title>「DeepSeek V4 Flash」正式版、Proプレビューに9項目全勝。Pro正式版も間近</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2129680.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2129680.html</guid>
+    </item>
+    <item>
       <title>GALLERIA、フルHDゲーミングに好適なRadeon RX 9050搭載PCを発売</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2129702.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2129702.html</guid>
+    </item>
+    <item>
+      <title>ついに260Hzが2万円切り。日本エイサーがゲーミングモニター4種一挙投入</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2129616.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2129616.html</guid>
+    </item>
+    <item>
+      <title>GPT-5.6は自分で自分を最適化する。性能とコストで競合を上回ったワケ</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2129786.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2129786.html</guid>
+    </item>
+    <item>
+      <title>DeepSeekショック再来？「DeepSeek V4 Flash」正式版が無償公開。公式版は167GB、Unsloth版は最小82GB台</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2129807.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2129807.html</guid>
+    </item>
+    <item>
+      <title>不要なプリンタやスキャナをまとめて処分！「小型家電リサイクル券」を試してみた</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2129812.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2129812.html</guid>
+    </item>
+    <item>
+      <title>iPhoneは本当に遅れているのか？Android勢の「AI機能」とガチ比較して見えた決定的な差</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2129813.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2129813.html</guid>
+    </item>
+    <item>
+      <title>Codexの利用制限、8月1日にまた全リセット。7月22日から数えて5回目</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2129839.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2129839.html</guid>
+    </item>
+    <item>
+      <title>Xiaomiの10.1型Androidタブレットがセールで1万8,800円</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2129491.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2129491.html</guid>
+    </item>
+    <item>
+      <title>松屋の牛めし20食セットが約4,400円引きでセール中</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2129518.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2129518.html</guid>
+    </item>
+    <item>
+      <title>4万1,000円引き！Ryzen搭載ノートがAmazonで10万円切りの大安売り</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2129810.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2129810.html</guid>
+    </item>
+    <item>
+      <title>Apple Watch Series 11が9,000円オフ。Amazonでセール中</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2129836.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2129836.html</guid>
+    </item>
+    <item>
+      <title>ロジクールのトラックボールが5,280円に値引き。Amazonセール</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2129837.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2129837.html</guid>
     </item>
   </channel>
 </rss>

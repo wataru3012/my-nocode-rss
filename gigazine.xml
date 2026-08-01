@@ -6,32 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Jul 2026 18:17:28 +0000</lastBuildDate>
-    <item>
-      <title>無料で使えるCloudflare Accessで安全にローカルのAIを外部から使えるように設定してみた</title>
-      <link>https://gigazine.net/news/20260710-cloudflare-tunnel-access/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260710-cloudflare-tunnel-access/</guid>
-    </item>
-    <item>
-      <title>無料で複数人の旅行を計画するためリアルタイムコラボ＆インタラクティブマップ＆予算管理＆持ち物リストを管理・共有できる「trek」</title>
-      <link>https://gigazine.net/news/20260711-trek/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260711-trek/</guid>
-    </item>
-    <item>
-      <title>「Steam Machine」をセットアップしてゲームをプレイしてみたよレビュー</title>
-      <link>https://gigazine.net/news/20260711-steam-machine-game-play/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260711-steam-machine-game-play/</guid>
-    </item>
-    <item>
-      <title>あなたの付近の不完全な地図データが「クエスト」となりクリアすることでOpenStreetMapを更新できるアプリ「StreetComplete」</title>
-      <link>https://gigazine.net/news/20260712-streetcomplete/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260712-streetcomplete/</guid>
-    </item>
-    <item>
-      <title>無料でページ内の動画をyt-dlp経由で広告なしに置き換える「YT-DLP Web Player」</title>
-      <link>https://gigazine.net/news/20260712-ytdlp-web-player/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260712-ytdlp-web-player/</guid>
-    </item>
+    <lastBuildDate>Sat, 01 Aug 2026 17:56:32 +0000</lastBuildDate>
     <item>
       <title>AIの思考っぽい「J空間」を可視化できる「Jレンズ」を触ってみた</title>
       <link>https://gigazine.net/news/20260712-ai-j-space-jacobian-lens/</link>
@@ -206,6 +181,31 @@
       <title>メトロポリタン美術館に所蔵される歴史的遺物がどこでいつ作られたかを推測して地図をクリックするゲーム「Anthropeum」</title>
       <link>https://gigazine.net/news/20260731-anthropeum/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260731-anthropeum/</guid>
+    </item>
+    <item>
+      <title>無料でWindowsのファイル保存・開くのダイアログウィンドウで指定のフォルダーに素早く移動でき特定のファイラーで開くのも一発でできる「Flow Launcher」</title>
+      <link>https://gigazine.net/news/20260801-flow-launcher/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260801-flow-launcher/</guid>
+    </item>
+    <item>
+      <title>サンワダイレクトの半固体電池内蔵＆最大8.5時間連続使用可能なハンディファン「400-TOY049」レビュー</title>
+      <link>https://gigazine.net/news/20260801-sanwa-direct-handy-fan/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260801-sanwa-direct-handy-fan/</guid>
+    </item>
+    <item>
+      <title>モニターに取り付けて省スペース＆広い範囲を明るく照らすBenQの「ScreenBarモニターライト」レビュー、15段階の明るさと8段階の色温度を調整可能</title>
+      <link>https://gigazine.net/news/20260801-benq-monitor-light-screenbar/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260801-benq-monitor-light-screenbar/</guid>
+    </item>
+    <item>
+      <title>eo光の回線を解約、光ケーブルの切断作業を実際にやってみた</title>
+      <link>https://gigazine.net/news/20260801-cancel-fiber-optic-service/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260801-cancel-fiber-optic-service/</guid>
+    </item>
+    <item>
+      <title>ポケモンのイーブイをベージュ＆ブラウンカラーで表現したイヤーカフ型イヤホン「Soundcore C50i イーブイモデル」フォトレビュー</title>
+      <link>https://gigazine.net/news/20260801-soundcore-c50i-eevee/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260801-soundcore-c50i-eevee/</guid>
     </item>
   </channel>
 </rss>
