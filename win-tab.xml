@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Aug 2026 18:24:00 +0000</lastBuildDate>
-    <item>
-      <title>HP OmniBook 7/5/3シリーズ比較（2026）－ 迷ったらどれ？HPのメインストリーム3シリーズ、用途別に最適なモデルを考える</title>
-      <link>https://win-tab.net/hp/omnibook-7-5-3-comparison-2026/</link>
-      <guid isPermaLink="false">https://win-tab.net/hp/omnibook-7-5-3-comparison-2026/</guid>
-    </item>
-    <item>
-      <title>TECLAST P50T － エントリータブレットに「強化版」が登場、スペックアップしたところだけでなく、スペックダウンしたところも</title>
-      <link>https://win-tab.net/android/teclast-p50t-2026-2607161/</link>
-      <guid isPermaLink="false">https://win-tab.net/android/teclast-p50t-2026-2607161/</guid>
-    </item>
+    <lastBuildDate>Wed, 05 Aug 2026 18:16:25 +0000</lastBuildDate>
     <item>
       <title>実はAmazonで人気！フィリップスのAndroidタブレット、最新モデル「T7250」はこんな製品</title>
       <link>https://win-tab.net/android/philips-tablet-2607162/</link>
@@ -206,6 +196,16 @@
       <title>TECLAST P50T レビュー － UNISOC T7250搭載で物理RAM3GBのエントリータブレット、価格重視で選ぶならアリ</title>
       <link>https://win-tab.net/android/teclast-p50t-review-2608042/</link>
       <guid isPermaLink="false">https://win-tab.net/android/teclast-p50t-review-2608042/</guid>
+    </item>
+    <item>
+      <title>Lenovo IdeaPad Slim 3i Gen 11 (16型 Intel) － Coreシリーズ3 (Wildcat Lake)搭載の16インチスタンダードノート</title>
+      <link>https://win-tab.net/lenovo/ideapad-slim-3i-gen-11-16-intel-2608051/</link>
+      <guid isPermaLink="false">https://win-tab.net/lenovo/ideapad-slim-3i-gen-11-16-intel-2608051/</guid>
+    </item>
+    <item>
+      <title>Redbean A79R － 無限スクロールやサイドホイールを搭載した多機能エルゴノミクスマウスがクラウドファンディング中</title>
+      <link>https://win-tab.net/acc/redbean-a79r-2608052/</link>
+      <guid isPermaLink="false">https://win-tab.net/acc/redbean-a79r-2608052/</guid>
     </item>
   </channel>
 </rss>

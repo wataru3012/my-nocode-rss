@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Aug 2026 18:24:50 +0000</lastBuildDate>
-    <item>
-      <title>ループ状のコースを走って街が流れていくのを眺める「densha」、Lo-Fi音楽をBGMに日本語認定試験目安N5の文章を読み上げ</title>
-      <link>https://gigazine.net/news/20260714-densha/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260714-densha/</guid>
-    </item>
-    <item>
-      <title>古代ローマ時代に遊ばれていた可能性があるボードゲーム「Ludus Coriovalli」を実際に遊んでみた</title>
-      <link>https://gigazine.net/news/20260715-ludus-coriovalli/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260715-ludus-coriovalli/</guid>
-    </item>
+    <lastBuildDate>Wed, 05 Aug 2026 18:17:16 +0000</lastBuildDate>
     <item>
       <title>路線に沿って駅名を入力してタイピング力を鍛える無料ゲーム「電車でタイピング」レビュー、乗り換え手順を考える楽しさもアリ</title>
       <link>https://gigazine.net/news/20260715-train-typing-training/</link>
@@ -206,6 +196,16 @@
       <title>無料で毎日の予定やルーチンを視覚的なブロック配置で把握しNextCloud・WebDAV・Obsidianなどで同期＆AI連携・歩数記録・専用Androidアプリ・StreamDeckの双方向完全連携も可能な「dayGLANCE」、アカウント登録不要でセルフホストも可能</title>
       <link>https://gigazine.net/news/20260802-dayglance/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260802-dayglance/</guid>
+    </item>
+    <item>
+      <title>「あのSFや出来事に何年生で出会ったか」が年表ですぐに分かる「SF・コンピューター技術ライフライン」で自分の人生を振り返ってみた</title>
+      <link>https://gigazine.net/news/20260805-sf-tech-lifeline/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260805-sf-tech-lifeline/</guid>
+    </item>
+    <item>
+      <title>懐かしい見た目のチャットアプリ「chat.exe」が登場したので使ってみた</title>
+      <link>https://gigazine.net/news/20260805-chat-exe/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260805-chat-exe/</guid>
     </item>
   </channel>
 </rss>
