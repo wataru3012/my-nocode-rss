@@ -6,22 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Aug 2026 18:17:16 +0000</lastBuildDate>
-    <item>
-      <title>路線に沿って駅名を入力してタイピング力を鍛える無料ゲーム「電車でタイピング」レビュー、乗り換え手順を考える楽しさもアリ</title>
-      <link>https://gigazine.net/news/20260715-train-typing-training/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260715-train-typing-training/</guid>
-    </item>
-    <item>
-      <title>Starlinkなどを含む合計3万基以上の人工衛星の現在位置がわかるライブマップ「Satellite Tracker」</title>
-      <link>https://gigazine.net/news/20260715-satellite-tracker-live-map/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260715-satellite-tracker-live-map/</guid>
-    </item>
-    <item>
-      <title>人間には読めるのにAIには別の文字に見えてしまうフォント「Decoy Font」が登場</title>
-      <link>https://gigazine.net/news/20260717-decoy-font/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260717-decoy-font/</guid>
-    </item>
+    <lastBuildDate>Fri, 07 Aug 2026 17:43:23 +0000</lastBuildDate>
     <item>
       <title>画像の好きな部分を揺らせる「ぷるぷるメーカー」が登場、「ぷるぷる」「ばいんばいん」「ぶるぶる」「ふわふわ」いろんな揺らし方に対応</title>
       <link>https://gigazine.net/news/20260717-purupuru-maker/</link>
@@ -206,6 +191,21 @@
       <title>懐かしい見た目のチャットアプリ「chat.exe」が登場したので使ってみた</title>
       <link>https://gigazine.net/news/20260805-chat-exe/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260805-chat-exe/</guid>
+    </item>
+    <item>
+      <title>初音ミクが計算してくれる電卓アプリ「電卓 - Desktop Mate Widgets」を使ってみた、数字を読み上げて計算に悩む姿も見せてくれる</title>
+      <link>https://gigazine.net/news/20260807-desktop-mate-widgets-calc/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260807-desktop-mate-widgets-calc/</guid>
+    </item>
+    <item>
+      <title>面白い要素を全部乗せ、ローグライク×デッキ構築×パーティ制RPGの「Chrono Ark」を遊んでみた</title>
+      <link>https://gigazine.net/news/20260807-chrono-ark/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260807-chrono-ark/</guid>
+    </item>
+    <item>
+      <title>Nintendo Switch 2のプレイ動画をリニアPCMサラウンドで録画する方法、Blackmagic Designのキャプチャーボード「UltraStudio Express Recorder 3G」を使ってみた</title>
+      <link>https://gigazine.net/news/20260808-blackmagic-design-ultrastudio-express-recorder-3g/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260808-blackmagic-design-ultrastudio-express-recorder-3g/</guid>
     </item>
   </channel>
 </rss>
