@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Aug 2026 17:42:32 +0000</lastBuildDate>
-    <item>
-      <title>GMKtec EVO-X3 － Ryzen AI Max+ 395搭載でRAM/SSDも大容量、オンデバイスAIに強い高性能PC</title>
-      <link>https://win-tab.net/imported/gmktec-evo-x3-2606222/</link>
-      <guid isPermaLink="false">https://win-tab.net/imported/gmktec-evo-x3-2606222/</guid>
-    </item>
-    <item>
-      <title>HPのおすすめノートパソコンはこれ！ニーズに合わせて6機種を厳選【2026年版】</title>
-      <link>https://win-tab.net/hp/osusume_hp_2212lp/</link>
-      <guid isPermaLink="false">https://win-tab.net/hp/osusume_hp_2212lp/</guid>
-    </item>
+    <lastBuildDate>Sat, 08 Aug 2026 17:22:51 +0000</lastBuildDate>
     <item>
       <title>HP EliteBook 8 G2i 13 AI PC/EliteBook 8 Flip G2i 13 AI PC － 強力なセキュリティ機能を備えた13インチノート＆2-in-1</title>
       <link>https://win-tab.net/hp/elitebook-8-g2i-13-2607192/</link>
@@ -206,6 +196,16 @@
       <title>HP セール情報 － 16インチノート、OmniBook 3 16が8万円台から、RAM32GB搭載モデルもお買い得価格に！</title>
       <link>https://win-tab.net/sale/hp-sale-2608072/</link>
       <guid isPermaLink="false">https://win-tab.net/sale/hp-sale-2608072/</guid>
+    </item>
+    <item>
+      <title>GMKtec K17 Plus － CPUにCore Ultra 7 258Vを搭載、既存モデルからさらなる性能アップを果たしたミニPC</title>
+      <link>https://win-tab.net/imported/gmktec-k17-plus-2608081/</link>
+      <guid isPermaLink="false">https://win-tab.net/imported/gmktec-k17-plus-2608081/</guid>
+    </item>
+    <item>
+      <title>Lenovoセール情報 – 「クールに動くAI PCフェア」がスタート、ThinkPad E14/E16やIdeaPad注目モデルがお買い得に</title>
+      <link>https://win-tab.net/sale/lenovo-sale-2608082/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/lenovo-sale-2608082/</guid>
     </item>
   </channel>
 </rss>

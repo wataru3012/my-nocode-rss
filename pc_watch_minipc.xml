@@ -6,7 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Aug 2026 17:42:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 17:22:31 +0000</lastBuildDate>
     <item>
       <title>GALLERIAからRyzen 7 7700X3D搭載ゲーミングPCが新登場</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2126054.html</link>
@@ -238,56 +238,6 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2131346.html</guid>
     </item>
     <item>
-      <title>【特集】電源内蔵で0.9Lの衝撃。Core Ultra X7の性能を極限まで引き出したミニPC「GPD BOX」</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2122365.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2122365.html</guid>
-    </item>
-    <item>
-      <title>【レビュー】給電が途切れない優れもの！バッファロー製Type-C充電器の検証で分かったこと</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2122842.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2122842.html</guid>
-    </item>
-    <item>
-      <title>【コラム】OpenClawとQwen3.5-9Bプリインで届いてすぐローカルAIが動くミニPC「SER9 Pro」</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2122604.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2122604.html</guid>
-    </item>
-    <item>
-      <title>【特集】あぢぃ～もう無理ぽ！千円の闘魂タオルから着るエアコンまで、夏の冷感グッズ一挙紹介</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2123635.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2123635.html</guid>
-    </item>
-    <item>
-      <title>【特集】あなたのPCスペックにドンピシャな「ローカルLLM」の選び方と快適化テク</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2123979.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2123979.html</guid>
-    </item>
-    <item>
-      <title>AIにGmailを読ませて大丈夫？OpenClawで安全にメールを片付ける手順</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/openclaw/2131403.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/openclaw/2131403.html</guid>
-    </item>
-    <item>
-      <title>ChatGPT、無料プランもテキストチャットが無制限に。GPT-5.6 Solも改善</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2131408.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2131408.html</guid>
-    </item>
-    <item>
-      <title>格安の「DeepSeek API」が近日大幅値上げへ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2131433.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2131433.html</guid>
-    </item>
-    <item>
-      <title>HBMの速さとSSDの大容量を兼ね備えた「HBF」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2131478.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2131478.html</guid>
-    </item>
-    <item>
-      <title>Claude Fable 5、格下モデルに回される不満が85%減。生物学の質問で</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2131483.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2131483.html</guid>
-    </item>
-    <item>
       <title>約1.49kgで持ち運びやすい15.6型ノート「Aspire Lite 15」</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2131508.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2131508.html</guid>
@@ -303,44 +253,9 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2131574.html</guid>
     </item>
     <item>
-      <title>社員全員にAIエージェント、CloudflareがAI業務環境を公開</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2131532.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2131532.html</guid>
-    </item>
-    <item>
       <title>リンクス、6万2,800円でRyzen 5搭載のミニPC</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2131610.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2131610.html</guid>
-    </item>
-    <item>
-      <title>デル、ソニーセンサーのWebカメラを標準搭載した小規模会議向け43型4Kモニター</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2131723.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2131723.html</guid>
-    </item>
-    <item>
-      <title>レノボの15.3型ノートが4万5千円引きでセール中</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2131386.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2131386.html</guid>
-    </item>
-    <item>
-      <title>モトローラのスマホが約1万7,000円で購入可能</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2131411.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2131411.html</guid>
-    </item>
-    <item>
-      <title>Philipsのゲーミングマウスが約1,200円オトク！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2131427.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2131427.html</guid>
-    </item>
-    <item>
-      <title>熱風で揚げ物を調理するCOSORIのエアフライヤーが2,000円引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2131448.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2131448.html</guid>
-    </item>
-    <item>
-      <title>カード付きの「プロ野球チップス」が24袋セットでオトク</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2131471.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2131471.html</guid>
     </item>
   </channel>
 </rss>

@@ -6,37 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Aug 2026 17:43:23 +0000</lastBuildDate>
-    <item>
-      <title>画像の好きな部分を揺らせる「ぷるぷるメーカー」が登場、「ぷるぷる」「ばいんばいん」「ぶるぶる」「ふわふわ」いろんな揺らし方に対応</title>
-      <link>https://gigazine.net/news/20260717-purupuru-maker/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260717-purupuru-maker/</guid>
-    </item>
-    <item>
-      <title>3アイテム同時にワイヤレス充電可能＆折りたたんでコンパクトに持ち運びもできるAnkerの「Prime Wireless Charging Station(3-in-1, MagGo,AirCool,Foldable)」レビュー</title>
-      <link>https://gigazine.net/news/20260718-anker-b25n1n12/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260718-anker-b25n1n12/</guid>
-    </item>
-    <item>
-      <title>無料でネット接続なしのオフラインでも使える地図アプリ「CoMaps」、オープンソースで開発され広告なし・個人追跡なし</title>
-      <link>https://gigazine.net/news/20260718-comaps/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260718-comaps/</guid>
-    </item>
-    <item>
-      <title>無料でWindows・macOS・Linux用のデスクトップ同期アプリとセルフホスト可能なサーバーアプリでファイルの双方向と一方向同期・自動バックグラウンド同期などが複数ユーザーで可能な「Sync-in」</title>
-      <link>https://gigazine.net/news/20260718-sync-in/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260718-sync-in/</guid>
-    </item>
-    <item>
-      <title>イヤホン単体で通話録音ができ文字起こし連携も可能＆透明デザインで中身が透けてるノイズキャンセリングワイヤレスイヤホン「Nothing Ear(3a)」を実際に使ってみたレビュー</title>
-      <link>https://gigazine.net/news/20260719-nothing-ear-3a/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260719-nothing-ear-3a/</guid>
-    </item>
-    <item>
-      <title>無料でブラウザ・ShareX・iOSのショートカットなどから即座にファイルをアップロードして共有できる「Zipline」、オープンソースでセルフホスト可能</title>
-      <link>https://gigazine.net/news/20260719-zipline/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260719-zipline/</guid>
-    </item>
+    <lastBuildDate>Sat, 08 Aug 2026 17:23:43 +0000</lastBuildDate>
     <item>
       <title>AI疑惑のホラー小説出版停止騒動・昔は良かった企業が変貌する理由などAmazonで売上トップ10のGIGAZINE記事ランキング2026年6月版はコレ！</title>
       <link>https://gigazine.net/news/20260720-gigazine-kindle-ranking-2026-06/</link>
@@ -206,6 +176,36 @@
       <title>Nintendo Switch 2のプレイ動画をリニアPCMサラウンドで録画する方法、Blackmagic Designのキャプチャーボード「UltraStudio Express Recorder 3G」を使ってみた</title>
       <link>https://gigazine.net/news/20260808-blackmagic-design-ultrastudio-express-recorder-3g/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260808-blackmagic-design-ultrastudio-express-recorder-3g/</guid>
+    </item>
+    <item>
+      <title>1台で10ポートを備えたクランプ固定式電源タップ「Anker Nano Power Strip (10-in-1, 70W, クランプ式)」レビュー</title>
+      <link>https://gigazine.net/news/20260808-anker-nano-power-strip-10-in-1/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260808-anker-nano-power-strip-10-in-1/</guid>
+    </item>
+    <item>
+      <title>有料購読が必要な学術論文を見る際に自動的に合法的なオープンアクセス論文を収録したデータベースをチェックして無料で読めるかどうかがわかる「Unpaywall」</title>
+      <link>https://gigazine.net/news/20260808-unpaywall/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260808-unpaywall/</guid>
+    </item>
+    <item>
+      <title>ペンで文字を書くように操作できるサンワサプライの「ペン型マウス」を使ってみた</title>
+      <link>https://gigazine.net/news/20260808-pen-mouth-sanwa/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260808-pen-mouth-sanwa/</guid>
+    </item>
+    <item>
+      <title>プレビューURL付きのセルフホスト型開発サンドボックス「sandboxd」</title>
+      <link>https://gigazine.net/news/20260808-sandboxd/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260808-sandboxd/</guid>
+    </item>
+    <item>
+      <title>紙を挟んで富士山を拝める「富士山クリップ」</title>
+      <link>https://gigazine.net/news/20260808-fujisan-clip/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260808-fujisan-clip/</guid>
+    </item>
+    <item>
+      <title>最大35日間駆動で睡眠時間や血中酸素濃度も測定してくれるアナログ時計風スマートウォッチ「ScanWatch Vitals」を使ってみた</title>
+      <link>https://gigazine.net/news/20260808-scanwatch-vitals/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260808-scanwatch-vitals/</guid>
     </item>
   </channel>
 </rss>
