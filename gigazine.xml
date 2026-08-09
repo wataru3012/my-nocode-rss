@@ -6,32 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Aug 2026 17:23:43 +0000</lastBuildDate>
-    <item>
-      <title>AI疑惑のホラー小説出版停止騒動・昔は良かった企業が変貌する理由などAmazonで売上トップ10のGIGAZINE記事ランキング2026年6月版はコレ！</title>
-      <link>https://gigazine.net/news/20260720-gigazine-kindle-ranking-2026-06/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260720-gigazine-kindle-ranking-2026-06/</guid>
-    </item>
-    <item>
-      <title>家庭用冷蔵庫でおいしい氷を作ってみた</title>
-      <link>https://gigazine.net/news/20260720-make-delicious-ice/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260720-make-delicious-ice/</guid>
-    </item>
-    <item>
-      <title>WordPress.comの「Studio Code」ベータ版がデスクトップ版で無料利用可能なので試しに使ってみたレビュー</title>
-      <link>https://gigazine.net/news/20260720-studio-code/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260720-studio-code/</guid>
-    </item>
-    <item>
-      <title>単語を並び替えて簡単な英単語を作る無料ゲーム「18 Words」</title>
-      <link>https://gigazine.net/news/20260720-18-words/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260720-18-words/</guid>
-    </item>
-    <item>
-      <title>無料で使えるCloudflare Accessの「サービス認証」を設定して外出先のアプリから自宅のローカルAIにアクセスしてみた</title>
-      <link>https://gigazine.net/news/20260721-cloudflare-service-token/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260721-cloudflare-service-token/</guid>
-    </item>
+    <lastBuildDate>Sun, 09 Aug 2026 17:24:54 +0000</lastBuildDate>
     <item>
       <title>3つのアナログ時計をできるだけ速く正確に読み取る無料ゲーム「analog.watch」</title>
       <link>https://gigazine.net/news/20260722-analog-watch-game/</link>
@@ -206,6 +181,31 @@
       <title>最大35日間駆動で睡眠時間や血中酸素濃度も測定してくれるアナログ時計風スマートウォッチ「ScanWatch Vitals」を使ってみた</title>
       <link>https://gigazine.net/news/20260808-scanwatch-vitals/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260808-scanwatch-vitals/</guid>
+    </item>
+    <item>
+      <title>本や雑誌を開いたままキープできるキングジムのブッククリップ「ツイップ」レビュー、 伸縮してA6～B5判に対応</title>
+      <link>https://gigazine.net/news/20260809-kingjim-twip/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260809-kingjim-twip/</guid>
+    </item>
+    <item>
+      <title>コンパクトなのに10000mAhの大容量で最大3台のデバイスを同時充電できる半固体モバイルバッテリー「SMARTCOBY Pro SLIM SS」レビュー</title>
+      <link>https://gigazine.net/news/20260809-cio-smartcoby-pro-slim-ss/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260809-cio-smartcoby-pro-slim-ss/</guid>
+    </item>
+    <item>
+      <title>メカニカルスイッチを搭載した高級キーボード「HHKB Studio」を使ってみた</title>
+      <link>https://gigazine.net/news/20260809-hhkb-studio/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260809-hhkb-studio/</guid>
+    </item>
+    <item>
+      <title>センサー式でフタが自動開閉してニオイの拡散を防ぐ山善「センサー付きごみ箱 40L」を動かしてみた</title>
+      <link>https://gigazine.net/news/20260809-yamazen-dustbox-estw-40/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260809-yamazen-dustbox-estw-40/</guid>
+    </item>
+    <item>
+      <title>無料で画像・動画・音声・データ・ドキュメントなどあらゆるファイルを自分のローカルPC内で変換できるオープンソースのセルフホスト型ファイルコンバーター「Transmute」、ファイルサイズ制限や透かしの追加など一切なしでユーザー作成も可能</title>
+      <link>https://gigazine.net/news/20260809-transmute/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260809-transmute/</guid>
     </item>
   </channel>
 </rss>

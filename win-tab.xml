@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Aug 2026 17:22:51 +0000</lastBuildDate>
-    <item>
-      <title>HP EliteBook 8 G2i 13 AI PC/EliteBook 8 Flip G2i 13 AI PC － 強力なセキュリティ機能を備えた13インチノート＆2-in-1</title>
-      <link>https://win-tab.net/hp/elitebook-8-g2i-13-2607192/</link>
-      <guid isPermaLink="false">https://win-tab.net/hp/elitebook-8-g2i-13-2607192/</guid>
-    </item>
-    <item>
-      <title>MSI Cubi NUC AI+ 3MG-026JP － Core Ultra 5 322搭載のミニPC、キーボードとマウスも付属するCopilot+ PCです</title>
-      <link>https://win-tab.net/msi/cubi-nuc-ai-3mg-026jp-2607201/</link>
-      <guid isPermaLink="false">https://win-tab.net/msi/cubi-nuc-ai-3mg-026jp-2607201/</guid>
-    </item>
+    <lastBuildDate>Sun, 09 Aug 2026 17:24:02 +0000</lastBuildDate>
     <item>
       <title>Core シリーズ3 (Wildcat Lake)追加！ノートPC用CPU一覧 － 第13世代、第14世代Coreシリーズ、Coreシリーズ1、Coreシリーズ2、Coreシリーズ3 (7月20日更新)</title>
       <link>https://win-tab.net/opinion/mobile_cpu_list3/</link>
@@ -83,7 +73,7 @@
       <guid isPermaLink="false">https://win-tab.net/android/alldocube-iplay-80-mini-pro-ultra-dp-2607271/</guid>
     </item>
     <item>
-      <title>Beelink ME Pro 2 レビュー － 異形のHDDベイ搭載ミニPCに新バージョンが登場！新CPUで汎用性大幅アップ</title>
+      <title>Beelink ME Pro (Wildcat Lake) レビュー － 異形のHDDベイ搭載ミニPCに新バージョンが登場！新CPUで汎用性大幅アップ</title>
       <link>https://win-tab.net/imported/beelink-me-pro-2-review-2607272/</link>
       <guid isPermaLink="false">https://win-tab.net/imported/beelink-me-pro-2-review-2607272/</guid>
     </item>
@@ -206,6 +196,16 @@
       <title>Lenovoセール情報 – 「クールに動くAI PCフェア」がスタート、ThinkPad E14/E16やIdeaPad注目モデルがお買い得に</title>
       <link>https://win-tab.net/sale/lenovo-sale-2608082/</link>
       <guid isPermaLink="false">https://win-tab.net/sale/lenovo-sale-2608082/</guid>
+    </item>
+    <item>
+      <title>Logicool Spotlight 2 － カスタマイズ可能なボタンや多様なハイライト機能を搭載するワイヤレスプレゼンター</title>
+      <link>https://win-tab.net/acc/logicool-spotlight-2-2608091/</link>
+      <guid isPermaLink="false">https://win-tab.net/acc/logicool-spotlight-2-2608091/</guid>
+    </item>
+    <item>
+      <title>Beelink ME Pro シリーズ レビュー － マザーボード交換もやってみた、唯一無二の高度なカスタマイズ性を検証！</title>
+      <link>https://win-tab.net/imported/beelink-me-pro-series-review-2-2608092/</link>
+      <guid isPermaLink="false">https://win-tab.net/imported/beelink-me-pro-series-review-2-2608092/</guid>
     </item>
   </channel>
 </rss>
