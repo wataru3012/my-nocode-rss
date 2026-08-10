@@ -6,17 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Aug 2026 17:23:43 +0000</lastBuildDate>
-    <item>
-      <title>GALLERIAからRyzen 7 7700X3D搭載ゲーミングPCが新登場</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2126054.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2126054.html</guid>
-    </item>
-    <item>
-      <title>MSI、Core Ultra 5 322搭載で指紋認証対応のミニPC</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2126036.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2126036.html</guid>
-    </item>
+    <lastBuildDate>Mon, 10 Aug 2026 17:44:39 +0000</lastBuildDate>
     <item>
       <title>Ryzen 7 7700X3D搭載ゲーミングPC、パソコン工房からも登場</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2126231.html</link>
@@ -238,41 +228,6 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2131346.html</guid>
     </item>
     <item>
-      <title>【特集】電源内蔵で0.9Lの衝撃。Core Ultra X7の性能を極限まで引き出したミニPC「GPD BOX」</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2122365.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2122365.html</guid>
-    </item>
-    <item>
-      <title>【レビュー】給電が途切れない優れもの！バッファロー製Type-C充電器の検証で分かったこと</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2122842.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2122842.html</guid>
-    </item>
-    <item>
-      <title>【コラム】OpenClawとQwen3.5-9Bプリインで届いてすぐローカルAIが動くミニPC「SER9 Pro」</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2122604.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2122604.html</guid>
-    </item>
-    <item>
-      <title>【特集】あぢぃ～もう無理ぽ！千円の闘魂タオルから着るエアコンまで、夏の冷感グッズ一挙紹介</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2123635.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2123635.html</guid>
-    </item>
-    <item>
-      <title>【特集】あなたのPCスペックにドンピシャな「ローカルLLM」の選び方と快適化テク</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2123979.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2123979.html</guid>
-    </item>
-    <item>
-      <title>HBMの速さとSSDの大容量を兼ね備えた「HBF」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2131478.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2131478.html</guid>
-    </item>
-    <item>
-      <title>Claude Fable 5、格下モデルに回される不満が85%減。生物学の質問で</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2131483.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2131483.html</guid>
-    </item>
-    <item>
       <title>約1.49kgで持ち運びやすい15.6型ノート「Aspire Lite 15」</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2131508.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2131508.html</guid>
@@ -288,54 +243,19 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2131574.html</guid>
     </item>
     <item>
-      <title>社員全員にAIエージェント、CloudflareがAI業務環境を公開</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2131532.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2131532.html</guid>
-    </item>
-    <item>
       <title>リンクス、6万2,800円でRyzen 5搭載のミニPC</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2131610.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2131610.html</guid>
     </item>
     <item>
-      <title>デル、ソニーセンサーのWebカメラを標準搭載した小規模会議向け43型4Kモニター</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2131723.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2131723.html</guid>
+      <title>整備済みVAIO SX14が8万1,000円！8月10日の「VAIOの日」記念セール</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2131810.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2131810.html</guid>
     </item>
     <item>
-      <title>VRAM 16GBでも安いRadeon RX 9000、GeForceで言うとどのぐらいの性能？</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2131747.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2131747.html</guid>
-    </item>
-    <item>
-      <title>ついに不満解消？Windows 11プレビュー版でタスクバーの配置変更を徹底検証</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2131748.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2131748.html</guid>
-    </item>
-    <item>
-      <title>熱風で揚げ物を調理するCOSORIのエアフライヤーが2,000円引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2131448.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2131448.html</guid>
-    </item>
-    <item>
-      <title>カード付きの「プロ野球チップス」が24袋セットでオトク</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2131471.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2131471.html</guid>
-    </item>
-    <item>
-      <title>ロジクールの高級トラックボールが3,320円オフ！定番モデルも5,280円に割引中</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2131749.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2131749.html</guid>
-    </item>
-    <item>
-      <title>ロジクールのコンパクトキーボードが3,720円引き。Bluetoothで3台接続対応</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2131750.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2131750.html</guid>
-    </item>
-    <item>
-      <title>ロジクールの高級マウス「MX MASTER 4」が最安値！Amazonで3千円弱の割引</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2131751.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2131751.html</guid>
+      <title>VAIO、PCカメラとAIで最短3秒の健康測定サービス。先行プレビュー版提供開始</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2131824.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2131824.html</guid>
     </item>
   </channel>
 </rss>

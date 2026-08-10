@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Aug 2026 17:24:02 +0000</lastBuildDate>
-    <item>
-      <title>Core シリーズ3 (Wildcat Lake)追加！ノートPC用CPU一覧 － 第13世代、第14世代Coreシリーズ、Coreシリーズ1、Coreシリーズ2、Coreシリーズ3 (7月20日更新)</title>
-      <link>https://win-tab.net/opinion/mobile_cpu_list3/</link>
-      <guid isPermaLink="false">https://win-tab.net/opinion/mobile_cpu_list3/</guid>
-    </item>
-    <item>
-      <title>Lenovo ThinkPad E16 Gen 4 IWL / E14 Gen 8 IWL － ThinkPadシリーズのエントリーモデルにWildcat Lakeが搭載されました</title>
-      <link>https://win-tab.net/lenovo/thinkpad-e14-e16-iwl-2607211/</link>
-      <guid isPermaLink="false">https://win-tab.net/lenovo/thinkpad-e14-e16-iwl-2607211/</guid>
-    </item>
+    <lastBuildDate>Mon, 10 Aug 2026 17:45:00 +0000</lastBuildDate>
     <item>
       <title>Blackview LINK 5 － Android 17をいちはやく搭載！キーボードやマウスも付属するエントリータブレット</title>
       <link>https://win-tab.net/android/blackview-link-5-2607212/</link>
@@ -206,6 +196,16 @@
       <title>Beelink ME Pro シリーズ レビュー － マザーボード交換もやってみた、唯一無二の高度なカスタマイズ性を検証！</title>
       <link>https://win-tab.net/imported/beelink-me-pro-series-review-2-2608092/</link>
       <guid isPermaLink="false">https://win-tab.net/imported/beelink-me-pro-series-review-2-2608092/</guid>
+    </item>
+    <item>
+      <title>dynabook XP9/XP7/XPZ － Dynabookの14インチ・プレミアムモバイルノートがCore Ultraシリーズ3 (Panther Lake)を搭載！</title>
+      <link>https://win-tab.net/dynabook/dynabook-xp9-xp7-xpz-2608101/</link>
+      <guid isPermaLink="false">https://win-tab.net/dynabook/dynabook-xp9-xp7-xpz-2608101/</guid>
+    </item>
+    <item>
+      <title>Lenovo V14 Gen 7 (14型 Intel) / V15 Gen 7 (15.6型 Intel) － Coreシリーズ3 (Wildcat Lake) 搭載のシンプルなビジネスノート</title>
+      <link>https://win-tab.net/lenovo/v14-v15-gen-7-intel-2608102/</link>
+      <guid isPermaLink="false">https://win-tab.net/lenovo/v14-v15-gen-7-intel-2608102/</guid>
     </item>
   </channel>
 </rss>
