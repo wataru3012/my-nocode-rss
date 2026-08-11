@@ -6,12 +6,7 @@
     <description>格安ガジェットブログ</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Aug 2026 17:44:12 +0000</lastBuildDate>
-    <item>
-      <title>【注意喚起】BIGBIG WONのソフトウェアは現在危険なのでインストールするな</title>
-      <link>https://yasugad.hatenablog.com/entry/2025/11/16/120000</link>
-      <guid isPermaLink="false">https://yasugad.hatenablog.com/entry/2025/11/16/120000</guid>
-    </item>
+    <lastBuildDate>Tue, 11 Aug 2026 17:51:30 +0000</lastBuildDate>
     <item>
       <title>大学用ノートパソコンにゲーミングノートはやめたほうが良い理由まとめ</title>
       <link>https://yasugad.hatenablog.com/entry/2025/11/17/190000</link>
@@ -606,6 +601,11 @@
       <title>何が面白いのか理解できなかったゲームジャンル３選</title>
       <link>https://yasugad.hatenablog.com/entry/2026/08/10/190000</link>
       <guid isPermaLink="false">https://yasugad.hatenablog.com/entry/2026/08/10/190000</guid>
+    </item>
+    <item>
+      <title>ラピッドトリガー対応キーボード増えすぎ問題</title>
+      <link>https://yasugad.hatenablog.com/entry/2026/08/12/000000</link>
+      <guid isPermaLink="false">https://yasugad.hatenablog.com/entry/2026/08/12/000000</guid>
     </item>
   </channel>
 </rss>
