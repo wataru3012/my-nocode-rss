@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 17:52:14 +0000</lastBuildDate>
-    <item>
-      <title>8.7インチでHelio G99搭載のTECLAST T50MiniがAmazonでセール中、18,900円で買えます。ALLDOCUBEとどっちにする？</title>
-      <link>https://win-tab.net/sale/teclast-t50-mini-amazon-sale-2607221/</link>
-      <guid isPermaLink="false">https://win-tab.net/sale/teclast-t50-mini-amazon-sale-2607221/</guid>
-    </item>
-    <item>
-      <title>MSI Claw 8 EX AI+ CG3EM － Intel Arc G3 Extreme搭載のポータブルゲーミングPC</title>
-      <link>https://win-tab.net/msi/claw-8-ex-ai-cg3em-2607222/</link>
-      <guid isPermaLink="false">https://win-tab.net/msi/claw-8-ex-ai-cg3em-2607222/</guid>
-    </item>
+    <lastBuildDate>Wed, 12 Aug 2026 17:53:26 +0000</lastBuildDate>
     <item>
       <title>Lenovo IdeaPad Slim 5i Ultra Gen 11 (14型 Intel) － Core Ultra (シリーズ2) 搭載、薄型軽量で高品質な14インチCopilot+ PC</title>
       <link>https://win-tab.net/lenovo/ideapad-slim-5i-ultra-gen-11-14-intel-2607231/</link>
@@ -206,6 +196,16 @@
       <title>NAUIX N803S レビュー － ノングレアディスプレイ搭載の8.4インチタブレット、ALLDOCUBE iPlay 80 mini Proの対抗馬となるか</title>
       <link>https://win-tab.net/android/nauix-n803s-review-2608111/</link>
       <guid isPermaLink="false">https://win-tab.net/android/nauix-n803s-review-2608111/</guid>
+    </item>
+    <item>
+      <title>WindowsとAndroidでキーボードを使いまわす！ OSモード切替スイッチの挙動変化と必要性を3機種で検証</title>
+      <link>https://win-tab.net/opinion/keyboard-os-mode-2608121/</link>
+      <guid isPermaLink="false">https://win-tab.net/opinion/keyboard-os-mode-2608121/</guid>
+    </item>
+    <item>
+      <title>ALLDOCUBE iPlay 80 mini Turbo －「Ultra」と「Pro」の隙間を埋める良スペックな8.8インチタブ、8月13日からセールがスタート</title>
+      <link>https://win-tab.net/android/alldocube-iplay-80-mini-turbo-2608122/</link>
+      <guid isPermaLink="false">https://win-tab.net/android/alldocube-iplay-80-mini-turbo-2608122/</guid>
     </item>
   </channel>
 </rss>
