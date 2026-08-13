@@ -6,27 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Aug 2026 17:53:08 +0000</lastBuildDate>
-    <item>
-      <title>ASUS、GeForce RTX 50シリーズ搭載のミドルタワーゲーミングPC</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2127306.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127306.html</guid>
-    </item>
-    <item>
-      <title>1泊2日の出張ならACアダプタ不要!?50.8時間動く驚異の999gノート「LAVIE BM94C」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2127570.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127570.html</guid>
-    </item>
-    <item>
-      <title>RTX 5050～5070搭載の16型ゲーミングノート「Nitro V 16 AI」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2127614.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127614.html</guid>
-    </item>
-    <item>
-      <title>駿河屋、曲面ガラス採用のゲーミングPC。RTX 5070またはRX 9070 XT搭載</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2127995.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2127995.html</guid>
-    </item>
+    <lastBuildDate>Thu, 13 Aug 2026 17:52:23 +0000</lastBuildDate>
     <item>
       <title>パソコン工房、東雲うみコラボゲーミングPCが5千円オフ。夏の表紙ジャック記念で</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2128068.html</link>
@@ -228,6 +208,36 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132241.html</guid>
     </item>
     <item>
+      <title>Tensor G6チップ搭載で120倍ズームや通知ライト対応の6.8型スマホ「Google Pixel 11 Pro XL」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2131994.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2131994.html</guid>
+    </item>
+    <item>
+      <title>CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2132345.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132345.html</guid>
+    </item>
+    <item>
+      <title>Google、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2132347.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132347.html</guid>
+    </item>
+    <item>
+      <title>最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2132349.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132349.html</guid>
+    </item>
+    <item>
+      <title>Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2132417.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132417.html</guid>
+    </item>
+    <item>
+      <title>最適なタイミングで起こしてくれる「Google Pixel Watch 5」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2132424.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132424.html</guid>
+    </item>
+    <item>
       <title>【特集】電源内蔵で0.9Lの衝撃。Core Ultra X7の性能を極限まで引き出したミニPC「GPD BOX」</title>
       <link>https://pc.watch.impress.co.jp/docs/column/hothot/2122365.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2122365.html</guid>
@@ -253,99 +263,79 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2123979.html</guid>
     </item>
     <item>
-      <title>厚さ4.75mmのMac向け極薄メカニカルキーボード</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2132213.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132213.html</guid>
+      <title>Windowsだからカンタン！余っているPCを「ファイルサーバー」にする方法</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2132418.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2132418.html</guid>
     </item>
     <item>
-      <title>リング際でも見やすいバトルロイヤルFPS向けゲーミングモニター、ベンキューから登場</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2132267.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132267.html</guid>
+      <title>Nintendo Switch 2で採用された「microSD Express」って何？解説しつつ性能を確認してみた</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2132419.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2132419.html</guid>
     </item>
     <item>
-      <title>NVIDIA、エージェントAI向け高速モデル「Nemotron 3.5 Lightning」無償公開</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2132324.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132324.html</guid>
+      <title>新型「Pixel 11」シリーズは何が変わった？前世代とスペック比較</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2132409.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2132409.html</guid>
     </item>
     <item>
-      <title>HD/500Hz、フルHD/360Hz、WQHD/260Hzに切り替えられるゲーミングモニター</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2132292.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132292.html</guid>
+      <title>Googleの新型スマホ「Pixel 11」シリーズ登場。iPhoneとスペック比較</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2132432.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2132432.html</guid>
     </item>
     <item>
-      <title>12ボタンでMMO、2ボタンで日常利用できるゲーミングマウス「Razer Naga V3 Pro」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2132266.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132266.html</guid>
+      <title>CPUは古いがカワイイし安いから許す。GMKtecのミニPC「G5S」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2132469.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132469.html</guid>
     </item>
     <item>
-      <title>ChatGPT DesktopがついにLinuxに上陸。Claudeからのインポート機能も</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2132305.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132305.html</guid>
+      <title>HDDが容量2桁台でもがいている間、SSDは512TBに到達した</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2132491.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132491.html</guid>
     </item>
     <item>
-      <title>Tensor G6チップ搭載で120倍ズームや通知ライト対応の6.8型スマホ「Google Pixel 11 Pro XL」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2131994.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2131994.html</guid>
+      <title>キー中央の凹みで指先にフィットする、3台接続対応の無線キーボード</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2132500.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132500.html</guid>
     </item>
     <item>
-      <title>Google、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2132347.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132347.html</guid>
+      <title>ソニーとTSMCが合弁会社設立へ。次世代イメージセンサー量産</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2132492.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132492.html</guid>
     </item>
     <item>
-      <title>最適なタイミングで起こしてくれる「Google Pixel Watch 5」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2132424.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132424.html</guid>
+      <title>もう新版!? わずか1カ月半で「Grok 4.6」が登場、自律動作が劇的進化</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2132526.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132526.html</guid>
     </item>
     <item>
-      <title>CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2132345.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132345.html</guid>
+      <title>DeepSeek-V4-Proの正式版がひっそり公開？料金は据え置き</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2132548.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132548.html</guid>
     </item>
     <item>
-      <title>Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2132417.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132417.html</guid>
+      <title>M.2スロットを3基備えるCore UltraミニPCが約3万2千円オフ</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2132447.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2132447.html</guid>
     </item>
     <item>
-      <title>最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2132349.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132349.html</guid>
+      <title>990gと軽量！スナドラX2搭載モバイルノートが3万円オフ</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2132449.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2132449.html</guid>
     </item>
     <item>
-      <title>「Qwen3.8-27B」が8月15日にオープンウェイト公開！最新AI技術をお手元に</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2132435.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132435.html</guid>
+      <title>6万円オフはデカい！ASUSのGeForce RTX 5070ゲーミングノートが大幅値引き</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2132456.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2132456.html</guid>
     </item>
     <item>
-      <title>最上位Max級「Qwen3.8-2.4T-A95B」公開。Fable 5やGPT-5.6 Solなど商用トップ級に匹敵</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2132436.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132436.html</guid>
+      <title>14in1のAnker製Thunderbolt 5ドックが8千円引き</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2132458.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2132458.html</guid>
     </item>
     <item>
-      <title>約8万8千円オフ！Core Ultra X7搭載ノートが特大セールに</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2131823.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2131823.html</guid>
-    </item>
-    <item>
-      <title>144Hz表示の34型ウルトラワイドモニターが1万円引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2131829.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2131829.html</guid>
-    </item>
-    <item>
-      <title>Wi-Fi 7ルーターが7,485円の激安特価で販売中。数量限定だぞ急げ！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2131841.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2131841.html</guid>
-    </item>
-    <item>
-      <title>キリン「午後の紅茶」の500mL×24本セットがお買い得。1本85円と安い！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2131844.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2131844.html</guid>
-    </item>
-    <item>
-      <title>Core Ultra 9 185Hとメモリ24GB搭載のミニPCが15%オフで10万円ちょっと</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2132315.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2132315.html</guid>
+      <title>テーブルマークの汁なし担々麺×6袋セットが531円引き</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2132467.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2132467.html</guid>
     </item>
   </channel>
 </rss>
