@@ -6,17 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Aug 2026 17:52:23 +0000</lastBuildDate>
-    <item>
-      <title>パソコン工房、東雲うみコラボゲーミングPCが5千円オフ。夏の表紙ジャック記念で</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128068.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128068.html</guid>
-    </item>
-    <item>
-      <title>ドスパラ、初心者も安心の自作PC組立イベントを8月開催</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128223.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128223.html</guid>
-    </item>
+    <lastBuildDate>Fri, 14 Aug 2026 17:45:50 +0000</lastBuildDate>
     <item>
       <title>マウス、16GBメモリ搭載で価格を抑えた15.6/14型ノートPC</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2128234.html</link>
@@ -238,39 +228,9 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132424.html</guid>
     </item>
     <item>
-      <title>【特集】電源内蔵で0.9Lの衝撃。Core Ultra X7の性能を極限まで引き出したミニPC「GPD BOX」</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2122365.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2122365.html</guid>
-    </item>
-    <item>
-      <title>【レビュー】給電が途切れない優れもの！バッファロー製Type-C充電器の検証で分かったこと</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2122842.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2122842.html</guid>
-    </item>
-    <item>
-      <title>【コラム】OpenClawとQwen3.5-9Bプリインで届いてすぐローカルAIが動くミニPC「SER9 Pro」</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2122604.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2122604.html</guid>
-    </item>
-    <item>
-      <title>【特集】あぢぃ～もう無理ぽ！千円の闘魂タオルから着るエアコンまで、夏の冷感グッズ一挙紹介</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2123635.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2123635.html</guid>
-    </item>
-    <item>
-      <title>【特集】あなたのPCスペックにドンピシャな「ローカルLLM」の選び方と快適化テク</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2123979.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2123979.html</guid>
-    </item>
-    <item>
       <title>Windowsだからカンタン！余っているPCを「ファイルサーバー」にする方法</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2132418.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2132418.html</guid>
-    </item>
-    <item>
-      <title>Nintendo Switch 2で採用された「microSD Express」って何？解説しつつ性能を確認してみた</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2132419.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2132419.html</guid>
     </item>
     <item>
       <title>新型「Pixel 11」シリーズは何が変わった？前世代とスペック比較</title>
@@ -288,54 +248,14 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132469.html</guid>
     </item>
     <item>
-      <title>HDDが容量2桁台でもがいている間、SSDは512TBに到達した</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2132491.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132491.html</guid>
+      <title>ミニPCなのに拡張性にビビる。Panther Lake搭載になった「MS-03」</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2132615.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2132615.html</guid>
     </item>
     <item>
-      <title>キー中央の凹みで指先にフィットする、3台接続対応の無線キーボード</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2132500.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132500.html</guid>
-    </item>
-    <item>
-      <title>ソニーとTSMCが合弁会社設立へ。次世代イメージセンサー量産</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2132492.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132492.html</guid>
-    </item>
-    <item>
-      <title>もう新版!? わずか1カ月半で「Grok 4.6」が登場、自律動作が劇的進化</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2132526.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132526.html</guid>
-    </item>
-    <item>
-      <title>DeepSeek-V4-Proの正式版がひっそり公開？料金は据え置き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2132548.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2132548.html</guid>
-    </item>
-    <item>
-      <title>M.2スロットを3基備えるCore UltraミニPCが約3万2千円オフ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2132447.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2132447.html</guid>
-    </item>
-    <item>
-      <title>990gと軽量！スナドラX2搭載モバイルノートが3万円オフ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2132449.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2132449.html</guid>
-    </item>
-    <item>
-      <title>6万円オフはデカい！ASUSのGeForce RTX 5070ゲーミングノートが大幅値引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2132456.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2132456.html</guid>
-    </item>
-    <item>
-      <title>14in1のAnker製Thunderbolt 5ドックが8千円引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2132458.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2132458.html</guid>
-    </item>
-    <item>
-      <title>テーブルマークの汁なし担々麺×6袋セットが531円引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2132467.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2132467.html</guid>
+      <title>中身入ってる？634gまで削ぎ落とした富士通「FMV Note U」、異常な進化の歴史</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2132659.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2132659.html</guid>
     </item>
   </channel>
 </rss>

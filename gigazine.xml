@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Aug 2026 17:53:32 +0000</lastBuildDate>
-    <item>
-      <title>無料で遊べる駅名クイズゲーム「東京ドク」レビュー、「丸ノ内線」「2路線以上が入る」など条件を満たす駅名を当てるゲームで毎日更新</title>
-      <link>https://gigazine.net/news/20260723-tokyo-doku/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260723-tokyo-doku/</guid>
-    </item>
-    <item>
-      <title>単一HTMLファイルでローカル動作するスライド作成ウェブアプリ「Bento/Slides」が登場、共同編集可能＆AIエージェントでの自動操作もスムーズ</title>
-      <link>https://gigazine.net/news/20260724-bento-slides-powerpoint-alternative/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260724-bento-slides-powerpoint-alternative/</guid>
-    </item>
+    <lastBuildDate>Fri, 14 Aug 2026 17:47:03 +0000</lastBuildDate>
     <item>
       <title>世界中の城や要塞をまとめて1枚の地図で確認できる「Castle Map」、131カ国・3700カ所以上を網羅</title>
       <link>https://gigazine.net/news/20260724-castle-map/</link>
@@ -206,6 +196,16 @@
       <title>無料のVPSコントロールパネル「1Panel」、OpenClawなどのAIエージェントの複数一括管理も可能</title>
       <link>https://gigazine.net/news/20260811-1panel/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260811-1panel/</guid>
+    </item>
+    <item>
+      <title>MiniMaxが動画生成AIに続いて音楽生成AI「MiniMax-Music3」を無償公開、ローカルで最大5分の日本語ボーカル付き楽曲を生成可能</title>
+      <link>https://gigazine.net/news/20260814-minimax-music3/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260814-minimax-music3/</guid>
+    </item>
+    <item>
+      <title>白地図の都道府県をはがしてぶつけて連鎖させる「白地図ストライク47」を遊んでみた</title>
+      <link>https://gigazine.net/news/20260814-white-map-strike-47/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260814-white-map-strike-47/</guid>
     </item>
   </channel>
 </rss>
