@@ -6,22 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Aug 2026 17:47:03 +0000</lastBuildDate>
-    <item>
-      <title>世界中の城や要塞をまとめて1枚の地図で確認できる「Castle Map」、131カ国・3700カ所以上を網羅</title>
-      <link>https://gigazine.net/news/20260724-castle-map/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260724-castle-map/</guid>
-    </item>
-    <item>
-      <title>GIGAZINE夏のプレゼント大放出企画「アンケートに答えて全部持っていってください！」、全部で60品目以上あり！</title>
-      <link>https://gigazine.net/news/20260724-present-summer-2026/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260724-present-summer-2026/</guid>
-    </item>
-    <item>
-      <title>重力反転を駆使してトラップだらけのステージを攻略する高難度アクションゲーム「LOVE ETERNAL」プレイレビュー</title>
-      <link>https://gigazine.net/news/20260724-love-eternal/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260724-love-eternal/</guid>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 17:15:03 +0000</lastBuildDate>
     <item>
       <title>作家や批評家が選ぶ「史上最高の小説100選」・アニメ監督や作家インタビューなどAmazonで売上トップ100のGIGAZINE記事ランキング2026年第2四半期版まとめ</title>
       <link>https://gigazine.net/news/20260725-gigazine-kindle-ranking-2026-q2/</link>
@@ -206,6 +191,21 @@
       <title>白地図の都道府県をはがしてぶつけて連鎖させる「白地図ストライク47」を遊んでみた</title>
       <link>https://gigazine.net/news/20260814-white-map-strike-47/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260814-white-map-strike-47/</guid>
+    </item>
+    <item>
+      <title>E-Inkディスプレイ・3マイクアレイ・32bitフロート録音に対応した「Insta360 Mic Pro」外観レビュー</title>
+      <link>https://gigazine.net/news/20260815-insta360-mic-pro-appearance/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260815-insta360-mic-pro-appearance/</guid>
+    </item>
+    <item>
+      <title>キオクシア製SSD「EXCERIA G3」の4TBモデルを使ってみたよレビュー、PCIe 5.0対応で読込10GB/s・書込9.6GB/sの高速SSD</title>
+      <link>https://gigazine.net/news/20260815-kioxia-exceria-g3-4tb/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260815-kioxia-exceria-g3-4tb/</guid>
+    </item>
+    <item>
+      <title>無料でMySQL・PostgreSQL・SQL Server・MongoDB・SQLiteなどのデータベースを操作できる「DbGate」、ブラウザ経由だけでなくWindows・Linux・Macアプリもあり</title>
+      <link>https://gigazine.net/news/20260815-dbgate/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260815-dbgate/</guid>
     </item>
   </channel>
 </rss>
