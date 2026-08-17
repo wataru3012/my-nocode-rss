@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Aug 2026 17:13:47 +0000</lastBuildDate>
-    <item>
-      <title>ThinkPad Eシリーズ比較（2026）－ Copilot+ PCメインで、省電力性に優れるCore シリーズ3 (Wildcat Lake)も選べる！手ごろな価格のスタンダードThinkPadの選び方</title>
-      <link>https://win-tab.net/lenovo/thinkpad-e-series-comparison-2026/</link>
-      <guid isPermaLink="false">https://win-tab.net/lenovo/thinkpad-e-series-comparison-2026/</guid>
-    </item>
-    <item>
-      <title>Lenovo ThinkPad T14s Gen 7 (14型 Snapdragon) － Snapdragon X2シリーズ搭載の14インチモバイルノート、Intel版/AMD版との違いは？</title>
-      <link>https://win-tab.net/lenovo/thinkpad-t14s-gen-7-snapdragon-2607282/</link>
-      <guid isPermaLink="false">https://win-tab.net/lenovo/thinkpad-t14s-gen-7-snapdragon-2607282/</guid>
-    </item>
+    <lastBuildDate>Mon, 17 Aug 2026 17:20:15 +0000</lastBuildDate>
     <item>
       <title>Beelink EQi Wildcat Lake － Coreシリーズ3搭載のミニPC、RAMやストレージなど、ちょっと個性的なところもあります</title>
       <link>https://win-tab.net/imported/beelink-eqi-wildcat-lake-2607291/</link>
@@ -206,6 +196,16 @@
       <title>AGM PAD P3 － 8.68インチサイズの「ガチな」タフネスタブレットがAGMから！8月20日まで先行セール中です</title>
       <link>https://win-tab.net/android/agm-pad-p3-2608162/</link>
       <guid isPermaLink="false">https://win-tab.net/android/agm-pad-p3-2608162/</guid>
+    </item>
+    <item>
+      <title>CrowView Note 15.6インチ － ノートPC風モバイルモニターに15.6インチ版が登場！スマホやミニPC、ラズパイのお供に</title>
+      <link>https://win-tab.net/acc/crowview-note-156-2608171/</link>
+      <guid isPermaLink="false">https://win-tab.net/acc/crowview-note-156-2608171/</guid>
+    </item>
+    <item>
+      <title>UGREEN Nexode Wavy － Dymondcell技術を採用し、安全性を重視したモバイルバッテリー</title>
+      <link>https://win-tab.net/acc/ugreen-nexode-wavy-2608172/</link>
+      <guid isPermaLink="false">https://win-tab.net/acc/ugreen-nexode-wavy-2608172/</guid>
     </item>
   </channel>
 </rss>

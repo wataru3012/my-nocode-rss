@@ -6,22 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Aug 2026 17:13:26 +0000</lastBuildDate>
-    <item>
-      <title>マウス、16GBメモリ搭載で価格を抑えた15.6/14型ノートPC</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128234.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128234.html</guid>
-    </item>
-    <item>
-      <title>世界的に見ると日本のiPhoneは安め、次世代機は8～13%値上げか。MM総研調べ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128534.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128534.html</guid>
-    </item>
-    <item>
-      <title>DGX Sparkと同じAI性能を激安で!?独自プロセッサで100BのLLMを走らせられるミニPC</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128607.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128607.html</guid>
-    </item>
+    <lastBuildDate>Mon, 17 Aug 2026 17:19:54 +0000</lastBuildDate>
     <item>
       <title>「Apple Upgrade」開始。iPhoneやMacを月額で借りられるサービス</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2128762.html</link>
@@ -256,6 +241,21 @@
       <title>中身入ってる？634gまで削ぎ落とした富士通「FMV Note U」、異常な進化の歴史</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/feature/2132659.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2132659.html</guid>
+    </item>
+    <item>
+      <title>Windows 10サポート終了で余るノートPCを「ChromeOS Flex」で蘇らせよう</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2132978.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2132978.html</guid>
+    </item>
+    <item>
+      <title>過去最多76組が参加、マウス「親子パソコン組み立て教室2026」開催レポート</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2133083.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2133083.html</guid>
+    </item>
+    <item>
+      <title>GIGABYTE、Core Ultra 9 185H/RTX 5060搭載16型ゲーミングノート</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2133135.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2133135.html</guid>
     </item>
   </channel>
 </rss>
