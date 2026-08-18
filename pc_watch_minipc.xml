@@ -6,32 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 17:19:54 +0000</lastBuildDate>
-    <item>
-      <title>「Apple Upgrade」開始。iPhoneやMacを月額で借りられるサービス</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128762.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128762.html</guid>
-    </item>
-    <item>
-      <title>水冷Ryzen 9にRTX 50をぶち込む！GMKtecが放つ小型ゲーミングPC</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2128832.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2128832.html</guid>
-    </item>
-    <item>
-      <title>ネットが切れてもAIは止まらない。HP製PCに楽天のハイブリッドAIが搭載</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2129023.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2129023.html</guid>
-    </item>
-    <item>
-      <title>機種変更時の「LINE」移行手順を解説、旧機種のトーク履歴も移すには……</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2128703.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2128703.html</guid>
-    </item>
-    <item>
-      <title>NEC PC、6万4,790円の12.1型大画面Androidタブレット</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2129106.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2129106.html</guid>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 17:20:02 +0000</lastBuildDate>
     <item>
       <title>Ryzen AI Maxで9.06型クラムシェルはロマンの塊だ。「GPD WIN Max 3」予告</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2129376.html</link>
@@ -256,6 +231,31 @@
       <title>GIGABYTE、Core Ultra 9 185H/RTX 5060搭載16型ゲーミングノート</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2133135.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2133135.html</guid>
+    </item>
+    <item>
+      <title>AmazonでミニPCが2万円台！TDP 6WのN5030搭載機</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/special/2133246.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2133246.html</guid>
+    </item>
+    <item>
+      <title>MINISFORUM、RTX 5060またはRadeon RX 9060 XT搭載のスリムタワー</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2133418.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2133418.html</guid>
+    </item>
+    <item>
+      <title>日本エイサー、16型で990gのノートPC「Swift Air 16」に新モデル</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2133536.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2133536.html</guid>
+    </item>
+    <item>
+      <title>GEEKOM、Webで公開していたドライバにマルウェア混入で謝罪</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2133531.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2133531.html</guid>
+    </item>
+    <item>
+      <title>デル、従来から軽量薄型化したCore 3/Ryzen 200搭載14型/15.3型ノート</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2133631.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2133631.html</guid>
     </item>
   </channel>
 </rss>

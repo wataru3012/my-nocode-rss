@@ -6,12 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 17:21:06 +0000</lastBuildDate>
-    <item>
-      <title>無料・無制限でPDF・画像・EPUB・テキストファイル・音声とカメラ入力をスマホでオフライン翻訳できる「Offline Translator」、60言語に対応し日本語の縦書きもOK</title>
-      <link>https://gigazine.net/news/20260725-offline-translator/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260725-offline-translator/</guid>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 17:21:11 +0000</lastBuildDate>
     <item>
       <title>無料でターミナルセッションをアニメーションGIFに変換できる「VHS」</title>
       <link>https://gigazine.net/news/20260726-vhs/</link>
@@ -206,6 +201,11 @@
       <title>「PoE」好きが1人で作った自由すぎるビルド構築が魅力のローグライトARPG「響き、夢境に(Dream Echo)」をプレイしてみた</title>
       <link>https://gigazine.net/news/20260817-dream-echo/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260817-dream-echo/</guid>
+    </item>
+    <item>
+      <title>「Steam Machine」を分解してSSDにアクセスするまでの手順を実際にやってみた</title>
+      <link>https://gigazine.net/news/20260818-steam-machine-teardown/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260818-steam-machine-teardown/</guid>
     </item>
   </channel>
 </rss>
