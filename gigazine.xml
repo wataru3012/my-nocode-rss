@@ -6,32 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Aug 2026 17:21:31 +0000</lastBuildDate>
-    <item>
-      <title>無料で広告ブロック対策のアクセスウォールを検出して無効化できる「Unwall」</title>
-      <link>https://gigazine.net/news/20260726-unwall/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260726-unwall/</guid>
-    </item>
-    <item>
-      <title>データベース「PostgreSQL」がどのように実際には内部で動いているかがシムシティっぽい3Dでわかる「PGSimCity」</title>
-      <link>https://gigazine.net/news/20260728-pgsimcity-postgresql/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260728-pgsimcity-postgresql/</guid>
-    </item>
-    <item>
-      <title>Googleが最大3分の日本語ボーカル付き楽曲を作れる音楽生成AI「Lyria 3.5」をリリースしたので使ってみた</title>
-      <link>https://gigazine.net/news/20260730-lyria-3-5-music-generation-ai/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260730-lyria-3-5-music-generation-ai/</guid>
-    </item>
-    <item>
-      <title>メトロポリタン美術館に所蔵される歴史的遺物がどこでいつ作られたかを推測して地図をクリックするゲーム「Anthropeum」</title>
-      <link>https://gigazine.net/news/20260731-anthropeum/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260731-anthropeum/</guid>
-    </item>
-    <item>
-      <title>無料でWindowsのファイル保存・開くのダイアログウィンドウで指定のフォルダーに素早く移動でき特定のファイラーで開くのも一発でできる「Flow Launcher」</title>
-      <link>https://gigazine.net/news/20260801-flow-launcher/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260801-flow-launcher/</guid>
-    </item>
+    <lastBuildDate>Thu, 20 Aug 2026 17:23:07 +0000</lastBuildDate>
     <item>
       <title>サンワダイレクトの半固体電池内蔵＆最大8.5時間連続使用可能なハンディファン「400-TOY049」レビュー</title>
       <link>https://gigazine.net/news/20260801-sanwa-direct-handy-fan/</link>
@@ -206,6 +181,31 @@
       <title>使い込むほど成長するAIエージェント「Hermes Agent」をWindowsで実際に使ってみた、インストールからウェブ検索・ブラウザ操作まで</title>
       <link>https://gigazine.net/news/20260819-hermes-agent-first-use/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260819-hermes-agent-first-use/</guid>
+    </item>
+    <item>
+      <title>Google製スマートフォン「Pixel 11 Pro」開封の儀、虹色に光る通知ライト「HiLight」も試してみた</title>
+      <link>https://gigazine.net/news/20260820-google-pixel-11-pro/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260820-google-pixel-11-pro/</guid>
+    </item>
+    <item>
+      <title>「Google Pixel 11 Pro Fold」フォトレビュー、約20g軽量化＆薄型化しながら折り曲げ部分がより目立たなく進化</title>
+      <link>https://gigazine.net/news/20260820-pixel-11-pro-fold-photo/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260820-pixel-11-pro-fold-photo/</guid>
+    </item>
+    <item>
+      <title>カメラバーを再設計したGoogle Tensor G6搭載スマートフォン「Google Pixel 11」外観レビュー</title>
+      <link>https://gigazine.net/news/20260820-google-pixel-11-review/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260820-google-pixel-11-review/</guid>
+    </item>
+    <item>
+      <title>スマートウォッチ「Google Pixel Watch 5」外観レビュー、処理速度が20％向上し新たにHealth Guardian機能を搭載</title>
+      <link>https://gigazine.net/news/20260820-google-pixel-watch-5-photo/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260820-google-pixel-watch-5-photo/</guid>
+    </item>
+    <item>
+      <title>音声録音＆AI分析で知識をため込んでタスク管理も可能な装着型デバイス「SwitchBot AIマインドクリップ」を使ってみたよレビュー</title>
+      <link>https://gigazine.net/news/20260820-switchbot-ai-mindclip/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260820-switchbot-ai-mindclip/</guid>
     </item>
   </channel>
 </rss>

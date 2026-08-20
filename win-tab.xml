@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Aug 2026 17:20:33 +0000</lastBuildDate>
-    <item>
-      <title>NEC LAVIE Tab T12 － 12.1インチ・2.5Kディスプレイ搭載のタブレット。「ペンやキーボードは不要」という人に</title>
-      <link>https://win-tab.net/android/nec-lavie-tab-t12-2607311/</link>
-      <guid isPermaLink="false">https://win-tab.net/android/nec-lavie-tab-t12-2607311/</guid>
-    </item>
-    <item>
-      <title>HP セール情報 － BIGサマーセールがスタート、OmniBook 3やOmniBook 7が大幅割引に！</title>
-      <link>https://win-tab.net/sale/hp-sale-07312/</link>
-      <guid isPermaLink="false">https://win-tab.net/sale/hp-sale-07312/</guid>
-    </item>
+    <lastBuildDate>Thu, 20 Aug 2026 17:22:11 +0000</lastBuildDate>
     <item>
       <title>Lenovo IdeaPad Slim 3i Gen 11 (17型 Intel) － Coreシリーズ3 (Wildcat Lake)搭載の「貴重な」17.3インチビジネスノート</title>
       <link>https://win-tab.net/lenovo/ideapad-slim-3i-gen-11-17-intel-2608011/</link>
@@ -206,6 +196,16 @@
       <title>Lenovo ThinkPad X13 Detachable (13型 Intel) － タブレットにして使えるThinkPad、サイズが一回り大きくなりました</title>
       <link>https://win-tab.net/lenovo/thinkpad-x13-detachable-2608192/</link>
       <guid isPermaLink="false">https://win-tab.net/lenovo/thinkpad-x13-detachable-2608192/</guid>
+    </item>
+    <item>
+      <title>Lenovo Yoga Pro 7a Gen 11(15型AMD) － Ryzen AI Max+ 388搭載、タッチパッドでペン入力ができる15.3インチ高性能ノートPC</title>
+      <link>https://win-tab.net/lenovo/yoga-pro-7a-gen-11-amd-2608201/</link>
+      <guid isPermaLink="false">https://win-tab.net/lenovo/yoga-pro-7a-gen-11-amd-2608201/</guid>
+    </item>
+    <item>
+      <title>DASUNG 13K Gen2/13KC Gen2 － 高解像度E-Inkモニターが「Gen2」に進化、OS制限が解消され、より使いやすくなりました</title>
+      <link>https://win-tab.net/acc/dasung-13k-gen2-2608202/</link>
+      <guid isPermaLink="false">https://win-tab.net/acc/dasung-13k-gen2-2608202/</guid>
     </item>
   </channel>
 </rss>
