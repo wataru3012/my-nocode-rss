@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Aug 2026 17:22:11 +0000</lastBuildDate>
-    <item>
-      <title>Lenovo IdeaPad Slim 3i Gen 11 (17型 Intel) － Coreシリーズ3 (Wildcat Lake)搭載の「貴重な」17.3インチビジネスノート</title>
-      <link>https://win-tab.net/lenovo/ideapad-slim-3i-gen-11-17-intel-2608011/</link>
-      <guid isPermaLink="false">https://win-tab.net/lenovo/ideapad-slim-3i-gen-11-17-intel-2608011/</guid>
-    </item>
-    <item>
-      <title>Lenovo IdeaPad Slim 5i Gen 11 (13.3型 Intel) － Coreシリーズ3 (Wildcat Lake)搭載、13.3インチの高品質なモバイルノート</title>
-      <link>https://win-tab.net/lenovo/ideapad-slim-5i-gen-11-13-intel-2608012/</link>
-      <guid isPermaLink="false">https://win-tab.net/lenovo/ideapad-slim-5i-gen-11-13-intel-2608012/</guid>
-    </item>
+    <lastBuildDate>Fri, 21 Aug 2026 17:21:50 +0000</lastBuildDate>
     <item>
       <title>【Amazonセール】ワンランク上のモバイルキーボード3選！KeychronのAlice配列や折りたたみ式で「迷ったらこれ！」のMOBOがお買い得</title>
       <link>https://win-tab.net/sale/amazon-mobile-keyboard-sale-2608021/</link>
@@ -206,6 +196,16 @@
       <title>DASUNG 13K Gen2/13KC Gen2 － 高解像度E-Inkモニターが「Gen2」に進化、OS制限が解消され、より使いやすくなりました</title>
       <link>https://win-tab.net/acc/dasung-13k-gen2-2608202/</link>
       <guid isPermaLink="false">https://win-tab.net/acc/dasung-13k-gen2-2608202/</guid>
+    </item>
+    <item>
+      <title>サンワサプライ ハブ・引き出し付きモニター台 MR-LC806BK － ノートPC派にもおすすめ！USBハブのついたモニター台</title>
+      <link>https://win-tab.net/acc/sanwa-mr-lc806bk-2608211/</link>
+      <guid isPermaLink="false">https://win-tab.net/acc/sanwa-mr-lc806bk-2608211/</guid>
+    </item>
+    <item>
+      <title>HP 週末セール情報 － RAM32GB/SSD1TBのOmniBook X Flip 14が20万円切り、超軽量ノート、OmniBook 7 Aero 13は13万円台から！</title>
+      <link>https://win-tab.net/sale/hp-sale-2608212/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/hp-sale-2608212/</guid>
     </item>
   </channel>
 </rss>

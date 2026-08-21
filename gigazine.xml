@@ -6,12 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Aug 2026 17:23:07 +0000</lastBuildDate>
-    <item>
-      <title>サンワダイレクトの半固体電池内蔵＆最大8.5時間連続使用可能なハンディファン「400-TOY049」レビュー</title>
-      <link>https://gigazine.net/news/20260801-sanwa-direct-handy-fan/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260801-sanwa-direct-handy-fan/</guid>
-    </item>
+    <lastBuildDate>Fri, 21 Aug 2026 17:22:41 +0000</lastBuildDate>
     <item>
       <title>モニターに取り付けて省スペース＆広い範囲を明るく照らすBenQの「ScreenBarモニターライト」レビュー、15段階の明るさと8段階の色温度を調整可能</title>
       <link>https://gigazine.net/news/20260801-benq-monitor-light-screenbar/</link>
@@ -183,6 +178,11 @@
       <guid isPermaLink="false">https://gigazine.net/news/20260819-hermes-agent-first-use/</guid>
     </item>
     <item>
+      <title>音声録音＆AI分析で知識をため込んでタスク管理も可能な装着型デバイス「SwitchBot AIマインドクリップ」を使ってみたよレビュー</title>
+      <link>https://gigazine.net/news/20260820-switchbot-ai-mindclip/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260820-switchbot-ai-mindclip/</guid>
+    </item>
+    <item>
       <title>Google製スマートフォン「Pixel 11 Pro」開封の儀、虹色に光る通知ライト「HiLight」も試してみた</title>
       <link>https://gigazine.net/news/20260820-google-pixel-11-pro/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260820-google-pixel-11-pro/</guid>
@@ -203,9 +203,9 @@
       <guid isPermaLink="false">https://gigazine.net/news/20260820-google-pixel-watch-5-photo/</guid>
     </item>
     <item>
-      <title>音声録音＆AI分析で知識をため込んでタスク管理も可能な装着型デバイス「SwitchBot AIマインドクリップ」を使ってみたよレビュー</title>
-      <link>https://gigazine.net/news/20260820-switchbot-ai-mindclip/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260820-switchbot-ai-mindclip/</guid>
+      <title>使い込むほど成長するAIエージェント「Hermes Agent」で実際に行った作業をスキル化して再利用してみた</title>
+      <link>https://gigazine.net/news/20260821-hermes-agent-skill/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260821-hermes-agent-skill/</guid>
     </item>
   </channel>
 </rss>
