@@ -6,22 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Aug 2026 17:22:41 +0000</lastBuildDate>
-    <item>
-      <title>モニターに取り付けて省スペース＆広い範囲を明るく照らすBenQの「ScreenBarモニターライト」レビュー、15段階の明るさと8段階の色温度を調整可能</title>
-      <link>https://gigazine.net/news/20260801-benq-monitor-light-screenbar/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260801-benq-monitor-light-screenbar/</guid>
-    </item>
-    <item>
-      <title>eo光の回線を解約、光ケーブルの切断作業を実際にやってみた</title>
-      <link>https://gigazine.net/news/20260801-cancel-fiber-optic-service/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260801-cancel-fiber-optic-service/</guid>
-    </item>
-    <item>
-      <title>ポケモンのイーブイをベージュ＆ブラウンカラーで表現したイヤーカフ型イヤホン「Soundcore C50i イーブイモデル」フォトレビュー</title>
-      <link>https://gigazine.net/news/20260801-soundcore-c50i-eevee/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260801-soundcore-c50i-eevee/</guid>
-    </item>
+    <lastBuildDate>Sat, 22 Aug 2026 17:15:20 +0000</lastBuildDate>
     <item>
       <title>自動で芯が出てくるので頭をノックする必要がないシャープペンシル「ノクフリーメタル」を使ってみた</title>
       <link>https://gigazine.net/news/20260802-sun-star-nocfree-metal/</link>
@@ -206,6 +191,21 @@
       <title>使い込むほど成長するAIエージェント「Hermes Agent」で実際に行った作業をスキル化して再利用してみた</title>
       <link>https://gigazine.net/news/20260821-hermes-agent-skill/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260821-hermes-agent-skill/</guid>
+    </item>
+    <item>
+      <title>AIモデルを選ぶ時に「実際に何をしているのか？」という内部構造や処理フローをアニメーションで視覚化して確認できる「modelmap」</title>
+      <link>https://gigazine.net/news/20260822-modelmap/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260822-modelmap/</guid>
+    </item>
+    <item>
+      <title>無料でAIエージェントに最適化されたオープンソースのメモ帳アプリ「Hubble.md」、MarkdownとHTMLをベースにして保存・編集・操作が可能</title>
+      <link>https://gigazine.net/news/20260822-hubble-md/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260822-hubble-md/</guid>
+    </item>
+    <item>
+      <title>Raspberry Pi向け純正タッチパネル「Raspberry Pi Touch Display 2」の10インチモデルをフォトレビュー、サイズ大幅アップで解像度向上</title>
+      <link>https://gigazine.net/news/20260822-raspberry-pi-touch-display-2-10-inch/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260822-raspberry-pi-touch-display-2-10-inch/</guid>
     </item>
   </channel>
 </rss>
