@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Aug 2026 17:14:34 +0000</lastBuildDate>
-    <item>
-      <title>GMKtec NEO-X1/X1 Pro － Ryzen 9 9955HX3DとGeForce RTX 5070を搭載する「MoDT (Mobile on Desktop)」PCが近日発売</title>
-      <link>https://win-tab.net/imported/gmktec-neo-x1-x1-pro-2608041/</link>
-      <guid isPermaLink="false">https://win-tab.net/imported/gmktec-neo-x1-x1-pro-2608041/</guid>
-    </item>
-    <item>
-      <title>TECLAST P50T レビュー － UNISOC T7250搭載で物理RAM3GBのエントリータブレット、価格重視で選ぶならアリ</title>
-      <link>https://win-tab.net/android/teclast-p50t-review-2608042/</link>
-      <guid isPermaLink="false">https://win-tab.net/android/teclast-p50t-review-2608042/</guid>
-    </item>
+    <lastBuildDate>Mon, 24 Aug 2026 17:24:31 +0000</lastBuildDate>
     <item>
       <title>Lenovo IdeaPad Slim 3i Gen 11 (16型 Intel) － Coreシリーズ3 (Wildcat Lake)搭載の16インチスタンダードノート</title>
       <link>https://win-tab.net/lenovo/ideapad-slim-3i-gen-11-16-intel-2608051/</link>
@@ -206,6 +196,16 @@
       <title>マウスコンピューターがNEXTGEARのメモリ倍増キャンペーン！エントリーモデルのJ5が32GBメモリ搭載でお値段据え置き</title>
       <link>https://win-tab.net/mouse/nextgear-campaign-2608232/</link>
       <guid isPermaLink="false">https://win-tab.net/mouse/nextgear-campaign-2608232/</guid>
+    </item>
+    <item>
+      <title>TECLASTのタブレットがAmazonでセール中、1万円台前半で買えるエントリーモデル2機種をピックアップ！</title>
+      <link>https://win-tab.net/sale/teclast-amazon-sale-2608241/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/teclast-amazon-sale-2608241/</guid>
+    </item>
+    <item>
+      <title>Blackview LINK 5 レビュー － Android 17搭載、質感の高い筐体と豊富な付属品が魅力！ただしSoCの性能は低く、割り切りも必要</title>
+      <link>https://win-tab.net/android/blackview-link-5-review-2608242/</link>
+      <guid isPermaLink="false">https://win-tab.net/android/blackview-link-5-review-2608242/</guid>
     </item>
   </channel>
 </rss>
