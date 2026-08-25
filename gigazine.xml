@@ -6,12 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Aug 2026 17:25:24 +0000</lastBuildDate>
-    <item>
-      <title>「あのSFや出来事に何年生で出会ったか」が年表ですぐに分かる「SF・コンピューター技術ライフライン」で自分の人生を振り返ってみた</title>
-      <link>https://gigazine.net/news/20260805-sf-tech-lifeline/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260805-sf-tech-lifeline/</guid>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 17:25:52 +0000</lastBuildDate>
     <item>
       <title>懐かしい見た目のチャットアプリ「chat.exe」が登場したので使ってみた</title>
       <link>https://gigazine.net/news/20260805-chat-exe/</link>
@@ -206,6 +201,11 @@
       <title>AIエージェントが実際にどのように動いてトークンを使っているかが後から見てわかるようにできる「Langfuse」、オープンソースでセルフホスト可能</title>
       <link>https://gigazine.net/news/20260823-langfuse/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260823-langfuse/</guid>
+    </item>
+    <item>
+      <title>自分のスマホのAI実行性能を測定できるベンチマークアプリ「Pipette」を使ってみた</title>
+      <link>https://gigazine.net/news/20260825-pipette-phone-ai/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260825-pipette-phone-ai/</guid>
     </item>
   </channel>
 </rss>
