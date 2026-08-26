@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 17:24:59 +0000</lastBuildDate>
-    <item>
-      <title>mouse K8-I7G50BK-A － 18インチの大型ノートPC、Core i7-14650HXとRTX 5050を搭載し、仕事もクリエイティブも快適にこなせます</title>
-      <link>https://win-tab.net/mouse/k8-i7g50bk-1-2608061/</link>
-      <guid isPermaLink="false">https://win-tab.net/mouse/k8-i7g50bk-1-2608061/</guid>
-    </item>
-    <item>
-      <title>ALLDOCUBE iPlay 80 mini Turbo － Dimensity 7400搭載、「UltraとProの中間スペック」の8.8インチタブレット、発売記念価格は29,999円！</title>
-      <link>https://win-tab.net/android/alldocube-iplay-80-mini-turbo-2608062/</link>
-      <guid isPermaLink="false">https://win-tab.net/android/alldocube-iplay-80-mini-turbo-2608062/</guid>
-    </item>
+    <lastBuildDate>Wed, 26 Aug 2026 18:52:30 +0000</lastBuildDate>
     <item>
       <title>dynabook X9/X7/XZ － 自分でバッテリーを交換できる13.3インチ超軽量モバイルノートがPanther Lake搭載に！</title>
       <link>https://win-tab.net/dynabook/dynabook-x9-x7-xz-2608071/</link>
@@ -206,6 +196,16 @@
       <title>生成AIを使ったアプリ作成例 ー AI機能を組み込んだアプリも作成可能、カメラから文書を読み込んでテキスト化するアプリを作ってみる</title>
       <link>https://win-tab.net/opinion/original-ocr-app-2608252/</link>
       <guid isPermaLink="false">https://win-tab.net/opinion/original-ocr-app-2608252/</guid>
+    </item>
+    <item>
+      <title>WUBEN E2 PULSE レビュー ー 10.7gの超小型LEDライト、今度のWUBENは「一番普通で一番使える」？</title>
+      <link>https://win-tab.net/acc/wuben-e2-pulse-review-2608261/</link>
+      <guid isPermaLink="false">https://win-tab.net/acc/wuben-e2-pulse-review-2608261/</guid>
+    </item>
+    <item>
+      <title>サンワダイレクト 400-SKB082 － 個性的な「ベージュ」も選べる薄型・軽量のフルサイズキーボード</title>
+      <link>https://win-tab.net/acc/sanwa-400-skb082-2608262/</link>
+      <guid isPermaLink="false">https://win-tab.net/acc/sanwa-400-skb082-2608262/</guid>
     </item>
   </channel>
 </rss>
