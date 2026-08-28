@@ -6,22 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Aug 2026 18:52:30 +0000</lastBuildDate>
-    <item>
-      <title>dynabook X9/X7/XZ － 自分でバッテリーを交換できる13.3インチ超軽量モバイルノートがPanther Lake搭載に！</title>
-      <link>https://win-tab.net/dynabook/dynabook-x9-x7-xz-2608071/</link>
-      <guid isPermaLink="false">https://win-tab.net/dynabook/dynabook-x9-x7-xz-2608071/</guid>
-    </item>
-    <item>
-      <title>HP セール情報 － 16インチノート、OmniBook 3 16が8万円台から、RAM32GB搭載モデルもお買い得価格に！</title>
-      <link>https://win-tab.net/sale/hp-sale-2608072/</link>
-      <guid isPermaLink="false">https://win-tab.net/sale/hp-sale-2608072/</guid>
-    </item>
-    <item>
-      <title>GMKtec K17 Plus － CPUにCore Ultra 7 258Vを搭載、既存モデルからさらなる性能アップを果たしたミニPC</title>
-      <link>https://win-tab.net/imported/gmktec-k17-plus-2608081/</link>
-      <guid isPermaLink="false">https://win-tab.net/imported/gmktec-k17-plus-2608081/</guid>
-    </item>
+    <lastBuildDate>Fri, 28 Aug 2026 01:14:40 +0000</lastBuildDate>
     <item>
       <title>Lenovoセール情報 – 「クールに動くAI PCフェア」がスタート、ThinkPad E14/E16やIdeaPad注目モデルがお買い得に</title>
       <link>https://win-tab.net/sale/lenovo-sale-2608082/</link>
@@ -206,6 +191,21 @@
       <title>サンワダイレクト 400-SKB082 － 個性的な「ベージュ」も選べる薄型・軽量のフルサイズキーボード</title>
       <link>https://win-tab.net/acc/sanwa-400-skb082-2608262/</link>
       <guid isPermaLink="false">https://win-tab.net/acc/sanwa-400-skb082-2608262/</guid>
+    </item>
+    <item>
+      <title>FPD CP11-J1 レビュー － 1万円台の11インチタブレット、RAM 6GB・FHD・90Hzで普段使いには十分</title>
+      <link>https://win-tab.net/android/fpd-cp11-j1-review-2608271/</link>
+      <guid isPermaLink="false">https://win-tab.net/android/fpd-cp11-j1-review-2608271/</guid>
+    </item>
+    <item>
+      <title>nubia Pad Plus － 専用物理キーボードでPCライクに使える12インチ・映像出力対応のAndroid 16タブレット</title>
+      <link>https://win-tab.net/android/nubia-pad-plus-2608272/</link>
+      <guid isPermaLink="false">https://win-tab.net/android/nubia-pad-plus-2608272/</guid>
+    </item>
+    <item>
+      <title>Perixx PERIDUO-606IIA － キーボード・マウス・テンキーがセットになったエルゴノミクスモデル</title>
+      <link>https://win-tab.net/acc/perixx-periduo-606iia-2608281/</link>
+      <guid isPermaLink="false">https://win-tab.net/acc/perixx-periduo-606iia-2608281/</guid>
     </item>
   </channel>
 </rss>
