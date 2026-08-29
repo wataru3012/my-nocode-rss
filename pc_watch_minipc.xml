@@ -6,17 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Aug 2026 01:14:21 +0000</lastBuildDate>
-    <item>
-      <title>Windowsだからカンタン！余っているPCを「ファイルサーバー」にする方法</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2132418.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2132418.html</guid>
-    </item>
-    <item>
-      <title>Googleの新型スマホ「Pixel 11」シリーズ登場。iPhoneとスペック比較</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2132432.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2132432.html</guid>
-    </item>
+    <lastBuildDate>Sat, 29 Aug 2026 00:49:08 +0000</lastBuildDate>
     <item>
       <title>CPUは古いがカワイイし安いから許す。GMKtecのミニPC「G5S」</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2132469.html</link>
@@ -168,6 +158,11 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/present/2135154.html</guid>
     </item>
     <item>
+      <title>小さな巨人、再び。Ryzen AI 9 HX 470+64GBメモリ搭載のミニPC、GMKtec「EVO-X1 Pro」</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2135206.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2135206.html</guid>
+    </item>
+    <item>
       <title>ソニー、50%明るいディスプレイを搭載する「Xperia 10 VIII」</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2135077.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2135077.html</guid>
@@ -243,69 +238,9 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2135991.html</guid>
     </item>
     <item>
-      <title>【特集】懐かしのWindows 98から11まで！お盆休みにあの頃の思い出に浸ろう</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2131918.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2131918.html</guid>
-    </item>
-    <item>
-      <title>【コラム】Sora 2超えでSeedance 2.0に迫る！動画AI「MiniMax H3」が凄まじいクオリティだった</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2132431.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2132431.html</guid>
-    </item>
-    <item>
-      <title>【特集】新型「Pixel 11」シリーズは何が変わった？前世代とスペック比較</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2132409.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2132409.html</guid>
-    </item>
-    <item>
-      <title>【コラム】30万円のRadeon AI PRO R9700自腹購入！LLMにアプリを作らせて気づいた真実</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/ubuntu/2132799.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/ubuntu/2132799.html</guid>
-    </item>
-    <item>
-      <title>【特集】sigmarion IIIも甦る！「Claude Code」が凄すぎて2カ月間下僕になったオタクの記録</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2133686.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2133686.html</guid>
-    </item>
-    <item>
       <title>VAIOが9月に値上げ。部材高騰で価格維持が困難に</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2136108.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2136108.html</guid>
-    </item>
-    <item>
-      <title>OpenAI自社チップ「ハラペーニョ」、NVIDIA GB300を大幅に上回る性能に</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2136080.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2136080.html</guid>
-    </item>
-    <item>
-      <title>スマホで使える天体望遠鏡「Seestar S50 Pro」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2136157.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2136157.html</guid>
-    </item>
-    <item>
-      <title>MSI、300Hz対応のeスポーツ向け24.5型ゲーミングモニター</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2136210.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2136210.html</guid>
-    </item>
-    <item>
-      <title>Google Fitbit Airにポケモンコラボモデル登場。Pokémon Sleepとの連携も</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2136316.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2136316.html</guid>
-    </item>
-    <item>
-      <title>Dell、RGBストライプタンデムOLEDの39型5Kウルトラワイドゲーミングモニター</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2136310.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2136310.html</guid>
-    </item>
-    <item>
-      <title>PC Watch創刊30周年特別プレゼント企画【ロジクール製ワイヤレスメカニカルキーボード「K98M」】</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/present/2135927.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/present/2135927.html</guid>
-    </item>
-    <item>
-      <title>満充電で自動的にケーブルが抜ける「満タンデタッチャブル」、実売2,000円</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2136325.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2136325.html</guid>
     </item>
     <item>
       <title>MSI、Core Ultra 7搭載でアルミ合金筐体採用の14型/16型ノート</title>
@@ -313,59 +248,14 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2136200.html</guid>
     </item>
     <item>
-      <title>性能1.4倍でバッテリも伸びる！Snapdragon X2搭載の新Surfaceが凄い</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/ubiq/2136329.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/ubiq/2136329.html</guid>
+      <title>安心してください、ゲームできますよ。RTX Spark対応にEAやUbisoftら</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2136517.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2136517.html</guid>
     </item>
     <item>
-      <title>JAPANNEXT、15.6型デュアル4Kのモバイルモニター。縦横比3:2で約300gの軽量10.5型も</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2136324.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2136324.html</guid>
-    </item>
-    <item>
-      <title>JAPANNEXT、180Hz表示対応の34型湾曲ウルトラワイドゲーミングモニター</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2136333.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2136333.html</guid>
-    </item>
-    <item>
-      <title>エレコム、打鍵音を90%低減した新設計の静音キーボード</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2136336.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2136336.html</guid>
-    </item>
-    <item>
-      <title>SPARKLE、Thunderbolt 5対応のRTX 3060搭載GPUボックス</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2136337.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2136337.html</guid>
-    </item>
-    <item>
-      <title>海外出張はこれ1つ。4種変換プラグ+65W給電対応巻取りケーブル内蔵のアダプタ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2133720.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2133720.html</guid>
-    </item>
-    <item>
-      <title>Seagateの3.5インチHDD 8TBが5千円引き。20TB、24TBもセールに</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2135961.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2135961.html</guid>
-    </item>
-    <item>
-      <title>2,000MB/sの高速ポータブルSSD 1TBが5,970円引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2135972.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2135972.html</guid>
-    </item>
-    <item>
-      <title>ドックみたいなCore Ultra 7 256VミニPCが約4万6千円オフ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2135978.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2135978.html</guid>
-    </item>
-    <item>
-      <title>32GBメモリのRyzen AI 7 350搭載ノートが約3万5千円オフ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2135983.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2135983.html</guid>
-    </item>
-    <item>
-      <title>すき家「牛丼の具」×20食が2,520円引き。「横濱カレー」や「親子丼の具」もセールに</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2135999.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2135999.html</guid>
+      <title>UMPCの雄・GPDがミニPCを作ったらこうなった。電源内蔵で驚異の0.93L！「GPD BOX」を動画で徹底チェック</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2136698.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2136698.html</guid>
     </item>
   </channel>
 </rss>

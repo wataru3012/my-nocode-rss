@@ -6,12 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Aug 2026 01:15:35 +0000</lastBuildDate>
-    <item>
-      <title>懐かしい見た目のチャットアプリ「chat.exe」が登場したので使ってみた</title>
-      <link>https://gigazine.net/news/20260805-chat-exe/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260805-chat-exe/</guid>
-    </item>
+    <lastBuildDate>Sat, 29 Aug 2026 00:50:24 +0000</lastBuildDate>
     <item>
       <title>初音ミクが計算してくれる電卓アプリ「電卓 - Desktop Mate Widgets」を使ってみた、数字を読み上げて計算に悩む姿も見せてくれる</title>
       <link>https://gigazine.net/news/20260807-desktop-mate-widgets-calc/</link>
@@ -206,6 +201,11 @@
       <title>自分のスマホのAI実行性能を測定できるベンチマークアプリ「Pipette」を使ってみた</title>
       <link>https://gigazine.net/news/20260825-pipette-phone-ai/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260825-pipette-phone-ai/</guid>
+    </item>
+    <item>
+      <title>「写ルンです」で白黒のモノクロ写真を誰でも簡単に撮れる「写ルンです Black and White」で撮影＆現像してみたよレビュー</title>
+      <link>https://gigazine.net/news/20260829-fujifilm-utsurundesu-black-and-white/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260829-fujifilm-utsurundesu-black-and-white/</guid>
     </item>
   </channel>
 </rss>

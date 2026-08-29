@@ -6,12 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Aug 2026 01:14:40 +0000</lastBuildDate>
-    <item>
-      <title>Lenovoセール情報 – 「クールに動くAI PCフェア」がスタート、ThinkPad E14/E16やIdeaPad注目モデルがお買い得に</title>
-      <link>https://win-tab.net/sale/lenovo-sale-2608082/</link>
-      <guid isPermaLink="false">https://win-tab.net/sale/lenovo-sale-2608082/</guid>
-    </item>
+    <lastBuildDate>Sat, 29 Aug 2026 00:49:31 +0000</lastBuildDate>
     <item>
       <title>Logicool Spotlight 2 － カスタマイズ可能なボタンや多様なハイライト機能を搭載するワイヤレスプレゼンター</title>
       <link>https://win-tab.net/acc/logicool-spotlight-2-2608091/</link>
@@ -206,6 +201,11 @@
       <title>Perixx PERIDUO-606IIA － キーボード・マウス・テンキーがセットになったエルゴノミクスモデル</title>
       <link>https://win-tab.net/acc/perixx-periduo-606iia-2608281/</link>
       <guid isPermaLink="false">https://win-tab.net/acc/perixx-periduo-606iia-2608281/</guid>
+    </item>
+    <item>
+      <title>HP OmniBook 5 16-cn/bm/bp － HPの定番スタンダードノートが新しくなりました。最新CPU搭載で筐体も小型化</title>
+      <link>https://win-tab.net/hp/omnibook-5-16-cn-bm-bp-2608282/</link>
+      <guid isPermaLink="false">https://win-tab.net/hp/omnibook-5-16-cn-bm-bp-2608282/</guid>
     </item>
   </channel>
 </rss>
