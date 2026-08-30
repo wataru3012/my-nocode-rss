@@ -6,27 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Aug 2026 19:36:07 +0000</lastBuildDate>
-    <item>
-      <title>面白い要素を全部乗せ、ローグライク×デッキ構築×パーティ制RPGの「Chrono Ark」を遊んでみた</title>
-      <link>https://gigazine.net/news/20260807-chrono-ark/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260807-chrono-ark/</guid>
-    </item>
-    <item>
-      <title>Nintendo Switch 2のプレイ動画をリニアPCMサラウンドで録画する方法、Blackmagic Designのキャプチャーボード「UltraStudio Express Recorder 3G」を使ってみた</title>
-      <link>https://gigazine.net/news/20260808-blackmagic-design-ultrastudio-express-recorder-3g/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260808-blackmagic-design-ultrastudio-express-recorder-3g/</guid>
-    </item>
-    <item>
-      <title>1台で10ポートを備えたクランプ固定式電源タップ「Anker Nano Power Strip (10-in-1, 70W, クランプ式)」レビュー</title>
-      <link>https://gigazine.net/news/20260808-anker-nano-power-strip-10-in-1/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260808-anker-nano-power-strip-10-in-1/</guid>
-    </item>
-    <item>
-      <title>有料購読が必要な学術論文を見る際に自動的に合法的なオープンアクセス論文を収録したデータベースをチェックして無料で読めるかどうかがわかる「Unpaywall」</title>
-      <link>https://gigazine.net/news/20260808-unpaywall/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260808-unpaywall/</guid>
-    </item>
+    <lastBuildDate>Sun, 30 Aug 2026 19:36:51 +0000</lastBuildDate>
     <item>
       <title>ペンで文字を書くように操作できるサンワサプライの「ペン型マウス」を使ってみた</title>
       <link>https://gigazine.net/news/20260808-pen-mouth-sanwa/</link>
@@ -206,6 +186,26 @@
       <title>無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴</title>
       <link>https://gigazine.net/news/20260829-chatto/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260829-chatto/</guid>
+    </item>
+    <item>
+      <title>Google製スマホ「Pixel 11」「Pixel 11 Pro」「Pixel 11 Pro Fold」のカメラ性能を実際に撮影して比較してみたよレビュー</title>
+      <link>https://gigazine.net/news/20260830-google-pixel-11-camera/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260830-google-pixel-11-camera/</guid>
+    </item>
+    <item>
+      <title>「Pixel 11」「Pixel 11 Pro」「Pixel 11 Pro Fold」のベンチマークスコア＆バッテリー持続時間＆充電速度を実際に検証してみたよレビュー</title>
+      <link>https://gigazine.net/news/20260830-google-pixel-11-benchmark-battery/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260830-google-pixel-11-benchmark-battery/</guid>
+    </item>
+    <item>
+      <title>島中に隠された謎を解きながら世界の真実を手繰り寄せるポイント＆クリックホラー「稗: The Dream Of A Cockspur」をプレイしてみた</title>
+      <link>https://gigazine.net/news/20260830-the-dream-of-a-cockspur/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260830-the-dream-of-a-cockspur/</guid>
+    </item>
+    <item>
+      <title>AIエージェントが人間にとって理解しやすいシンプルなチャート仕様記述から表現力豊かで見栄えの良いグラフを確実に生成できる可視化中間言語「Flint」、50種類のチャートタイプをサポートしVega-Lite・ECharts・Chart.jsなどでレンダリング可能＆MCPサーバーあり</title>
+      <link>https://gigazine.net/news/20260830-flint/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260830-flint/</guid>
     </item>
   </channel>
 </rss>
