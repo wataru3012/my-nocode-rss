@@ -6,12 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 31 Aug 2026 21:43:57 +0000</lastBuildDate>
-    <item>
-      <title>ペンで文字を書くように操作できるサンワサプライの「ペン型マウス」を使ってみた</title>
-      <link>https://gigazine.net/news/20260808-pen-mouth-sanwa/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260808-pen-mouth-sanwa/</guid>
-    </item>
+    <lastBuildDate>Tue, 01 Sep 2026 19:43:58 +0000</lastBuildDate>
     <item>
       <title>プレビューURL付きのセルフホスト型開発サンドボックス「sandboxd」</title>
       <link>https://gigazine.net/news/20260808-sandboxd/</link>
@@ -206,6 +201,11 @@
       <title>AIエージェントが人間にとって理解しやすいシンプルなチャート仕様記述から表現力豊かで見栄えの良いグラフを確実に生成できる可視化中間言語「Flint」、50種類のチャートタイプをサポートしVega-Lite・ECharts・Chart.jsなどでレンダリング可能＆MCPサーバーあり</title>
       <link>https://gigazine.net/news/20260830-flint/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260830-flint/</guid>
+    </item>
+    <item>
+      <title>使い込むほど成長するAIエージェント「Hermes Agent」でタスクを自動実行させてみた、PCを放置していても時間になれば勝手に実行</title>
+      <link>https://gigazine.net/news/20260901-hermes-agent-cron-automation/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260901-hermes-agent-cron-automation/</guid>
     </item>
   </channel>
 </rss>
