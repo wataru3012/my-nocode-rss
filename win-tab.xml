@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Sep 2026 19:43:05 +0000</lastBuildDate>
-    <item>
-      <title>ASUS セール情報 － エントリークラスのゲーミングノートPCが12万円台から、ビジネスノートPCも8万円台から！</title>
-      <link>https://win-tab.net/sale/asus-sale-2608141/</link>
-      <guid isPermaLink="false">https://win-tab.net/sale/asus-sale-2608141/</guid>
-    </item>
-    <item>
-      <title>HP週末セール情報 － BIGサマーセール第2弾がスタート、OmniBookシリーズの最新モデルが多数セール対象に！</title>
-      <link>https://win-tab.net/sale/hp-sale-2608142/</link>
-      <guid isPermaLink="false">https://win-tab.net/sale/hp-sale-2608142/</guid>
-    </item>
+    <lastBuildDate>Wed, 02 Sep 2026 19:35:26 +0000</lastBuildDate>
     <item>
       <title>Blackview LINK 5 － Android 17を搭載するエントリータブレット、Amazonで販売開始！キーボードやマウスなど付属品も充実</title>
       <link>https://win-tab.net/android/blackview-link-5-amazon-sale-2608151/</link>
@@ -206,6 +196,16 @@
       <title>TECLAST T60Mini － Android 17、UNISOC T7300、2.5Kディスプレイの8.8インチタブレット、ALLDOCUBEの牙城を崩せる？</title>
       <link>https://win-tab.net/android/teclast-t60mini-2609021/</link>
       <guid isPermaLink="false">https://win-tab.net/android/teclast-t60mini-2609021/</guid>
+    </item>
+    <item>
+      <title>Buffalo トラックボールマウス BSTBB700X － 意外？これが「Buffalo初のトラックボール」です</title>
+      <link>https://win-tab.net/acc/buffalo-bstbb700x-2609021/</link>
+      <guid isPermaLink="false">https://win-tab.net/acc/buffalo-bstbb700x-2609021/</guid>
+    </item>
+    <item>
+      <title>REDMAGIC Astra 2 － 水冷システム搭載の超高性能ゲーミングタブレットが国内発売！</title>
+      <link>https://win-tab.net/android/redmagic-astra-2-2609023/</link>
+      <guid isPermaLink="false">https://win-tab.net/android/redmagic-astra-2-2609023/</guid>
     </item>
   </channel>
 </rss>

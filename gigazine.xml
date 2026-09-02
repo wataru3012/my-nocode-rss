@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Sep 2026 19:43:58 +0000</lastBuildDate>
-    <item>
-      <title>プレビューURL付きのセルフホスト型開発サンドボックス「sandboxd」</title>
-      <link>https://gigazine.net/news/20260808-sandboxd/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260808-sandboxd/</guid>
-    </item>
-    <item>
-      <title>紙を挟んで富士山を拝める「富士山クリップ」</title>
-      <link>https://gigazine.net/news/20260808-fujisan-clip/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260808-fujisan-clip/</guid>
-    </item>
+    <lastBuildDate>Wed, 02 Sep 2026 19:36:21 +0000</lastBuildDate>
     <item>
       <title>最大35日間駆動で睡眠時間や血中酸素濃度も測定してくれるアナログ時計風スマートウォッチ「ScanWatch Vitals」を使ってみた</title>
       <link>https://gigazine.net/news/20260808-scanwatch-vitals/</link>
@@ -206,6 +196,16 @@
       <title>使い込むほど成長するAIエージェント「Hermes Agent」でタスクを自動実行させてみた、PCを放置していても時間になれば勝手に実行</title>
       <link>https://gigazine.net/news/20260901-hermes-agent-cron-automation/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260901-hermes-agent-cron-automation/</guid>
+    </item>
+    <item>
+      <title>1万3000本以上の映画・ゲーム・アニメ・漫画の「聖地」を地図上に表示する「Movie Scene Map」</title>
+      <link>https://gigazine.net/news/20260902-movie-scene-map/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260902-movie-scene-map/</guid>
+    </item>
+    <item>
+      <title>イベントやBBQなどで役立つコールマンの「インスタントバイザーシェードⅣ/L DR」を簡単に設営できるか実際にやってみたよレビュー</title>
+      <link>https://gigazine.net/news/20260902-coleman-instant-shade/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260902-coleman-instant-shade/</guid>
     </item>
   </channel>
 </rss>
