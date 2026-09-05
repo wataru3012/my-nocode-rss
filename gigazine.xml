@@ -6,12 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Sep 2026 19:16:07 +0000</lastBuildDate>
-    <item>
-      <title>コンパクトなのに10000mAhの大容量で最大3台のデバイスを同時充電できる半固体モバイルバッテリー「SMARTCOBY Pro SLIM SS」レビュー</title>
-      <link>https://gigazine.net/news/20260809-cio-smartcoby-pro-slim-ss/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260809-cio-smartcoby-pro-slim-ss/</guid>
-    </item>
+    <lastBuildDate>Sat, 05 Sep 2026 18:44:06 +0000</lastBuildDate>
     <item>
       <title>メカニカルスイッチを搭載した高級キーボード「HHKB Studio」を使ってみた</title>
       <link>https://gigazine.net/news/20260809-hhkb-studio/</link>
@@ -206,6 +201,11 @@
       <title>使い込むほど成長するAIエージェント「Hermes Agent」の実行結果をメールで受け取ってみた</title>
       <link>https://gigazine.net/news/20260905-hermes-agent-mail/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260905-hermes-agent-mail/</guid>
+    </item>
+    <item>
+      <title>無料でPDF・電子書籍・Word文書・テキストファイルなどからローカルAIを使って検索＆要約ができる「DocuBrowser」、個人情報の認識も可能</title>
+      <link>https://gigazine.net/news/20260905-docubrowser/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260905-docubrowser/</guid>
     </item>
   </channel>
 </rss>

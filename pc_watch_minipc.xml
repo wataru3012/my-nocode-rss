@@ -6,7 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Sep 2026 19:14:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 18:42:51 +0000</lastBuildDate>
     <item>
       <title>MINISFORUM、Core Ultra X7 358H搭載で指紋認証センサー付きのミニPC</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2134924.html</link>
@@ -243,59 +243,9 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2134927.html</guid>
     </item>
     <item>
-      <title>【特集】懐かしのWindows 98から11まで！お盆休みにあの頃の思い出に浸ろう</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2131918.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2131918.html</guid>
-    </item>
-    <item>
-      <title>【コラム】Sora 2超えでSeedance 2.0に迫る！動画AI「MiniMax H3」が凄まじいクオリティだった</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2132431.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2132431.html</guid>
-    </item>
-    <item>
-      <title>【特集】新型「Pixel 11」シリーズは何が変わった？前世代とスペック比較</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2132409.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2132409.html</guid>
-    </item>
-    <item>
-      <title>【コラム】30万円のRadeon AI PRO R9700自腹購入！LLMにアプリを作らせて気づいた真実</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/ubuntu/2132799.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/ubuntu/2132799.html</guid>
-    </item>
-    <item>
-      <title>【特集】sigmarion IIIも甦る！「Claude Code」が凄すぎて2カ月間下僕になったオタクの記録</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2133686.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2133686.html</guid>
-    </item>
-    <item>
-      <title>既製品はしっくりこないから自分らで作った。バッファロー製トラックボールが生まれたワケ</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2137797.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2137797.html</guid>
-    </item>
-    <item>
       <title>シニアが活躍する渋谷のカフェでHPのAI PCを「自由研究」に活用</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2138039.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2138039.html</guid>
-    </item>
-    <item>
-      <title>GPT-6 Astraを使えるまで毎日リセット権、OpenAIが有料ユーザーに配布</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2138190.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2138190.html</guid>
-    </item>
-    <item>
-      <title>AGI能力テストで99.9%、ChatGPTの新モデル「GPT-6 Astra」登場</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2138206.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2138206.html</guid>
-    </item>
-    <item>
-      <title>1週間で1名が入社するペース。ASMLジャパン、2030年度に向けて人員1.4倍へ</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/semicon/2138335.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/semicon/2138335.html</guid>
-    </item>
-    <item>
-      <title>DRAMを作らないキオクシアの株がなぜ上がる？AI時代にSSDが重宝される理由</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2138296.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2138296.html</guid>
     </item>
     <item>
       <title>20万円切りのRTX 5050ゲーミングノート、GALLERIAから登場</title>
@@ -303,44 +253,9 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2138326.html</guid>
     </item>
     <item>
-      <title>MSI、ケーブルも白色に統一した144Hz対応27型ビジネスモニター</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2138413.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2138413.html</guid>
-    </item>
-    <item>
       <title>639gの8型に凝縮、Arc G3 Extreme機「OneXFly APEX Air」発売</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2138419.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2138419.html</guid>
-    </item>
-    <item>
-      <title>レイテンシ0.48msのRazer製キーボードにSentinelsコラボ版</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2138439.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2138439.html</guid>
-    </item>
-    <item>
-      <title>Xiaomiの最新Androidスマホ「POCO F9 Ultra」が2万円引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2138179.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2138179.html</guid>
-    </item>
-    <item>
-      <title>TCLの10.1型Androidタブレットが7千円引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2138182.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2138182.html</guid>
-    </item>
-    <item>
-      <title>バッファローの最新トラックボール「BSTBB700WHX」がセール中</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2138201.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2138201.html</guid>
-    </item>
-    <item>
-      <title>熱風で調理するCOSORIのエアフライヤーがクーポンで2,000円引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2138222.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2138222.html</guid>
-    </item>
-    <item>
-      <title>金沢のゴーゴーカレー24食セットが8千円引き！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2138241.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2138241.html</guid>
     </item>
   </channel>
 </rss>
