@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Sep 2026 18:43:13 +0000</lastBuildDate>
-    <item>
-      <title>UGREEN Nexode Wavy － Dymondcell技術を採用し、安全性を重視したモバイルバッテリー</title>
-      <link>https://win-tab.net/acc/ugreen-nexode-wavy-2608172/</link>
-      <guid isPermaLink="false">https://win-tab.net/acc/ugreen-nexode-wavy-2608172/</guid>
-    </item>
-    <item>
-      <title>NiPoGi P1 レビュー － 約4万円で買えるコスパ重視のミニPC！Ryzen 3 PRO 7330U搭載で事務作業も快適</title>
-      <link>https://win-tab.net/imported/nipogi-p1-review-2608181/</link>
-      <guid isPermaLink="false">https://win-tab.net/imported/nipogi-p1-review-2608181/</guid>
-    </item>
+    <lastBuildDate>Sun, 06 Sep 2026 18:47:05 +0000</lastBuildDate>
     <item>
       <title>Acer Swift Air 16 －「16インチで重さ990g」の超軽量ノートPCにRyzen AI 7 345搭載モデルが追加されました！</title>
       <link>https://win-tab.net/acer/swift-air-16-2608182/</link>
@@ -206,6 +196,16 @@
       <title>Lenovo セール情報 － 決算売り尽くしセールで最新CPU搭載のCopilot+ PCが12万円台から！</title>
       <link>https://win-tab.net/sale/lenovo-sale-2609052/</link>
       <guid isPermaLink="false">https://win-tab.net/sale/lenovo-sale-2609052/</guid>
+    </item>
+    <item>
+      <title>サンワダイレクト 2in1マウス － エルゴノミクスマウスと超小型マウスの二刀流！Makuakeでクラウドファンディング中です</title>
+      <link>https://win-tab.net/acc/sanwa-2in1-mouse-2609061/</link>
+      <guid isPermaLink="false">https://win-tab.net/acc/sanwa-2in1-mouse-2609061/</guid>
+    </item>
+    <item>
+      <title>【PR】MiniTool Partition Wizard レビュー － パーティション操作だけじゃない便利な「Wizard（魔法使い）」、無料版でも十分使えるのでインストールしておこう！</title>
+      <link>https://win-tab.net/deskapp/minitool-partition-wizard-review-2609062/</link>
+      <guid isPermaLink="false">https://win-tab.net/deskapp/minitool-partition-wizard-review-2609062/</guid>
     </item>
   </channel>
 </rss>

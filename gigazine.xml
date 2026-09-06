@@ -6,12 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Sep 2026 18:44:06 +0000</lastBuildDate>
-    <item>
-      <title>メカニカルスイッチを搭載した高級キーボード「HHKB Studio」を使ってみた</title>
-      <link>https://gigazine.net/news/20260809-hhkb-studio/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260809-hhkb-studio/</guid>
-    </item>
+    <lastBuildDate>Sun, 06 Sep 2026 18:47:58 +0000</lastBuildDate>
     <item>
       <title>センサー式でフタが自動開閉してニオイの拡散を防ぐ山善「センサー付きごみ箱 40L」を動かしてみた</title>
       <link>https://gigazine.net/news/20260809-yamazen-dustbox-estw-40/</link>
@@ -206,6 +201,11 @@
       <title>無料でPDF・電子書籍・Word文書・テキストファイルなどからローカルAIを使って検索＆要約ができる「DocuBrowser」、個人情報の認識も可能</title>
       <link>https://gigazine.net/news/20260905-docubrowser/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260905-docubrowser/</guid>
+    </item>
+    <item>
+      <title>複数のAIエージェントを1つのターミナルから統括できる「Herdr」</title>
+      <link>https://gigazine.net/news/20260906-herdr/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260906-herdr/</guid>
     </item>
   </channel>
 </rss>
