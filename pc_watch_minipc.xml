@@ -6,62 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Sep 2026 18:46:44 +0000</lastBuildDate>
-    <item>
-      <title>MINISFORUM、Core Ultra X7 358H搭載で指紋認証センサー付きのミニPC</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2134924.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2134924.html</guid>
-    </item>
-    <item>
-      <title>マウス、約95万円のRyzen AI Max+搭載ミニPC「DAIV CX-A9A60」発売</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2134937.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2134937.html</guid>
-    </item>
-    <item>
-      <title>PC Watch創刊30周年特別プレゼント企画【XPPen製お絵かきAndroidタブレット「Magic Drawing Pad」と液晶ペンタブレット「Artist 12 3rdピンク」】</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/present/2135154.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/present/2135154.html</guid>
-    </item>
-    <item>
-      <title>小さな巨人、再び。Ryzen AI 9 HX 470+64GBメモリ搭載のミニPC、GMKtec「EVO-X1 Pro」</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2135206.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2135206.html</guid>
-    </item>
-    <item>
-      <title>ソニー、50%明るいディスプレイを搭載する「Xperia 10 VIII」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2135077.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2135077.html</guid>
-    </item>
-    <item>
-      <title>Xiaomi、帯域1.22TB/sのAIチップ「XRING O100」発表。スマホや自動運転用SoCも</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2135253.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2135253.html</guid>
-    </item>
-    <item>
-      <title>GALLERIA、スト6のイラストをあしらったコラボモデル8機種</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2135426.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2135426.html</guid>
-    </item>
-    <item>
-      <title>PCが高いので、長く使えることを目指したノート「LAVIE N16」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2135452.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2135452.html</guid>
-    </item>
-    <item>
-      <title>NEC PC、Android 16に刷新したタブレット「LAVIE Tab T11N」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2135491.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2135491.html</guid>
-    </item>
-    <item>
-      <title>M5 Max/Ultraの「Mac Studio」登場。最大512GBメモリ搭載</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2135555.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2135555.html</guid>
-    </item>
-    <item>
-      <title>次世代M6チップ搭載の「Mac mini」。AI性能は最大4倍アップ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2135556.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2135556.html</guid>
-    </item>
+    <lastBuildDate>Mon, 07 Sep 2026 20:19:25 +0000</lastBuildDate>
     <item>
       <title>なんと8万7千円オフ！Ryzen 7 H255のミニPCが爆安。Amazonセール中</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/special/2135476.html</link>
@@ -256,6 +201,61 @@
       <title>639gの8型に凝縮、Arc G3 Extreme機「OneXFly APEX Air」発売</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2138419.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2138419.html</guid>
+    </item>
+    <item>
+      <title>PC Watch創刊30周年特別プレゼント企画【ACEMAGIC製レトロゲーム機風ミニPC「Retro X3」】</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/present/2138594.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/present/2138594.html</guid>
+    </item>
+    <item>
+      <title>OCuLinkでRTXを生やしAIを静かに回す、GMKtec「EVO-X3」レビュー</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2138523.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2138523.html</guid>
+    </item>
+    <item>
+      <title>ゲーミングPCが14万9,800円から、パソコン工房でセール</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2138586.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2138586.html</guid>
+    </item>
+    <item>
+      <title>PCを開梱したら即戦力になるWindows開発環境「Project Zenith」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2138625.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2138625.html</guid>
+    </item>
+    <item>
+      <title>ローカルLLMの波、来てる。メモリ192GB搭載ミニPCが登場。MINISFORUMから</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2138647.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2138647.html</guid>
+    </item>
+    <item>
+      <title>机の上で300Bモデルが動く時代に。ACEMAGICの192GBミニPC「F9A」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2138666.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2138666.html</guid>
+    </item>
+    <item>
+      <title>GMKtec、192GBメモリで300B級LLMをローカル推論するミニPC「EVO-X5 Pro」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2138676.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2138676.html</guid>
+    </item>
+    <item>
+      <title>Ryzen Z1搭載のミニPC「UM750 Neo」が7万9,999円で登場</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2138706.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2138706.html</guid>
+    </item>
+    <item>
+      <title>サードウェーブ、RTX 50シリーズ搭載16型クリエイター向けノートPCを発売</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2138780.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2138780.html</guid>
+    </item>
+    <item>
+      <title>マウス、MousePro購入&amp;アンケートで1万5千円のAmazonギフトカード進呈</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2138794.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2138794.html</guid>
+    </item>
+    <item>
+      <title>パソコン工房、第13世代Core搭載のミニPC</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2138844.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2138844.html</guid>
     </item>
   </channel>
 </rss>
