@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Sep 2026 20:19:43 +0000</lastBuildDate>
-    <item>
-      <title>Lenovo ThinkPad X13 Detachable (13型 Intel) － タブレットにして使えるThinkPad、サイズが一回り大きくなりました</title>
-      <link>https://win-tab.net/lenovo/thinkpad-x13-detachable-2608192/</link>
-      <guid isPermaLink="false">https://win-tab.net/lenovo/thinkpad-x13-detachable-2608192/</guid>
-    </item>
-    <item>
-      <title>Lenovo Yoga Pro 7a Gen 11(15型AMD) － Ryzen AI Max+ 388搭載、タッチパッドでペン入力ができる15.3インチ高性能ノートPC</title>
-      <link>https://win-tab.net/lenovo/yoga-pro-7a-gen-11-amd-2608201/</link>
-      <guid isPermaLink="false">https://win-tab.net/lenovo/yoga-pro-7a-gen-11-amd-2608201/</guid>
-    </item>
+    <lastBuildDate>Tue, 08 Sep 2026 19:41:51 +0000</lastBuildDate>
     <item>
       <title>DASUNG 13K Gen2/13KC Gen2 － 高解像度E-Inkモニターが「Gen2」に進化、OS制限が解消され、より使いやすくなりました</title>
       <link>https://win-tab.net/acc/dasung-13k-gen2-2608202/</link>
@@ -206,6 +196,16 @@
       <title>HUION Kamvas Pad 12 － 大幅進化を遂げた12.2インチお絵描きAndroidタブレット</title>
       <link>https://win-tab.net/android/huion-kamvas-pad-12-2609072/</link>
       <guid isPermaLink="false">https://win-tab.net/android/huion-kamvas-pad-12-2609072/</guid>
+    </item>
+    <item>
+      <title>AGM PAD P3 レビュー － 8インチの使いやすさとタフネス性能を両立、eSIM対応も魅力</title>
+      <link>https://win-tab.net/android/agm-pad-p3-review-2609081/</link>
+      <guid isPermaLink="false">https://win-tab.net/android/agm-pad-p3-review-2609081/</guid>
+    </item>
+    <item>
+      <title>FPD CP12-J1 － UNISOC T7300搭載、ディスプレイは12.2インチ2.4K解像度、2万円台前半で買える良スペックなタブレット</title>
+      <link>https://win-tab.net/android/fpd-cp12-j1-2609082/</link>
+      <guid isPermaLink="false">https://win-tab.net/android/fpd-cp12-j1-2609082/</guid>
     </item>
   </channel>
 </rss>
