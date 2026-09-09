@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Sep 2026 19:41:51 +0000</lastBuildDate>
-    <item>
-      <title>DASUNG 13K Gen2/13KC Gen2 － 高解像度E-Inkモニターが「Gen2」に進化、OS制限が解消され、より使いやすくなりました</title>
-      <link>https://win-tab.net/acc/dasung-13k-gen2-2608202/</link>
-      <guid isPermaLink="false">https://win-tab.net/acc/dasung-13k-gen2-2608202/</guid>
-    </item>
-    <item>
-      <title>サンワサプライ ハブ・引き出し付きモニター台 MR-LC806BK － ノートPC派にもおすすめ！USBハブのついたモニター台</title>
-      <link>https://win-tab.net/acc/sanwa-mr-lc806bk-2608211/</link>
-      <guid isPermaLink="false">https://win-tab.net/acc/sanwa-mr-lc806bk-2608211/</guid>
-    </item>
+    <lastBuildDate>Wed, 09 Sep 2026 19:34:44 +0000</lastBuildDate>
     <item>
       <title>HP 週末セール情報 － RAM32GB/SSD1TBのOmniBook X Flip 14が20万円切り、超軽量ノート、OmniBook 7 Aero 13は13万円台から！</title>
       <link>https://win-tab.net/sale/hp-sale-2608212/</link>
@@ -206,6 +196,16 @@
       <title>FPD CP12-J1 － UNISOC T7300搭載、ディスプレイは12.2インチ2.4K解像度、2万円台前半で買える良スペックなタブレット</title>
       <link>https://win-tab.net/android/fpd-cp12-j1-2609082/</link>
       <guid isPermaLink="false">https://win-tab.net/android/fpd-cp12-j1-2609082/</guid>
+    </item>
+    <item>
+      <title>ACEMAGIC K5 － Coreシリーズ3を搭載するミニPCが楽天スーパーSALEで49,800円！</title>
+      <link>https://win-tab.net/imported/acemagic-k5-2609091/</link>
+      <guid isPermaLink="false">https://win-tab.net/imported/acemagic-k5-2609091/</guid>
+    </item>
+    <item>
+      <title>CheerPlay － 「エアーマウス」の実用性と「フィジェット」の遊びを兼ね備えたワイヤレスデバイス</title>
+      <link>https://win-tab.net/acc/cheerplay-2609092/</link>
+      <guid isPermaLink="false">https://win-tab.net/acc/cheerplay-2609092/</guid>
     </item>
   </channel>
 </rss>
