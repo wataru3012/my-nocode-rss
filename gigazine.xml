@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Sep 2026 19:35:37 +0000</lastBuildDate>
-    <item>
-      <title>Grokの画像生成AIが「Imagine Image 2.0」にアップデートされたので使ってみた、実写風もイラスト風も対応し文字も描写可能</title>
-      <link>https://gigazine.net/news/20260810-grok-imagine-image-2/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260810-grok-imagine-image-2/</guid>
-    </item>
-    <item>
-      <title>Steam公式ゲーミングPC「Steam Machine」をLinuxデスクトップマシンとして使ってみたよレビュー、GIMPやFirefoxなどのLinuxアプリを実行可能</title>
-      <link>https://gigazine.net/news/20260810-steam-machine-pc/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260810-steam-machine-pc/</guid>
-    </item>
+    <lastBuildDate>Thu, 10 Sep 2026 19:25:15 +0000</lastBuildDate>
     <item>
       <title>無料のVPSコントロールパネル「1Panel」、OpenClawなどのAIエージェントの複数一括管理も可能</title>
       <link>https://gigazine.net/news/20260811-1panel/</link>
@@ -206,6 +196,16 @@
       <title>使い込むほど成長するAIエージェント「Hermes Agent」に好みを覚えさせて新しいチャットでも記憶を引き継げる「記憶(Memory)」機能を試してみた</title>
       <link>https://gigazine.net/news/20260909-hermes-agent-memory/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260909-hermes-agent-memory/</guid>
+    </item>
+    <item>
+      <title>画面が反対側に回転するマルチフリップ機構搭載ノートPC「VAIO T」外観レビュー、タッチ式タブレットとして縦向きにも使える</title>
+      <link>https://gigazine.net/news/20260910-vaio-t-appearance/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260910-vaio-t-appearance/</guid>
+    </item>
+    <item>
+      <title>画面が回転するノートPC「VAIO T」のベンチマークテストを実行してみた＆バッテリー持続時間も検証してみたよレビュー</title>
+      <link>https://gigazine.net/news/20260910-vaio-t-benchmark-battery/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260910-vaio-t-benchmark-battery/</guid>
     </item>
   </channel>
 </rss>
