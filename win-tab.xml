@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Sep 2026 19:24:23 +0000</lastBuildDate>
-    <item>
-      <title>Lenovo セール情報 － Copilot+ PCのThinkPad E14/E16 AMDが大幅割引に、ポイント増倍モデルが狙い目！</title>
-      <link>https://win-tab.net/sale/lenovo-sale-2608222/</link>
-      <guid isPermaLink="false">https://win-tab.net/sale/lenovo-sale-2608222/</guid>
-    </item>
-    <item>
-      <title>TOKYO KEYBOARD EXPO 2026が9月23日に開催！国内最大級のPCキーボード展示・販売イベントです</title>
-      <link>https://win-tab.net/acc/tokyo-keyboard-expo-2026-2608231/</link>
-      <guid isPermaLink="false">https://win-tab.net/acc/tokyo-keyboard-expo-2026-2608231/</guid>
-    </item>
+    <lastBuildDate>Fri, 11 Sep 2026 19:22:54 +0000</lastBuildDate>
     <item>
       <title>マウスコンピューターがNEXTGEARのメモリ倍増キャンペーン！エントリーモデルのJ5が32GBメモリ搭載でお値段据え置き</title>
       <link>https://win-tab.net/mouse/nextgear-campaign-2608232/</link>
@@ -206,6 +196,16 @@
       <title>MSI Cyborg 15 C13W － 店頭販売モデル追加、手頃な価格帯の15.6インチゲーミングノートPC</title>
       <link>https://win-tab.net/msi/cyborg-15-c13w-2609102/</link>
       <guid isPermaLink="false">https://win-tab.net/msi/cyborg-15-c13w-2609102/</guid>
+    </item>
+    <item>
+      <title>ACEMAGIC F2A － Core Ultra X7 358H / Ryzen AI 9 HX 470搭載の高性能ミニPC、Intel版は安すぎないか？</title>
+      <link>https://win-tab.net/imported/acemagic-f2a-2609111/</link>
+      <guid isPermaLink="false">https://win-tab.net/imported/acemagic-f2a-2609111/</guid>
+    </item>
+    <item>
+      <title>HP セール情報 － 9月限定セール 第2弾がスタート、発売直後のCopilot+ PCもセール対象に！</title>
+      <link>https://win-tab.net/sale/hp-sale-2609112/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/hp-sale-2609112/</guid>
     </item>
   </channel>
 </rss>

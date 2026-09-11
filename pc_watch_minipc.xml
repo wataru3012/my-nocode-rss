@@ -6,32 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Sep 2026 19:24:04 +0000</lastBuildDate>
-    <item>
-      <title>名刺サイズの電子書籍端末「Xteink X3」。タッチ/ライト/ストアなしは硬派すぎる</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/ebook/2137111.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/ebook/2137111.html</guid>
-    </item>
-    <item>
-      <title>東大生AIハッカソン、Surface搭載のNPU駆使した「RealFace NPU」が優勝</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/special/2133110.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2133110.html</guid>
-    </item>
-    <item>
-      <title>パソコン工房、折りたたみスタンド搭載のRTX 5060/5050ゲーミングノート</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2137380.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2137380.html</guid>
-    </item>
-    <item>
-      <title>PC Watch創刊30周年特別プレゼント企画【MINISFORUM製ミニPC「NAB9S」をキーボードとセットで】</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/present/2137450.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/present/2137450.html</guid>
-    </item>
-    <item>
-      <title>レノボのCore 5搭載ミニPCが約11万円オフ！直販でセール実施中</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/special/2137104.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2137104.html</guid>
-    </item>
+    <lastBuildDate>Fri, 11 Sep 2026 19:22:33 +0000</lastBuildDate>
     <item>
       <title>手頃価格の14型ノート「Dell 14S」、今秋投入</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2137529.html</link>
@@ -256,6 +231,31 @@
       <title>MSI、RTX 50/40搭載の15.6型ゲーミングノート3機種</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2139935.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2139935.html</guid>
+    </item>
+    <item>
+      <title>Web会議もこれ1台。Ryzen搭載の23.8型一体型PC「Aspire C 24」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2139931.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2139931.html</guid>
+    </item>
+    <item>
+      <title>GIGABYTE、RTX 50搭載の16型ゲーミングノート「GAMING A16」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2140127.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2140127.html</guid>
+    </item>
+    <item>
+      <title>9800X3D+RTX 5080のゲーミングPC、GIGABYTEが量販店で発売</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2140170.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2140170.html</guid>
+    </item>
+    <item>
+      <title>GALLERIA、TGS2026出展記念のRTX 5080搭載PC 3機種</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2140191.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2140191.html</guid>
+    </item>
+    <item>
+      <title>TCL、紙のように読める11型Androidタブレット「TAB A1 NXTPAPER」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2140207.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2140207.html</guid>
     </item>
   </channel>
 </rss>

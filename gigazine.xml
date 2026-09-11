@@ -6,12 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Sep 2026 19:25:15 +0000</lastBuildDate>
-    <item>
-      <title>無料のVPSコントロールパネル「1Panel」、OpenClawなどのAIエージェントの複数一括管理も可能</title>
-      <link>https://gigazine.net/news/20260811-1panel/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260811-1panel/</guid>
-    </item>
+    <lastBuildDate>Fri, 11 Sep 2026 19:23:47 +0000</lastBuildDate>
     <item>
       <title>MiniMaxが動画生成AIに続いて音楽生成AI「MiniMax-Music3」を無償公開、ローカルで最大5分の日本語ボーカル付き楽曲を生成可能</title>
       <link>https://gigazine.net/news/20260814-minimax-music3/</link>
@@ -206,6 +201,11 @@
       <title>画面が回転するノートPC「VAIO T」のベンチマークテストを実行してみた＆バッテリー持続時間も検証してみたよレビュー</title>
       <link>https://gigazine.net/news/20260910-vaio-t-benchmark-battery/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260910-vaio-t-benchmark-battery/</guid>
+    </item>
+    <item>
+      <title>簡単に画面録画し不要部分カット＆AI音声ノイズ除去＆ファイルサイズ削減まで全部1本で完結する「VideoProc Converter AI」を使ってみた</title>
+      <link>https://gigazine.net/news/20260911-videoproc-converter-ai/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260911-videoproc-converter-ai/</guid>
     </item>
   </channel>
 </rss>
