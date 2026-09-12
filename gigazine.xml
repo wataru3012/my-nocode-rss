@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Sep 2026 19:23:47 +0000</lastBuildDate>
-    <item>
-      <title>MiniMaxが動画生成AIに続いて音楽生成AI「MiniMax-Music3」を無償公開、ローカルで最大5分の日本語ボーカル付き楽曲を生成可能</title>
-      <link>https://gigazine.net/news/20260814-minimax-music3/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260814-minimax-music3/</guid>
-    </item>
-    <item>
-      <title>白地図の都道府県をはがしてぶつけて連鎖させる「白地図ストライク47」を遊んでみた</title>
-      <link>https://gigazine.net/news/20260814-white-map-strike-47/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260814-white-map-strike-47/</guid>
-    </item>
+    <lastBuildDate>Sat, 12 Sep 2026 18:54:41 +0000</lastBuildDate>
     <item>
       <title>E-Inkディスプレイ・3マイクアレイ・32bitフロート録音に対応した「Insta360 Mic Pro」外観レビュー</title>
       <link>https://gigazine.net/news/20260815-insta360-mic-pro-appearance/</link>
@@ -206,6 +196,16 @@
       <title>簡単に画面録画し不要部分カット＆AI音声ノイズ除去＆ファイルサイズ削減まで全部1本で完結する「VideoProc Converter AI」を使ってみた</title>
       <link>https://gigazine.net/news/20260911-videoproc-converter-ai/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260911-videoproc-converter-ai/</guid>
+    </item>
+    <item>
+      <title>Firefoxのローカル翻訳機能をGoogle翻訳っぽく使える「about:translations」が便利</title>
+      <link>https://gigazine.net/news/20260912-firefox-translations/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260912-firefox-translations/</guid>
+    </item>
+    <item>
+      <title>無料のオープンソースAIエージェント「goose」、デスクトップアプリ・CLI・APIなどコード・ワークフロー・その他あらゆる用途に対応</title>
+      <link>https://gigazine.net/news/20260912-goose/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260912-goose/</guid>
     </item>
   </channel>
 </rss>
