@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Sep 2026 18:54:41 +0000</lastBuildDate>
-    <item>
-      <title>E-Inkディスプレイ・3マイクアレイ・32bitフロート録音に対応した「Insta360 Mic Pro」外観レビュー</title>
-      <link>https://gigazine.net/news/20260815-insta360-mic-pro-appearance/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260815-insta360-mic-pro-appearance/</guid>
-    </item>
-    <item>
-      <title>キオクシア製SSD「EXCERIA G3」の4TBモデルを使ってみたよレビュー、PCIe 5.0対応で読込10GB/s・書込9.6GB/sの高速SSD</title>
-      <link>https://gigazine.net/news/20260815-kioxia-exceria-g3-4tb/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260815-kioxia-exceria-g3-4tb/</guid>
-    </item>
+    <lastBuildDate>Sun, 13 Sep 2026 19:11:13 +0000</lastBuildDate>
     <item>
       <title>無料でMySQL・PostgreSQL・SQL Server・MongoDB・SQLiteなどのデータベースを操作できる「DbGate」、ブラウザ経由だけでなくWindows・Linux・Macアプリもあり</title>
       <link>https://gigazine.net/news/20260815-dbgate/</link>
@@ -206,6 +196,16 @@
       <title>無料のオープンソースAIエージェント「goose」、デスクトップアプリ・CLI・APIなどコード・ワークフロー・その他あらゆる用途に対応</title>
       <link>https://gigazine.net/news/20260912-goose/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260912-goose/</guid>
+    </item>
+    <item>
+      <title>無料でWireGuardを簡単にインストール・管理できる「WireGuard Easy」、クライアントの一覧表示・作成・編集・削除・有効化・無効化・QRコード表示・設定ファイルのダウンロードなどが可能</title>
+      <link>https://gigazine.net/news/20260913-wireguard-easy/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260913-wireguard-easy/</guid>
+    </item>
+    <item>
+      <title>動物・植物・細菌・ウイルスの系統をたどれるインタラクティブな生命の樹「Ptree」</title>
+      <link>https://gigazine.net/news/20260913-interactive-tree-of-life-ptree/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260913-interactive-tree-of-life-ptree/</guid>
     </item>
   </channel>
 </rss>
