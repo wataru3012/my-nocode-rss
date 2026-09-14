@@ -6,12 +6,7 @@
     <description>格安ガジェットブログ</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Sep 2026 19:09:33 +0000</lastBuildDate>
-    <item>
-      <title>ChromeとFirefoxの違いについて おすすめはどっち？</title>
-      <link>https://yasugad.hatenablog.com/entry/2025/12/15/190000</link>
-      <guid isPermaLink="false">https://yasugad.hatenablog.com/entry/2025/12/15/190000</guid>
-    </item>
+    <lastBuildDate>Mon, 14 Sep 2026 20:42:21 +0000</lastBuildDate>
     <item>
       <title>Scarlet Tower レビュー ヴァンサバライク＋ハクスラ系ゲーム。低価格ならあり</title>
       <link>https://yasugad.hatenablog.com/entry/2025/12/19/190000</link>
@@ -606,6 +601,11 @@
       <title>中華の安いノートパソコンを購入する際に気をつけたい事</title>
       <link>https://yasugad.hatenablog.com/entry/2026/09/11/190000</link>
       <guid isPermaLink="false">https://yasugad.hatenablog.com/entry/2026/09/11/190000</guid>
+    </item>
+    <item>
+      <title>スマホ業界におけるベンチマークブースト問題について解説</title>
+      <link>https://yasugad.hatenablog.com/entry/2026/09/14/190000</link>
+      <guid isPermaLink="false">https://yasugad.hatenablog.com/entry/2026/09/14/190000</guid>
     </item>
   </channel>
 </rss>
