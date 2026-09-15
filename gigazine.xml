@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Sep 2026 20:44:00 +0000</lastBuildDate>
-    <item>
-      <title>格安かつコンパクトでUPS・雷サージ機能を有する「CyberPower ST425JP」レビュー</title>
-      <link>https://gigazine.net/news/20260816-cyberpower-st425jp/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260816-cyberpower-st425jp/</guid>
-    </item>
-    <item>
-      <title>無料でオープンソースの写真撮影ワークフローアプリ「darktable」、RAW現像も可能</title>
-      <link>https://gigazine.net/news/20260816-darktable/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260816-darktable/</guid>
-    </item>
+    <lastBuildDate>Tue, 15 Sep 2026 19:57:48 +0000</lastBuildDate>
     <item>
       <title>「PoE」好きが1人で作った自由すぎるビルド構築が魅力のローグライトARPG「響き、夢境に(Dream Echo)」をプレイしてみた</title>
       <link>https://gigazine.net/news/20260817-dream-echo/</link>
@@ -178,7 +168,7 @@
       <guid isPermaLink="false">https://gigazine.net/news/20260910-vaio-t-benchmark-battery/</guid>
     </item>
     <item>
-      <title>簡単に画面録画し不要部分カット＆AI音声ノイズ除去＆ファイルサイズ削減まで全部1本で完結する「VideoProc Converter AI」を使ってみた</title>
+      <title>簡単に画面録画し不要部分カット＆AI音声ノイズ除去＆ファイルサイズ削減まで全部1本で完結する「VideoProc Converter AI」を使ってみた、GIGAZINE読者限定セールあり</title>
       <link>https://gigazine.net/news/20260911-videoproc-converter-ai/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260911-videoproc-converter-ai/</guid>
     </item>
@@ -206,6 +196,16 @@
       <title>自分の黒歴史をズバリと言い当ててくるウェブサイト「黒歴史診断」</title>
       <link>https://gigazine.net/news/20260914-blackhistory/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260914-blackhistory/</guid>
+    </item>
+    <item>
+      <title>日本国内の一般国道情報が1枚マップで表示される「国道マップ」、番号重複区間でもすべての番号を表示</title>
+      <link>https://gigazine.net/news/20260915-kokudo-map/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260915-kokudo-map/</guid>
+    </item>
+    <item>
+      <title>ローカルでAIを動かして元を取るまで何年かかるかがわかる「Sunk Cost」、例えばメモリ64GBのMac Studioではどれだけの時間が必要なのか？</title>
+      <link>https://gigazine.net/news/20260915-sunk-cost/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260915-sunk-cost/</guid>
     </item>
   </channel>
 </rss>

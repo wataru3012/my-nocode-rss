@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Sep 2026 20:43:09 +0000</lastBuildDate>
-    <item>
-      <title>WUBEN E2 PULSE レビュー ー 10.7gの超小型LEDライト、今度のWUBENは「一番普通で一番使える」？</title>
-      <link>https://win-tab.net/acc/wuben-e2-pulse-review-2608261/</link>
-      <guid isPermaLink="false">https://win-tab.net/acc/wuben-e2-pulse-review-2608261/</guid>
-    </item>
-    <item>
-      <title>サンワダイレクト 400-SKB082 － 個性的な「ベージュ」も選べる薄型・軽量のフルサイズキーボード</title>
-      <link>https://win-tab.net/acc/sanwa-400-skb082-2608262/</link>
-      <guid isPermaLink="false">https://win-tab.net/acc/sanwa-400-skb082-2608262/</guid>
-    </item>
+    <lastBuildDate>Tue, 15 Sep 2026 19:56:54 +0000</lastBuildDate>
     <item>
       <title>FPD CP11-J1 レビュー － 1万円台の11インチタブレット、RAM 6GB・FHD・90Hzで普段使いには十分</title>
       <link>https://win-tab.net/android/fpd-cp11-j1-review-2608271/</link>
@@ -206,6 +196,16 @@
       <title>MSI Prestige 14 Flip AI+ Vincent van Gogh Edition － ゴッホの絵画を天板にまとった豪華2-in-1 PC</title>
       <link>https://win-tab.net/msi/prestige-14-flip-gogh-edition-2609142/</link>
       <guid isPermaLink="false">https://win-tab.net/msi/prestige-14-flip-gogh-edition-2609142/</guid>
+    </item>
+    <item>
+      <title>TECLAST T60Mini － TECLASTのAndroid 17搭載8.8インチタブレット、いよいよ9月17日発売！</title>
+      <link>https://win-tab.net/android/teclast-t60mini-release-2609151/</link>
+      <guid isPermaLink="false">https://win-tab.net/android/teclast-t60mini-release-2609151/</guid>
+    </item>
+    <item>
+      <title>Perixx PERIBOARD-735 － エルゴノミクスデザインのメカニカルキーボードにワイヤレスモデルが登場！</title>
+      <link>https://win-tab.net/acc/perixx-periboard-735-2609152/</link>
+      <guid isPermaLink="false">https://win-tab.net/acc/perixx-periboard-735-2609152/</guid>
     </item>
   </channel>
 </rss>
