@@ -6,22 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Sep 2026 19:57:48 +0000</lastBuildDate>
-    <item>
-      <title>「PoE」好きが1人で作った自由すぎるビルド構築が魅力のローグライトARPG「響き、夢境に(Dream Echo)」をプレイしてみた</title>
-      <link>https://gigazine.net/news/20260817-dream-echo/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260817-dream-echo/</guid>
-    </item>
-    <item>
-      <title>「Steam Machine」を分解してSSDにアクセスするまでの手順を実際にやってみた</title>
-      <link>https://gigazine.net/news/20260818-steam-machine-teardown/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260818-steam-machine-teardown/</guid>
-    </item>
-    <item>
-      <title>使い込むほど成長するAIエージェント「Hermes Agent」をWindowsで実際に使ってみた、インストールからウェブ検索・ブラウザ操作まで</title>
-      <link>https://gigazine.net/news/20260819-hermes-agent-first-use/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260819-hermes-agent-first-use/</guid>
-    </item>
+    <lastBuildDate>Wed, 16 Sep 2026 19:50:23 +0000</lastBuildDate>
     <item>
       <title>音声録音＆AI分析で知識をため込んでタスク管理も可能な装着型デバイス「SwitchBot AIマインドクリップ」を使ってみたよレビュー</title>
       <link>https://gigazine.net/news/20260820-switchbot-ai-mindclip/</link>
@@ -206,6 +191,21 @@
       <title>ローカルでAIを動かして元を取るまで何年かかるかがわかる「Sunk Cost」、例えばメモリ64GBのMac Studioではどれだけの時間が必要なのか？</title>
       <link>https://gigazine.net/news/20260915-sunk-cost/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260915-sunk-cost/</guid>
+    </item>
+    <item>
+      <title>iOS 27でSafariに追加された「AIに言葉で説明するだけで自分好みの機能拡張を即座に開発する」機能が便利、文字色変更やスクロールボタン追加などをサイトごとに設定可能</title>
+      <link>https://gigazine.net/news/20260916-safari-extension-apple-intelligence/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260916-safari-extension-apple-intelligence/</guid>
+    </item>
+    <item>
+      <title>iPhoneの画像生成AIがアップデートされたので使ってみた、無料で使えるが品質はかなり低め</title>
+      <link>https://gigazine.net/news/20260916-image-playground-ios-27/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260916-image-playground-ios-27/</guid>
+    </item>
+    <item>
+      <title>AIエージェント「Hermes Agent」新機能「Local Models」でローカルAIモデル「Qwen3.8 27B」を直接動かしてみた、16GBのVRAMでも量子化で高速動作</title>
+      <link>https://gigazine.net/news/20260916-hermes-agent-local-ai-model/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260916-hermes-agent-local-ai-model/</guid>
     </item>
   </channel>
 </rss>
