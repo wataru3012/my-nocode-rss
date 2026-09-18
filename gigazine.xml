@@ -6,32 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Sep 2026 19:58:38 +0000</lastBuildDate>
-    <item>
-      <title>音声録音＆AI分析で知識をため込んでタスク管理も可能な装着型デバイス「SwitchBot AIマインドクリップ」を使ってみたよレビュー</title>
-      <link>https://gigazine.net/news/20260820-switchbot-ai-mindclip/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260820-switchbot-ai-mindclip/</guid>
-    </item>
-    <item>
-      <title>Google製スマートフォン「Pixel 11 Pro」開封の儀、虹色に光る通知ライト「HiLight」も試してみた</title>
-      <link>https://gigazine.net/news/20260820-google-pixel-11-pro/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260820-google-pixel-11-pro/</guid>
-    </item>
-    <item>
-      <title>「Google Pixel 11 Pro Fold」フォトレビュー、約20g軽量化＆薄型化しながら折り曲げ部分がより目立たなく進化</title>
-      <link>https://gigazine.net/news/20260820-pixel-11-pro-fold-photo/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260820-pixel-11-pro-fold-photo/</guid>
-    </item>
-    <item>
-      <title>カメラバーを再設計したGoogle Tensor G6搭載スマートフォン「Google Pixel 11」外観レビュー</title>
-      <link>https://gigazine.net/news/20260820-google-pixel-11-review/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260820-google-pixel-11-review/</guid>
-    </item>
-    <item>
-      <title>スマートウォッチ「Google Pixel Watch 5」外観レビュー、処理速度が20％向上し新たにHealth Guardian機能を搭載</title>
-      <link>https://gigazine.net/news/20260820-google-pixel-watch-5-photo/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260820-google-pixel-watch-5-photo/</guid>
-    </item>
+    <lastBuildDate>Fri, 18 Sep 2026 19:22:59 +0000</lastBuildDate>
     <item>
       <title>使い込むほど成長するAIエージェント「Hermes Agent」で実際に行った作業をスキル化して再利用してみた</title>
       <link>https://gigazine.net/news/20260821-hermes-agent-skill/</link>
@@ -206,6 +181,31 @@
       <title>AIエージェント「Hermes Agent」新機能「Local Models」でローカルAIモデル「Qwen3.8 27B」を直接動かしてみた、16GBのVRAMでも量子化で高速動作</title>
       <link>https://gigazine.net/news/20260916-hermes-agent-local-ai-model/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260916-hermes-agent-local-ai-model/</guid>
+    </item>
+    <item>
+      <title>「iPhone 18 Pro」の外観を細かく撮影してみたよレビュー、新色「バーガンディ」はこんな感じでiPhone 17 Proとの比較もあり</title>
+      <link>https://gigazine.net/news/20260918-iphone-18-pro-appearance/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260918-iphone-18-pro-appearance/</guid>
+    </item>
+    <item>
+      <title>Apple Watch Ultra 4速攻フォトレビュー、ヘルスケアセンサーが刷新された上位モデルの外観をチェック</title>
+      <link>https://gigazine.net/news/20260918-apple-watch-ultra-4-appearances/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260918-apple-watch-ultra-4-appearances/</guid>
+    </item>
+    <item>
+      <title>Apple Watch Series 12開封の儀＆フォトレビュー、ヘルスセンシングシステムが新しくなって健康トラッカーとして進化</title>
+      <link>https://gigazine.net/news/20260918-apple-watch-series-12-appearances/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260918-apple-watch-series-12-appearances/</guid>
+    </item>
+    <item>
+      <title>「iPhone 18 Pro」と「iPhone 17 Pro」のベンチマークスコアを比較してA20 Proチップの実力を検証してみた</title>
+      <link>https://gigazine.net/news/20260918-iphone-18-pro-benchmark/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260918-iphone-18-pro-benchmark/</guid>
+    </item>
+    <item>
+      <title>「AirPods 5」のワイヤレス充電ケース付き上位モデルをフォトレビュー、軸をスワイプしてコントロールする機能もあり</title>
+      <link>https://gigazine.net/news/20260918-airpods-5-wireless-charging-case/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260918-airpods-5-wireless-charging-case/</guid>
     </item>
   </channel>
 </rss>

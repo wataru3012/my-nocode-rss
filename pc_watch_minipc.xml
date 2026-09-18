@@ -6,32 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Sep 2026 19:57:24 +0000</lastBuildDate>
-    <item>
-      <title>Ryzen Z1搭載のミニPC「UM750 Neo」が7万9,999円で登場</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2138706.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2138706.html</guid>
-    </item>
-    <item>
-      <title>サードウェーブ、RTX 50シリーズ搭載16型クリエイター向けノートPCを発売</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2138780.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2138780.html</guid>
-    </item>
-    <item>
-      <title>マウス、MousePro購入&amp;アンケートで1万5千円のAmazonギフトカード進呈</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2138794.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2138794.html</guid>
-    </item>
-    <item>
-      <title>パソコン工房、第13世代Core搭載のミニPC</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2138844.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2138844.html</guid>
-    </item>
-    <item>
-      <title>PC Watch創刊30周年特別プレゼント企画【Beelink製ミニPCを6名様に】</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/present/2137737.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/present/2137737.html</guid>
-    </item>
+    <lastBuildDate>Fri, 18 Sep 2026 19:21:48 +0000</lastBuildDate>
     <item>
       <title>薄っ！速っ！でも25時間駆動。「OmniBook Ultra 14」を触って驚いた</title>
       <link>https://pc.watch.impress.co.jp/docs/column/short-review/2138909.html</link>
@@ -223,6 +198,36 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2140816.html</guid>
     </item>
     <item>
+      <title>ROG 20周年の「ROG XBOX Ally X20」いよいよ国内発売。ユーザーの声で操作系刷新</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2141511.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2141511.html</guid>
+    </item>
+    <item>
+      <title>120万円のROG 20周年記念ミニPC登場！RTX 5090 Laptop搭載</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2141688.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2141688.html</guid>
+    </item>
+    <item>
+      <title>空冷より約19℃冷える。マウス×MSI×Asetekの水冷RTX 5070搭載ゲーミングPC</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2141700.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2141700.html</guid>
+    </item>
+    <item>
+      <title>MSI、RTX 5070搭載の17.3型ゲーミングノート「Cyborg 17」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2141914.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2141914.html</guid>
+    </item>
+    <item>
+      <title>7万4千円引きのビッグチャンス！ACEMAGICのRyzen 7 H255搭載ミニPCが大幅値引きに</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/special/2141427.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2141427.html</guid>
+    </item>
+    <item>
+      <title>パソコン工房、Core Ultra 5 225F×RTX 50搭載ゲーミングPC</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/special/2142145.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2142145.html</guid>
+    </item>
+    <item>
       <title>【コラム】折りたたみは一度ハマったら戻れない。開かず決済できる「razr 60 ultra」が好き</title>
       <link>https://pc.watch.impress.co.jp/docs/column/kaimono/2140710.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/kaimono/2140710.html</guid>
@@ -248,84 +253,89 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2141174.html</guid>
     </item>
     <item>
-      <title>ROG 20周年の「ROG XBOX Ally X20」いよいよ国内発売。ユーザーの声で操作系刷新</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2141511.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2141511.html</guid>
+      <title>社内の無駄な工数を50%も削減！統合型データ基盤「Microsoft IQ」とは</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2142031.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2142031.html</guid>
     </item>
     <item>
-      <title>JAPANNEXT、65型4Kや49型DWQHD湾曲などモニター4製品を発売</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2141626.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2141626.html</guid>
+      <title>GALLERIAのFFコラボPCにThreadripper機も！TGS2026のPCブースが熱い</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/event/2142048.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2142048.html</guid>
     </item>
     <item>
-      <title>Fable 5.1やAstraと並ぶ正体不明AI「Union Alpha」が1週間無料</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2141647.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2141647.html</guid>
+      <title>発売前のROG XBOX Ally X20が遊べる！TGS2026のROGブース</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/event/2142091.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2142091.html</guid>
     </item>
     <item>
-      <title>120万円のROG 20周年記念ミニPC登場！RTX 5090 Laptop搭載</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2141688.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2141688.html</guid>
+      <title>Qwen3.8-27Bを9分の1に圧縮も性能98.2%維持の「Bonsai 2 27B」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2142052.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2142052.html</guid>
     </item>
     <item>
-      <title>空冷より約19℃冷える。マウス×MSI×Asetekの水冷RTX 5070搭載ゲーミングPC</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2141700.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2141700.html</guid>
+      <title>画面酔いをモニターで軽減!? TGS2026で見つけたアイオーの新機能</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/event/2142122.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2142122.html</guid>
     </item>
     <item>
-      <title>Claude、Coworkとチャットを1つに統合。DocsとSlidesも直アクセス</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2141755.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2141755.html</guid>
+      <title>Claude Codeのプロジェクトが刷新、「あとはよろしく」で並行作業し結果を生む</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2142119.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2142119.html</guid>
     </item>
     <item>
-      <title>話しながら裏でタスク完了？音声AI「Gemini 3.8 Live」登場</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2141777.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2141777.html</guid>
+      <title>Razer、光学式アナログスイッチでラピッドトリガー対応の左手用ゲーミングキーボード</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2142171.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2142171.html</guid>
     </item>
     <item>
-      <title>リリックMV制作ソフト「Lyrica」、Windows版が本日18時に無料配信</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2141781.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2141781.html</guid>
+      <title>960gの10.51型2in1にNPU搭載！「TENKU Note Pro AI」今なら25%オフ</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2142243.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2142243.html</guid>
     </item>
     <item>
-      <title>OLEDで720Hz駆動も。ASRock「Taichi」モニター3機種</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2141828.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2141828.html</guid>
+      <title>Anker、従来より小型/軽量化した容量2,010Whのポータブル電源。大型家電も駆動可能</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2142090.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2142090.html</guid>
     </item>
     <item>
-      <title>MSI、RTX 5070搭載の17.3型ゲーミングノート「Cyborg 17」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2141914.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2141914.html</guid>
+      <title>PALIT、日本発キャラ「RiTONA」をプリントしたRTX 5060 Tiビデオカード</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2142283.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2142283.html</guid>
     </item>
     <item>
-      <title>MSI、明るさ最大30%向上の5層タンデムQD-OLED搭載26.5型4Kモニター</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2141928.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2141928.html</guid>
+      <title>「LM Studio Bionic」、AIが忘れた指示を思い出す新機能</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2142310.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2142310.html</guid>
     </item>
     <item>
-      <title>32GBメモリ/1TB SSDのCore i7搭載ミニPCが約4万6千円オフ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2141616.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2141616.html</guid>
+      <title>ガチくんに! 第432回切り抜き「桜える子レジェンドに/おじリーグ 石井プロ出禁/SFL大波乱」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2142381.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2142381.html</guid>
     </item>
     <item>
-      <title>1,199gと軽量なCore Ultra X7搭載ノートが約5万3千円オフ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2141621.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2141621.html</guid>
+      <title>M.2スロットを3基備えるRyzen AI 9ミニPCが4万円オフ</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2142025.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2142025.html</guid>
     </item>
     <item>
-      <title>量子ドット/4K対応の55型リビングテレビが1万円引きで8万9,800円に</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2141627.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2141627.html</guid>
+      <title>32GBメモリ/1TB SSDの大画面Ryzenノートが5万5千円オフ</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2142026.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2142026.html</guid>
     </item>
     <item>
-      <title>Boseのノイキャン付きワイヤレスイヤフォンが4,300円引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2141640.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2141640.html</guid>
+      <title>屋外で使えるAnker製Bluetoothスピーカーが2千円引き</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2142036.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2142036.html</guid>
     </item>
     <item>
-      <title>江崎グリコのビスコ×10箱セットが10%引きでお買い得に！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2141649.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2141649.html</guid>
+      <title>RAID対応の5ベイ外付けHDDケースが9,309円引き</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2142038.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2142038.html</guid>
+    </item>
+    <item>
+      <title>リポビタンDの10本セットが20%引き。タウリン1,000mg配合！</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2142044.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2142044.html</guid>
     </item>
   </channel>
 </rss>
