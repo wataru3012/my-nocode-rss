@@ -6,12 +6,7 @@
     <description>gadget-nyaa</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Sep 2026 19:22:21 +0000</lastBuildDate>
-    <item>
-      <title>約1/3の価格で買えるESRのマジックキーボードとApple純正Magic Keyboardの比較レビュー。純正と遜色なし！【PR】</title>
-      <link>https://gadget-nyaa.com/esr-magic-keyboard-review/</link>
-      <guid isPermaLink="false">https://gadget-nyaa.com/esr-magic-keyboard-review/</guid>
-    </item>
+    <lastBuildDate>Sat, 19 Sep 2026 19:07:15 +0000</lastBuildDate>
     <item>
       <title>私が脱iPhoneを実行した理由と時系列｜iPhoneとAndroidどちらが良いのか問題</title>
       <link>https://gadget-nyaa.com/iphone-or-android/</link>
@@ -223,6 +218,11 @@
       <guid isPermaLink="false">https://gadget-nyaa.com/smart-bath-mat-review/</guid>
     </item>
     <item>
+      <title>iPad mini 7を1ヶ月使用レビュー。M1 iPad Pro並みのレスポンスでmini 6とは別物</title>
+      <link>https://gadget-nyaa.com/ipad-mini-7-review/</link>
+      <guid isPermaLink="false">https://gadget-nyaa.com/ipad-mini-7-review/</guid>
+    </item>
+    <item>
       <title>簡単にiPhoneのホーム画面をおしゃれにカスタマイズする方法を解説。アイコン選びが大事！</title>
       <link>https://gadget-nyaa.com/iphone-home/</link>
       <guid isPermaLink="false">https://gadget-nyaa.com/iphone-home/</guid>
@@ -278,11 +278,6 @@
       <guid isPermaLink="false">https://gadget-nyaa.com/airdrop/</guid>
     </item>
     <item>
-      <title>iPad mini 7を1ヶ月使用レビュー。M1 iPad Pro並みのレスポンスでmini 6とは別物</title>
-      <link>https://gadget-nyaa.com/ipad-mini-7-review/</link>
-      <guid isPermaLink="false">https://gadget-nyaa.com/ipad-mini-7-review/</guid>
-    </item>
-    <item>
       <title>いまさらAirPods 4を買ったら生活に革命が起きた話。ノイズキャンセリングがオープンイヤーイヤホンで使える意義は大きい。</title>
       <link>https://gadget-nyaa.com/airpods4-review/</link>
       <guid isPermaLink="false">https://gadget-nyaa.com/airpods4-review/</guid>
@@ -331,6 +326,11 @@
       <title>MacBook Neoを購入レビュー。普段使いに最適で１２インチMacBookの代替としてベストな選択肢</title>
       <link>https://gadget-nyaa.com/macbook-neo-review/</link>
       <guid isPermaLink="false">https://gadget-nyaa.com/macbook-neo-review/</guid>
+    </item>
+    <item>
+      <title>AirPods 5を購入レビュー。AirPods 4やAirPods Pro2から買い替えの価値あり！</title>
+      <link>https://gadget-nyaa.com/airpods-5-review/</link>
+      <guid isPermaLink="false">https://gadget-nyaa.com/airpods-5-review/</guid>
     </item>
   </channel>
 </rss>

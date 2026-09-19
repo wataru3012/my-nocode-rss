@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Sep 2026 19:22:05 +0000</lastBuildDate>
-    <item>
-      <title>MSI Modern 14S/16S AI+ G3M － 高性能なビジネスノートにRAM32GBモデルが追加されました</title>
-      <link>https://win-tab.net/msi/modern-14s-16s-ai-plus-g3m-2608302/</link>
-      <guid isPermaLink="false">https://win-tab.net/msi/modern-14s-16s-ai-plus-g3m-2608302/</guid>
-    </item>
-    <item>
-      <title>格安Androidタブレットの付属キーボードは本当に「使える」のか？実用性と設定の落とし穴をチェック</title>
-      <link>https://win-tab.net/opinion/android-included-keyboard-review-2608311/</link>
-      <guid isPermaLink="false">https://win-tab.net/opinion/android-included-keyboard-review-2608311/</guid>
-    </item>
+    <lastBuildDate>Sat, 19 Sep 2026 19:06:59 +0000</lastBuildDate>
     <item>
       <title>HP セール情報 － 9月限定セールがスタート！大型ビジネスノート3機種をピックアップしてご紹介</title>
       <link>https://win-tab.net/sale/hp-sale-2608312/</link>
@@ -206,6 +196,16 @@
       <title>HPセール情報 － 9月限定セール 第2弾を開催中、1kg切りの超軽量モバイルノートや最新Copilot+ PCがお買い得</title>
       <link>https://win-tab.net/sale/hp-sale-2609183/</link>
       <guid isPermaLink="false">https://win-tab.net/sale/hp-sale-2609183/</guid>
+    </item>
+    <item>
+      <title>FRONTIERが「銀の福箱」を発売！ゲーミングデスクトップPCのほか、周辺機器も激安に！</title>
+      <link>https://win-tab.net/sale/frontier-lucky-box-2609191/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/frontier-lucky-box-2609191/</guid>
+    </item>
+    <item>
+      <title>MSI Cyborg 17 B13W － 17.3インチでスケルトン筐体を採用したRTX 5070搭載ゲーミングノート</title>
+      <link>https://win-tab.net/msi/cyborg-17-b13w-2609192/</link>
+      <guid isPermaLink="false">https://win-tab.net/msi/cyborg-17-b13w-2609192/</guid>
     </item>
   </channel>
 </rss>
