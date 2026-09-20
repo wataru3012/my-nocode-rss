@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Sep 2026 19:07:52 +0000</lastBuildDate>
-    <item>
-      <title>Raspberry Pi向け純正タッチパネル「Raspberry Pi Touch Display 2」の10インチモデルをフォトレビュー、サイズ大幅アップで解像度向上</title>
-      <link>https://gigazine.net/news/20260822-raspberry-pi-touch-display-2-10-inch/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260822-raspberry-pi-touch-display-2-10-inch/</guid>
-    </item>
-    <item>
-      <title>無料で多種多彩なビジョンAIモデルを試用・比較・評価できる「Roboflow Playground」</title>
-      <link>https://gigazine.net/news/20260823-roboflow-playground/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260823-roboflow-playground/</guid>
-    </item>
+    <lastBuildDate>Sun, 20 Sep 2026 19:13:46 +0000</lastBuildDate>
     <item>
       <title>AIエージェントが実際にどのように動いてトークンを使っているかが後から見てわかるようにできる「Langfuse」、オープンソースでセルフホスト可能</title>
       <link>https://gigazine.net/news/20260823-langfuse/</link>
@@ -206,6 +196,16 @@
       <title>VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた</title>
       <link>https://gigazine.net/news/20260919-arc-pro-b70-llm-review/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260919-arc-pro-b70-llm-review/</guid>
+    </item>
+    <item>
+      <title>屋外イベントで使う持ち運び用冷蔵庫としてPhilipsの車載用サーマルボックスを買ってみた、マイナス22度まで冷やせるので冷凍ラムネもOK</title>
+      <link>https://gigazine.net/news/20260920-philips-thermal-box/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260920-philips-thermal-box/</guid>
+    </item>
+    <item>
+      <title>netcatと同様だがTailscaleのデータプレーン上で動作する「Tailcat」</title>
+      <link>https://gigazine.net/news/20260920-tailcat/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260920-tailcat/</guid>
     </item>
   </channel>
 </rss>
