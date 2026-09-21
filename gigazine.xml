@@ -6,22 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Sep 2026 19:13:46 +0000</lastBuildDate>
-    <item>
-      <title>AIエージェントが実際にどのように動いてトークンを使っているかが後から見てわかるようにできる「Langfuse」、オープンソースでセルフホスト可能</title>
-      <link>https://gigazine.net/news/20260823-langfuse/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260823-langfuse/</guid>
-    </item>
-    <item>
-      <title>自分のスマホのAI実行性能を測定できるベンチマークアプリ「Pipette」を使ってみた</title>
-      <link>https://gigazine.net/news/20260825-pipette-phone-ai/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260825-pipette-phone-ai/</guid>
-    </item>
-    <item>
-      <title>「写ルンです」で白黒のモノクロ写真を誰でも簡単に撮れる「写ルンです Black and White」で撮影＆現像してみたよレビュー</title>
-      <link>https://gigazine.net/news/20260829-fujifilm-utsurundesu-black-and-white/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260829-fujifilm-utsurundesu-black-and-white/</guid>
-    </item>
+    <lastBuildDate>Mon, 21 Sep 2026 20:44:37 +0000</lastBuildDate>
     <item>
       <title>無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴</title>
       <link>https://gigazine.net/news/20260829-chatto/</link>
@@ -206,6 +191,21 @@
       <title>netcatと同様だがTailscaleのデータプレーン上で動作する「Tailcat」</title>
       <link>https://gigazine.net/news/20260920-tailcat/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260920-tailcat/</guid>
+    </item>
+    <item>
+      <title>Geminiが使えるスマートウォッチ「Google Pixel Watch 5」を使ってみた</title>
+      <link>https://gigazine.net/news/20260921-google-pixel-watch-review/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260921-google-pixel-watch-review/</guid>
+    </item>
+    <item>
+      <title>無料でクラウド・ローカルの各AIモデルをOpenAI互換の単一APIでまとめて品質・速度・コストで最適化して管理しAIエージェントがどれだけの金額を使用できるかも制御できるオープンソースのゲートウェイ・ルーター「Experiential」</title>
+      <link>https://gigazine.net/news/20260921-experiential/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260921-experiential/</guid>
+    </item>
+    <item>
+      <title>iPhoneに搭載されたApple製AIとチャットする方法、無料アプリで「Apple Foundation Models」のローカル処理能力を試せる</title>
+      <link>https://gigazine.net/news/20260921-locally-ai-apple-foundation-models/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260921-locally-ai-apple-foundation-models/</guid>
     </item>
   </channel>
 </rss>
