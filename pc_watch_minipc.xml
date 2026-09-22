@@ -6,7 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Sep 2026 20:43:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 19:59:23 +0000</lastBuildDate>
     <item>
       <title>14型ThinkPadが約11万円も安い！直販で決算セール実施中</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/special/2138878.html</link>
@@ -233,6 +233,11 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2142145.html</guid>
     </item>
     <item>
+      <title>960gの10.51型2in1にNPU搭載！「TENKU Note Pro AI」今なら25%オフ</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2142243.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2142243.html</guid>
+    </item>
+    <item>
       <title>【コラム】折りたたみは一度ハマったら戻れない。開かず決済できる「razr 60 ultra」が好き</title>
       <link>https://pc.watch.impress.co.jp/docs/column/kaimono/2140710.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/kaimono/2140710.html</guid>
@@ -256,31 +261,6 @@
       <title>【レビュー】PC高いなら長く使え！バッテリもSSDも自分で換えられる「LAVIE N16」</title>
       <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2141174.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2141174.html</guid>
-    </item>
-    <item>
-      <title>画面酔いをモニターで軽減!? TGS2026で見つけたアイオーの新機能</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/event/2142122.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/event/2142122.html</guid>
-    </item>
-    <item>
-      <title>Claude Codeのプロジェクトが刷新、「あとはよろしく」で並行作業し結果を生む</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2142119.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2142119.html</guid>
-    </item>
-    <item>
-      <title>Razer、光学式アナログスイッチでラピッドトリガー対応の左手用ゲーミングキーボード</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2142171.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2142171.html</guid>
-    </item>
-    <item>
-      <title>960gの10.51型2in1にNPU搭載！「TENKU Note Pro AI」今なら25%オフ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2142243.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2142243.html</guid>
-    </item>
-    <item>
-      <title>Anker、従来より小型/軽量化した容量2,010Whのポータブル電源。大型家電も駆動可能</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2142090.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2142090.html</guid>
     </item>
     <item>
       <title>PALIT、日本発キャラ「RiTONA」をプリントしたRTX 5060 Tiビデオカード</title>
@@ -331,6 +311,31 @@
       <title>Googlebookにも来たSnapdragon X Elite、Dell/HPが採用</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2142574.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2142574.html</guid>
+    </item>
+    <item>
+      <title>LANケーブルなんて自分で作ればいいじゃない。ジャストな長さでケーブルを作る方法</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2142581.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2142581.html</guid>
+    </item>
+    <item>
+      <title>スマホとWindows間のファイル転送を簡単にやる方法があった！しかもワイヤレスで！</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2142582.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2142582.html</guid>
+    </item>
+    <item>
+      <title>口数とケーブル長を選べる無印良品「ジョイントタップ」、組み合わせ方を解説</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2142575.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2142575.html</guid>
+    </item>
+    <item>
+      <title>オープンウェイトの最高評価AIモデル「MiMo-V2.6」、Xiaomiが無償公開</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2142608.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2142608.html</guid>
+    </item>
+    <item>
+      <title>ChatGPTの使用量リセット、OpenAIのSottiaux氏が「火曜」と予告</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2142612.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2142612.html</guid>
     </item>
     <item>
       <title>M.2スロットを3基備えるRyzen AI 9ミニPCが4万円オフ</title>

@@ -6,12 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Sep 2026 20:44:37 +0000</lastBuildDate>
-    <item>
-      <title>無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴</title>
-      <link>https://gigazine.net/news/20260829-chatto/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260829-chatto/</guid>
-    </item>
+    <lastBuildDate>Tue, 22 Sep 2026 20:00:38 +0000</lastBuildDate>
     <item>
       <title>Google製スマホ「Pixel 11」「Pixel 11 Pro」「Pixel 11 Pro Fold」のカメラ性能を実際に撮影して比較してみたよレビュー</title>
       <link>https://gigazine.net/news/20260830-google-pixel-11-camera/</link>
@@ -206,6 +201,11 @@
       <title>iPhoneに搭載されたApple製AIとチャットする方法、無料アプリで「Apple Foundation Models」のローカル処理能力を試せる</title>
       <link>https://gigazine.net/news/20260921-locally-ai-apple-foundation-models/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260921-locally-ai-apple-foundation-models/</guid>
+    </item>
+    <item>
+      <title>無料でひとりでは無く複数人のチームで使うことができるAIエージェント「OneCLI」、オープンソースでセルフホスト可能</title>
+      <link>https://gigazine.net/news/20260922-onecli/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260922-onecli/</guid>
     </item>
   </channel>
 </rss>
