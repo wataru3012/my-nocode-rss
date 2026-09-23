@@ -6,12 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Sep 2026 19:59:23 +0000</lastBuildDate>
-    <item>
-      <title>14型ThinkPadが約11万円も安い！直販で決算セール実施中</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/special/2138878.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2138878.html</guid>
-    </item>
+    <lastBuildDate>Wed, 23 Sep 2026 19:55:40 +0000</lastBuildDate>
     <item>
       <title>パソコン工房、最大3万円分還元の「決算特別 スーパー還元祭」を期間限定開催</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2139133.html</link>
@@ -263,21 +258,6 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2141174.html</guid>
     </item>
     <item>
-      <title>PALIT、日本発キャラ「RiTONA」をプリントしたRTX 5060 Tiビデオカード</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2142283.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2142283.html</guid>
-    </item>
-    <item>
-      <title>「LM Studio Bionic」、AIが忘れた指示を思い出す新機能</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2142310.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2142310.html</guid>
-    </item>
-    <item>
-      <title>ガチくんに! 第432回切り抜き「桜える子レジェンドに/おじリーグ 石井プロ出禁/SFL大波乱」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2142381.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2142381.html</guid>
-    </item>
-    <item>
       <title>知っておきたいUSB PDの基礎。モバイルバッテリと充電器、ノートPCを充電するなら出力何Wものを用意すべきか？</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2142304.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2142304.html</guid>
@@ -336,6 +316,21 @@
       <title>ChatGPTの使用量リセット、OpenAIのSottiaux氏が「火曜」と予告</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2142612.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2142612.html</guid>
+    </item>
+    <item>
+      <title>スマホCPUがついに5GHz、Snapdragon 8 Elite Extreme Gen 6</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2142600.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2142600.html</guid>
+    </item>
+    <item>
+      <title>「Claude Opus 5.5」登場、Fable 5.1並みで運用コスト40%減。リセット権も配布</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2142634.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2142634.html</guid>
+    </item>
+    <item>
+      <title>「GPT-6 Sol」「GPT-6 Luna」登場、API料金半額でリセット権も配布</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2142640.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2142640.html</guid>
     </item>
     <item>
       <title>M.2スロットを3基備えるRyzen AI 9ミニPCが4万円オフ</title>
