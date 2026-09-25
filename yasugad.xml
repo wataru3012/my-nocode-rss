@@ -6,12 +6,7 @@
     <description>格安ガジェットブログ</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Sep 2026 20:13:32 +0000</lastBuildDate>
-    <item>
-      <title>吟味熟成 吟たん で食べ放題に行ってきた感想</title>
-      <link>https://yasugad.hatenablog.com/entry/2025/12/24/190000</link>
-      <guid isPermaLink="false">https://yasugad.hatenablog.com/entry/2025/12/24/190000</guid>
-    </item>
+    <lastBuildDate>Fri, 25 Sep 2026 20:11:30 +0000</lastBuildDate>
     <item>
       <title>AI需要で高騰、品薄化する製品まとめ</title>
       <link>https://yasugad.hatenablog.com/entry/2025/12/26/190000</link>
@@ -606,6 +601,11 @@
       <title>モバイルバッテリーのレンタルはおすすめできるか解説</title>
       <link>https://yasugad.hatenablog.com/entry/2026/09/23/190000</link>
       <guid isPermaLink="false">https://yasugad.hatenablog.com/entry/2026/09/23/190000</guid>
+    </item>
+    <item>
+      <title>Geminiにはてなブログのテーマをデザインさせてみた</title>
+      <link>https://yasugad.hatenablog.com/entry/2026/09/25/190000</link>
+      <guid isPermaLink="false">https://yasugad.hatenablog.com/entry/2026/09/25/190000</guid>
     </item>
   </channel>
 </rss>

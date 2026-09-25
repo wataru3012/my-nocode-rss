@@ -6,27 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Sep 2026 20:13:58 +0000</lastBuildDate>
-    <item>
-      <title>「iPhone Duo」はApple初の7.6型折りたたみで36万円強から</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2139675.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2139675.html</guid>
-    </item>
-    <item>
-      <title>ぜいたくな1台とはこのこと。ビジネスシーンでも使える20万円切りゲーミングノート</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/special/2137625.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2137625.html</guid>
-    </item>
-    <item>
-      <title>Apple、iPhone 16/17/17e/Airを再値上げ。最大4万7,000円アップ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2139807.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2139807.html</guid>
-    </item>
-    <item>
-      <title>ディスプレイがくるりんぱ！新モデル「VAIO T」はかつてないタッチ操作&amp;AI向きな2in1になる</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2139700.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2139700.html</guid>
-    </item>
+    <lastBuildDate>Fri, 25 Sep 2026 20:11:57 +0000</lastBuildDate>
     <item>
       <title>VAIO Zの変形機構が復活。マグネットで変形する「VAIO T」</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2139720.html</link>
@@ -256,6 +236,26 @@
       <title>約956gでLTE/eSIMも選べる14型「MousePro G4」</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2143035.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2143035.html</guid>
+    </item>
+    <item>
+      <title>タスクバーはほぼWindows、Googlebookの実機を使ってみた</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/ubiq/2143081.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/ubiq/2143081.html</guid>
+    </item>
+    <item>
+      <title>デスクトップなのにCPUはノート用！NEXTGEAR初のIntel機の狙いが新しい</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/special/2142446.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2142446.html</guid>
+    </item>
+    <item>
+      <title>ThinkPadが約18万円引きってアリ？46%オフにメモリ無料増量まで</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/special/2142912.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2142912.html</guid>
+    </item>
+    <item>
+      <title>7,000mAhで2日間動作！なのに193gしかないスマホ「motorola edge 70 fusion」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2143240.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2143240.html</guid>
     </item>
   </channel>
 </rss>
