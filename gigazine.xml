@@ -6,27 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Sep 2026 20:13:12 +0000</lastBuildDate>
-    <item>
-      <title>AIエージェントが人間にとって理解しやすいシンプルなチャート仕様記述から表現力豊かで見栄えの良いグラフを確実に生成できる可視化中間言語「Flint」、50種類のチャートタイプをサポートしVega-Lite・ECharts・Chart.jsなどでレンダリング可能＆MCPサーバーあり</title>
-      <link>https://gigazine.net/news/20260830-flint/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260830-flint/</guid>
-    </item>
-    <item>
-      <title>使い込むほど成長するAIエージェント「Hermes Agent」でタスクを自動実行させてみた、PCを放置していても時間になれば勝手に実行</title>
-      <link>https://gigazine.net/news/20260901-hermes-agent-cron-automation/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260901-hermes-agent-cron-automation/</guid>
-    </item>
-    <item>
-      <title>1万3000本以上の映画・ゲーム・アニメ・漫画の「聖地」を地図上に表示する「Movie Scene Map」</title>
-      <link>https://gigazine.net/news/20260902-movie-scene-map/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260902-movie-scene-map/</guid>
-    </item>
-    <item>
-      <title>イベントやBBQなどで役立つコールマンの「インスタントバイザーシェードⅣ/L DR」を簡単に設営できるか実際にやってみたよレビュー</title>
-      <link>https://gigazine.net/news/20260902-coleman-instant-shade/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260902-coleman-instant-shade/</guid>
-    </item>
+    <lastBuildDate>Sat, 26 Sep 2026 19:31:50 +0000</lastBuildDate>
     <item>
       <title>無料でいろいろなLinuxディストリビューションをブラウザ上でインストールせずに試せる「DistroSea」</title>
       <link>https://gigazine.net/news/20260903-distrosea/</link>
@@ -206,6 +186,26 @@
       <title>画像生成・編集AI「Qwen-Image-2.1」が無料のオープンモデルとして登場したので使ってみた、日本語プロンプト対応＆透過PNG画像も生成可能</title>
       <link>https://gigazine.net/news/20260924-qwen-image-2-1/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260924-qwen-image-2-1/</guid>
+    </item>
+    <item>
+      <title>Apple Watch Series 12を1週間つけてみたレビュー、ヘルスケアトラッカーが新しくなってバッテリーの持ちも向上</title>
+      <link>https://gigazine.net/news/20260926-apple-watch-series-12-usage/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260926-apple-watch-series-12-usage/</guid>
+    </item>
+    <item>
+      <title>「iPhone 18 Pro」の絞り羽根搭載カメラの性能を検証するべくいろいろ撮影してみたよレビュー、これまで不可能だった光芒撮影が可能に</title>
+      <link>https://gigazine.net/news/20260926-iphone-18-pro-camera-example/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260926-iphone-18-pro-camera-example/</guid>
+    </item>
+    <item>
+      <title>darktableをフォークして余分な機能を排除しデザイン面の使い勝手を洗練させた「Ansel」</title>
+      <link>https://gigazine.net/news/20260926-ansel/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260926-ansel/</guid>
+    </item>
+    <item>
+      <title>Apple純正のオープンイヤー型ワイヤレスイヤホン「AirPods 5」使用レビュー、使い心地や強化されたアクティブノイズキャンセリング機能はどれほどのものか？</title>
+      <link>https://gigazine.net/news/20260926-airpods-5-wireless-charging-case-review/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260926-airpods-5-wireless-charging-case-review/</guid>
     </item>
   </channel>
 </rss>
