@@ -6,27 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Sep 2026 19:31:50 +0000</lastBuildDate>
-    <item>
-      <title>無料でいろいろなLinuxディストリビューションをブラウザ上でインストールせずに試せる「DistroSea」</title>
-      <link>https://gigazine.net/news/20260903-distrosea/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260903-distrosea/</guid>
-    </item>
-    <item>
-      <title>使い込むほど成長するAIエージェント「Hermes Agent」の実行結果をメールで受け取ってみた</title>
-      <link>https://gigazine.net/news/20260905-hermes-agent-mail/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260905-hermes-agent-mail/</guid>
-    </item>
-    <item>
-      <title>無料でPDF・電子書籍・Word文書・テキストファイルなどからローカルAIを使って検索＆要約ができる「DocuBrowser」、個人情報の認識も可能</title>
-      <link>https://gigazine.net/news/20260905-docubrowser/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260905-docubrowser/</guid>
-    </item>
-    <item>
-      <title>複数のAIエージェントを1つのターミナルから統括できる「Herdr」</title>
-      <link>https://gigazine.net/news/20260906-herdr/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260906-herdr/</guid>
-    </item>
+    <lastBuildDate>Sun, 27 Sep 2026 19:57:41 +0000</lastBuildDate>
     <item>
       <title>OpenAIが画像生成AI「ChatGPT Images 2.5」をリリースしたので使ってみた</title>
       <link>https://gigazine.net/news/20260909-chatgpt-images-gpt-image-2-5/</link>
@@ -206,6 +186,26 @@
       <title>Apple純正のオープンイヤー型ワイヤレスイヤホン「AirPods 5」使用レビュー、使い心地や強化されたアクティブノイズキャンセリング機能はどれほどのものか？</title>
       <link>https://gigazine.net/news/20260926-airpods-5-wireless-charging-case-review/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260926-airpods-5-wireless-charging-case-review/</guid>
+    </item>
+    <item>
+      <title>「Apple Watch Ultra 4」使ってみたレビュー、重いしデカイけどバッテリー持ちはバツグンでiPhoneなしでも高精度</title>
+      <link>https://gigazine.net/news/20260927-apple-watch-ultra-4-review/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260927-apple-watch-ultra-4-review/</guid>
+    </item>
+    <item>
+      <title>Steam公式ワイヤレスVRゴーグル「Steam Frame」が届いたので外観を詳しく撮影してみた、「メガネは入るのか？」「重さは何gか？」など</title>
+      <link>https://gigazine.net/news/20260927-steam-frame-appearance/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260927-steam-frame-appearance/</guid>
+    </item>
+    <item>
+      <title>無料でマンガ・電子書籍・PDFファイル・オーディオブックをマルチユーザーで共有しKobo双方向同期・Kindleメール送信などの連携もできる「BookOrbit」、オープンソースでセルフホスト可能</title>
+      <link>https://gigazine.net/news/20260927-bookorbit/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260927-bookorbit/</guid>
+    </item>
+    <item>
+      <title>目の前の景色をハンズフリーで写真や動画に残せる「Meta Glasses」を実際に使ってみたよレビュー</title>
+      <link>https://gigazine.net/news/20260927-meta-glasses-usage/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260927-meta-glasses-usage/</guid>
     </item>
   </channel>
 </rss>
