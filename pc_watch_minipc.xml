@@ -6,17 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Sep 2026 22:22:25 +0000</lastBuildDate>
-    <item>
-      <title>MSI、RTX 50/40搭載の15.6型ゲーミングノート3機種</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2139935.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2139935.html</guid>
-    </item>
-    <item>
-      <title>Web会議もこれ1台。Ryzen搭載の23.8型一体型PC「Aspire C 24」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2139931.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2139931.html</guid>
-    </item>
+    <lastBuildDate>Tue, 29 Sep 2026 21:11:51 +0000</lastBuildDate>
     <item>
       <title>GIGABYTE、RTX 50搭載の16型ゲーミングノート「GAMING A16」</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2140127.html</link>
@@ -63,6 +53,11 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/gyokai/2141290.html</guid>
     </item>
     <item>
+      <title>折りたたみは一度ハマったら戻れない。開かず決済できる「razr 60 ultra」が好き</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/kaimono/2140710.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/kaimono/2140710.html</guid>
+    </item>
+    <item>
       <title>4万998円は正直エグい。Ryzen 3ミニPCがAmazonクーポンで大幅安</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/special/2140711.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2140711.html</guid>
@@ -91,6 +86,16 @@
       <title>マウス、約981gでRyzen AI搭載の12.2型軽量モバイルノート</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2141123.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2141123.html</guid>
+    </item>
+    <item>
+      <title>PC高いなら長く使え！バッテリもSSDも自分で換えられる「LAVIE N16」</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2141174.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2141174.html</guid>
+    </item>
+    <item>
+      <title>300B級LLMが動くミニPC「EVO-X5 Pro」、9月28日発売</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2141237.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2141237.html</guid>
     </item>
     <item>
       <title>RTX 5060搭載ゲーミングPCが5万円引き！マウスのTGS2026出展記念セール</title>
@@ -243,104 +248,14 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2137202.html</guid>
     </item>
     <item>
-      <title>【コラム】折りたたみは一度ハマったら戻れない。開かず決済できる「razr 60 ultra」が好き</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/kaimono/2140710.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/kaimono/2140710.html</guid>
+      <title>約108万円で320B LLM をオフライン実行できる「EVO-X5 Pro」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2144148.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2144148.html</guid>
     </item>
     <item>
-      <title>512GBのDDR5メモリが登場。しかも9,200MT/sで爆速</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2141247.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2141247.html</guid>
-    </item>
-    <item>
-      <title>300B級LLMが動くミニPC「EVO-X5 Pro」、9月28日発売</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2141237.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2141237.html</guid>
-    </item>
-    <item>
-      <title>【レビュー】ダイソーのイス付きリュック、カッターが貫通する薄さでPCは要注意</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2141206.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2141206.html</guid>
-    </item>
-    <item>
-      <title>【レビュー】PC高いなら長く使え！バッテリもSSDも自分で換えられる「LAVIE N16」</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2141174.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2141174.html</guid>
-    </item>
-    <item>
-      <title>メモリコスト6分の1でAI推論、Samsungの「zNAND-O」</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/semicon/2143580.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/semicon/2143580.html</guid>
-    </item>
-    <item>
-      <title>Claude Code、「残業」が可能に。週次制限から差し引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2143606.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2143606.html</guid>
-    </item>
-    <item>
-      <title>画像も動画も100万トークンも！MiniMaxが高速な“Flash”版LLMを投入</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2143632.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2143632.html</guid>
-    </item>
-    <item>
-      <title>Google、宇宙でAIを動かすTPU衛星を打ち上げへ。放射線や冷却を軌道上で検証</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2143668.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2143668.html</guid>
-    </item>
-    <item>
-      <title>暇すぎるNPUに「DOOM動く？」と聞いたら、Claudeが掛け算の暴力で動かした話</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2142551.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2142551.html</guid>
-    </item>
-    <item>
-      <title>LLMに喋らせてパースする必要なし？判断だけ返すAI「Jev」を試した</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2143909.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2143909.html</guid>
-    </item>
-    <item>
-      <title>ケーブルを抜けばモバイルバッテリに、無印良品の65W・4ポート充電器を試す</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2143546.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2143546.html</guid>
-    </item>
-    <item>
-      <title>Google、100言語対応の音声AI「Gemini 3.8 Flash TTS」発表</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2143910.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2143910.html</guid>
-    </item>
-    <item>
-      <title>「Claude Marketplace」公開、2千超の連携ツールとAI製品を集約</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2143913.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2143913.html</guid>
-    </item>
-    <item>
-      <title>LM Studio、Bionicに共同キャンバス。図から直接実装可能に</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2143914.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2143914.html</guid>
-    </item>
-    <item>
-      <title>5GbE搭載のCore Ultra 7 256VミニPCが約4万6千円オフ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2143593.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2143593.html</guid>
-    </item>
-    <item>
-      <title>GARMINのスマートウォッチが5,715円引き。Suica対応</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2143602.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2143602.html</guid>
-    </item>
-    <item>
-      <title>約634gと超軽量！32GBメモリの富士通製モバイルノートが約2万3千円オフ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2143597.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2143597.html</guid>
-    </item>
-    <item>
-      <title>ブラウンの電動シェーバーが43%オフで8,947円にて購入可能</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2143607.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2143607.html</guid>
-    </item>
-    <item>
-      <title>カルビーのポテチ×16袋セットが250円オフ。じゃがりこ×12個は387円引き！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2143610.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2143610.html</guid>
+      <title>レノボ、4K液晶&amp;ジェスチャーAI搭載の「Lenovo Yoga Tab」2モデルを発表</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2144226.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2144226.html</guid>
     </item>
   </channel>
 </rss>

@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Sep 2026 22:23:37 +0000</lastBuildDate>
-    <item>
-      <title>OpenAIが画像生成AI「ChatGPT Images 2.5」をリリースしたので使ってみた</title>
-      <link>https://gigazine.net/news/20260909-chatgpt-images-gpt-image-2-5/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260909-chatgpt-images-gpt-image-2-5/</guid>
-    </item>
-    <item>
-      <title>使い込むほど成長するAIエージェント「Hermes Agent」に好みを覚えさせて新しいチャットでも記憶を引き継げる「記憶(Memory)」機能を試してみた</title>
-      <link>https://gigazine.net/news/20260909-hermes-agent-memory/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260909-hermes-agent-memory/</guid>
-    </item>
+    <lastBuildDate>Tue, 29 Sep 2026 21:13:02 +0000</lastBuildDate>
     <item>
       <title>画面が反対側に回転するマルチフリップ機構搭載ノートPC「VAIO T」外観レビュー、タッチ式タブレットとして縦向きにも使える</title>
       <link>https://gigazine.net/news/20260910-vaio-t-appearance/</link>
@@ -206,6 +196,16 @@
       <title>目の前の景色をハンズフリーで写真や動画に残せる「Meta Glasses」を実際に使ってみたよレビュー</title>
       <link>https://gigazine.net/news/20260927-meta-glasses-usage/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260927-meta-glasses-usage/</guid>
+    </item>
+    <item>
+      <title>音楽とネコが大好きな探偵気取りの「宮舞モカ」がPC画面に登場して独り言を言いまくるDesktop Mateの新DLCを使ってみた</title>
+      <link>https://gigazine.net/news/20260929-desktop-mate-moca-dlc/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260929-desktop-mate-moca-dlc/</guid>
+    </item>
+    <item>
+      <title>自分の脳が何B級のAIと同等性能なのか診断できるウェブサイト「HumanBench」が登場、選択問題で人間の力を試してどのAIに性格が似ているかも判定可能</title>
+      <link>https://gigazine.net/news/20260929-humanbench-brain-ai/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260929-humanbench-brain-ai/</guid>
     </item>
   </channel>
 </rss>
