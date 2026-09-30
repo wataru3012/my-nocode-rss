@@ -6,22 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 21:11:51 +0000</lastBuildDate>
-    <item>
-      <title>GIGABYTE、RTX 50搭載の16型ゲーミングノート「GAMING A16」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2140127.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2140127.html</guid>
-    </item>
-    <item>
-      <title>9800X3D+RTX 5080のゲーミングPC、GIGABYTEが量販店で発売</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2140170.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2140170.html</guid>
-    </item>
-    <item>
-      <title>GALLERIA、TGS2026出展記念のRTX 5080搭載PC 3機種</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2140191.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2140191.html</guid>
-    </item>
+    <lastBuildDate>Wed, 30 Sep 2026 21:07:59 +0000</lastBuildDate>
     <item>
       <title>TCL、紙のように読める11型Androidタブレット「TAB A1 NXTPAPER」</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2140207.html</link>
@@ -256,6 +241,21 @@
       <title>レノボ、4K液晶&amp;ジェスチャーAI搭載の「Lenovo Yoga Tab」2モデルを発表</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2144226.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2144226.html</guid>
+    </item>
+    <item>
+      <title>Amazonで8万9千円引き！Ryzen 7のミニPC「F5A」が10万円切りに</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/special/2143641.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2143641.html</guid>
+    </item>
+    <item>
+      <title>使わなくなったiPhoneがMacの3台目モニターに！無料の「OpenDisplay」を試した</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/macinfo/2144467.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/macinfo/2144467.html</guid>
+    </item>
+    <item>
+      <title>PCのカメラで血管・心拍情報を測定、「VAIO ウェルネスケア」が正式版に</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2144465.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2144465.html</guid>
     </item>
   </channel>
 </rss>

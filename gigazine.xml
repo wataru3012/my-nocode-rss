@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 21:13:02 +0000</lastBuildDate>
-    <item>
-      <title>画面が反対側に回転するマルチフリップ機構搭載ノートPC「VAIO T」外観レビュー、タッチ式タブレットとして縦向きにも使える</title>
-      <link>https://gigazine.net/news/20260910-vaio-t-appearance/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260910-vaio-t-appearance/</guid>
-    </item>
-    <item>
-      <title>画面が回転するノートPC「VAIO T」のベンチマークテストを実行してみた＆バッテリー持続時間も検証してみたよレビュー</title>
-      <link>https://gigazine.net/news/20260910-vaio-t-benchmark-battery/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260910-vaio-t-benchmark-battery/</guid>
-    </item>
+    <lastBuildDate>Wed, 30 Sep 2026 21:09:08 +0000</lastBuildDate>
     <item>
       <title>簡単に画面録画し不要部分カット＆AI音声ノイズ除去＆ファイルサイズ削減まで全部1本で完結する「VideoProc Converter AI」を使ってみた、GIGAZINE読者限定セールあり</title>
       <link>https://gigazine.net/news/20260911-videoproc-converter-ai/</link>
@@ -206,6 +196,16 @@
       <title>自分の脳が何B級のAIと同等性能なのか診断できるウェブサイト「HumanBench」が登場、選択問題で人間の力を試してどのAIに性格が似ているかも判定可能</title>
       <link>https://gigazine.net/news/20260929-humanbench-brain-ai/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260929-humanbench-brain-ai/</guid>
+    </item>
+    <item>
+      <title>どんなウェブサイトでも内容を撃ちまくって破壊できる「Page Rage」</title>
+      <link>https://gigazine.net/news/20260930-page-rage/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260930-page-rage/</guid>
+    </item>
+    <item>
+      <title>Windows 11のうっとうしいポップアップ連発を凝縮体験できる「Windows 11½」</title>
+      <link>https://gigazine.net/news/20260930-windows-11-1-2/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20260930-windows-11-1-2/</guid>
     </item>
   </channel>
 </rss>

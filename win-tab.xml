@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 21:12:10 +0000</lastBuildDate>
-    <item>
-      <title>ノートPC用CPU一覧 － Ryzen AI Maxシリーズ、Ryzen AIシリーズ、Ryzen 400/200/100/10シリーズ (9月10日更新)</title>
-      <link>https://win-tab.net/opinion/mobile_cpu_list2/</link>
-      <guid isPermaLink="false">https://win-tab.net/opinion/mobile_cpu_list2/</guid>
-    </item>
-    <item>
-      <title>MSI Cyborg 15 C13W － 店頭販売モデル追加、手頃な価格帯の15.6インチゲーミングノートPC</title>
-      <link>https://win-tab.net/msi/cyborg-15-c13w-2609102/</link>
-      <guid isPermaLink="false">https://win-tab.net/msi/cyborg-15-c13w-2609102/</guid>
-    </item>
+    <lastBuildDate>Wed, 30 Sep 2026 21:08:17 +0000</lastBuildDate>
     <item>
       <title>ACEMAGIC F2A － Core Ultra X7 358H / Ryzen AI 9 HX 470搭載の高性能ミニPC、Intel版は安すぎないか？</title>
       <link>https://win-tab.net/imported/acemagic-f2a-2609111/</link>
@@ -206,6 +196,16 @@
       <title>Lenovo Yoga Tab Plus Gen 2 － 13インチ4KディスプレイとSnapdragon 8 Eliteを搭載するハイスペックな大画面AIタブレット</title>
       <link>https://win-tab.net/android/lenovo-yoga-tab-plus-gen-2-2609292/</link>
       <guid isPermaLink="false">https://win-tab.net/android/lenovo-yoga-tab-plus-gen-2-2609292/</guid>
+    </item>
+    <item>
+      <title>Lenovo Yoga Tab Gen 2 － Dimensity 9500sと4Kディスプレイを搭載、高性能な11.1インチAIタブレット</title>
+      <link>https://win-tab.net/android/lenovo-yoga-tab-gen-2-2609301/</link>
+      <guid isPermaLink="false">https://win-tab.net/android/lenovo-yoga-tab-gen-2-2609301/</guid>
+    </item>
+    <item>
+      <title>TECLAST T60Mini レビュー － Android 17と2.5Kディスプレイを搭載する8.8インチタブレット上位モデル</title>
+      <link>https://win-tab.net/android/teclast-t60mini-review-2609302/</link>
+      <guid isPermaLink="false">https://win-tab.net/android/teclast-t60mini-review-2609302/</guid>
     </item>
   </channel>
 </rss>
