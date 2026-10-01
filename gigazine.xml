@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Sep 2026 21:09:08 +0000</lastBuildDate>
-    <item>
-      <title>簡単に画面録画し不要部分カット＆AI音声ノイズ除去＆ファイルサイズ削減まで全部1本で完結する「VideoProc Converter AI」を使ってみた、GIGAZINE読者限定セールあり</title>
-      <link>https://gigazine.net/news/20260911-videoproc-converter-ai/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260911-videoproc-converter-ai/</guid>
-    </item>
-    <item>
-      <title>Firefoxのローカル翻訳機能をGoogle翻訳っぽく使える「about:translations」が便利</title>
-      <link>https://gigazine.net/news/20260912-firefox-translations/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260912-firefox-translations/</guid>
-    </item>
+    <lastBuildDate>Thu, 01 Oct 2026 21:32:45 +0000</lastBuildDate>
     <item>
       <title>無料のオープンソースAIエージェント「goose」、デスクトップアプリ・CLI・APIなどコード・ワークフロー・その他あらゆる用途に対応</title>
       <link>https://gigazine.net/news/20260912-goose/</link>
@@ -206,6 +196,16 @@
       <title>Windows 11のうっとうしいポップアップ連発を凝縮体験できる「Windows 11½」</title>
       <link>https://gigazine.net/news/20260930-windows-11-1-2/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20260930-windows-11-1-2/</guid>
+    </item>
+    <item>
+      <title>VRAM 32GBの「Intel Arc Pro B70」で「Hermes Agent」のローカルAIを実行、4ビット量子化したQwen3.8-27Bを動かしてみた</title>
+      <link>https://gigazine.net/news/20261001-hermes-agent-arc-pro-b70/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261001-hermes-agent-arc-pro-b70/</guid>
+    </item>
+    <item>
+      <title>1996年のダイヤルアップの「ピーガガー」が体験できる「56k.rip」と「dialup.rip」</title>
+      <link>https://gigazine.net/news/20261001-dialup-59k-rip/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261001-dialup-59k-rip/</guid>
     </item>
   </channel>
 </rss>
