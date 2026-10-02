@@ -6,12 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Oct 2026 21:32:45 +0000</lastBuildDate>
-    <item>
-      <title>無料のオープンソースAIエージェント「goose」、デスクトップアプリ・CLI・APIなどコード・ワークフロー・その他あらゆる用途に対応</title>
-      <link>https://gigazine.net/news/20260912-goose/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260912-goose/</guid>
-    </item>
+    <lastBuildDate>Fri, 02 Oct 2026 21:08:22 +0000</lastBuildDate>
     <item>
       <title>無料でWireGuardを簡単にインストール・管理できる「WireGuard Easy」、クライアントの一覧表示・作成・編集・削除・有効化・無効化・QRコード表示・設定ファイルのダウンロードなどが可能</title>
       <link>https://gigazine.net/news/20260913-wireguard-easy/</link>
@@ -206,6 +201,11 @@
       <title>1996年のダイヤルアップの「ピーガガー」が体験できる「56k.rip」と「dialup.rip」</title>
       <link>https://gigazine.net/news/20261001-dialup-59k-rip/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261001-dialup-59k-rip/</guid>
+    </item>
+    <item>
+      <title>無料でカスタマイズ可能SVGパターンをいろいろ作成できる「Book of Shapes」</title>
+      <link>https://gigazine.net/news/20261002-book-of-shapes/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261002-book-of-shapes/</guid>
     </item>
   </channel>
 </rss>
