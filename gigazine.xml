@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Oct 2026 21:08:22 +0000</lastBuildDate>
-    <item>
-      <title>無料でWireGuardを簡単にインストール・管理できる「WireGuard Easy」、クライアントの一覧表示・作成・編集・削除・有効化・無効化・QRコード表示・設定ファイルのダウンロードなどが可能</title>
-      <link>https://gigazine.net/news/20260913-wireguard-easy/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260913-wireguard-easy/</guid>
-    </item>
-    <item>
-      <title>動物・植物・細菌・ウイルスの系統をたどれるインタラクティブな生命の樹「Ptree」</title>
-      <link>https://gigazine.net/news/20260913-interactive-tree-of-life-ptree/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260913-interactive-tree-of-life-ptree/</guid>
-    </item>
+    <lastBuildDate>Sat, 03 Oct 2026 19:39:08 +0000</lastBuildDate>
     <item>
       <title>自分の黒歴史をズバリと言い当ててくるウェブサイト「黒歴史診断」</title>
       <link>https://gigazine.net/news/20260914-blackhistory/</link>
@@ -206,6 +196,16 @@
       <title>無料でカスタマイズ可能SVGパターンをいろいろ作成できる「Book of Shapes」</title>
       <link>https://gigazine.net/news/20261002-book-of-shapes/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261002-book-of-shapes/</guid>
+    </item>
+    <item>
+      <title>無料でAWSをローカルでシミュレーションできるエミュレーター「MiniStack」、60以上のAWSサービスを単一ポートで利用可能でマルチアカウント＆マルチリージョン対応、セルフホスト可能</title>
+      <link>https://gigazine.net/news/20261003-ministack/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261003-ministack/</guid>
+    </item>
+    <item>
+      <title>25倍ズームレンズを搭載したソニーのレンズ一体型カメラ「RX10 V」の外観はこんな感じ</title>
+      <link>https://gigazine.net/news/20261003-sony-rx10-v-appearance/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261003-sony-rx10-v-appearance/</guid>
     </item>
   </channel>
 </rss>
