@@ -6,12 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Oct 2026 19:38:15 +0000</lastBuildDate>
-    <item>
-      <title>MSI Prestige 14 Flip AI+ Vincent van Gogh Edition － ゴッホの絵画を天板にまとった豪華2-in-1 PC</title>
-      <link>https://win-tab.net/msi/prestige-14-flip-gogh-edition-2609142/</link>
-      <guid isPermaLink="false">https://win-tab.net/msi/prestige-14-flip-gogh-edition-2609142/</guid>
-    </item>
+    <lastBuildDate>Sun, 04 Oct 2026 19:54:15 +0000</lastBuildDate>
     <item>
       <title>TECLAST T60Mini － TECLASTのAndroid 17搭載8.8インチタブレット、いよいよ9月17日発売！</title>
       <link>https://win-tab.net/android/teclast-t60mini-release-2609151/</link>
@@ -206,6 +201,11 @@
       <title>ORICO クランプ式 USBハブ MH4PC レビュー － モニターやデスクの端に固定できるUSBハブ、2,000円前後で購入できます</title>
       <link>https://win-tab.net/acc/orico-mh4pc-review-2610032/</link>
       <guid isPermaLink="false">https://win-tab.net/acc/orico-mh4pc-review-2610032/</guid>
+    </item>
+    <item>
+      <title>Blackview XPLORE 6 － 着脱式の外付け望遠レンズが付属するDimensity 9400+搭載のハイエンド・タフネススマホ</title>
+      <link>https://win-tab.net/android/blackview-xplore-6-2610041/</link>
+      <guid isPermaLink="false">https://win-tab.net/android/blackview-xplore-6-2610041/</guid>
     </item>
   </channel>
 </rss>

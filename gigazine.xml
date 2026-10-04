@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Oct 2026 19:39:08 +0000</lastBuildDate>
-    <item>
-      <title>自分の黒歴史をズバリと言い当ててくるウェブサイト「黒歴史診断」</title>
-      <link>https://gigazine.net/news/20260914-blackhistory/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260914-blackhistory/</guid>
-    </item>
-    <item>
-      <title>日本国内の一般国道情報が1枚マップで表示される「国道マップ」、番号重複区間でもすべての番号を表示</title>
-      <link>https://gigazine.net/news/20260915-kokudo-map/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260915-kokudo-map/</guid>
-    </item>
+    <lastBuildDate>Sun, 04 Oct 2026 19:55:06 +0000</lastBuildDate>
     <item>
       <title>ローカルでAIを動かして元を取るまで何年かかるかがわかる「Sunk Cost」、例えばメモリ64GBのMac Studioではどれだけの時間が必要なのか？</title>
       <link>https://gigazine.net/news/20260915-sunk-cost/</link>
@@ -206,6 +196,16 @@
       <title>25倍ズームレンズを搭載したソニーのレンズ一体型カメラ「RX10 V」の外観はこんな感じ</title>
       <link>https://gigazine.net/news/20261003-sony-rx10-v-appearance/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261003-sony-rx10-v-appearance/</guid>
+    </item>
+    <item>
+      <title>localhostを爆速でインターネットへ安全に公開する「Cloudflare Quick Tunnels」、たった1つのコマンドで暗号化された公開URLを作成可能でアカウント・DNSレコード・ポート開放は一切不要</title>
+      <link>https://gigazine.net/news/20261004-cloudflare-quick-tunnels/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261004-cloudflare-quick-tunnels/</guid>
+    </item>
+    <item>
+      <title>名刺ケースがボタン1つで自動展開！わずか0.2秒で圧倒的なインパクトと共に名刺を出せる「機動文具 自動変形名刺ケース」レビュー</title>
+      <link>https://gigazine.net/news/20261004-mobile-stationery-business-card-case/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261004-mobile-stationery-business-card-case/</guid>
     </item>
   </channel>
 </rss>
