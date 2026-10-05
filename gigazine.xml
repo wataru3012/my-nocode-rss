@@ -6,12 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Oct 2026 19:55:06 +0000</lastBuildDate>
-    <item>
-      <title>ローカルでAIを動かして元を取るまで何年かかるかがわかる「Sunk Cost」、例えばメモリ64GBのMac Studioではどれだけの時間が必要なのか？</title>
-      <link>https://gigazine.net/news/20260915-sunk-cost/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260915-sunk-cost/</guid>
-    </item>
+    <lastBuildDate>Mon, 05 Oct 2026 23:02:57 +0000</lastBuildDate>
     <item>
       <title>iOS 27でSafariに追加された「AIに言葉で説明するだけで自分好みの機能拡張を即座に開発する」機能が便利、文字色変更やスクロールボタン追加などをサイトごとに設定可能</title>
       <link>https://gigazine.net/news/20260916-safari-extension-apple-intelligence/</link>
@@ -206,6 +201,11 @@
       <title>名刺ケースがボタン1つで自動展開！わずか0.2秒で圧倒的なインパクトと共に名刺を出せる「機動文具 自動変形名刺ケース」レビュー</title>
       <link>https://gigazine.net/news/20261004-mobile-stationery-business-card-case/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261004-mobile-stationery-business-card-case/</guid>
+    </item>
+    <item>
+      <title>iPhone 18 Proのバッテリー持続時間と有線・無線での充電速度を検証してみたよレビュー</title>
+      <link>https://gigazine.net/news/20261005-iphone-18-pro-battery-charge/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261005-iphone-18-pro-battery-charge/</guid>
     </item>
   </channel>
 </rss>
