@@ -6,7 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Oct 2026 23:01:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 21:25:28 +0000</lastBuildDate>
     <item>
       <title>RTX 5060搭載ゲーミングPCが5万円引き！マウスのTGS2026出展記念セール</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/special/2140776.html</link>
@@ -228,6 +228,26 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145504.html</guid>
     </item>
     <item>
+      <title>macOSの「フルディスクアクセス」が厳格化へ。AI時代の危険性を考慮</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2145603.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145603.html</guid>
+    </item>
+    <item>
+      <title>iPhoneをつないでMacのローカルAIを高速化するツール</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2145651.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145651.html</guid>
+    </item>
+    <item>
+      <title>山田涼介×Crazy Raccoonの木目調PC「RØVA」、27万1,720円から</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2145710.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145710.html</guid>
+    </item>
+    <item>
+      <title>WIN 5と同じ心臓で、キーボードが戻ってきた。「GPD WIN Max 3」を試す</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2145749.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2145749.html</guid>
+    </item>
+    <item>
       <title>【コラム】折りたたみは一度ハマったら戻れない。開かず決済できる「razr 60 ultra」が好き</title>
       <link>https://pc.watch.impress.co.jp/docs/column/kaimono/2140710.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/kaimono/2140710.html</guid>
@@ -253,66 +273,6 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2141174.html</guid>
     </item>
     <item>
-      <title>Qwen3.8-Flash-Nextローカル実行環境「Strata」更新。旧世代GeForceやArcに一筋の光</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2145566.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145566.html</guid>
-    </item>
-    <item>
-      <title>ノイズキャンセリング内蔵のエッジAIデバイス向けマイク、AVerMediaから</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2145565.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145565.html</guid>
-    </item>
-    <item>
-      <title>AGON、フルHDで最大1,050Hz駆動の24.5型ゲーミングモニター</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2145523.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145523.html</guid>
-    </item>
-    <item>
-      <title>macOSの「フルディスクアクセス」が厳格化へ。AI時代の危険性を考慮</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2145603.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145603.html</guid>
-    </item>
-    <item>
-      <title>ChatGPT Work/Codexに「28日間改善計画」！さもなくば「リセット」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2145620.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145620.html</guid>
-    </item>
-    <item>
-      <title>iPhoneをつないでMacのローカルAIを高速化するツール</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2145651.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145651.html</guid>
-    </item>
-    <item>
-      <title>REGZAの27型WQHDモニターにブラック登場、200Hz表示で4万4,000円</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2145677.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145677.html</guid>
-    </item>
-    <item>
-      <title>最大2倍高速な推論エンジン「Magnitude」公開、ハードごとに自動最適化</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2145716.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145716.html</guid>
-    </item>
-    <item>
-      <title>山田涼介×Crazy Raccoonの木目調PC「RØVA」、27万1,720円から</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2145710.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145710.html</guid>
-    </item>
-    <item>
-      <title>Gemini無料版、10月9日から「Flash-Lite」のみに変更</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2145770.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145770.html</guid>
-    </item>
-    <item>
-      <title>Geminiの「Gems」が新機能「スキル」に順次移行</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2145779.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145779.html</guid>
-    </item>
-    <item>
-      <title>WIN 5と同じ心臓で、キーボードが戻ってきた。「GPD WIN Max 3」を試す</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2145749.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2145749.html</guid>
-    </item>
-    <item>
       <title>ちょい古ゲーミングPCで「Qwen3.8-Flash-Next」を動せる「Strata」を試してみた！</title>
       <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2145673.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2145673.html</guid>
@@ -323,29 +283,69 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145839.html</guid>
     </item>
     <item>
-      <title>32GBメモリ/1TB SSDのCore i9搭載ミニPCが3万2千円オフ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2145496.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2145496.html</guid>
+      <title>32GBメモリ搭載ミニPCがAmazonクーポンで約2万5千円引き</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2145860.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2145860.html</guid>
     </item>
     <item>
-      <title>なんと約13万円オフ！HPのCore Ultra 7 355搭載ノートが大幅値引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2145500.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2145500.html</guid>
+      <title>「なぜつながらないか」を画面で表示。Anker初のディスプレイ搭載ドック</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2145862.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145862.html</guid>
     </item>
     <item>
-      <title>ウルトラワイドで240Hz表示の34型ゲーミングモニターが6千円引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2145513.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2145513.html</guid>
+      <title>待ち時間短縮！GPT-6 AstraとGPT-6.1 Solが約50%高速化</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2145903.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145903.html</guid>
     </item>
     <item>
-      <title>40Gbpsと高速な外付けSSDケースが4,583円引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2145522.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2145522.html</guid>
+      <title>llama.cpp 0.6.0公開。GLM-5.3-Flash対応やMetal高速化</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2145872.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145872.html</guid>
     </item>
     <item>
-      <title>「綾鷹」の650mL×24本セットが881円引き。1本68円に！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2145532.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2145532.html</guid>
+      <title>これぞ理想だよね。充電不要のスマートリングが登場</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2145963.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145963.html</guid>
+    </item>
+    <item>
+      <title>Core Ultraシリーズ3搭載の堅牢ノート「Dell Pro Rugged」2製品</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2146060.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2146060.html</guid>
+    </item>
+    <item>
+      <title>サンワサプライ、カスタム可能な12キーを備えた左手デバイス</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2145955.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145955.html</guid>
+    </item>
+    <item>
+      <title>古いスマホを捨てないで！ゲーム専用機にサブモニター、無線マイクなど活用法8選</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2146136.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2146136.html</guid>
+    </item>
+    <item>
+      <title>Wi-Fi 6対応の10型Androidタブレットがほぼ1万円でAmazonセール中</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2145885.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2145885.html</guid>
+    </item>
+    <item>
+      <title>FakerコラボのRazerゲーミングマウスが約1万円引きでAmazonセール中</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2145895.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2145895.html</guid>
+    </item>
+    <item>
+      <title>「ピッカァ！」ピカチュウコラボのAnkerトラベルポーチがセール中！</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2145933.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2145933.html</guid>
+    </item>
+    <item>
+      <title>ミツカン Fibeeのキーマカレー20食が千円引きでAmazonセール中</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2145942.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2145942.html</guid>
+    </item>
+    <item>
+      <title>Thunderbolt 5対応SSDケースが1万6,249円で特価</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2146061.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2146061.html</guid>
     </item>
   </channel>
 </rss>

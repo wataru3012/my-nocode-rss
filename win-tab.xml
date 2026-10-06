@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Oct 2026 23:02:04 +0000</lastBuildDate>
-    <item>
-      <title>アイリスオーヤマ LUCA ワイヤレス充電対応タブレット － 15.6インチの大型ディスプレイを搭載、背面のマグネットでワイヤレス充電にも対応</title>
-      <link>https://win-tab.net/android/luca-tablet-2609161/</link>
-      <guid isPermaLink="false">https://win-tab.net/android/luca-tablet-2609161/</guid>
-    </item>
-    <item>
-      <title>GMKtec EVO-X5 Pro － Ryzen AI Max+ PRO 495、最大192GBメモリを搭載、ローカル環境で300B規模のAIモデル実行に対応するコンパクトPC</title>
-      <link>https://win-tab.net/imported/gmktec-evo-x5-pro-2609162/</link>
-      <guid isPermaLink="false">https://win-tab.net/imported/gmktec-evo-x5-pro-2609162/</guid>
-    </item>
+    <lastBuildDate>Tue, 06 Oct 2026 21:25:49 +0000</lastBuildDate>
     <item>
       <title>TECLAST T60Mini － Android 17と2.5Kディスプレイ搭載の8.8インチタブレットがクーポン利用で20,900円！</title>
       <link>https://win-tab.net/sale/teclast-t60mini-sale-2609171/</link>
@@ -206,6 +196,16 @@
       <title>エレコム Leggero メカニカルキーボード － 国内大手周辺機器メーカーが手掛ける日本語配列の赤軸/静音赤軸メカニカル</title>
       <link>https://win-tab.net/acc/elecom-leggero-keyboard-2610052/</link>
       <guid isPermaLink="false">https://win-tab.net/acc/elecom-leggero-keyboard-2610052/</guid>
+    </item>
+    <item>
+      <title>ORICO 65W ポータブル電源タップ レビュー － 旅行のお供に理想的なUSB充電器付き電源タップ、大電力で通常の利用にも十分な性能</title>
+      <link>https://win-tab.net/acc/orico-65w-power-tap-review-2610061/</link>
+      <guid isPermaLink="false">https://win-tab.net/acc/orico-65w-power-tap-review-2610061/</guid>
+    </item>
+    <item>
+      <title>TECLAST P35 (2026) － ストレージ32GBと割り切りつつWidevine L1に対応する10.1インチエントリータブレット、セールで10,500円！</title>
+      <link>https://win-tab.net/android/teclast-p35-2026-2610062/</link>
+      <guid isPermaLink="false">https://win-tab.net/android/teclast-p35-2026-2610062/</guid>
     </item>
   </channel>
 </rss>
