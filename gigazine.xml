@@ -6,22 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Oct 2026 21:26:18 +0000</lastBuildDate>
-    <item>
-      <title>AIエージェント「Hermes Agent」新機能「Local Models」でローカルAIモデル「Qwen3.8 27B」を直接動かしてみた、16GBのVRAMでも量子化で高速動作</title>
-      <link>https://gigazine.net/news/20260916-hermes-agent-local-ai-model/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260916-hermes-agent-local-ai-model/</guid>
-    </item>
-    <item>
-      <title>「iPhone 18 Pro」の外観を細かく撮影してみたよレビュー、新色「バーガンディ」はこんな感じでiPhone 17 Proとの比較もあり</title>
-      <link>https://gigazine.net/news/20260918-iphone-18-pro-appearance/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260918-iphone-18-pro-appearance/</guid>
-    </item>
-    <item>
-      <title>Apple Watch Ultra 4速攻フォトレビュー、ヘルスケアセンサーが刷新された上位モデルの外観をチェック</title>
-      <link>https://gigazine.net/news/20260918-apple-watch-ultra-4-appearances/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260918-apple-watch-ultra-4-appearances/</guid>
-    </item>
+    <lastBuildDate>Sat, 10 Oct 2026 20:27:00 +0000</lastBuildDate>
     <item>
       <title>Apple Watch Series 12開封の儀＆フォトレビュー、ヘルスセンシングシステムが新しくなって健康トラッカーとして進化</title>
       <link>https://gigazine.net/news/20260918-apple-watch-series-12-appearances/</link>
@@ -206,6 +191,21 @@
       <title>フルスクリーン表示のメッセージを簡単に作成してリンクで共有可能な「BIGWORDS.PAGE」</title>
       <link>https://gigazine.net/news/20261009-bigwords-page/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261009-bigwords-page/</guid>
+    </item>
+    <item>
+      <title>無料でOpenStreetMapにスマホから店舗や施設を追加できる「Every Door」</title>
+      <link>https://gigazine.net/news/20261010-every-door/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261010-every-door/</guid>
+    </item>
+    <item>
+      <title>25倍ズームで遠くまで大きく写せるソニー製デジカメ「RX10 V」を使って動物や食べ物を撮影してみた作例はこんな感じ、スマホのAIズームとは別格の出来栄え</title>
+      <link>https://gigazine.net/news/20261010-sony-rx10-v-photo-example/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261010-sony-rx10-v-photo-example/</guid>
+    </item>
+    <item>
+      <title>無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能</title>
+      <link>https://gigazine.net/news/20261010-readest/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261010-readest/</guid>
     </item>
   </channel>
 </rss>

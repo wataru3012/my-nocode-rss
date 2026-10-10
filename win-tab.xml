@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Oct 2026 21:25:25 +0000</lastBuildDate>
-    <item>
-      <title>MSI Cyborg 17 B13W － 17.3インチでスケルトン筐体を採用したRTX 5070搭載ゲーミングノート</title>
-      <link>https://win-tab.net/msi/cyborg-17-b13w-2609192/</link>
-      <guid isPermaLink="false">https://win-tab.net/msi/cyborg-17-b13w-2609192/</guid>
-    </item>
-    <item>
-      <title>Lenovo セール情報 － 決算売り尽くしセールPart2がスタート、ThinkPad X13 Gen 7が199,980円、しかもポイント10倍！</title>
-      <link>https://win-tab.net/sale/lenovo-sale-2609201/</link>
-      <guid isPermaLink="false">https://win-tab.net/sale/lenovo-sale-2609201/</guid>
-    </item>
+    <lastBuildDate>Sat, 10 Oct 2026 20:26:01 +0000</lastBuildDate>
     <item>
       <title>TECLAST M60 － Android 17搭載で12インチと大きめサイズのタブレット、発売記念セールで21,900円！</title>
       <link>https://win-tab.net/android/teclast-m60-2609211/</link>
@@ -206,6 +196,16 @@
       <title>HP セール情報 －「大決算祭り 第2弾」がスタート、ニューモデルも続々とセール価格に！</title>
       <link>https://win-tab.net/sale/hp-sale-2610092/</link>
       <guid isPermaLink="false">https://win-tab.net/sale/hp-sale-2610092/</guid>
+    </item>
+    <item>
+      <title>Lenovo セール情報 － ThinkPad 34周年記念セールは10月15日まで、今週はタブレットもお買い得です</title>
+      <link>https://win-tab.net/sale/lenovo-sale-2610101/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/lenovo-sale-2610101/</guid>
+    </item>
+    <item>
+      <title>ORICOのプチプラで便利な周辺機器にAmazonで使える割引クーポンが！2,000円以下から購入できます</title>
+      <link>https://win-tab.net/sale/orico-sale-2610102/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/orico-sale-2610102/</guid>
     </item>
   </channel>
 </rss>
