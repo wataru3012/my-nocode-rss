@@ -6,7 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Oct 2026 20:25:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 20:44:07 +0000</lastBuildDate>
     <item>
       <title>ThinkPadが約18万円引きってアリ？46%オフにメモリ無料増量まで</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/special/2142912.html</link>
@@ -243,59 +243,9 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2147014.html</guid>
     </item>
     <item>
-      <title>【コラム】折りたたみは一度ハマったら戻れない。開かず決済できる「razr 60 ultra」が好き</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/kaimono/2140710.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/kaimono/2140710.html</guid>
-    </item>
-    <item>
-      <title>512GBのDDR5メモリが登場。しかも9,200MT/sで爆速</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2141247.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2141247.html</guid>
-    </item>
-    <item>
-      <title>300B級LLMが動くミニPC「EVO-X5 Pro」、9月28日発売</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2141237.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2141237.html</guid>
-    </item>
-    <item>
-      <title>【レビュー】ダイソーのイス付きリュック、カッターが貫通する薄さでPCは要注意</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2141206.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2141206.html</guid>
-    </item>
-    <item>
-      <title>【レビュー】PC高いなら長く使え！バッテリもSSDも自分で換えられる「LAVIE N16」</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2141174.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2141174.html</guid>
-    </item>
-    <item>
-      <title>カタログのバッテリ時間はなぜ実際と違う？JEITAが解説ガイド公開</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2147237.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2147237.html</guid>
-    </item>
-    <item>
       <title>打倒MacBook Pro？Surface Laptop Ultraが目指すモノ作りしやすいマシン</title>
       <link>https://pc.watch.impress.co.jp/docs/column/ubiq/2147205.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/ubiq/2147205.html</guid>
-    </item>
-    <item>
-      <title>Windows App、リモートPC接続が正式提供に。職場アカウント不要</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2147045.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2147045.html</guid>
-    </item>
-    <item>
-      <title>相次ぐサイバー攻撃被害。国家サイバー統括室が事業者に対策徹底を要請</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2147200.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2147200.html</guid>
-    </item>
-    <item>
-      <title>高速版「Qwen-Image-2.1-Turbo」重み公開、画像生成8ステップで完了</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2147316.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2147316.html</guid>
-    </item>
-    <item>
-      <title>写真も動画も声もまとめて0.74Bで検索。ローカルRAG向け「EmbeddingGemma 2」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2147318.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2147318.html</guid>
     </item>
     <item>
       <title>全面アルミで1.18kg、180度開く14型ノート「Swift Air 14」</title>
@@ -303,49 +253,9 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2147313.html</guid>
     </item>
     <item>
-      <title>SSD換装+OS丸ごとデータ移行を無料ソフト「Clonezilla」でやろう</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2147255.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2147255.html</guid>
-    </item>
-    <item>
-      <title>「Windows＋V」から始める快適クリップボード生活</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2147257.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2147257.html</guid>
-    </item>
-    <item>
-      <title>1,180円からの静音3ボタンマウス、エレコムが接続方式3種で展開</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2147317.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2147317.html</guid>
-    </item>
-    <item>
       <title>バッテリを外したら、代わりにファンが付いた。GPD WIN Max 3の“着脱式”はただのギミックじゃありません</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2147299.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2147299.html</guid>
-    </item>
-    <item>
-      <title>Amazonで2万円切り！レグザの200Hzゲーミングモニター</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2147149.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2147149.html</guid>
-    </item>
-    <item>
-      <title>AmazonでRTX Spark搭載MSIノートが予約開始。109万9,800円から</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2147329.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2147329.html</guid>
-    </item>
-    <item>
-      <title>8万円引き！31.5型や26.5型の4KゲーミングモニターがAmazonで特価</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2147337.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2147337.html</guid>
-    </item>
-    <item>
-      <title>Mac向け5Kモニターが2万1,836円引き。Amazonでセール中</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2147349.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2147349.html</guid>
-    </item>
-    <item>
-      <title>3:2で縦に広いプログラマー向け4Kモニターが2万1,509円引き。Amazonセール</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2147352.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2147352.html</guid>
     </item>
   </channel>
 </rss>
