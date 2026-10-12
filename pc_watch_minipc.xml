@@ -6,12 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Oct 2026 20:44:07 +0000</lastBuildDate>
-    <item>
-      <title>ThinkPadが約18万円引きってアリ？46%オフにメモリ無料増量まで</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/special/2142912.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2142912.html</guid>
-    </item>
+    <lastBuildDate>Mon, 12 Oct 2026 23:24:56 +0000</lastBuildDate>
     <item>
       <title>7,000mAhで2日間動作！なのに193gしかないスマホ「motorola edge 70 fusion」</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2143240.html</link>
@@ -256,6 +251,11 @@
       <title>バッテリを外したら、代わりにファンが付いた。GPD WIN Max 3の“着脱式”はただのギミックじゃありません</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2147299.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2147299.html</guid>
+    </item>
+    <item>
+      <title>ついに実機を入手！Surface Laptop UltraとProArt P16開封の儀</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2147419.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2147419.html</guid>
     </item>
   </channel>
 </rss>
