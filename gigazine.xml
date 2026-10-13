@@ -6,27 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Oct 2026 23:26:10 +0000</lastBuildDate>
-    <item>
-      <title>無料でAIエージェントの追跡・評価・プロンプト管理・本番環境の監視ができる「Opik」、セルフホスト可能</title>
-      <link>https://gigazine.net/news/20260919-opik/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260919-opik/</guid>
-    </item>
-    <item>
-      <title>Meta独自のスマートグラス「Meta Glasses」フォトレビュー、本体のデザインからケース・付属品までチェック</title>
-      <link>https://gigazine.net/news/20260919-meta-adventurer/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260919-meta-adventurer/</guid>
-    </item>
-    <item>
-      <title>VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた</title>
-      <link>https://gigazine.net/news/20260919-arc-pro-b70-llm-review/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260919-arc-pro-b70-llm-review/</guid>
-    </item>
-    <item>
-      <title>屋外イベントで使う持ち運び用冷蔵庫としてPhilipsの車載用サーマルボックスを買ってみた、マイナス22度まで冷やせるので冷凍ラムネもOK</title>
-      <link>https://gigazine.net/news/20260920-philips-thermal-box/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260920-philips-thermal-box/</guid>
-    </item>
+    <lastBuildDate>Tue, 13 Oct 2026 21:42:01 +0000</lastBuildDate>
     <item>
       <title>netcatと同様だがTailscaleのデータプレーン上で動作する「Tailcat」</title>
       <link>https://gigazine.net/news/20260920-tailcat/</link>
@@ -206,6 +186,26 @@
       <title>無料で自分のPCにインストールされているAIエージェント・ハーネス・MCPサーバー・プラグイン・AI拡張機能をすべてスキャンして列挙してレポートしてくれる「Geiger」</title>
       <link>https://gigazine.net/news/20261012-geiger/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261012-geiger/</guid>
+    </item>
+    <item>
+      <title>後続のために道を切り開いていく繰り返し前提のブラウザゲーム「Missile Stream」をプレイしてみた</title>
+      <link>https://gigazine.net/news/20261013-missile-stream/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261013-missile-stream/</guid>
+    </item>
+    <item>
+      <title>無料で7種類の超小型AIモデルをブラウザで動かせる「MicroLLM lab」、WebGPUで端末のGPUを活用</title>
+      <link>https://gigazine.net/news/20261013-microllm-lab-browser-webgpu/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261013-microllm-lab-browser-webgpu/</guid>
+    </item>
+    <item>
+      <title>「もしマインスイーパーがAAA級タイトルだったら」という過剰な演出と親切すぎる誘導が満載の「Triple-A Minesweeper」</title>
+      <link>https://gigazine.net/news/20261013-triple-a-minesweeper/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261013-triple-a-minesweeper/</guid>
+    </item>
+    <item>
+      <title>いかにも本物っぽいオンライン会議の画面と音声で「今ちょっと忙しくて……」の言い訳に使える「Fleeting」、GoogleカレンダーやOutlookに予定を登録もできる</title>
+      <link>https://gigazine.net/news/20261013-fleeting/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261013-fleeting/</guid>
     </item>
   </channel>
 </rss>

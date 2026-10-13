@@ -6,22 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Oct 2026 23:25:18 +0000</lastBuildDate>
-    <item>
-      <title>Googlebook、ASUSやHPなど5メーカーから5機種が発表され、米国でプレオーダーがスタート</title>
-      <link>https://win-tab.net/opinion/googlebook-pre-order-2609222/</link>
-      <guid isPermaLink="false">https://win-tab.net/opinion/googlebook-pre-order-2609222/</guid>
-    </item>
-    <item>
-      <title>mouse X2 － 12.2インチで重さ1キロを切るコンパクトなモバイルノート、Ryzen AI 300シリーズ搭載のCopilot+ PC</title>
-      <link>https://win-tab.net/mouse/mouse-x2-2609231/</link>
-      <guid isPermaLink="false">https://win-tab.net/mouse/mouse-x2-2609231/</guid>
-    </item>
-    <item>
-      <title>TECLASTのタブレット、T65がAmazonでセールに！13.4インチの大画面で動画視聴も快適！</title>
-      <link>https://win-tab.net/sale/teclast-t65-sale-2609232/</link>
-      <guid isPermaLink="false">https://win-tab.net/sale/teclast-t65-sale-2609232/</guid>
-    </item>
+    <lastBuildDate>Tue, 13 Oct 2026 21:41:09 +0000</lastBuildDate>
     <item>
       <title>GPD WIN Max 3 － Ryzen AI Maxシリーズ搭載でモジュール構造の9インチポータブルPCが国内で予約販売開始</title>
       <link>https://win-tab.net/imported/gpd-win-max-3-2609241/</link>
@@ -206,6 +191,21 @@
       <title>UGREENのAmazonプライム感謝祭 － ガジェットの「充電まわり」はUGREENにお任せ！限定クーポンあります！</title>
       <link>https://win-tab.net/sale/ugreen-amazon-sale-2610122/</link>
       <guid isPermaLink="false">https://win-tab.net/sale/ugreen-amazon-sale-2610122/</guid>
+    </item>
+    <item>
+      <title>ALLDOCUBE iPlay 80E レビュー － 11インチ2.5K解像度のディスプレイ、SoCはUNISOC T7300、普段使いタブとしておすすめ！</title>
+      <link>https://win-tab.net/android/alldocube-iplay-80e-review-2610131/</link>
+      <guid isPermaLink="false">https://win-tab.net/android/alldocube-iplay-80e-review-2610131/</guid>
+    </item>
+    <item>
+      <title>XPPenのAmazonプライム感謝祭 － 高品質な液晶ペンタブレット (液タブ)やお絵描きAndroidタブレットがセール価格に！</title>
+      <link>https://win-tab.net/sale/xppen-amazon-sale-2610132/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/xppen-amazon-sale-2610132/</guid>
+    </item>
+    <item>
+      <title>TECLASTのAmazonプライム感謝祭 － 人気の8.8インチタブ「T60Mini」や13.4インチの大型タブ「T65」がセール価格に！</title>
+      <link>https://win-tab.net/sale/teclast-amazon-sale-2610133/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/teclast-amazon-sale-2610133/</guid>
     </item>
   </channel>
 </rss>

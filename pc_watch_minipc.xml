@@ -6,22 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Oct 2026 23:24:56 +0000</lastBuildDate>
-    <item>
-      <title>7,000mAhで2日間動作！なのに193gしかないスマホ「motorola edge 70 fusion」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2143240.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2143240.html</guid>
-    </item>
-    <item>
-      <title>iPad mini並みの精細さで4万円前後、PHILIPS「T7250」は読書向き</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/ebook/2143527.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/ebook/2143527.html</guid>
-    </item>
-    <item>
-      <title>手が届くXPSが登場！新XPS 13は初めての1台にも最適なモバイルノートだ</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/special/2137202.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2137202.html</guid>
-    </item>
+    <lastBuildDate>Tue, 13 Oct 2026 21:40:52 +0000</lastBuildDate>
     <item>
       <title>約108万円で320B LLM をオフライン実行できる「EVO-X5 Pro」</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2144148.html</link>
@@ -256,6 +241,21 @@
       <title>ついに実機を入手！Surface Laptop UltraとProArt P16開封の儀</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2147419.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2147419.html</guid>
+    </item>
+    <item>
+      <title>5万円引きで6万円切り！Ryzen 5搭載ミニPCがAmazonでお得</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/special/2147002.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2147002.html</guid>
+    </item>
+    <item>
+      <title>Core Ultra 7 258V搭載で1台3役の「OneXPlayer X2 Air」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2147494.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2147494.html</guid>
+    </item>
+    <item>
+      <title>ZOTAC、GeForce RTX 5080搭載で世界最小クラスをうたうミニPC</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2147705.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2147705.html</guid>
     </item>
   </channel>
 </rss>
