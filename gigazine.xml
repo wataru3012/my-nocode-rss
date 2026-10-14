@@ -6,12 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Oct 2026 21:42:01 +0000</lastBuildDate>
-    <item>
-      <title>netcatと同様だがTailscaleのデータプレーン上で動作する「Tailcat」</title>
-      <link>https://gigazine.net/news/20260920-tailcat/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260920-tailcat/</guid>
-    </item>
+    <lastBuildDate>Wed, 14 Oct 2026 20:24:31 +0000</lastBuildDate>
     <item>
       <title>Geminiが使えるスマートウォッチ「Google Pixel Watch 5」を使ってみた</title>
       <link>https://gigazine.net/news/20260921-google-pixel-watch-review/</link>
@@ -206,6 +201,11 @@
       <title>いかにも本物っぽいオンライン会議の画面と音声で「今ちょっと忙しくて……」の言い訳に使える「Fleeting」、GoogleカレンダーやOutlookに予定を登録もできる</title>
       <link>https://gigazine.net/news/20261013-fleeting/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261013-fleeting/</guid>
+    </item>
+    <item>
+      <title>GoogleのEmbeddingGemma 2を音声認識モデルに変換した「Embedding Gemma Transcribe」、オフライン環境のMacなら15分の音声をわずか約3秒で爆速文字起こし可能</title>
+      <link>https://gigazine.net/news/20261014-embetting-gemma-transcribe/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261014-embetting-gemma-transcribe/</guid>
     </item>
   </channel>
 </rss>

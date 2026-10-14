@@ -6,12 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Oct 2026 21:40:52 +0000</lastBuildDate>
-    <item>
-      <title>約108万円で320B LLM をオフライン実行できる「EVO-X5 Pro」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2144148.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2144148.html</guid>
-    </item>
+    <lastBuildDate>Wed, 14 Oct 2026 20:23:20 +0000</lastBuildDate>
     <item>
       <title>レノボ、4K液晶&amp;ジェスチャーAI搭載の「Lenovo Yoga Tab」2モデルを発表</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2144226.html</link>
@@ -256,6 +251,116 @@
       <title>ZOTAC、GeForce RTX 5080搭載で世界最小クラスをうたうミニPC</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2147705.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2147705.html</guid>
+    </item>
+    <item>
+      <title>ついに買える！RTX SparkのASUSノートが予約開始、94万円台から</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2147835.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2147835.html</guid>
+    </item>
+    <item>
+      <title>【コラム】折りたたみは一度ハマったら戻れない。開かず決済できる「razr 60 ultra」が好き</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/kaimono/2140710.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/kaimono/2140710.html</guid>
+    </item>
+    <item>
+      <title>512GBのDDR5メモリが登場。しかも9,200MT/sで爆速</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2141247.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2141247.html</guid>
+    </item>
+    <item>
+      <title>300B級LLMが動くミニPC「EVO-X5 Pro」、9月28日発売</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2141237.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2141237.html</guid>
+    </item>
+    <item>
+      <title>【レビュー】ダイソーのイス付きリュック、カッターが貫通する薄さでPCは要注意</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2141206.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2141206.html</guid>
+    </item>
+    <item>
+      <title>【レビュー】PC高いなら長く使え！バッテリもSSDも自分で換えられる「LAVIE N16」</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2141174.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2141174.html</guid>
+    </item>
+    <item>
+      <title>Apple初のスマートディスプレイ「HomeView」、Siri AI搭載で299ドル</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2147937.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2147937.html</guid>
+    </item>
+    <item>
+      <title>15.6型×3画面を折りたたんで持ち運べるモニター、サンコーから</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2147995.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2147995.html</guid>
+    </item>
+    <item>
+      <title>参加者全員にMax 5x Planと500ドル。Anthropic初の国内ハッカソン</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2148028.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2148028.html</guid>
+    </item>
+    <item>
+      <title>社員3名→50名超、導入10倍、利用は世界の1.9倍。Anthropic東京の1年</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2148019.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2148019.html</guid>
+    </item>
+    <item>
+      <title>ピンマイクでも手持ちでも使えるElgato初のワイヤレスマイク「Wave Go」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2148033.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2148033.html</guid>
+    </item>
+    <item>
+      <title>Perixx、人差し指で操作する40mmトラックボール搭載マウス2機種</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2148068.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2148068.html</guid>
+    </item>
+    <item>
+      <title>画質か速さか、ボタン1つで選べる。ASUSの31.5型有機ELモニター</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2148042.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2148042.html</guid>
+    </item>
+    <item>
+      <title>インテルやMSIなど4社が公式監修したカプセルトイ「手のひらPCパーツ」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/yajiuma/2148094.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/yajiuma/2148094.html</guid>
+    </item>
+    <item>
+      <title>Windows 11の10月更新、ゲームのマウスのカクつき修正。脆弱性は1,102件</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2148083.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2148083.html</guid>
+    </item>
+    <item>
+      <title>Androidアプリを解析してサーバー攻撃、NICTが情報漏洩の原因と注意喚起</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2148098.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2148098.html</guid>
+    </item>
+    <item>
+      <title>Microsoft、警察庁などと協力し中国語利用の国際的サイバー犯罪市場の解体に着手</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2148191.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2148191.html</guid>
+    </item>
+    <item>
+      <title>Xiaomiのハイエンドスマホが2万円オトクに！Amazonプライム感謝祭先行セール</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2147891.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2147891.html</guid>
+    </item>
+    <item>
+      <title>Shokzの骨伝導ヘッドフォン「OpenRun Pro 2」が5,569円引きでタイムセール中</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2147910.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2147910.html</guid>
+    </item>
+    <item>
+      <title>クロレッツのボトルガム6個セットが約1,500円引きでオトク</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2147925.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2147925.html</guid>
+    </item>
+    <item>
+      <title>4万円引き！レノボの15.3型Core 5ノートが11万円台に。Amazonセール</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2147899.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2147899.html</guid>
+    </item>
+    <item>
+      <title>驚異の9万5千円引き！RTX 5070のゲーミングノートがAmazonでセール中</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2147986.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2147986.html</guid>
     </item>
   </channel>
 </rss>

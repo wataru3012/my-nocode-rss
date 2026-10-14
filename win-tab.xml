@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Oct 2026 21:41:09 +0000</lastBuildDate>
-    <item>
-      <title>GPD WIN Max 3 － Ryzen AI Maxシリーズ搭載でモジュール構造の9インチポータブルPCが国内で予約販売開始</title>
-      <link>https://win-tab.net/imported/gpd-win-max-3-2609241/</link>
-      <guid isPermaLink="false">https://win-tab.net/imported/gpd-win-max-3-2609241/</guid>
-    </item>
-    <item>
-      <title>pCloudをLinuxで使ってみた！Linux用のアプリが用意されていて、導入は超簡単！</title>
-      <link>https://win-tab.net/deskapp/pcloud-drive-on-linux-2609242/</link>
-      <guid isPermaLink="false">https://win-tab.net/deskapp/pcloud-drive-on-linux-2609242/</guid>
-    </item>
+    <lastBuildDate>Wed, 14 Oct 2026 20:23:38 +0000</lastBuildDate>
     <item>
       <title>MSI Modern A14 AI+ F3HM － Ryzen AI 5 330搭載、実用性重視の14インチCopilot+ PC</title>
       <link>https://win-tab.net/msi/modern-a14-ai-f3hm-2609251/</link>
@@ -206,6 +196,16 @@
       <title>TECLASTのAmazonプライム感謝祭 － 人気の8.8インチタブ「T60Mini」や13.4インチの大型タブ「T65」がセール価格に！</title>
       <link>https://win-tab.net/sale/teclast-amazon-sale-2610133/</link>
       <guid isPermaLink="false">https://win-tab.net/sale/teclast-amazon-sale-2610133/</guid>
+    </item>
+    <item>
+      <title>ALLDOCUBEのAmazonプライム感謝祭 － 大人気の8インチ「iPlay 80 miniシリーズ」に割引クーポン！ニューモデルのiPlay 80Eも格安に！</title>
+      <link>https://win-tab.net/sale/alldocube-amazon-sale-2610141/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/alldocube-amazon-sale-2610141/</guid>
+    </item>
+    <item>
+      <title>BlackviewのAmazonプライム感謝祭 － スマホやタブレットのエントリーモデルに加え、PCモニターやスマートサングラスもセール対象に</title>
+      <link>https://win-tab.net/sale/blackview-amazon-sale-2610142/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/blackview-amazon-sale-2610142/</guid>
     </item>
   </channel>
 </rss>
