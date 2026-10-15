@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Oct 2026 20:23:38 +0000</lastBuildDate>
-    <item>
-      <title>MSI Modern A14 AI+ F3HM － Ryzen AI 5 330搭載、実用性重視の14インチCopilot+ PC</title>
-      <link>https://win-tab.net/msi/modern-a14-ai-f3hm-2609251/</link>
-      <guid isPermaLink="false">https://win-tab.net/msi/modern-a14-ai-f3hm-2609251/</guid>
-    </item>
-    <item>
-      <title>HP セール情報 － 9月限定セールは終了間近、発売直後のCopilot+PCもセール価格に！</title>
-      <link>https://win-tab.net/sale/hp-sale-2609252/</link>
-      <guid isPermaLink="false">https://win-tab.net/sale/hp-sale-2609252/</guid>
-    </item>
+    <lastBuildDate>Thu, 15 Oct 2026 20:09:06 +0000</lastBuildDate>
     <item>
       <title>Lenovo セール情報 － ThinkPad EシリーズがRAM増量無料！タブレットは専用クーポンで最大1万円の追加割引！</title>
       <link>https://win-tab.net/sale/lenovo-sale-2609261/</link>
@@ -206,6 +196,16 @@
       <title>BlackviewのAmazonプライム感謝祭 － スマホやタブレットのエントリーモデルに加え、PCモニターやスマートサングラスもセール対象に</title>
       <link>https://win-tab.net/sale/blackview-amazon-sale-2610142/</link>
       <guid isPermaLink="false">https://win-tab.net/sale/blackview-amazon-sale-2610142/</guid>
+    </item>
+    <item>
+      <title>FPD CP12-J1 レビュー － 12インチで高精細なディスプレイを搭載、この価格帯では最高レベルのタブレットでは？</title>
+      <link>https://win-tab.net/android/fpd-cp12-j1-review-2610151/</link>
+      <guid isPermaLink="false">https://win-tab.net/android/fpd-cp12-j1-review-2610151/</guid>
+    </item>
+    <item>
+      <title>AOOSTARのAmazonプライム感謝祭 － ハイスペックなミニPCと個性的なeGPUドック＆SSDケースが特価に！</title>
+      <link>https://win-tab.net/sale/aoostar-amazon-sale-2610152/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/aoostar-amazon-sale-2610152/</guid>
     </item>
   </channel>
 </rss>

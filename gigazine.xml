@@ -6,12 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Oct 2026 20:24:31 +0000</lastBuildDate>
-    <item>
-      <title>Geminiが使えるスマートウォッチ「Google Pixel Watch 5」を使ってみた</title>
-      <link>https://gigazine.net/news/20260921-google-pixel-watch-review/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260921-google-pixel-watch-review/</guid>
-    </item>
+    <lastBuildDate>Thu, 15 Oct 2026 20:09:57 +0000</lastBuildDate>
     <item>
       <title>無料でクラウド・ローカルの各AIモデルをOpenAI互換の単一APIでまとめて品質・速度・コストで最適化して管理しAIエージェントがどれだけの金額を使用できるかも制御できるオープンソースのゲートウェイ・ルーター「Experiential」</title>
       <link>https://gigazine.net/news/20260921-experiential/</link>
@@ -206,6 +201,11 @@
       <title>GoogleのEmbeddingGemma 2を音声認識モデルに変換した「Embedding Gemma Transcribe」、オフライン環境のMacなら15分の音声をわずか約3秒で爆速文字起こし可能</title>
       <link>https://gigazine.net/news/20261014-embetting-gemma-transcribe/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261014-embetting-gemma-transcribe/</guid>
+    </item>
+    <item>
+      <title>住宅を55戸建てようとしたら3年後には34戸に、住民と行政に振り回されるゲーム「Discretionary Review」をプレイしてみた</title>
+      <link>https://gigazine.net/news/20261015-san-francisco-housing-simulator/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261015-san-francisco-housing-simulator/</guid>
     </item>
   </channel>
 </rss>
