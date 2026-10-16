@@ -6,37 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Oct 2026 20:08:46 +0000</lastBuildDate>
-    <item>
-      <title>“ちょうどいい”13.3型レッツノート、NC7がついに個人向けへ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2144678.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2144678.html</guid>
-    </item>
-    <item>
-      <title>価格115万円のミニPC。メモリ192GBのRyzen AI Max+ PRO 495搭載機</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2144792.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2144792.html</guid>
-    </item>
-    <item>
-      <title>NPU性能61%増しで厚さ5.1mm、Galaxy Tab S12シリーズ登場</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2144829.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2144829.html</guid>
-    </item>
-    <item>
-      <title>アスク、NieR 15周年コラボケース採用の自作PCキット。組立代行モデルも</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2144927.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2144927.html</guid>
-    </item>
-    <item>
-      <title>Kindleラインナップ刷新！全モデルフラット前面で薄型化。2万9,980円から</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2145082.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145082.html</guid>
-    </item>
-    <item>
-      <title>RTX Spark搭載Surface、10月7日に正式発表。ライブ配信も</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2145161.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145161.html</guid>
-    </item>
+    <lastBuildDate>Fri, 16 Oct 2026 19:46:41 +0000</lastBuildDate>
     <item>
       <title>メモリ64GB版「DGX Spark」登場。4,999ドルで、128GB版は値上げ</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2145000.html</link>
@@ -256,6 +226,36 @@
       <title>透明だけじゃない。「ROG XBOX Ally X20」の7つの進化点をチェックした</title>
       <link>https://pc.watch.impress.co.jp/docs/column/hothot/2147798.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2147798.html</guid>
+    </item>
+    <item>
+      <title>アルミの質感がいい！王道デザインのミニPC「AOOSTAR MACO H255」を試した</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/short-review/2148059.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/short-review/2148059.html</guid>
+    </item>
+    <item>
+      <title>日本HP、RTX Spark搭載で薄さ15.7mmの16型ノートPC</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2148591.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2148591.html</guid>
+    </item>
+    <item>
+      <title>省電力RyzenのミニPCが3万7,998円で購入可能。4万9千円引きモデルも！</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/special/2147887.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2147887.html</guid>
+    </item>
+    <item>
+      <title>「箱を開けたらAIエージェント」の時代に！PCを変えるNVIDIA RTX Sparkをライブで実機解説【10月16日(金)21時配信】</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2148874.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2148874.html</guid>
+    </item>
+    <item>
+      <title>128GBの統合メモリで大型ローカルAIを動かす。RTX Spark搭載「ProArt P14」</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2148879.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2148879.html</guid>
+    </item>
+    <item>
+      <title>フロンティアモデルAIを出先でも！NVIDIA RTX Spark搭載Surface実機レビュー</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/ubiq/2148969.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/ubiq/2148969.html</guid>
     </item>
   </channel>
 </rss>

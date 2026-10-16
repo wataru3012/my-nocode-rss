@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Oct 2026 20:09:06 +0000</lastBuildDate>
-    <item>
-      <title>Lenovo セール情報 － ThinkPad EシリーズがRAM増量無料！タブレットは専用クーポンで最大1万円の追加割引！</title>
-      <link>https://win-tab.net/sale/lenovo-sale-2609261/</link>
-      <guid isPermaLink="false">https://win-tab.net/sale/lenovo-sale-2609261/</guid>
-    </item>
-    <item>
-      <title>JOMAA 大型タッチパッド付きポータブルトラベルキーボード レビュー － スマホ用に欲しい機能が全部そろった欲張りモバイルキーボード</title>
-      <link>https://win-tab.net/acc/jomaa-keyboard-with-touchpad-review-2609262/</link>
-      <guid isPermaLink="false">https://win-tab.net/acc/jomaa-keyboard-with-touchpad-review-2609262/</guid>
-    </item>
+    <lastBuildDate>Fri, 16 Oct 2026 19:47:00 +0000</lastBuildDate>
     <item>
       <title>PHYSCE 67W GaN急速充電器レビュー － 出力が見えるRGBライトとバッテリー保護モードを搭載！実用性も申し分なし</title>
       <link>https://win-tab.net/acc/physce-67w-charger-review-2609271/</link>
@@ -206,6 +196,16 @@
       <title>AOOSTARのAmazonプライム感謝祭 － ハイスペックなミニPCと個性的なeGPUドック＆SSDケースが特価に！</title>
       <link>https://win-tab.net/sale/aoostar-amazon-sale-2610152/</link>
       <guid isPermaLink="false">https://win-tab.net/sale/aoostar-amazon-sale-2610152/</guid>
+    </item>
+    <item>
+      <title>ORICOのAmazonプライム感謝祭 － 個性的で低価格な周辺機器ならORICO！2,000円前後でいろいろ選べます</title>
+      <link>https://win-tab.net/sale/orico-amazon-sale-2610161/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/orico-amazon-sale-2610161/</guid>
+    </item>
+    <item>
+      <title>情報流出時代の身分証明：カードのICチップ電子署名は、なぜ偽造しにくいのか</title>
+      <link>https://win-tab.net/opinion/card-ic-signature-2610162/</link>
+      <guid isPermaLink="false">https://win-tab.net/opinion/card-ic-signature-2610162/</guid>
     </item>
   </channel>
 </rss>
