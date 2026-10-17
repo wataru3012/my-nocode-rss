@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Oct 2026 19:47:52 +0000</lastBuildDate>
-    <item>
-      <title>無料でクラウド・ローカルの各AIモデルをOpenAI互換の単一APIでまとめて品質・速度・コストで最適化して管理しAIエージェントがどれだけの金額を使用できるかも制御できるオープンソースのゲートウェイ・ルーター「Experiential」</title>
-      <link>https://gigazine.net/news/20260921-experiential/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260921-experiential/</guid>
-    </item>
-    <item>
-      <title>iPhoneに搭載されたApple製AIとチャットする方法、無料アプリで「Apple Foundation Models」のローカル処理能力を試せる</title>
-      <link>https://gigazine.net/news/20260921-locally-ai-apple-foundation-models/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260921-locally-ai-apple-foundation-models/</guid>
-    </item>
+    <lastBuildDate>Sat, 17 Oct 2026 18:59:25 +0000</lastBuildDate>
     <item>
       <title>無料でひとりでは無く複数人のチームで使うことができるAIエージェント「OneCLI」、オープンソースでセルフホスト可能</title>
       <link>https://gigazine.net/news/20260922-onecli/</link>
@@ -206,6 +196,16 @@
       <title>住宅を55戸建てようとしたら3年後には34戸に、住民と行政に振り回されるゲーム「Discretionary Review」をプレイしてみた</title>
       <link>https://gigazine.net/news/20261015-san-francisco-housing-simulator/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261015-san-francisco-housing-simulator/</guid>
+    </item>
+    <item>
+      <title>無料でOpenStreetMapの地図データをスマホから何でも編集できるフル機能の地図エディタ「Vespucci」</title>
+      <link>https://gigazine.net/news/20261017-vespucci/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261017-vespucci/</guid>
+    </item>
+    <item>
+      <title>すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能</title>
+      <link>https://gigazine.net/news/20261017-agentsview/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261017-agentsview/</guid>
     </item>
   </channel>
 </rss>
