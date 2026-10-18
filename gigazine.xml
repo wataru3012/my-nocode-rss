@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Oct 2026 18:59:25 +0000</lastBuildDate>
-    <item>
-      <title>無料でひとりでは無く複数人のチームで使うことができるAIエージェント「OneCLI」、オープンソースでセルフホスト可能</title>
-      <link>https://gigazine.net/news/20260922-onecli/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260922-onecli/</guid>
-    </item>
-    <item>
-      <title>AI従業員を雇って定型作業をお任せできる「Geta.Team」、各AI従業員に個別にメールアドレス・電話番号を割り当てできてセルフホスト可能、機能限定の無料版もあり</title>
-      <link>https://gigazine.net/news/20260923-geta-team/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260923-geta-team/</guid>
-    </item>
+    <lastBuildDate>Sun, 18 Oct 2026 19:09:51 +0000</lastBuildDate>
     <item>
       <title>Vlogにぴったりな小型カメラ「Osmo Pocket 4」レビュー記事・SF作家のAI論などAmazonで売上トップ10のGIGAZINE記事ランキング2026年8月版はコレ！</title>
       <link>https://gigazine.net/news/20260924-gigazine-kindle-ranking-2026-08/</link>
@@ -206,6 +196,16 @@
       <title>すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能</title>
       <link>https://gigazine.net/news/20261017-agentsview/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261017-agentsview/</guid>
+    </item>
+    <item>
+      <title>無料で地図情報から漫画背景を作成できるツール「どこでもロケハン」</title>
+      <link>https://gigazine.net/news/20261018-dokodemo-rokehan/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261018-dokodemo-rokehan/</guid>
+    </item>
+    <item>
+      <title>無料でメモをノート・カンバン・タスク・ダッシュボード・マークダウン・グラフ表示の6つに対応できAI連携・ブラウザ拡張機能・PWA・自動バックアップもできる「Poznote」、オープンソースでセルフホスト可能</title>
+      <link>https://gigazine.net/news/20261018-poznote/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261018-poznote/</guid>
     </item>
   </channel>
 </rss>
