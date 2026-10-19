@@ -6,37 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Oct 2026 19:08:43 +0000</lastBuildDate>
-    <item>
-      <title>メモリ64GB版「DGX Spark」登場。4,999ドルで、128GB版は値上げ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2145000.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145000.html</guid>
-    </item>
-    <item>
-      <title>日本からの声で進化！部材価格高騰でも妥協しない法人向けエントリーノート「Dell Pro Essential 14/15」</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/special/2140650.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2140650.html</guid>
-    </item>
-    <item>
-      <title>Thunderbolt 4に有線LANも、メモリ32GBの14型モバイルノート</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2145504.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145504.html</guid>
-    </item>
-    <item>
-      <title>macOSの「フルディスクアクセス」が厳格化へ。AI時代の危険性を考慮</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2145603.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145603.html</guid>
-    </item>
-    <item>
-      <title>iPhoneをつないでMacのローカルAIを高速化するツール</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2145651.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145651.html</guid>
-    </item>
-    <item>
-      <title>山田涼介×Crazy Raccoonの木目調PC「RØVA」、27万1,720円から</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2145710.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145710.html</guid>
-    </item>
+    <lastBuildDate>Mon, 19 Oct 2026 21:18:49 +0000</lastBuildDate>
     <item>
       <title>WIN 5と同じ心臓で、キーボードが戻ってきた。「GPD WIN Max 3」を試す</title>
       <link>https://pc.watch.impress.co.jp/docs/column/hothot/2145749.html</link>
@@ -256,6 +226,36 @@
       <title>フロンティアモデルAIを出先でも！NVIDIA RTX Spark搭載Surface実機レビュー</title>
       <link>https://pc.watch.impress.co.jp/docs/column/ubiq/2148969.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/ubiq/2148969.html</guid>
+    </item>
+    <item>
+      <title>MacBook Proより音デカ！スピーカー9基のレノボ製Androidタブレット</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2147740.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2147740.html</guid>
+    </item>
+    <item>
+      <title>【NVIDIA RTX Spark実機レビュー】Arm版Marvel Rivalsでfps最大約1.8倍に</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/review/2149084.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/review/2149084.html</guid>
+    </item>
+    <item>
+      <title>ユニットコム、Ryzen AI 7 450搭載のミニPC。指紋認証センサー付き</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2149149.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2149149.html</guid>
+    </item>
+    <item>
+      <title>かな表記が消えたdynabook、法人向け14型は4色から選べる</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2149053.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2149053.html</guid>
+    </item>
+    <item>
+      <title>パソコン工房、再生メモリ採用で価格抑えたゲーミングPC。RTX 50搭載</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/special/2148639.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2148639.html</guid>
+    </item>
+    <item>
+      <title>最大42時間駆動に1.16kg、OLEDも付いて13万円台。HPの14型ノート</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2149230.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2149230.html</guid>
     </item>
   </channel>
 </rss>

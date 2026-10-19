@@ -6,22 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Oct 2026 19:09:51 +0000</lastBuildDate>
-    <item>
-      <title>Vlogにぴったりな小型カメラ「Osmo Pocket 4」レビュー記事・SF作家のAI論などAmazonで売上トップ10のGIGAZINE記事ランキング2026年8月版はコレ！</title>
-      <link>https://gigazine.net/news/20260924-gigazine-kindle-ranking-2026-08/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260924-gigazine-kindle-ranking-2026-08/</guid>
-    </item>
-    <item>
-      <title>画像生成・編集AI「Qwen-Image-2.1」が無料のオープンモデルとして登場したので使ってみた、日本語プロンプト対応＆透過PNG画像も生成可能</title>
-      <link>https://gigazine.net/news/20260924-qwen-image-2-1/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260924-qwen-image-2-1/</guid>
-    </item>
-    <item>
-      <title>Apple Watch Series 12を1週間つけてみたレビュー、ヘルスケアトラッカーが新しくなってバッテリーの持ちも向上</title>
-      <link>https://gigazine.net/news/20260926-apple-watch-series-12-usage/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260926-apple-watch-series-12-usage/</guid>
-    </item>
+    <lastBuildDate>Mon, 19 Oct 2026 21:20:02 +0000</lastBuildDate>
     <item>
       <title>「iPhone 18 Pro」の絞り羽根搭載カメラの性能を検証するべくいろいろ撮影してみたよレビュー、これまで不可能だった光芒撮影が可能に</title>
       <link>https://gigazine.net/news/20260926-iphone-18-pro-camera-example/</link>
@@ -206,6 +191,21 @@
       <title>無料でメモをノート・カンバン・タスク・ダッシュボード・マークダウン・グラフ表示の6つに対応できAI連携・ブラウザ拡張機能・PWA・自動バックアップもできる「Poznote」、オープンソースでセルフホスト可能</title>
       <link>https://gigazine.net/news/20261018-poznote/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261018-poznote/</guid>
+    </item>
+    <item>
+      <title>脱獄したPlayStation 5のGPUでllama.cppを実行できる「PS5LM Plus」</title>
+      <link>https://gigazine.net/news/20261019-ps5lm-plus-gpu-ai/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261019-ps5lm-plus-gpu-ai/</guid>
+    </item>
+    <item>
+      <title>令嬢のドレス作画資料1639点を集めたサイト「令嬢衣装帖」、中世から近代まで全て無料で使えてドレスをカスタマイズすることも可能</title>
+      <link>https://gigazine.net/news/20261019-reijo-ishou-chou/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261019-reijo-ishou-chou/</guid>
+    </item>
+    <item>
+      <title>7日間バッテリーが持続するスマートウォッチ「Google Fitbit Edge」の見た目はこんな感じ</title>
+      <link>https://gigazine.net/news/20261019-google-fitbit-edge-appearance/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261019-google-fitbit-edge-appearance/</guid>
     </item>
   </channel>
 </rss>
