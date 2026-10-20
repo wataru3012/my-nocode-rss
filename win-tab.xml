@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Oct 2026 21:19:10 +0000</lastBuildDate>
-    <item>
-      <title>Lenovo Yoga Tab Plus Gen 2 － 13インチ4KディスプレイとSnapdragon 8 Eliteを搭載するハイスペックな大画面AIタブレット</title>
-      <link>https://win-tab.net/android/lenovo-yoga-tab-plus-gen-2-2609292/</link>
-      <guid isPermaLink="false">https://win-tab.net/android/lenovo-yoga-tab-plus-gen-2-2609292/</guid>
-    </item>
-    <item>
-      <title>Lenovo Yoga Tab Gen 2 － Dimensity 9500sと4Kディスプレイを搭載、高性能な11.1インチAIタブレット</title>
-      <link>https://win-tab.net/android/lenovo-yoga-tab-gen-2-2609301/</link>
-      <guid isPermaLink="false">https://win-tab.net/android/lenovo-yoga-tab-gen-2-2609301/</guid>
-    </item>
+    <lastBuildDate>Tue, 20 Oct 2026 20:14:53 +0000</lastBuildDate>
     <item>
       <title>TECLAST T60Mini レビュー － Android 17と2.5Kディスプレイを搭載する8.8インチタブレット上位モデル</title>
       <link>https://win-tab.net/android/teclast-t60mini-review-2609302/</link>
@@ -206,6 +196,16 @@
       <title>HP OmniBook Ultra 16 AI PC － ローカルAIを極めたい人に！RTX Spark N1X搭載のモンスターマシン</title>
       <link>https://win-tab.net/hp/omnibook-ultra-16-ai-pc-2610192/</link>
       <guid isPermaLink="false">https://win-tab.net/hp/omnibook-ultra-16-ai-pc-2610192/</guid>
+    </item>
+    <item>
+      <title>Redragon K585 シリーズ レビュー － ノートパソコンでライトにゲームするならこれ！オールマイティな左手ゲーミングキーボード</title>
+      <link>https://win-tab.net/acc/redragon-k585-series-review-2610201/</link>
+      <guid isPermaLink="false">https://win-tab.net/acc/redragon-k585-series-review-2610201/</guid>
+    </item>
+    <item>
+      <title>Headwolf FPad9 － UNISOC T7300と2.5Kディスプレイを搭載する8.8インチタブレット、競合製品との違いは？</title>
+      <link>https://win-tab.net/android/headwolf-fpad9-2610202/</link>
+      <guid isPermaLink="false">https://win-tab.net/android/headwolf-fpad9-2610202/</guid>
     </item>
   </channel>
 </rss>
