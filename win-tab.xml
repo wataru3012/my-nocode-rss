@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Oct 2026 20:14:53 +0000</lastBuildDate>
-    <item>
-      <title>TECLAST T60Mini レビュー － Android 17と2.5Kディスプレイを搭載する8.8インチタブレット上位モデル</title>
-      <link>https://win-tab.net/android/teclast-t60mini-review-2609302/</link>
-      <guid isPermaLink="false">https://win-tab.net/android/teclast-t60mini-review-2609302/</guid>
-    </item>
-    <item>
-      <title>ugee ArtPlay Pad － 16,384段階の筆圧に対応する12インチの「子ども・初心者向け」お絵描きAndroidタブレット</title>
-      <link>https://win-tab.net/android/ugee-artplay-pad-2610011/</link>
-      <guid isPermaLink="false">https://win-tab.net/android/ugee-artplay-pad-2610011/</guid>
-    </item>
+    <lastBuildDate>Wed, 21 Oct 2026 20:25:41 +0000</lastBuildDate>
     <item>
       <title>サンワサプライ 軽量エルゴノミクスマウス MA-EBBS536BL － 重さ62gでスリム形状のエルゴノミクスマウス</title>
       <link>https://win-tab.net/acc/sanwa-ma-ebbs536bl-2610012/</link>
@@ -206,6 +196,16 @@
       <title>Headwolf FPad9 － UNISOC T7300と2.5Kディスプレイを搭載する8.8インチタブレット、競合製品との違いは？</title>
       <link>https://win-tab.net/android/headwolf-fpad9-2610202/</link>
       <guid isPermaLink="false">https://win-tab.net/android/headwolf-fpad9-2610202/</guid>
+    </item>
+    <item>
+      <title>HP OmniBook 5 14-mh － 4色展開で重さ1.16kg！軽量でハイコスパな14インチ有機ELノートPC</title>
+      <link>https://win-tab.net/hp/omnibook-5-14-mh-2610211/</link>
+      <guid isPermaLink="false">https://win-tab.net/hp/omnibook-5-14-mh-2610211/</guid>
+    </item>
+    <item>
+      <title>Suunto Core 2 レビュー － あえてスマートウォッチにしないという選択。単体でABC機能が使える本格アウトドアウォッチ</title>
+      <link>https://win-tab.net/acc/suunto-core-2-review-2610212/</link>
+      <guid isPermaLink="false">https://win-tab.net/acc/suunto-core-2-review-2610212/</guid>
     </item>
   </channel>
 </rss>
