@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Oct 2026 20:26:36 +0000</lastBuildDate>
-    <item>
-      <title>「iPhone 18 Pro」の絞り羽根搭載カメラの性能を検証するべくいろいろ撮影してみたよレビュー、これまで不可能だった光芒撮影が可能に</title>
-      <link>https://gigazine.net/news/20260926-iphone-18-pro-camera-example/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260926-iphone-18-pro-camera-example/</guid>
-    </item>
-    <item>
-      <title>darktableをフォークして余分な機能を排除しデザイン面の使い勝手を洗練させた「Ansel」</title>
-      <link>https://gigazine.net/news/20260926-ansel/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260926-ansel/</guid>
-    </item>
+    <lastBuildDate>Thu, 22 Oct 2026 20:23:07 +0000</lastBuildDate>
     <item>
       <title>Apple純正のオープンイヤー型ワイヤレスイヤホン「AirPods 5」使用レビュー、使い心地や強化されたアクティブノイズキャンセリング機能はどれほどのものか？</title>
       <link>https://gigazine.net/news/20260926-airpods-5-wireless-charging-case-review/</link>
@@ -206,6 +196,16 @@
       <title>7日間バッテリーが持続するスマートウォッチ「Google Fitbit Edge」の見た目はこんな感じ</title>
       <link>https://gigazine.net/news/20261019-google-fitbit-edge-appearance/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261019-google-fitbit-edge-appearance/</guid>
+    </item>
+    <item>
+      <title>神の如く自由な都市開発を行うのではなく市民の要望を聞き建設計画には議会の承認が必要となる都市シミュレーター「Permit Pending」</title>
+      <link>https://gigazine.net/news/20261022-permit-pending/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261022-permit-pending/</guid>
+    </item>
+    <item>
+      <title>IKEAの家具の組み立て説明書を3Dアニメーションでわかりやすく表示する「Flat Pack, Step by Step」が登場</title>
+      <link>https://gigazine.net/news/20261022-flat-pack-step-by/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261022-flat-pack-step-by/</guid>
     </item>
   </channel>
 </rss>

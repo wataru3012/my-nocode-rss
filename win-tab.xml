@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Oct 2026 20:25:41 +0000</lastBuildDate>
-    <item>
-      <title>サンワサプライ 軽量エルゴノミクスマウス MA-EBBS536BL － 重さ62gでスリム形状のエルゴノミクスマウス</title>
-      <link>https://win-tab.net/acc/sanwa-ma-ebbs536bl-2610012/</link>
-      <guid isPermaLink="false">https://win-tab.net/acc/sanwa-ma-ebbs536bl-2610012/</guid>
-    </item>
-    <item>
-      <title>Galaxy Tab S12シリーズ － Dimensity 9500搭載でAI・生産性が大幅進化した最高峰Androidタブレット</title>
-      <link>https://win-tab.net/android/galaxy-tab-s12-series-2610021/</link>
-      <guid isPermaLink="false">https://win-tab.net/android/galaxy-tab-s12-series-2610021/</guid>
-    </item>
+    <lastBuildDate>Thu, 22 Oct 2026 20:22:15 +0000</lastBuildDate>
     <item>
       <title>HP セール情報 －「大決算祭り！第1弾」がスタート、定番16インチノートのOmniBook 5 16などニューモデルがお買い得に！</title>
       <link>https://win-tab.net/sale/hp-sale-2610022/</link>
@@ -206,6 +196,16 @@
       <title>Suunto Core 2 レビュー － あえてスマートウォッチにしないという選択。単体でABC機能が使える本格アウトドアウォッチ</title>
       <link>https://win-tab.net/acc/suunto-core-2-review-2610212/</link>
       <guid isPermaLink="false">https://win-tab.net/acc/suunto-core-2-review-2610212/</guid>
+    </item>
+    <item>
+      <title>エレコム 4-in-1 モバイルバッテリー EC-C68LBK － これ1台で有線も無線もコンセント充電も！</title>
+      <link>https://win-tab.net/acc/elecom-4-in-1-ec-c68lbk-2610221/</link>
+      <guid isPermaLink="false">https://win-tab.net/acc/elecom-4-in-1-ec-c68lbk-2610221/</guid>
+    </item>
+    <item>
+      <title>Dell 14S － 薄型軽量で4色展開、手頃な価格設定の14インチモバイルノート</title>
+      <link>https://win-tab.net/dell/dell-14s-2610222/</link>
+      <guid isPermaLink="false">https://win-tab.net/dell/dell-14s-2610222/</guid>
     </item>
   </channel>
 </rss>
