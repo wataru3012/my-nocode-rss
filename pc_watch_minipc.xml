@@ -6,37 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Oct 2026 20:21:56 +0000</lastBuildDate>
-    <item>
-      <title>Android 16を搭載した11型タブレット「LAVIE Tab T11」レビュー</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2146187.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2146187.html</guid>
-    </item>
-    <item>
-      <title>ThinkPadが半額で買える！34周年セールでT14s/E16が対象</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/special/2145871.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2145871.html</guid>
-    </item>
-    <item>
-      <title>RTX Sparkが10月下旬に国内発売！ASUS、ProArtノート2機種</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2146598.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2146598.html</guid>
-    </item>
-    <item>
-      <title>Ryzen 7のノートが8万円台！ミニPCは約3万5千円引き！Amazonセール</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/special/2145866.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2145866.html</guid>
-    </item>
-    <item>
-      <title>Windowsを最高のエージェント型AI環境に。OpenClawも導入しやすく</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2146754.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2146754.html</guid>
-    </item>
-    <item>
-      <title>Surface Laptop Ultraの「マグネット式USB-C」、通常ケーブルも使える</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2146820.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2146820.html</guid>
-    </item>
+    <lastBuildDate>Fri, 23 Oct 2026 20:10:17 +0000</lastBuildDate>
     <item>
       <title>日本エイサー、Ryzen AI/Core Ultra搭載で17万円台からの14型ノート</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2146815.html</link>
@@ -223,7 +193,7 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2150098.html</guid>
     </item>
     <item>
-      <title>ClaudeのMaxプランなしでできた！ローカルAIとの分担でアプリ開発</title>
+      <title>AI任せで約15時間。ミニPCで作る“サブスク月3,400円”のカメラ加工アプリ</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/special/2147630.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2147630.html</guid>
     </item>
@@ -231,6 +201,46 @@
       <title>4万8,000円引きのYogaノートも！レノボ公式ストアでセール開催中</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/special/2149966.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2149966.html</guid>
+    </item>
+    <item>
+      <title>完全ファンレスNASと192GBミニPC、Japan IT Weekで展示中</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2150239.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150239.html</guid>
+    </item>
+    <item>
+      <title>世界最軽量634gの14型「FMV Note U」、全機種Copilot+ PCに</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2149953.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2149953.html</guid>
+    </item>
+    <item>
+      <title>「動作ヨシ」。バイブコーディング勢に刺さる稼働状況が見えるミニPC</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2150330.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150330.html</guid>
+    </item>
+    <item>
+      <title>180度開く15.6型と16型ノート「Aspire Lite」、14万円台から</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2150358.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150358.html</guid>
+    </item>
+    <item>
+      <title>1,199gの16型有機ELノート「LG gram Pro 16」など6モデル</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2150374.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150374.html</guid>
+    </item>
+    <item>
+      <title>20万円超の最新Galaxy Tab、ゲームなら“小さいほう”で正解だったワケ</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2150312.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2150312.html</guid>
+    </item>
+    <item>
+      <title>RTX SparkでローカルAIが切り抜き動画を自動作成、たった3日で作ったシステムの中身</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/haishin_shugyousou/2150334.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/haishin_shugyousou/2150334.html</guid>
+    </item>
+    <item>
+      <title>MSI、Core Ultra 9 275HX/GeForce RTX 5070 Ti搭載の16型ゲーミングノート</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2150480.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150480.html</guid>
     </item>
     <item>
       <title>【コラム】折りたたみは一度ハマったら戻れない。開かず決済できる「razr 60 ultra」が好き</title>
@@ -258,129 +268,79 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2141174.html</guid>
     </item>
     <item>
-      <title>アルミ削り出しの「HHKB Professional Elite」、300台限定で33万円</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2149722.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2149722.html</guid>
+      <title>「今日はリセットの日だ」ChatGPTが深夜に利用枠リセット</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2150563.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150563.html</guid>
     </item>
     <item>
-      <title>JAPANNEXT、1万7,970円からの27型120Hzや55型4Kなど7製品</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2150194.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150194.html</guid>
+      <title>ASUSのRTX 5060ゲーミングノートが5万円引き。Amazonセール中</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2150571.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2150571.html</guid>
     </item>
     <item>
-      <title>完全ファンレスNASと192GBミニPC、Japan IT Weekで展示中</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2150239.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150239.html</guid>
+      <title>コスパ重視なのに高級感、デル「Dell 14S」の4色を実機でチェック</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2150584.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150584.html</guid>
     </item>
     <item>
-      <title>Windows 11のフォトアプリが刷新。ギャラリーを一新、編集/閲覧の高速化も</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2150278.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150278.html</guid>
+      <title>Space Bunnyの正体、MiniMax M3.1 Flashが428Bの重み公開</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2150608.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150608.html</guid>
     </item>
     <item>
-      <title>FMVからこだわりキーボード/マウス登場！壁際に設置できるモニターも</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2149955.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2149955.html</guid>
+      <title>部材高騰でもFMVは攻める、大隈社長が冬モデル発表会で語った戦略</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2150630.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150630.html</guid>
     </item>
     <item>
-      <title>世界最軽量634gの14型「FMV Note U」、全機種Copilot+ PCに</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2149953.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2149953.html</guid>
+      <title>ASUS、ウェイトで重さを変えられる軽量ゲーミングマウス。TMRスティックのコントローラも</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2150623.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150623.html</guid>
     </item>
     <item>
-      <title>「動作ヨシ」。バイブコーディング勢に刺さる稼働状況が見えるミニPC</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2150330.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150330.html</guid>
+      <title>「Kimi K3.1」がまもなく登場？公式Xが動画を投稿</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2150672.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150672.html</guid>
     </item>
     <item>
-      <title>深刻度9.2のPHP脆弱性「PHP2Shell」、OpenAIが影響確認ツール公開</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2150338.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150338.html</guid>
+      <title>ChatGPTが2日連続の利用枠リセット予告。日本時間24日2時までに適用</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2150729.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150729.html</guid>
     </item>
     <item>
-      <title>180度開く15.6型と16型ノート「Aspire Lite」、14万円台から</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2150358.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150358.html</guid>
+      <title>7,000mAhバッテリで2日間使えるスマホ「motorola edge 70 fusion」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2150734.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150734.html</guid>
     </item>
     <item>
-      <title>EIZO、消費電力9Wで120Hz対応のに23.8型液晶「FlexScan EV2401S」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2150364.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150364.html</guid>
+      <title>人に頼む感覚でメールも予約も丸投げ。MetaのAIエージェント「Muse」が日本上陸</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2150743.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150743.html</guid>
     </item>
     <item>
-      <title>PHPとNode.jsが同じ日に緊急パッチ、どちらもリモートコード実行の恐れ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2150351.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150351.html</guid>
+      <title>デルの薄型ノート「XPS 13」が3万円引きでAmazonセール中</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2150589.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2150589.html</guid>
     </item>
     <item>
-      <title>1,199gの16型有機ELノート「LG gram Pro 16」など6モデル</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2150374.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150374.html</guid>
+      <title>目の前に最大100インチ相当の画面を。ASUSのスマートグラスが7千円引き。Amazonセール</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2150604.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2150604.html</guid>
     </item>
     <item>
-      <title>Anthropic、離席中もタスクをこなす自律型AI「Claude Duet」発表</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2150390.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150390.html</guid>
+      <title>TCLの10.1型Androidタブレットが5千円引きで2万円ちょっと！Amazonセール中</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2150607.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2150607.html</guid>
     </item>
     <item>
-      <title>PowerToys 0.102公開。マウス操作の補助機能追加、コマンドパレット改善も</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2150422.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150422.html</guid>
+      <title>ActionRingの拡張キーボードが約4千円オトクに。Amazonセール中</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2150642.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2150642.html</guid>
     </item>
     <item>
-      <title>Arc B390搭載で35B級LLMが動くSBC「LattePanda Sigma 2」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2149426.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2149426.html</guid>
-    </item>
-    <item>
-      <title>約11万円引き！レノボのRTX 5060搭載ゲーミングノートが19万円台</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2149826.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2149826.html</guid>
-    </item>
-    <item>
-      <title>レノボ「IdeaPad Slim 3」が最大5万円引き！最安は9万円台で販売中！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2149849.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2149849.html</guid>
-    </item>
-    <item>
-      <title>レノボの有機ELディスプレイ搭載ノートが3万円引きでオトク！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2149888.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2149888.html</guid>
-    </item>
-    <item>
-      <title>13型Androidタブレットが約6千円引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2149933.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2149933.html</guid>
-    </item>
-    <item>
-      <title>限定プライムセールで2万6,400円引き！ハイセンスのバッテリ内蔵チューナーレステレビ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2149938.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2149938.html</guid>
-    </item>
-    <item>
-      <title>64GBメモリでCore Ultra X7搭載の高性能ミニPCが約5万8千円オフ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2150193.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2150193.html</guid>
-    </item>
-    <item>
-      <title>スナドラX2搭載で990gの軽量モバイルノートが4万円オフ</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2150197.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2150197.html</guid>
-    </item>
-    <item>
-      <title>15.6型モバイルモニターがAmazonで7,950円にて購入可能！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2150204.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2150204.html</guid>
-    </item>
-    <item>
-      <title>160W出力のサウンドバーが44%オフで1万6,800円に！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2150219.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2150219.html</guid>
-    </item>
-    <item>
-      <title>日清の冷凍カレーうどん7袋セットが632円引き。Amazonで冷凍めん類がセール</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2150228.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2150228.html</guid>
+      <title>スイスのチョコレート「リンツ」の詰め合わせセットがオトク</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2150658.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2150658.html</guid>
     </item>
   </channel>
 </rss>
