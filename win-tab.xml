@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Oct 2026 20:10:35 +0000</lastBuildDate>
-    <item>
-      <title>Blackview XPLORE 6 － 着脱式の外付け望遠レンズが付属するDimensity 9400+搭載のハイエンド・タフネススマホ</title>
-      <link>https://win-tab.net/android/blackview-xplore-6-2610041/</link>
-      <guid isPermaLink="false">https://win-tab.net/android/blackview-xplore-6-2610041/</guid>
-    </item>
-    <item>
-      <title>UGREEN MagFlow Pro (PB793) － 世界初の「液冷」モバイルバッテリー、高価でも買いか？</title>
-      <link>https://win-tab.net/acc/ugreen-magflow-pro-pb793-2610051/</link>
-      <guid isPermaLink="false">https://win-tab.net/acc/ugreen-magflow-pro-pb793-2610051/</guid>
-    </item>
+    <lastBuildDate>Sat, 24 Oct 2026 19:11:28 +0000</lastBuildDate>
     <item>
       <title>エレコム Leggero メカニカルキーボード － 国内大手周辺機器メーカーが手掛ける日本語配列の赤軸/静音赤軸メカニカル</title>
       <link>https://win-tab.net/acc/elecom-leggero-keyboard-2610052/</link>
@@ -206,6 +196,16 @@
       <title>ORICOのUSBハブやHDDケースなどがAmazonでセール中、さらに安くなる割引クーポンもあります！</title>
       <link>https://win-tab.net/sale/orico-sale-2610233/</link>
       <guid isPermaLink="false">https://win-tab.net/sale/orico-sale-2610233/</guid>
+    </item>
+    <item>
+      <title>GMKtec M3S － CPUにCore シリーズ3（Core 3 304）を搭載するミニPC、RAM12GBで増設不可な点には注意</title>
+      <link>https://win-tab.net/imported/gmktec-m3s-2610241/</link>
+      <guid isPermaLink="false">https://win-tab.net/imported/gmktec-m3s-2610241/</guid>
+    </item>
+    <item>
+      <title>ASUS ProArt P16 (H7607) / ProArt P14 (H7407) － NVIDIA RTX Spark N1X搭載のハイエンドAI PC</title>
+      <link>https://win-tab.net/asus/proart-p16-p14-2610242/</link>
+      <guid isPermaLink="false">https://win-tab.net/asus/proart-p16-p14-2610242/</guid>
     </item>
   </channel>
 </rss>

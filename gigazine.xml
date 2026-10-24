@@ -6,27 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Oct 2026 20:11:26 +0000</lastBuildDate>
-    <item>
-      <title>Steam公式ワイヤレスVRゴーグル「Steam Frame」が届いたので外観を詳しく撮影してみた、「メガネは入るのか？」「重さは何gか？」など</title>
-      <link>https://gigazine.net/news/20260927-steam-frame-appearance/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260927-steam-frame-appearance/</guid>
-    </item>
-    <item>
-      <title>無料でマンガ・電子書籍・PDFファイル・オーディオブックをマルチユーザーで共有しKobo双方向同期・Kindleメール送信などの連携もできる「BookOrbit」、オープンソースでセルフホスト可能</title>
-      <link>https://gigazine.net/news/20260927-bookorbit/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260927-bookorbit/</guid>
-    </item>
-    <item>
-      <title>目の前の景色をハンズフリーで写真や動画に残せる「Meta Glasses」を実際に使ってみたよレビュー</title>
-      <link>https://gigazine.net/news/20260927-meta-glasses-usage/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260927-meta-glasses-usage/</guid>
-    </item>
-    <item>
-      <title>音楽とネコが大好きな探偵気取りの「宮舞モカ」がPC画面に登場して独り言を言いまくるDesktop Mateの新DLCを使ってみた</title>
-      <link>https://gigazine.net/news/20260929-desktop-mate-moca-dlc/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20260929-desktop-mate-moca-dlc/</guid>
-    </item>
+    <lastBuildDate>Sat, 24 Oct 2026 19:12:20 +0000</lastBuildDate>
     <item>
       <title>自分の脳が何B級のAIと同等性能なのか診断できるウェブサイト「HumanBench」が登場、選択問題で人間の力を試してどのAIに性格が似ているかも判定可能</title>
       <link>https://gigazine.net/news/20260929-humanbench-brain-ai/</link>
@@ -206,6 +186,26 @@
       <title>史上最高の小説100選・「投資の神様」のオススメ本・宇宙戦艦ヤマトインタビューなどAmazonで売上トップ100のGIGAZINE記事ランキング2026年第3四半期版まとめ</title>
       <link>https://gigazine.net/news/20261024-gigazine-kindle-ranking-2026-q3/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261024-gigazine-kindle-ranking-2026-q3/</guid>
+    </item>
+    <item>
+      <title>無料で予約ページ・カレンダー同期・ビデオ会議室・自動メール送信機能などのダブルブッキングしないようにする機能を駆使してスケジュールの自動調整ができる「Tymeslot」、オープンソースでセルフホスト可能</title>
+      <link>https://gigazine.net/news/20261024-tymeslot/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261024-tymeslot/</guid>
+    </item>
+    <item>
+      <title>薄く軽く進化した「Kindle」2026年最新モデル開封の儀</title>
+      <link>https://gigazine.net/news/20261024-kindle-2026/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261024-kindle-2026/</guid>
+    </item>
+    <item>
+      <title>折りたたみスマホ「Galaxy Z Fold8 Ultra・Fold8・Flip8」で写真撮影するとこんな感じになる</title>
+      <link>https://gigazine.net/news/20261024-samsung-galaxy-z-fold8-ultra-fold8-flip8-photos/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261024-samsung-galaxy-z-fold8-ultra-fold8-flip8-photos/</guid>
+    </item>
+    <item>
+      <title>人間とAIエージェント両方のために設計されたワークスペース全体を対象としたローカルファースト検索「zg」</title>
+      <link>https://gigazine.net/news/20261024-zvec-grep/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261024-zvec-grep/</guid>
     </item>
   </channel>
 </rss>

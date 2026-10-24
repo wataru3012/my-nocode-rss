@@ -6,7 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Oct 2026 20:10:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 19:11:11 +0000</lastBuildDate>
     <item>
       <title>日本エイサー、Ryzen AI/Core Ultra搭載で17万円台からの14型ノート</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2146815.html</link>
@@ -243,6 +243,11 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150480.html</guid>
     </item>
     <item>
+      <title>コスパ重視なのに高級感、デル「Dell 14S」の4色を実機でチェック</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2150584.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150584.html</guid>
+    </item>
+    <item>
       <title>【コラム】折りたたみは一度ハマったら戻れない。開かず決済できる「razr 60 ultra」が好き</title>
       <link>https://pc.watch.impress.co.jp/docs/column/kaimono/2140710.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/kaimono/2140710.html</guid>
@@ -266,21 +271,6 @@
       <title>【レビュー】PC高いなら長く使え！バッテリもSSDも自分で換えられる「LAVIE N16」</title>
       <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2141174.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2141174.html</guid>
-    </item>
-    <item>
-      <title>「今日はリセットの日だ」ChatGPTが深夜に利用枠リセット</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2150563.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150563.html</guid>
-    </item>
-    <item>
-      <title>ASUSのRTX 5060ゲーミングノートが5万円引き。Amazonセール中</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2150571.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2150571.html</guid>
-    </item>
-    <item>
-      <title>コスパ重視なのに高級感、デル「Dell 14S」の4色を実機でチェック</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2150584.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150584.html</guid>
     </item>
     <item>
       <title>Space Bunnyの正体、MiniMax M3.1 Flashが428Bの重み公開</title>
@@ -318,14 +308,19 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150743.html</guid>
     </item>
     <item>
-      <title>デルの薄型ノート「XPS 13」が3万円引きでAmazonセール中</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2150589.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2150589.html</guid>
+      <title>古いPCが無料で高機能NASに。「TrueNAS Community Edition」構築手順</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2150894.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2150894.html</guid>
     </item>
     <item>
-      <title>目の前に最大100インチ相当の画面を。ASUSのスマートグラスが7千円引き。Amazonセール</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2150604.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2150604.html</guid>
+      <title>「なんだよこの.DS_Storeってゴミは」。WindowsユーザーにウザがられるMacの隠しファイル、まとめて楽に消す方法</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2150895.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2150895.html</guid>
+    </item>
+    <item>
+      <title>Opus 5.5肉薄のコーディング性能、3Dも作る3兆級LLM「Kimi K3.1 Pro」。11月4日までにオープンウェイト化</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2150898.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150898.html</guid>
     </item>
     <item>
       <title>TCLの10.1型Androidタブレットが5千円引きで2万円ちょっと！Amazonセール中</title>
@@ -341,6 +336,16 @@
       <title>スイスのチョコレート「リンツ」の詰め合わせセットがオトク</title>
       <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2150658.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2150658.html</guid>
+    </item>
+    <item>
+      <title>バッファローの500GBスティックSSDが1,280円引き。Amazonセール</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2150899.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2150899.html</guid>
+    </item>
+    <item>
+      <title>Amazonで約3千円安、Ankerの67W/3ポート充電器が4,390円</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2150901.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2150901.html</guid>
     </item>
   </channel>
 </rss>
