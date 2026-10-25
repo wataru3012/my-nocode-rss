@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Oct 2026 19:11:28 +0000</lastBuildDate>
-    <item>
-      <title>エレコム Leggero メカニカルキーボード － 国内大手周辺機器メーカーが手掛ける日本語配列の赤軸/静音赤軸メカニカル</title>
-      <link>https://win-tab.net/acc/elecom-leggero-keyboard-2610052/</link>
-      <guid isPermaLink="false">https://win-tab.net/acc/elecom-leggero-keyboard-2610052/</guid>
-    </item>
-    <item>
-      <title>ORICO 65W ポータブル電源タップ レビュー － 旅行のお供に理想的なUSB充電器付き電源タップ、大電力で通常の利用にも十分な性能</title>
-      <link>https://win-tab.net/acc/orico-65w-power-tap-review-2610061/</link>
-      <guid isPermaLink="false">https://win-tab.net/acc/orico-65w-power-tap-review-2610061/</guid>
-    </item>
+    <lastBuildDate>Sun, 25 Oct 2026 19:25:04 +0000</lastBuildDate>
     <item>
       <title>TECLAST P35 (2026) － ストレージ32GBと割り切りつつWidevine L1に対応する10.1インチエントリータブレット、セールで10,500円！</title>
       <link>https://win-tab.net/android/teclast-p35-2026-2610062/</link>
@@ -206,6 +196,16 @@
       <title>ASUS ProArt P16 (H7607) / ProArt P14 (H7407) － NVIDIA RTX Spark N1X搭載のハイエンドAI PC</title>
       <link>https://win-tab.net/asus/proart-p16-p14-2610242/</link>
       <guid isPermaLink="false">https://win-tab.net/asus/proart-p16-p14-2610242/</guid>
+    </item>
+    <item>
+      <title>ORICOの周辺機器がAmazonでセール中、プチプラなHDD/SSDケースと高機能なドッキングステーションに割引クーポン！</title>
+      <link>https://win-tab.net/sale/orico-amazon-sale-2610251/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/orico-amazon-sale-2610251/</guid>
+    </item>
+    <item>
+      <title>富士通 FMV Note U / FMV Zero － 14インチで634g〜の超軽量モバイルノート、CPUが新しくなってさらにパワフルに！</title>
+      <link>https://win-tab.net/fujitsu/fmv-note-u-zero-2610252/</link>
+      <guid isPermaLink="false">https://win-tab.net/fujitsu/fmv-note-u-zero-2610252/</guid>
     </item>
   </channel>
 </rss>
