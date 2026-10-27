@@ -6,22 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Oct 2026 21:16:54 +0000</lastBuildDate>
-    <item>
-      <title>ローカルAIを持ち歩ける16型2in1、MSIのRTX Spark機が10月下旬発売</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2146983.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2146983.html</guid>
-    </item>
-    <item>
-      <title>16GBメモリ搭載で10万円切りの15.6型ノート</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2147021.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2147021.html</guid>
-    </item>
-    <item>
-      <title>ホワイトのマウス/ヘッドセットが付属したRTX 50搭載ゲーミングノート</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2147014.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2147014.html</guid>
-    </item>
+    <lastBuildDate>Tue, 27 Oct 2026 21:03:46 +0000</lastBuildDate>
     <item>
       <title>打倒MacBook Pro？Surface Laptop Ultraが目指すモノ作りしやすいマシン</title>
       <link>https://pc.watch.impress.co.jp/docs/column/ubiq/2147205.html</link>
@@ -248,6 +233,16 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2149827.html</guid>
     </item>
     <item>
+      <title>ミニPC「Revo Box」がRyzen搭載で帰ってきた。131mm四方の小型筐体</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2151014.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151014.html</guid>
+    </item>
+    <item>
+      <title>ついにiPad miniも有機EL！厚さ5.4mmで防水防塵、A20 Pro搭載</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2151328.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151328.html</guid>
+    </item>
+    <item>
       <title>【コラム】折りたたみは一度ハマったら戻れない。開かず決済できる「razr 60 ultra」が好き</title>
       <link>https://pc.watch.impress.co.jp/docs/column/kaimono/2140710.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/kaimono/2140710.html</guid>
@@ -273,61 +268,6 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2141174.html</guid>
     </item>
     <item>
-      <title>テスラ、ネットワークエンジニア求人に「25kgを持ち上げられること」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/yajiuma/2151031.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/yajiuma/2151031.html</guid>
-    </item>
-    <item>
-      <title>ミニPC「Revo Box」がRyzen搭載で帰ってきた。131mm四方の小型筐体</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2151014.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151014.html</guid>
-    </item>
-    <item>
-      <title>Windows 11の右クリックメニューがカスタム可能に。プレビュー版公開</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2151061.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151061.html</guid>
-    </item>
-    <item>
-      <title>MSI、「CoD MW4」コラボデザインのGeForce RTX 5080</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2151054.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151054.html</guid>
-    </item>
-    <item>
-      <title>もうAIと話している気がしない、音声だけで学んだ「Dessa」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2151081.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151081.html</guid>
-    </item>
-    <item>
-      <title>748BのDeepSeekがGPU 1枚でさらに速く！生成は最大約2倍</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2151113.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151113.html</guid>
-    </item>
-    <item>
-      <title>深刻なのはPHPやNode.jsだけじゃない。Google製技術の脆弱性「HTTP2Shell」対応急務</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2151152.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151152.html</guid>
-    </item>
-    <item>
-      <title>OBS Studio 33.0.0公開。Arm版WindowsでもNVENCが利用可能に</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2151186.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151186.html</guid>
-    </item>
-    <item>
-      <title>ChatGPTがまた2日連続の利用枠リセット</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2151209.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151209.html</guid>
-    </item>
-    <item>
-      <title>ついにiPad miniも有機EL！厚さ5.4mmで防水防塵、A20 Pro搭載</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2151328.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151328.html</guid>
-    </item>
-    <item>
-      <title>Airの軽さかEdgeの画面か。Google「Fitbit Edge」を使って分かった違い</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2151223.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2151223.html</guid>
-    </item>
-    <item>
       <title>見た目はUSB SSD、中身はAIプロセッサ。ASUS「UGen300」を試した</title>
       <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2151277.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2151277.html</guid>
@@ -336,6 +276,71 @@
       <title>「メモリの壁」がいつまでも存在し続ける理由</title>
       <link>https://pc.watch.impress.co.jp/docs/column/semicon/2151293.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/semicon/2151293.html</guid>
+    </item>
+    <item>
+      <title>120万円払ってRTX Sparkノートを買った。で、AIエージェントで元は取れる？</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2150970.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2150970.html</guid>
+    </item>
+    <item>
+      <title>NPUでDOOMが動く様子を動画で見せます！ バイブコーディングが「無理」をひっくり返した話</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2151321.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151321.html</guid>
+    </item>
+    <item>
+      <title>旧版の半額でPC操作は最上位並み、OpenAI「GPT-6.1 Terra」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2151399.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151399.html</guid>
+    </item>
+    <item>
+      <title>偽アプリにトークンを渡す脆弱性、Android版Microsoft Authenticatorに</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2151376.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151376.html</guid>
+    </item>
+    <item>
+      <title>ガチくんに! 第437回切り抜き「マタギスナイパーズ、クラファン開始/あくあ総研公開」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2151331.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151331.html</guid>
+    </item>
+    <item>
+      <title>99.9Whバッテリ/30時間駆動で約1kgの14型モバイルノート「LAVIE X14」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2151445.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151445.html</guid>
+    </item>
+    <item>
+      <title>声やジェスチャーで動く27型4Kロボットモニター「CyboPal ONE」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2151465.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151465.html</guid>
+    </item>
+    <item>
+      <title>ペン/キーボード付き12.1型タブ「LAVIE Tab T12N」に秋冬モデル</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2151472.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151472.html</guid>
+    </item>
+    <item>
+      <title>AppleのSiri AIが日本語でも利用可能に。画面認識、文章作成などをアシスト</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2151546.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151546.html</guid>
+    </item>
+    <item>
+      <title>Webブラウザなしでネット速度が測定可能に、Windows 11プレビュー版</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2151552.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151552.html</guid>
+    </item>
+    <item>
+      <title>AMDとIntel、x86 CPU向けPyTorch最適化を統合へ</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2151484.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151484.html</guid>
+    </item>
+    <item>
+      <title>昔の「ワードアート」を今のWordで復活させる方法。公式Xが紹介</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2151566.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151566.html</guid>
+    </item>
+    <item>
+      <title>脱GPUが加速、OracleもGoogle製TPUを選択</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2151701.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151701.html</guid>
     </item>
     <item>
       <title>64GBメモリ/1TB SSDのRyzen AI 9 HX 470搭載ミニPCが約4万4千円オフ</title>

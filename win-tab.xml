@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Oct 2026 21:17:14 +0000</lastBuildDate>
-    <item>
-      <title>サンワダイレクト プログラマブルキーボード 12キー 400-SKB085 － 青軸メカニカルスイッチを採用した左手デバイスに12キー版が登場</title>
-      <link>https://win-tab.net/acc/sanwa-400-skb085-2610072/</link>
-      <guid isPermaLink="false">https://win-tab.net/acc/sanwa-400-skb085-2610072/</guid>
-    </item>
-    <item>
-      <title>マウス NEXTGEARでメモリ倍増キャンペーン、お値段そのままでメモリ32GBに！第4弾はRTX 3050搭載のエントリーモデル</title>
-      <link>https://win-tab.net/sale/mouse-nextgear-campaign-4-2610081/</link>
-      <guid isPermaLink="false">https://win-tab.net/sale/mouse-nextgear-campaign-4-2610081/</guid>
-    </item>
+    <lastBuildDate>Tue, 27 Oct 2026 21:04:05 +0000</lastBuildDate>
     <item>
       <title>エレコム キー&amp;ダイヤル付きドッキングステーション DST-L080BPBK － 外付けのダイヤルだけかと思いきや…</title>
       <link>https://win-tab.net/acc/elecom-dst-l080bpbk-2610082/</link>
@@ -206,6 +196,16 @@
       <title>FMV Keyboard X01M － クラウドファンディングで爆売れしたキーボード、一般販売がスタートしました</title>
       <link>https://win-tab.net/fujitsu/fmv-keyboard-x01m-2610262/</link>
       <guid isPermaLink="false">https://win-tab.net/fujitsu/fmv-keyboard-x01m-2610262/</guid>
+    </item>
+    <item>
+      <title>FMV Mouse X01MB － 富士通が日本人の手に合わせて作った高品質マウス、価格は安くないが買えなくもないというのが悩みどころ</title>
+      <link>https://win-tab.net/fujitsu/fmv-mouse-x01mb-2610271/</link>
+      <guid isPermaLink="false">https://win-tab.net/fujitsu/fmv-mouse-x01mb-2610271/</guid>
+    </item>
+    <item>
+      <title>XPPen Magic Pro 13 － XPPenのお絵描きタブレット ハイエンドモデル、液タブモードも使えます！</title>
+      <link>https://win-tab.net/android/xppen-magic-pro-13-2610272/</link>
+      <guid isPermaLink="false">https://win-tab.net/android/xppen-magic-pro-13-2610272/</guid>
     </item>
   </channel>
 </rss>
