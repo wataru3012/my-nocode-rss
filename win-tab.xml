@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 21:04:05 +0000</lastBuildDate>
-    <item>
-      <title>エレコム キー&amp;ダイヤル付きドッキングステーション DST-L080BPBK － 外付けのダイヤルだけかと思いきや…</title>
-      <link>https://win-tab.net/acc/elecom-dst-l080bpbk-2610082/</link>
-      <guid isPermaLink="false">https://win-tab.net/acc/elecom-dst-l080bpbk-2610082/</guid>
-    </item>
-    <item>
-      <title>AOOSTAR MACO H 255 レビュー － Ryzen 7 H 255搭載のミニPC、筐体品質が高く挙動も安定、指紋センサーまでついてます！</title>
-      <link>https://win-tab.net/imported/aoostar-maco-h-255-review-2610091/</link>
-      <guid isPermaLink="false">https://win-tab.net/imported/aoostar-maco-h-255-review-2610091/</guid>
-    </item>
+    <lastBuildDate>Wed, 28 Oct 2026 21:28:45 +0000</lastBuildDate>
     <item>
       <title>HP セール情報 －「大決算祭り 第2弾」がスタート、ニューモデルも続々とセール価格に！</title>
       <link>https://win-tab.net/sale/hp-sale-2610092/</link>
@@ -206,6 +196,16 @@
       <title>XPPen Magic Pro 13 － XPPenのお絵描きタブレット ハイエンドモデル、液タブモードも使えます！</title>
       <link>https://win-tab.net/android/xppen-magic-pro-13-2610272/</link>
       <guid isPermaLink="false">https://win-tab.net/android/xppen-magic-pro-13-2610272/</guid>
+    </item>
+    <item>
+      <title>NEC LAVIE X14/LAVIE Direct X14 － 大容量バッテリーを搭載しつつ軽量な14インチモバイルノート</title>
+      <link>https://win-tab.net/nec/lavie-direct-x14-2610281/</link>
+      <guid isPermaLink="false">https://win-tab.net/nec/lavie-direct-x14-2610281/</guid>
+    </item>
+    <item>
+      <title>NEC LAVIE N13 / LAVIE Direct N13 － 13.3インチの軽量モバイルノート、新色「セージグリーン」も追加</title>
+      <link>https://win-tab.net/nec/lavie-direct-n13-2610282/</link>
+      <guid isPermaLink="false">https://win-tab.net/nec/lavie-direct-n13-2610282/</guid>
     </item>
   </channel>
 </rss>
