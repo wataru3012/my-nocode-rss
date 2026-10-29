@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Oct 2026 21:28:45 +0000</lastBuildDate>
-    <item>
-      <title>HP セール情報 －「大決算祭り 第2弾」がスタート、ニューモデルも続々とセール価格に！</title>
-      <link>https://win-tab.net/sale/hp-sale-2610092/</link>
-      <guid isPermaLink="false">https://win-tab.net/sale/hp-sale-2610092/</guid>
-    </item>
-    <item>
-      <title>Lenovo セール情報 － ThinkPad 34周年記念セールは10月15日まで、今週はタブレットもお買い得です</title>
-      <link>https://win-tab.net/sale/lenovo-sale-2610101/</link>
-      <guid isPermaLink="false">https://win-tab.net/sale/lenovo-sale-2610101/</guid>
-    </item>
+    <lastBuildDate>Thu, 29 Oct 2026 21:30:21 +0000</lastBuildDate>
     <item>
       <title>ORICOのプチプラで便利な周辺機器にAmazonで使える割引クーポンが！2,000円以下から購入できます</title>
       <link>https://win-tab.net/sale/orico-sale-2610102/</link>
@@ -206,6 +196,16 @@
       <title>NEC LAVIE N13 / LAVIE Direct N13 － 13.3インチの軽量モバイルノート、新色「セージグリーン」も追加</title>
       <link>https://win-tab.net/nec/lavie-direct-n13-2610282/</link>
       <guid isPermaLink="false">https://win-tab.net/nec/lavie-direct-n13-2610282/</guid>
+    </item>
+    <item>
+      <title>ASUS Vivobook S16(S5608) / Vivobook S14(S5408) － Snapdragon X搭載Copilot+ PC、ディスプレイは有機ELでバッテリーも長持ち</title>
+      <link>https://win-tab.net/asus/vivobook-s16-s14-2610291/</link>
+      <guid isPermaLink="false">https://win-tab.net/asus/vivobook-s16-s14-2610291/</guid>
+    </item>
+    <item>
+      <title>NEC LAVIE S13 / LAVIE Direct S13 － Core Ultraシリーズ3搭載の軽量モバイルノート、Z世代向けですが、おっさんにも魅力的</title>
+      <link>https://win-tab.net/nec/lavie-direct-s13-2610292/</link>
+      <guid isPermaLink="false">https://win-tab.net/nec/lavie-direct-s13-2610292/</guid>
     </item>
   </channel>
 </rss>

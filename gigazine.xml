@@ -6,27 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Oct 2026 21:29:38 +0000</lastBuildDate>
-    <item>
-      <title>localhostを爆速でインターネットへ安全に公開する「Cloudflare Quick Tunnels」、たった1つのコマンドで暗号化された公開URLを作成可能でアカウント・DNSレコード・ポート開放は一切不要</title>
-      <link>https://gigazine.net/news/20261004-cloudflare-quick-tunnels/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261004-cloudflare-quick-tunnels/</guid>
-    </item>
-    <item>
-      <title>名刺ケースがボタン1つで自動展開！わずか0.2秒で圧倒的なインパクトと共に名刺を出せる「機動文具 自動変形名刺ケース」レビュー</title>
-      <link>https://gigazine.net/news/20261004-mobile-stationery-business-card-case/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261004-mobile-stationery-business-card-case/</guid>
-    </item>
-    <item>
-      <title>iPhone 18 Proのバッテリー持続時間と有線・無線での充電速度を検証してみたよレビュー</title>
-      <link>https://gigazine.net/news/20261005-iphone-18-pro-battery-charge/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261005-iphone-18-pro-battery-charge/</guid>
-    </item>
-    <item>
-      <title>AI生成画像やAI生成動画を見分けるGoogleサービス「SynthID Detector」が誰でも使用可能に、Google・OpenAI・AppleのどのAIかも判別可能</title>
-      <link>https://gigazine.net/news/20261008-synth-id-ai-content/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261008-synth-id-ai-content/</guid>
-    </item>
+    <lastBuildDate>Thu, 29 Oct 2026 21:31:15 +0000</lastBuildDate>
     <item>
       <title>フルスクリーン表示のメッセージを簡単に作成してリンクで共有可能な「BIGWORDS.PAGE」</title>
       <link>https://gigazine.net/news/20261009-bigwords-page/</link>
@@ -206,6 +186,26 @@
       <title>2万6800円で買えるGoogle製スマートウォッチ「Google Fitbit Edge」の各種機能を使ってみたよレビュー</title>
       <link>https://gigazine.net/news/20261027-google-fitbit-edge-short-review/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261027-google-fitbit-edge-short-review/</guid>
+    </item>
+    <item>
+      <title>シリーズ最小・最軽量の軽い着け心地で「外す」発想がなくなるAnkerのワイヤレスイヤホン「Liberty Buds 2」を使ってみた</title>
+      <link>https://gigazine.net/news/20261029-anker-liberty-buds-2/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261029-anker-liberty-buds-2/</guid>
+    </item>
+    <item>
+      <title>ホロライブの人気VTuber「森カリオペ」がPC画面で動き回って録り下ろしボイスをしゃべる「Desktop Mate」新DLCを使ってみた</title>
+      <link>https://gigazine.net/news/20261029-desktop-mate-mori-calliope-dlc/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261029-desktop-mate-mori-calliope-dlc/</guid>
+    </item>
+    <item>
+      <title>無料でマークダウン形式から印刷品質のPDFファイルを日本語組版で作成できる「pfpdf」</title>
+      <link>https://gigazine.net/news/20261029-pfpdf/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261029-pfpdf/</guid>
+    </item>
+    <item>
+      <title>Windowsの高性能PCで動くローカルAIをブラウザからみんなで利用できる環境を「Ollama＋Open WebUI」で構築してみた</title>
+      <link>https://gigazine.net/news/20261029-ollama-open-webui-local-ai/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261029-ollama-open-webui-local-ai/</guid>
     </item>
   </channel>
 </rss>
