@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Oct 2026 21:30:21 +0000</lastBuildDate>
-    <item>
-      <title>ORICOのプチプラで便利な周辺機器にAmazonで使える割引クーポンが！2,000円以下から購入できます</title>
-      <link>https://win-tab.net/sale/orico-sale-2610102/</link>
-      <guid isPermaLink="false">https://win-tab.net/sale/orico-sale-2610102/</guid>
-    </item>
-    <item>
-      <title>Acer Swift Air 14 (SFA14-I31) － Core シリーズ3搭載、薄型アルミ筐体と高発色な120Hzディスプレイを搭載する良コスパノート</title>
-      <link>https://win-tab.net/acer/swift-air-14-sfa14-i31-2610111/</link>
-      <guid isPermaLink="false">https://win-tab.net/acer/swift-air-14-sfa14-i31-2610111/</guid>
-    </item>
+    <lastBuildDate>Fri, 30 Oct 2026 21:17:26 +0000</lastBuildDate>
     <item>
       <title>OneXPlayer X2 Air － CPUをCore Ultra 7 258Vにして手頃な価格になった3 in 1ゲーミングPC</title>
       <link>https://win-tab.net/imported/onexplayer-x2-air-2610112/</link>
@@ -118,11 +108,6 @@
       <guid isPermaLink="false">https://win-tab.net/hp/omnibook-5-14-mh-2610211/</guid>
     </item>
     <item>
-      <title>Suunto Core 2 レビュー － あえてスマートウォッチにしないという選択。単体でABC機能が使える本格アウトドアウォッチ</title>
-      <link>https://win-tab.net/acc/suunto-core-2-review-2610212/</link>
-      <guid isPermaLink="false">https://win-tab.net/acc/suunto-core-2-review-2610212/</guid>
-    </item>
-    <item>
       <title>エレコム 4-in-1 モバイルバッテリー EC-C68LBK － これ1台で有線も無線もコンセント充電も！</title>
       <link>https://win-tab.net/acc/elecom-4-in-1-ec-c68lbk-2610221/</link>
       <guid isPermaLink="false">https://win-tab.net/acc/elecom-4-in-1-ec-c68lbk-2610221/</guid>
@@ -206,6 +191,21 @@
       <title>NEC LAVIE S13 / LAVIE Direct S13 － Core Ultraシリーズ3搭載の軽量モバイルノート、Z世代向けですが、おっさんにも魅力的</title>
       <link>https://win-tab.net/nec/lavie-direct-s13-2610292/</link>
       <guid isPermaLink="false">https://win-tab.net/nec/lavie-direct-s13-2610292/</guid>
+    </item>
+    <item>
+      <title>GEEKOM GeekBook X14 Pro － ミニPCのGEEKOMがモバイルノートを発売！2.8K有機ELディスプレイ搭載でRAMは全モデル32GB</title>
+      <link>https://win-tab.net/imported/geekom-geekbook-x14-pro-2610301/</link>
+      <guid isPermaLink="false">https://win-tab.net/imported/geekom-geekbook-x14-pro-2610301/</guid>
+    </item>
+    <item>
+      <title>HP セール情報 － 秋の大感謝祭と週末限定セールが同時開催中、Ryzen搭載の14インチ、OmniBook 5 14がお買い得！</title>
+      <link>https://win-tab.net/sale/hp-sale-2610302/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/hp-sale-2610302/</guid>
+    </item>
+    <item>
+      <title>Suunto Core 2 レビュー － あえてスマートウォッチにしないという選択。単体でABC機能が使える本格アウトドアウォッチ</title>
+      <link>https://win-tab.net/acc/suunto-core-2-review-2610212/</link>
+      <guid isPermaLink="false">https://win-tab.net/acc/suunto-core-2-review-2610212/</guid>
     </item>
   </channel>
 </rss>

@@ -6,22 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Oct 2026 21:31:15 +0000</lastBuildDate>
-    <item>
-      <title>フルスクリーン表示のメッセージを簡単に作成してリンクで共有可能な「BIGWORDS.PAGE」</title>
-      <link>https://gigazine.net/news/20261009-bigwords-page/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261009-bigwords-page/</guid>
-    </item>
-    <item>
-      <title>無料でOpenStreetMapにスマホから店舗や施設を追加できる「Every Door」</title>
-      <link>https://gigazine.net/news/20261010-every-door/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261010-every-door/</guid>
-    </item>
-    <item>
-      <title>25倍ズームで遠くまで大きく写せるソニー製デジカメ「RX10 V」を使って動物や食べ物を撮影してみた作例はこんな感じ、スマホのAIズームとは別格の出来栄え</title>
-      <link>https://gigazine.net/news/20261010-sony-rx10-v-photo-example/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261010-sony-rx10-v-photo-example/</guid>
-    </item>
+    <lastBuildDate>Fri, 30 Oct 2026 21:18:15 +0000</lastBuildDate>
     <item>
       <title>無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能</title>
       <link>https://gigazine.net/news/20261010-readest/</link>
@@ -206,6 +191,21 @@
       <title>Windowsの高性能PCで動くローカルAIをブラウザからみんなで利用できる環境を「Ollama＋Open WebUI」で構築してみた</title>
       <link>https://gigazine.net/news/20261029-ollama-open-webui-local-ai/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261029-ollama-open-webui-local-ai/</guid>
+    </item>
+    <item>
+      <title>Geminiのチャット内で文書ファイルや表計算データを作成して直接編集可能に</title>
+      <link>https://gigazine.net/news/20261030-gemini-document-spreadsheet-edit/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261030-gemini-document-spreadsheet-edit/</guid>
+    </item>
+    <item>
+      <title>世界地図をIPv4アドレス数に応じて描き直して国ごとのIPアドレスの偏りが一目でわかる「If IPv4 Were Land」</title>
+      <link>https://gigazine.net/news/20261030-if-ipv4-were-land/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261030-if-ipv4-were-land/</guid>
+    </item>
+    <item>
+      <title>『鬼滅の刃』フィギュア・『この世界の片隅に』片渕須直監督インタビュー・書店の減少問題などAmazonで売上トップ10のGIGAZINE記事ランキング2026年9月版はコレ！</title>
+      <link>https://gigazine.net/news/20261031-gigazine-kindle-ranking-2026-09/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261031-gigazine-kindle-ranking-2026-09/</guid>
     </item>
   </channel>
 </rss>
