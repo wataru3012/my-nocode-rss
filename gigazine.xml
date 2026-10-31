@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Oct 2026 21:18:15 +0000</lastBuildDate>
-    <item>
-      <title>無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能</title>
-      <link>https://gigazine.net/news/20261010-readest/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261010-readest/</guid>
-    </item>
-    <item>
-      <title>既に実行中のWireGuardホスト向けの集中型Web UI「wg-admin」、無料でセルフホスト可能</title>
-      <link>https://gigazine.net/news/20261011-wg-admin/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261011-wg-admin/</guid>
-    </item>
+    <lastBuildDate>Sat, 31 Oct 2026 20:23:43 +0000</lastBuildDate>
     <item>
       <title>折りたたみスマホ8世代分の進化を薄型ボディに凝縮した「Galaxy Z Fold8 Ultra」「Galaxy Z Fold8」「Galaxy Z Flip8」外観レビュー</title>
       <link>https://gigazine.net/news/20261011-samsung-galaxy-z-fold8-ultra-fold8-flip8-appearance/</link>
@@ -206,6 +196,16 @@
       <title>『鬼滅の刃』フィギュア・『この世界の片隅に』片渕須直監督インタビュー・書店の減少問題などAmazonで売上トップ10のGIGAZINE記事ランキング2026年9月版はコレ！</title>
       <link>https://gigazine.net/news/20261031-gigazine-kindle-ranking-2026-09/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261031-gigazine-kindle-ranking-2026-09/</guid>
+    </item>
+    <item>
+      <title>Material 3 Expressiveの画面をブラウザで組み立てて画面同士をつなぎタップして確かめてそのままAIコーディング用のプロンプトにするツール「M3E Canvas」</title>
+      <link>https://gigazine.net/news/20261031-m3e-canvas/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261031-m3e-canvas/</guid>
+    </item>
+    <item>
+      <title>アニソンヒット曲を聞いて年代を当てる音楽カードゲーム「HITSTER アニソン」プレイレポート</title>
+      <link>https://gigazine.net/news/20261031-hitster-anison/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261031-hitster-anison/</guid>
     </item>
   </channel>
 </rss>
