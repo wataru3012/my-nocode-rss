@@ -6,27 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 31 Oct 2026 20:23:43 +0000</lastBuildDate>
-    <item>
-      <title>折りたたみスマホ8世代分の進化を薄型ボディに凝縮した「Galaxy Z Fold8 Ultra」「Galaxy Z Fold8」「Galaxy Z Flip8」外観レビュー</title>
-      <link>https://gigazine.net/news/20261011-samsung-galaxy-z-fold8-ultra-fold8-flip8-appearance/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261011-samsung-galaxy-z-fold8-ultra-fold8-flip8-appearance/</guid>
-    </item>
-    <item>
-      <title>無料で自分のPCにインストールされているAIエージェント・ハーネス・MCPサーバー・プラグイン・AI拡張機能をすべてスキャンして列挙してレポートしてくれる「Geiger」</title>
-      <link>https://gigazine.net/news/20261012-geiger/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261012-geiger/</guid>
-    </item>
-    <item>
-      <title>後続のために道を切り開いていく繰り返し前提のブラウザゲーム「Missile Stream」をプレイしてみた</title>
-      <link>https://gigazine.net/news/20261013-missile-stream/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261013-missile-stream/</guid>
-    </item>
-    <item>
-      <title>無料で7種類の超小型AIモデルをブラウザで動かせる「MicroLLM lab」、WebGPUで端末のGPUを活用</title>
-      <link>https://gigazine.net/news/20261013-microllm-lab-browser-webgpu/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261013-microllm-lab-browser-webgpu/</guid>
-    </item>
+    <lastBuildDate>Sun, 01 Nov 2026 20:56:33 +0000</lastBuildDate>
     <item>
       <title>「もしマインスイーパーがAAA級タイトルだったら」という過剰な演出と親切すぎる誘導が満載の「Triple-A Minesweeper」</title>
       <link>https://gigazine.net/news/20261013-triple-a-minesweeper/</link>
@@ -206,6 +186,26 @@
       <title>アニソンヒット曲を聞いて年代を当てる音楽カードゲーム「HITSTER アニソン」プレイレポート</title>
       <link>https://gigazine.net/news/20261031-hitster-anison/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261031-hitster-anison/</guid>
+    </item>
+    <item>
+      <title>Amazonのクラウドサービス「AWS」がカードゲームになった「AWS BuilderCards」を実際に遊んでみた</title>
+      <link>https://gigazine.net/news/20261101-aws-buldercards/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261101-aws-buldercards/</guid>
+    </item>
+    <item>
+      <title>無料で完全にWindowsでローカル動作できるElevenLabs代替ツール「VoiceStudio」、音声クローン・音声デザイン・動画吹き替え・音声入力・文字起こし・オーディオブック作成を多言語で可能</title>
+      <link>https://gigazine.net/news/20261101-voicestudio/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261101-voicestudio/</guid>
+    </item>
+    <item>
+      <title>近未来的な外観のワイヤレスヘッドホン「Headphone (1) Pro」レビュー、3個のドライバー搭載＆10個のマイクでノイズリダクション</title>
+      <link>https://gigazine.net/news/20261101-nothing-headphone-1-pro/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261101-nothing-headphone-1-pro/</guid>
+    </item>
+    <item>
+      <title>無料ストレージベンチマークアプリ「ATTO Disk Benchmark」の使い方まとめ、「小さいサイズのファイルでも高速に読み書きできるか？」といった観点でSSDの性能を分析して適切な用途を見極め可能</title>
+      <link>https://gigazine.net/news/20261101-atto-disk-benchmark/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261101-atto-disk-benchmark/</guid>
     </item>
   </channel>
 </rss>
