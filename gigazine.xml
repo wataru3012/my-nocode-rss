@@ -6,22 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Nov 2026 20:56:33 +0000</lastBuildDate>
-    <item>
-      <title>「もしマインスイーパーがAAA級タイトルだったら」という過剰な演出と親切すぎる誘導が満載の「Triple-A Minesweeper」</title>
-      <link>https://gigazine.net/news/20261013-triple-a-minesweeper/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261013-triple-a-minesweeper/</guid>
-    </item>
-    <item>
-      <title>いかにも本物っぽいオンライン会議の画面と音声で「今ちょっと忙しくて……」の言い訳に使える「Fleeting」、GoogleカレンダーやOutlookに予定を登録もできる</title>
-      <link>https://gigazine.net/news/20261013-fleeting/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261013-fleeting/</guid>
-    </item>
-    <item>
-      <title>GoogleのEmbeddingGemma 2を音声認識モデルに変換した「Embedding Gemma Transcribe」、オフライン環境のMacなら15分の音声をわずか約3秒で爆速文字起こし可能</title>
-      <link>https://gigazine.net/news/20261014-embetting-gemma-transcribe/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261014-embetting-gemma-transcribe/</guid>
-    </item>
+    <lastBuildDate>Mon, 02 Nov 2026 23:46:28 +0000</lastBuildDate>
     <item>
       <title>住宅を55戸建てようとしたら3年後には34戸に、住民と行政に振り回されるゲーム「Discretionary Review」をプレイしてみた</title>
       <link>https://gigazine.net/news/20261015-san-francisco-housing-simulator/</link>
@@ -206,6 +191,21 @@
       <title>無料ストレージベンチマークアプリ「ATTO Disk Benchmark」の使い方まとめ、「小さいサイズのファイルでも高速に読み書きできるか？」といった観点でSSDの性能を分析して適切な用途を見極め可能</title>
       <link>https://gigazine.net/news/20261101-atto-disk-benchmark/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261101-atto-disk-benchmark/</guid>
+    </item>
+    <item>
+      <title>スマホで360度の立体音響を誰でも簡単に録音できるソニーのプラグインマイク「ECM-AX10」を使ってみた</title>
+      <link>https://gigazine.net/news/20261102-sony-ecm-ax10-usage/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261102-sony-ecm-ax10-usage/</guid>
+    </item>
+    <item>
+      <title>得票数で負けている陣営を選挙区の区切り方だけで勝たせる無料ゲーム「elect.horse」を実際にプレイしてみた</title>
+      <link>https://gigazine.net/news/20261102-elect-horse/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261102-elect-horse/</guid>
+    </item>
+    <item>
+      <title>誰でも簡単にAndroidやiPhoneで広告ブロックできる「AdGuard 広告ブロッカー」のインストールと使い方、迷惑広告・詐欺広告を全部まとめて一気に削除</title>
+      <link>https://gigazine.net/news/20261102-adguard-adblocking/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261102-adguard-adblocking/</guid>
     </item>
   </channel>
 </rss>

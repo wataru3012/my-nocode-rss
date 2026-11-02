@@ -6,17 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Nov 2026 20:55:20 +0000</lastBuildDate>
-    <item>
-      <title>透明だけじゃない。「ROG XBOX Ally X20」の7つの進化点をチェックした</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2147798.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2147798.html</guid>
-    </item>
-    <item>
-      <title>アルミの質感がいい！王道デザインのミニPC「AOOSTAR MACO H255」を試した</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/short-review/2148059.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/short-review/2148059.html</guid>
-    </item>
+    <lastBuildDate>Mon, 02 Nov 2026 23:45:18 +0000</lastBuildDate>
     <item>
       <title>日本HP、RTX Spark搭載で薄さ15.7mmの16型ノートPC</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2148591.html</link>
@@ -256,6 +246,16 @@
       <title>約960gの14型モバイルノート「Swift Air 14」にRyzen AI搭載モデル</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2152601.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2152601.html</guid>
+    </item>
+    <item>
+      <title>マウス、青色LED採用でノベルティ付きのインテル50周年記念PC。50万円で50台限定</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2153178.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2153178.html</guid>
+    </item>
+    <item>
+      <title>スパコン級チップがノートPCに。RTX Sparkが日本で6社から登場</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2153206.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2153206.html</guid>
     </item>
   </channel>
 </rss>
