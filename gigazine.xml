@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Nov 2026 23:46:28 +0000</lastBuildDate>
-    <item>
-      <title>住宅を55戸建てようとしたら3年後には34戸に、住民と行政に振り回されるゲーム「Discretionary Review」をプレイしてみた</title>
-      <link>https://gigazine.net/news/20261015-san-francisco-housing-simulator/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261015-san-francisco-housing-simulator/</guid>
-    </item>
-    <item>
-      <title>無料でOpenStreetMapの地図データをスマホから何でも編集できるフル機能の地図エディタ「Vespucci」</title>
-      <link>https://gigazine.net/news/20261017-vespucci/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261017-vespucci/</guid>
-    </item>
+    <lastBuildDate>Tue, 03 Nov 2026 22:11:11 +0000</lastBuildDate>
     <item>
       <title>すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能</title>
       <link>https://gigazine.net/news/20261017-agentsview/</link>
@@ -193,6 +183,11 @@
       <guid isPermaLink="false">https://gigazine.net/news/20261101-atto-disk-benchmark/</guid>
     </item>
     <item>
+      <title>誰でも簡単にAndroidやiPhoneで広告ブロックできる「AdGuard 広告ブロッカー」のインストールと使い方、迷惑広告・詐欺広告を全部まとめて一気に削除</title>
+      <link>https://gigazine.net/news/20261102-adguard-adblocking/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261102-adguard-adblocking/</guid>
+    </item>
+    <item>
       <title>スマホで360度の立体音響を誰でも簡単に録音できるソニーのプラグインマイク「ECM-AX10」を使ってみた</title>
       <link>https://gigazine.net/news/20261102-sony-ecm-ax10-usage/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261102-sony-ecm-ax10-usage/</guid>
@@ -203,9 +198,14 @@
       <guid isPermaLink="false">https://gigazine.net/news/20261102-elect-horse/</guid>
     </item>
     <item>
-      <title>誰でも簡単にAndroidやiPhoneで広告ブロックできる「AdGuard 広告ブロッカー」のインストールと使い方、迷惑広告・詐欺広告を全部まとめて一気に削除</title>
-      <link>https://gigazine.net/news/20261102-adguard-adblocking/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261102-adguard-adblocking/</guid>
+      <title>バックグラウンドで動作するAIエージェント用のメールっぽい受信箱「Pizza Bot」、Windows/macOS/Linuxに対応したセルフホスト型のデスクトップアプリでローカルAIモデルなどあらゆるAIモデルに対応して通知によるアクション管理が可能</title>
+      <link>https://gigazine.net/news/20261103-pizza-bot/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261103-pizza-bot/</guid>
+    </item>
+    <item>
+      <title>車で踏んでも壊れないLEDテープライトを買ったので実際に車で踏んでみた</title>
+      <link>https://gigazine.net/news/20261103-hataya-led-light/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261103-hataya-led-light/</guid>
     </item>
   </channel>
 </rss>
