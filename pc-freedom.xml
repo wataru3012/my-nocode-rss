@@ -6,12 +6,7 @@
     <description>PC-Freedom</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Nov 2026 22:10:13 +0000</lastBuildDate>
-    <item>
-      <title>Zorin OS とは？ Windows から Linux へ移行しやすいアイルランド発 OS</title>
-      <link>https://pc-freedom.net/basic/what-is-zorin-os/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-zorin-os/</guid>
-    </item>
+    <lastBuildDate>Wed, 04 Nov 2026 22:18:04 +0000</lastBuildDate>
     <item>
       <title>MX Linux とは？古い PC をもう一度「実用品」にする Debian 系 Linux</title>
       <link>https://pc-freedom.net/basic/what-is-mx-linux/</link>
@@ -186,6 +181,11 @@
       <title>Haiku OS はどこまで使える？BeOS の系譜を追い続けてきた実機検証と評価</title>
       <link>https://pc-freedom.net/os/haiku-os-review/</link>
       <guid isPermaLink="false">https://pc-freedom.net/os/haiku-os-review/</guid>
+    </item>
+    <item>
+      <title>Proxmox VE とは？ 余った PC を仮想化サーバーにして、いろいろな Linux を試してみた</title>
+      <link>https://pc-freedom.net/review/proxmox-ve-guide/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/review/proxmox-ve-guide/</guid>
     </item>
   </channel>
 </rss>
