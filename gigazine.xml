@@ -6,27 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Nov 2026 22:19:04 +0000</lastBuildDate>
-    <item>
-      <title>無料で地図情報から漫画背景を作成できるツール「どこでもロケハン」</title>
-      <link>https://gigazine.net/news/20261018-dokodemo-rokehan/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261018-dokodemo-rokehan/</guid>
-    </item>
-    <item>
-      <title>無料でメモをノート・カンバン・タスク・ダッシュボード・マークダウン・グラフ表示の6つに対応できAI連携・ブラウザ拡張機能・PWA・自動バックアップもできる「Poznote」、オープンソースでセルフホスト可能</title>
-      <link>https://gigazine.net/news/20261018-poznote/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261018-poznote/</guid>
-    </item>
-    <item>
-      <title>脱獄したPlayStation 5のGPUでllama.cppを実行できる「PS5LM Plus」</title>
-      <link>https://gigazine.net/news/20261019-ps5lm-plus-gpu-ai/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261019-ps5lm-plus-gpu-ai/</guid>
-    </item>
-    <item>
-      <title>令嬢のドレス作画資料1639点を集めたサイト「令嬢衣装帖」、中世から近代まで全て無料で使えてドレスをカスタマイズすることも可能</title>
-      <link>https://gigazine.net/news/20261019-reijo-ishou-chou/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261019-reijo-ishou-chou/</guid>
-    </item>
+    <lastBuildDate>Thu, 05 Nov 2026 22:29:55 +0000</lastBuildDate>
     <item>
       <title>7日間バッテリーが持続するスマートウォッチ「Google Fitbit Edge」の見た目はこんな感じ</title>
       <link>https://gigazine.net/news/20261019-google-fitbit-edge-appearance/</link>
@@ -206,6 +186,26 @@
       <title>無料でネット接続なしでもWikipedia・教科書・オフラインマップが検索できAIアシスタントも搭載したオフライン知識検索ツール「Project NOMAD」</title>
       <link>https://gigazine.net/news/20261104-project-nomad/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261104-project-nomad/</guid>
+    </item>
+    <item>
+      <title>メトロポリタン美術館の収蔵品で「塊魂」的な遊びができる「Katamari Met」</title>
+      <link>https://gigazine.net/news/20261105-katamari-met/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261105-katamari-met/</guid>
+    </item>
+    <item>
+      <title>国産日本語翻訳AI「PLaMo 3 Translate」の4モデルをPFNが無料公開、スマホ上のローカル動作でも爆速＆高精度の日本語翻訳が可能になったので試してみた</title>
+      <link>https://gigazine.net/news/20261105-plamo-3-translate-open-weight/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261105-plamo-3-translate-open-weight/</guid>
+    </item>
+    <item>
+      <title>ユニクロ大型店舗「ユニクロ 京都」のオープン記念キャンペーンでもらえる特製タンブラーはこんな感じ</title>
+      <link>https://gigazine.net/news/20261105-uniqlo-kyoto-open-event-tumbler/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261105-uniqlo-kyoto-open-event-tumbler/</guid>
+    </item>
+    <item>
+      <title>64ビット版Windows上でWindows 3.1までの時代の16ビット版Windowsアプリを動かす「winevdm on 64-bit Windows」</title>
+      <link>https://gigazine.net/news/20261105-winevdm/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261105-winevdm/</guid>
     </item>
   </channel>
 </rss>
