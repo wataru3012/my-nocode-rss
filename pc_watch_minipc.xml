@@ -6,17 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Nov 2026 22:28:44 +0000</lastBuildDate>
-    <item>
-      <title>128GBの統合メモリで大型ローカルAIを動かす。RTX Spark搭載「ProArt P14」</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2148879.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2148879.html</guid>
-    </item>
-    <item>
-      <title>フロンティアモデルAIを出先でも！NVIDIA RTX Spark搭載Surface実機レビュー</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/ubiq/2148969.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/ubiq/2148969.html</guid>
-    </item>
+    <lastBuildDate>Fri, 06 Nov 2026 21:54:15 +0000</lastBuildDate>
     <item>
       <title>MacBook Proより音デカ！スピーカー9基のレノボ製Androidタブレット</title>
       <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2147740.html</link>
@@ -256,6 +246,16 @@
       <title>MSI、Ryzen 9 9955HX3DとRTX 5090/5080搭載の18型ゲーミングノート</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2154163.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2154163.html</guid>
+    </item>
+    <item>
+      <title>5万円引きの7万9,980円！Ryzen 7ノートがAmazonスマイルSaleに</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/special/2153321.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2153321.html</guid>
+    </item>
+    <item>
+      <title>MSI、軽量化した14型/16型ビジネスノート「Modern LE」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2154329.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2154329.html</guid>
     </item>
   </channel>
 </rss>

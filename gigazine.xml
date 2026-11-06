@@ -6,12 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Nov 2026 22:29:55 +0000</lastBuildDate>
-    <item>
-      <title>7日間バッテリーが持続するスマートウォッチ「Google Fitbit Edge」の見た目はこんな感じ</title>
-      <link>https://gigazine.net/news/20261019-google-fitbit-edge-appearance/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261019-google-fitbit-edge-appearance/</guid>
-    </item>
+    <lastBuildDate>Fri, 06 Nov 2026 21:55:21 +0000</lastBuildDate>
     <item>
       <title>神の如く自由な都市開発を行うのではなく市民の要望を聞き建設計画には議会の承認が必要となる都市シミュレーター「Permit Pending」</title>
       <link>https://gigazine.net/news/20261022-permit-pending/</link>
@@ -206,6 +201,11 @@
       <title>64ビット版Windows上でWindows 3.1までの時代の16ビット版Windowsアプリを動かす「winevdm on 64-bit Windows」</title>
       <link>https://gigazine.net/news/20261105-winevdm/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261105-winevdm/</guid>
+    </item>
+    <item>
+      <title>無料でローカルAIを簡単にオフライン利用できるオープンソースアプリ「Hob」、Windows・Mac・Linux対応でPCに適したAIモデルの自動選択・ファイル操作・外部アプリ連携が可能</title>
+      <link>https://gigazine.net/news/20261106-hob/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261106-hob/</guid>
     </item>
   </channel>
 </rss>
