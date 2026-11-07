@@ -6,22 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Nov 2026 21:55:21 +0000</lastBuildDate>
-    <item>
-      <title>神の如く自由な都市開発を行うのではなく市民の要望を聞き建設計画には議会の承認が必要となる都市シミュレーター「Permit Pending」</title>
-      <link>https://gigazine.net/news/20261022-permit-pending/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261022-permit-pending/</guid>
-    </item>
-    <item>
-      <title>IKEAの家具の組み立て説明書を3Dアニメーションでわかりやすく表示する「Flat Pack, Step by Step」が登場</title>
-      <link>https://gigazine.net/news/20261022-flat-pack-step-by/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261022-flat-pack-step-by/</guid>
-    </item>
-    <item>
-      <title>10連パックから英単語を引きまくりド派手な演出と確変で脳汁ほとばしりながら勉強できる「ドパ英単語ガチャ」をプレイしてみた</title>
-      <link>https://gigazine.net/news/20261023-dopatan-wordgacha/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261023-dopatan-wordgacha/</guid>
-    </item>
+    <lastBuildDate>Sat, 07 Nov 2026 20:38:40 +0000</lastBuildDate>
     <item>
       <title>史上最高の小説100選・「投資の神様」のオススメ本・宇宙戦艦ヤマトインタビューなどAmazonで売上トップ100のGIGAZINE記事ランキング2026年第3四半期版まとめ</title>
       <link>https://gigazine.net/news/20261024-gigazine-kindle-ranking-2026-q3/</link>
@@ -206,6 +191,21 @@
       <title>無料でローカルAIを簡単にオフライン利用できるオープンソースアプリ「Hob」、Windows・Mac・Linux対応でPCに適したAIモデルの自動選択・ファイル操作・外部アプリ連携が可能</title>
       <link>https://gigazine.net/news/20261106-hob/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261106-hob/</guid>
+    </item>
+    <item>
+      <title>無料で近くにスマートグラスがあるかどうかを教えてくれるアプリ「Nearby Glasses」</title>
+      <link>https://gigazine.net/news/20261107-nearby-glasses/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261107-nearby-glasses/</guid>
+    </item>
+    <item>
+      <title>無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能</title>
+      <link>https://gigazine.net/news/20261107-harmony/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261107-harmony/</guid>
+    </item>
+    <item>
+      <title>「Kindle」2026年最新モデルをじっくり使ってみたレビュー、進化した使い心地はどのようなものか？</title>
+      <link>https://gigazine.net/news/20261107-kindle-2026-review/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261107-kindle-2026-review/</guid>
     </item>
   </channel>
 </rss>
