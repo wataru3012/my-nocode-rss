@@ -6,12 +6,7 @@
     <description>PC-Freedom</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Nov 2026 20:37:38 +0000</lastBuildDate>
-    <item>
-      <title>EndeavourOS とは？親切すぎないから学べる Arch 系 Linux</title>
-      <link>https://pc-freedom.net/basic/what-is-endeavouros/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-endeavouros/</guid>
-    </item>
+    <lastBuildDate>Sun, 08 Nov 2026 20:55:39 +0000</lastBuildDate>
     <item>
       <title>Deepin とは？中国から生まれた、美しさを追求する Linux</title>
       <link>https://pc-freedom.net/basic/what-is-deepin/</link>
@@ -186,6 +181,11 @@
       <title>【ライブ実録】Tiny Core Linux をいじってみた。インストールは一瞬、日本語化は手ごわかった</title>
       <link>https://pc-freedom.net/review/tiny-core-linux-review/</link>
       <guid isPermaLink="false">https://pc-freedom.net/review/tiny-core-linux-review/</guid>
+    </item>
+    <item>
+      <title>KDE neon と Kubuntu、結局なにが違うの？ 仮想環境に入れながら調べてみた【Saturday Night FREEDOM】</title>
+      <link>https://pc-freedom.net/review/kde-neon-vs-kubuntu/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/review/kde-neon-vs-kubuntu/</guid>
     </item>
   </channel>
 </rss>

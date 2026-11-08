@@ -6,22 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Nov 2026 20:38:40 +0000</lastBuildDate>
-    <item>
-      <title>史上最高の小説100選・「投資の神様」のオススメ本・宇宙戦艦ヤマトインタビューなどAmazonで売上トップ100のGIGAZINE記事ランキング2026年第3四半期版まとめ</title>
-      <link>https://gigazine.net/news/20261024-gigazine-kindle-ranking-2026-q3/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261024-gigazine-kindle-ranking-2026-q3/</guid>
-    </item>
-    <item>
-      <title>無料で予約ページ・カレンダー同期・ビデオ会議室・自動メール送信機能などのダブルブッキングしないようにする機能を駆使してスケジュールの自動調整ができる「Tymeslot」、オープンソースでセルフホスト可能</title>
-      <link>https://gigazine.net/news/20261024-tymeslot/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261024-tymeslot/</guid>
-    </item>
-    <item>
-      <title>薄く軽く進化した「Kindle」2026年最新モデル開封の儀</title>
-      <link>https://gigazine.net/news/20261024-kindle-2026/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261024-kindle-2026/</guid>
-    </item>
+    <lastBuildDate>Sun, 08 Nov 2026 20:56:40 +0000</lastBuildDate>
     <item>
       <title>折りたたみスマホ「Galaxy Z Fold8 Ultra・Fold8・Flip8」で写真撮影するとこんな感じになる</title>
       <link>https://gigazine.net/news/20261024-samsung-galaxy-z-fold8-ultra-fold8-flip8-photos/</link>
@@ -206,6 +191,21 @@
       <title>「Kindle」2026年最新モデルをじっくり使ってみたレビュー、進化した使い心地はどのようなものか？</title>
       <link>https://gigazine.net/news/20261107-kindle-2026-review/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261107-kindle-2026-review/</guid>
+    </item>
+    <item>
+      <title>AI画像を検出できるブラウザ拡張機能「Pangram AI Detection」を実際に使って本当に検出できるのか試してみた</title>
+      <link>https://gigazine.net/news/20261108-pangram-image-ai-image-detection/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261108-pangram-image-ai-image-detection/</guid>
+    </item>
+    <item>
+      <title>無料で高速・暗号化・重複排除対応のバックアップができる「rustic」</title>
+      <link>https://gigazine.net/news/20261108-rustic/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261108-rustic/</guid>
+    </item>
+    <item>
+      <title>個人情報を守りきるブラウザゲーム「個人情報漏洩のお知らせ」をプレイしてみた、同名楽曲が流れる中で大量のエラーが警告を消し続ける</title>
+      <link>https://gigazine.net/news/20261108-leakgame/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261108-leakgame/</guid>
     </item>
   </channel>
 </rss>

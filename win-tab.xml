@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Nov 2026 20:37:49 +0000</lastBuildDate>
-    <item>
-      <title>HP OmniBook Ultra 16 AI PC － ローカルAIを極めたい人に！RTX Spark N1X搭載のモンスターマシン</title>
-      <link>https://win-tab.net/hp/omnibook-ultra-16-ai-pc-2610192/</link>
-      <guid isPermaLink="false">https://win-tab.net/hp/omnibook-ultra-16-ai-pc-2610192/</guid>
-    </item>
-    <item>
-      <title>Redragon K585 シリーズ レビュー － ノートパソコンでライトにゲームするならこれ！オールマイティな左手ゲーミングキーボード</title>
-      <link>https://win-tab.net/acc/redragon-k585-series-review-2610201/</link>
-      <guid isPermaLink="false">https://win-tab.net/acc/redragon-k585-series-review-2610201/</guid>
-    </item>
+    <lastBuildDate>Sun, 08 Nov 2026 20:55:48 +0000</lastBuildDate>
     <item>
       <title>Headwolf FPad9 － UNISOC T7300と2.5Kディスプレイを搭載する8.8インチタブレット、競合製品との違いは？</title>
       <link>https://win-tab.net/android/headwolf-fpad9-2610202/</link>
@@ -206,6 +196,16 @@
       <title>SONY MDR-3R － 昭和のヤング感涙！初代ウォークマンのヘッドホンが現代に復活！</title>
       <link>https://win-tab.net/acc/sony-mdr-3r-2611072/</link>
       <guid isPermaLink="false">https://win-tab.net/acc/sony-mdr-3r-2611072/</guid>
+    </item>
+    <item>
+      <title>SSDケース内蔵のORICOの10-in-1ドッキングステーションが8,999円、ノートPCの拡張や出張・ノマド作業に最適</title>
+      <link>https://win-tab.net/acc/orico-10-in-1-ssd-dock-2611081/</link>
+      <guid isPermaLink="false">https://win-tab.net/acc/orico-10-in-1-ssd-dock-2611081/</guid>
+    </item>
+    <item>
+      <title>ALLDOCUBE iPlay 80 mini レビュー － ケースとガラスフィルムがついて1万円台前半の8インチタブ、上位モデルと何が違う？</title>
+      <link>https://win-tab.net/android/alldocube-iplay-80-mini-review-2611082/</link>
+      <guid isPermaLink="false">https://win-tab.net/android/alldocube-iplay-80-mini-review-2611082/</guid>
     </item>
   </channel>
 </rss>
