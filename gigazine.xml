@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Nov 2026 20:56:40 +0000</lastBuildDate>
-    <item>
-      <title>折りたたみスマホ「Galaxy Z Fold8 Ultra・Fold8・Flip8」で写真撮影するとこんな感じになる</title>
-      <link>https://gigazine.net/news/20261024-samsung-galaxy-z-fold8-ultra-fold8-flip8-photos/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261024-samsung-galaxy-z-fold8-ultra-fold8-flip8-photos/</guid>
-    </item>
-    <item>
-      <title>人間とAIエージェント両方のために設計されたワークスペース全体を対象としたローカルファースト検索「zg」</title>
-      <link>https://gigazine.net/news/20261024-zvec-grep/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261024-zvec-grep/</guid>
-    </item>
+    <lastBuildDate>Tue, 10 Nov 2026 00:32:12 +0000</lastBuildDate>
     <item>
       <title>ファイルシステム「ZFS」の内部構造や動作原理をアニメーションや図解を通じて無料で学べる「Uberblok」</title>
       <link>https://gigazine.net/news/20261025-uberblok/</link>
@@ -206,6 +196,16 @@
       <title>個人情報を守りきるブラウザゲーム「個人情報漏洩のお知らせ」をプレイしてみた、同名楽曲が流れる中で大量のエラーが警告を消し続ける</title>
       <link>https://gigazine.net/news/20261108-leakgame/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261108-leakgame/</guid>
+    </item>
+    <item>
+      <title>【期間限定最大75％オフ】YouTubeなどの動画サイト1000以上からダウンロードできる「VideoProc Converter AI」と簡単に低解像度から自然に4K高画質化できる「Aiarty Video Enhancer」を使ってみたよレビュー</title>
+      <link>https://gigazine.net/news/20261109-videoproc-converter-ai-aiarty-video-enhancer/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261109-videoproc-converter-ai-aiarty-video-enhancer/</guid>
+    </item>
+    <item>
+      <title>誰でも簡単にWindowsやMacで広告ブロックできる「AdGuard 広告ブロッカー」のインストールと使い方、ブラウザだけでなくアプリやスタートメニューに出る広告までまとめて削除</title>
+      <link>https://gigazine.net/news/20261110-adguard-windows-mac/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261110-adguard-windows-mac/</guid>
     </item>
   </channel>
 </rss>
