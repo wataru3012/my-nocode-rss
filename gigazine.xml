@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Nov 2026 00:32:12 +0000</lastBuildDate>
-    <item>
-      <title>ファイルシステム「ZFS」の内部構造や動作原理をアニメーションや図解を通じて無料で学べる「Uberblok」</title>
-      <link>https://gigazine.net/news/20261025-uberblok/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261025-uberblok/</guid>
-    </item>
-    <item>
-      <title>読み込み14.9GB/sのPCIe 5.0対応SSD「SANDISK Optimus GX PRO 8100 NVMe SSD」の2TBモデルでベンチマークテストを実行してみたよレビュー</title>
-      <link>https://gigazine.net/news/20261025-sandisk-optimus-gx-pro-8100-nvme-ssd/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261025-sandisk-optimus-gx-pro-8100-nvme-ssd/</guid>
-    </item>
+    <lastBuildDate>Tue, 10 Nov 2026 22:07:37 +0000</lastBuildDate>
     <item>
       <title>バーチャルアーティスト「IA」がPC画面に登場するDesktop Mateの新DLCを使ってみた</title>
       <link>https://gigazine.net/news/20261025-desktop-mate-ia-dlc/</link>
@@ -201,6 +191,16 @@
       <title>【期間限定最大75％オフ】YouTubeなどの動画サイト1000以上からダウンロードできる「VideoProc Converter AI」と簡単に低解像度から自然に4K高画質化できる「Aiarty Video Enhancer」を使ってみたよレビュー</title>
       <link>https://gigazine.net/news/20261109-videoproc-converter-ai-aiarty-video-enhancer/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261109-videoproc-converter-ai-aiarty-video-enhancer/</guid>
+    </item>
+    <item>
+      <title>「XBOX史上最小」の超小型ワイヤレスコントローラー「XBOX Nano コントローラー」を使ってみた、手のひらサイズでゲームは快適に遊べるのか？</title>
+      <link>https://gigazine.net/news/20261110-microsoft-xbox-nano-controller/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261110-microsoft-xbox-nano-controller/</guid>
+    </item>
+    <item>
+      <title>無料のプロジェクト管理ツール「Leantime」、カンバン・一覧表・ガントビュー・iCal・タイムブロッキング・ホワイトボード・タイムシートを組み合わせて認知負荷を軽減することでADHD・失読症・自閉症を念頭に置いて設計</title>
+      <link>https://gigazine.net/news/20261110-leantime/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261110-leantime/</guid>
     </item>
     <item>
       <title>誰でも簡単にWindowsやMacで広告ブロックできる「AdGuard 広告ブロッカー」のインストールと使い方、ブラウザだけでなくアプリやスタートメニューに出る広告までまとめて削除</title>
