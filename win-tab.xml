@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Nov 2026 22:06:46 +0000</lastBuildDate>
-    <item>
-      <title>Dell 14S － 薄型軽量で4色展開、手頃な価格設定の14インチモバイルノート</title>
-      <link>https://win-tab.net/dell/dell-14s-2610222/</link>
-      <guid isPermaLink="false">https://win-tab.net/dell/dell-14s-2610222/</guid>
-    </item>
-    <item>
-      <title>GMKtec NucBox G3 Ultra － Pentium Gold 7505搭載のエントリー・ミニPC、RAMはしっかり16GBあります</title>
-      <link>https://win-tab.net/imported/gmktec-nucbox-g3-ultra-2610231/</link>
-      <guid isPermaLink="false">https://win-tab.net/imported/gmktec-nucbox-g3-ultra-2610231/</guid>
-    </item>
+    <lastBuildDate>Wed, 11 Nov 2026 23:15:11 +0000</lastBuildDate>
     <item>
       <title>HPセール情報 － 大決算祭りと週末限定セールを同時開催中、最新モデルもセール対象に！</title>
       <link>https://win-tab.net/sale/hp-sale-2610232/</link>
@@ -206,6 +196,16 @@
       <title>BOOX Picco － スマホの背面にも貼れる、3.97インチの超小型電子ペーパー端末</title>
       <link>https://win-tab.net/acc/boox-picco-2611102/</link>
       <guid isPermaLink="false">https://win-tab.net/acc/boox-picco-2611102/</guid>
+    </item>
+    <item>
+      <title>Lenovo IdeaPad Vibe Gen 12 － 7色から選べる14インチと15.3インチのCopilot+PC</title>
+      <link>https://win-tab.net/lenovo/ideapad-vibe-gen-12-2611111/</link>
+      <guid isPermaLink="false">https://win-tab.net/lenovo/ideapad-vibe-gen-12-2611111/</guid>
+    </item>
+    <item>
+      <title>サンワサプライ ワイヤレスマウス MA-WBIRS550 － 接続状態や電池残量がひと目でわかる液晶モニター付きマウス</title>
+      <link>https://win-tab.net/acc/sanwa-ma-wbirs550-2611112/</link>
+      <guid isPermaLink="false">https://win-tab.net/acc/sanwa-ma-wbirs550-2611112/</guid>
     </item>
   </channel>
 </rss>

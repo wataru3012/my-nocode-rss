@@ -6,32 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Nov 2026 22:07:37 +0000</lastBuildDate>
-    <item>
-      <title>バーチャルアーティスト「IA」がPC画面に登場するDesktop Mateの新DLCを使ってみた</title>
-      <link>https://gigazine.net/news/20261025-desktop-mate-ia-dlc/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261025-desktop-mate-ia-dlc/</guid>
-    </item>
-    <item>
-      <title>確率と統計を視覚的なアニメーションで理解できる「Seeing Theory」</title>
-      <link>https://gigazine.net/news/20261025-seeing-theory/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261025-seeing-theory/</guid>
-    </item>
-    <item>
-      <title>無料で600以上の言語をサポートする最先端の大規模多言語ゼロショットテキスト音声合成TTSモデル「OmniVoice」</title>
-      <link>https://gigazine.net/news/20261025-omnivoice/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261025-omnivoice/</guid>
-    </item>
-    <item>
-      <title>徒歩30分圏内の場所に関するWikipedia記事だけをまとめてくれる「Local Wikipedia」</title>
-      <link>https://gigazine.net/news/20261026-local-wikipedia/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261026-local-wikipedia/</guid>
-    </item>
-    <item>
-      <title>スマホに挿すだけで立体音響を録音できるソニーのマイク「ECM-AX10」、わずか24gの小型空間オーディオマイクの見た目はこんな感じ</title>
-      <link>https://gigazine.net/news/20261026-sony-microphone-ecm-ax10-appearance/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261026-sony-microphone-ecm-ax10-appearance/</guid>
-    </item>
+    <lastBuildDate>Wed, 11 Nov 2026 23:16:02 +0000</lastBuildDate>
     <item>
       <title>2万6800円で買えるGoogle製スマートウォッチ「Google Fitbit Edge」の各種機能を使ってみたよレビュー</title>
       <link>https://gigazine.net/news/20261027-google-fitbit-edge-short-review/</link>
@@ -193,6 +168,11 @@
       <guid isPermaLink="false">https://gigazine.net/news/20261109-videoproc-converter-ai-aiarty-video-enhancer/</guid>
     </item>
     <item>
+      <title>誰でも簡単にWindowsやMacで広告ブロックできる「AdGuard 広告ブロッカー」のインストールと使い方、ブラウザだけでなくアプリやスタートメニューに出る広告までまとめて削除</title>
+      <link>https://gigazine.net/news/20261110-adguard-windows-mac/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261110-adguard-windows-mac/</guid>
+    </item>
+    <item>
       <title>「XBOX史上最小」の超小型ワイヤレスコントローラー「XBOX Nano コントローラー」を使ってみた、手のひらサイズでゲームは快適に遊べるのか？</title>
       <link>https://gigazine.net/news/20261110-microsoft-xbox-nano-controller/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261110-microsoft-xbox-nano-controller/</guid>
@@ -203,9 +183,29 @@
       <guid isPermaLink="false">https://gigazine.net/news/20261110-leantime/</guid>
     </item>
     <item>
-      <title>誰でも簡単にWindowsやMacで広告ブロックできる「AdGuard 広告ブロッカー」のインストールと使い方、ブラウザだけでなくアプリやスタートメニューに出る広告までまとめて削除</title>
-      <link>https://gigazine.net/news/20261110-adguard-windows-mac/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261110-adguard-windows-mac/</guid>
+      <title>GIGAZINE読者は記事広告で何をレビューしてほしいのか？</title>
+      <link>https://gigazine.net/news/20261111-gigazine-review-survey/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261111-gigazine-review-survey/</guid>
+    </item>
+    <item>
+      <title>限定300台アルミ削り出しボディが光る33万円のキーボード「HHKB Professional Elite」開封の儀＆外観こんな感じレビュー</title>
+      <link>https://gigazine.net/news/20261111-hhkb-professional-elite-appearance/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261111-hhkb-professional-elite-appearance/</guid>
+    </item>
+    <item>
+      <title>Microsoft幹部が開発したGPU用タスクマネージャー「gputaskman」、Windows・macOS・Linux対応で各タスクのGPU使用率やVRAM使用量をhtopっぽく監視できる</title>
+      <link>https://gigazine.net/news/20261111-gputaskman/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261111-gputaskman/</guid>
+    </item>
+    <item>
+      <title>「Happy Hacking Keyboard(HHKB)」シリーズ30周年記念の60％キーボード「HHKB Professional Elite」はどんな打ち心地なのか？実際にタイピングしてみた</title>
+      <link>https://gigazine.net/news/20261111-hhkb-professional-elite-usage/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261111-hhkb-professional-elite-usage/</guid>
+    </item>
+    <item>
+      <title>無料でWebサイト・DNS・AWS認証情報・クレカ・機密文書などにおとりを設置して不審な操作を検知できる「Canarytokens」、インストール不要でセルフホストにも対応</title>
+      <link>https://gigazine.net/news/20261111-canarytokens/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261111-canarytokens/</guid>
     </item>
   </channel>
 </rss>
