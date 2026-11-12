@@ -6,22 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Nov 2026 23:14:51 +0000</lastBuildDate>
-    <item>
-      <title>ペンを本体に収納して989g！Core Ultraシリーズ3搭載の2in1「dynabook V83/PA」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2149400.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2149400.html</guid>
-    </item>
-    <item>
-      <title>64GBのRTX Sparkで何ができる？LLMから動画生成まで徹底ベンチ！</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2150098.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2150098.html</guid>
-    </item>
-    <item>
-      <title>AI任せで約15時間。ミニPCで作る“サブスク月3,400円”のカメラ加工アプリ</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/special/2147630.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2147630.html</guid>
-    </item>
+    <lastBuildDate>Thu, 12 Nov 2026 22:30:55 +0000</lastBuildDate>
     <item>
       <title>4万8,000円引きのYogaノートも！レノボ公式ストアでセール開催中</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/special/2149966.html</link>
@@ -248,6 +233,16 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2155355.html</guid>
     </item>
     <item>
+      <title>Ryzen搭載で約981gの12.2型軽量・堅牢モバイルノート</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2155391.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2155391.html</guid>
+    </item>
+    <item>
+      <title>iPad miniが実質フルモデルチェンジ、電子書籍の読み心地はどう変わった？</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/ebook/2155694.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/ebook/2155694.html</guid>
+    </item>
+    <item>
       <title>懐かしめ！「GeForce 8800 GTXを開封するデモ」がSteamで無料公開</title>
       <link>https://pc.watch.impress.co.jp/docs/news/yajiuma/2154380.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/yajiuma/2154380.html</guid>
@@ -278,84 +273,84 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/enquete/2152103.html</guid>
     </item>
     <item>
-      <title>Ryzen搭載で約981gの12.2型軽量・堅牢モバイルノート</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2155391.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2155391.html</guid>
+      <title>GoogleもJev型の“判断だけAI”をAPIで提供。PDFや画像も対応</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2155749.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2155749.html</guid>
     </item>
     <item>
-      <title>「Qwen4」早くも登場、最上位「Qwen4-Max」を無料でも試せる</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2155430.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2155430.html</guid>
+      <title>Adobe MAX 2026 Sneaksで10の新技術、うち2つは今すぐ試せる</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2155787.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2155787.html</guid>
     </item>
     <item>
-      <title>“AIっぽさ”を抑えた1,600万画素出力、画像生成AI「MiniMax-H3-Image」が重みを公開</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2155445.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2155445.html</guid>
+      <title>Qwen3.8-27Bが12GBメモリで動く、Unslothが新量子化モデルを公開</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2155856.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2155856.html</guid>
     </item>
     <item>
-      <title>ナラヤンCEO最後のAdobe MAX、「クリエイターの権利」堅持を強調</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2155508.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2155508.html</guid>
+      <title>MINIX、Ryzen AI 9 HX 470やベイパーチャンバー搭載のミニPC</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2155896.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2155896.html</guid>
     </item>
     <item>
-      <title>サイバー防御向けだったGemini 4 Carbon、AI Ultraにも開放</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2155375.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2155375.html</guid>
+      <title>アイオー、300Hz/フルHDで約2万5千円の24.5型ゲーミングモニター</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2155916.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2155916.html</guid>
     </item>
     <item>
-      <title>Claude、スプレッドシートやホワイトボードを共同編集できる機能</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2155486.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2155486.html</guid>
+      <title>NVIDIAジェンスン・フアン氏がCEO辞任</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2156075.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2156075.html</guid>
     </item>
     <item>
-      <title>人手修正はそのまま、更新分だけ英訳！PLaMo 3で動くゲーム翻訳ツール</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2155596.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2155596.html</guid>
+      <title>ガチくんに! 第439回切り抜き「アルジュンでVxbaoがCCへ/ゲーセンにサイバー攻撃など」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2156086.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2156086.html</guid>
     </item>
     <item>
-      <title>悪用確認のOutlook脆弱性に対処。Microsoftが11月の月例更新公開</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2155601.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2155601.html</guid>
+      <title>メモリ48GBで26万円台のミニPC「T5 Max」でローカルAIエージェントを動かしてみた</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2155899.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2155899.html</guid>
     </item>
     <item>
-      <title>ローカルLLMはゲーム開発に使えるか、スクウェア・エニックスがNemotronで検証</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2155676.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2155676.html</guid>
+      <title>VGN、ラピトリ対応や大容量バッテリ+ディスプレイ搭載などゲーミングキーボード3機種</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2156026.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2156026.html</guid>
     </item>
     <item>
-      <title>AIが“ダチ”になった。Meta「Muse」と過ごした2週間</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2155692.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2155692.html</guid>
+      <title>【結果発表】RTX Spark買った？</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/enquete/2156081.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/enquete/2156081.html</guid>
     </item>
     <item>
-      <title>iPad miniが実質フルモデルチェンジ、電子書籍の読み心地はどう変わった？</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/ebook/2155694.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/ebook/2155694.html</guid>
+      <title>4年前の愛機と比べて驚いた、12.2型「mouse X2」の速さ</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2156077.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2156077.html</guid>
     </item>
     <item>
-      <title>Acerの14型OLED搭載Androidタブレットが約8千円引き！AmazonスマイルSale</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2155384.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2155384.html</guid>
+      <title>Ryzen 7 PRO搭載ミニPCがAmazonで約2万2千円オフ</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2155726.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2155726.html</guid>
     </item>
     <item>
-      <title>約2万円オフでカラー対応Kindleが販売中！AmazonスマイルSale</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2155403.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2155403.html</guid>
+      <title>ペン付属のスナドラ搭載Androidタブレットが5,570円引き</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2155730.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2155730.html</guid>
     </item>
     <item>
-      <title>ロジクールのトラックボール「MX ERGO S」が約2,500円引き！スマイルSale</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2155424.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2155424.html</guid>
+      <title>掃き掃除/水拭き両対応のルンバが約2万5千円引き。ダイソンのロボット掃除機もセール</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2155746.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2155746.html</guid>
     </item>
     <item>
-      <title>5,000円引き！EdifierのPCスピーカーがスマイルSaleでオトク</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2155458.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2155458.html</guid>
+      <title>エルゴトロンのモニターアームがセールで1万6,380円に</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2155760.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2155760.html</guid>
     </item>
     <item>
-      <title>カゴメの720mlラベルレスペットボトルトマトジュースが約700円引き！スマイルSale</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2155471.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2155471.html</guid>
+      <title>CIOのディスプレイ付きType-Cケーブルがセール中。W数をチェック可能</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2155774.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2155774.html</guid>
     </item>
   </channel>
 </rss>

@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Nov 2026 23:15:11 +0000</lastBuildDate>
-    <item>
-      <title>HPセール情報 － 大決算祭りと週末限定セールを同時開催中、最新モデルもセール対象に！</title>
-      <link>https://win-tab.net/sale/hp-sale-2610232/</link>
-      <guid isPermaLink="false">https://win-tab.net/sale/hp-sale-2610232/</guid>
-    </item>
-    <item>
-      <title>ORICOのUSBハブやHDDケースなどがAmazonでセール中、さらに安くなる割引クーポンもあります！</title>
-      <link>https://win-tab.net/sale/orico-sale-2610233/</link>
-      <guid isPermaLink="false">https://win-tab.net/sale/orico-sale-2610233/</guid>
-    </item>
+    <lastBuildDate>Thu, 12 Nov 2026 22:31:15 +0000</lastBuildDate>
     <item>
       <title>GMKtec M3S － CPUにCore シリーズ3（Core 3 304）を搭載するミニPC、RAM12GBで増設不可な点には注意</title>
       <link>https://win-tab.net/imported/gmktec-m3s-2610241/</link>
@@ -206,6 +196,16 @@
       <title>サンワサプライ ワイヤレスマウス MA-WBIRS550 － 接続状態や電池残量がひと目でわかる液晶モニター付きマウス</title>
       <link>https://win-tab.net/acc/sanwa-ma-wbirs550-2611112/</link>
       <guid isPermaLink="false">https://win-tab.net/acc/sanwa-ma-wbirs550-2611112/</guid>
+    </item>
+    <item>
+      <title>Lenovo Yoga Pro 9n Gen 11 (15型 NVIDIA) － NVIDIA RTX Spark N1Xと最大128GB RAMを搭載する超高性能ノートPC</title>
+      <link>https://win-tab.net/lenovo/yoga-pro-9n-gen-11-nvidia-2611121/</link>
+      <guid isPermaLink="false">https://win-tab.net/lenovo/yoga-pro-9n-gen-11-nvidia-2611121/</guid>
+    </item>
+    <item>
+      <title>MousePro G2 － 12.2インチで重さ1キロ切り、でも「タフネス」なモバイルノート</title>
+      <link>https://win-tab.net/mouse/mousepro-g2-2611122/</link>
+      <guid isPermaLink="false">https://win-tab.net/mouse/mousepro-g2-2611122/</guid>
     </item>
   </channel>
 </rss>

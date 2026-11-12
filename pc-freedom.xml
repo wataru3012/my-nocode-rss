@@ -6,7 +6,7 @@
     <description>PC-Freedom</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Nov 2026 23:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 22:31:04 +0000</lastBuildDate>
     <item>
       <title>Puppy Linux とは？古い PC をもう一度走らせるオーストラリア生まれの軽量 Linux</title>
       <link>https://pc-freedom.net/basic/what-is-puppy-linux/</link>
@@ -66,11 +66,6 @@
       <title>Kali Linux とは？“ハッカー向け Linux”の正体と、普段使いに向かない理由</title>
       <link>https://pc-freedom.net/basic/what-is-kali-linux/</link>
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-kali-linux/</guid>
-    </item>
-    <item>
-      <title>Parrot OS とは？Kali だけじゃない、セキュリティと普段使いの間にある Debian 系 Linux</title>
-      <link>https://pc-freedom.net/basic/what-is-parrot-os/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-parrot-os/</guid>
     </item>
     <item>
       <title>Nobara Linux とは？Fedora をゲーム向けに整えた、実用派 Linux のクセと注意点</title>
@@ -186,6 +181,11 @@
       <title>Blade OS とは？ Debian に「最初から整った GNOME」を載せた新顔 Linux を、古いノート PC で試してみた</title>
       <link>https://pc-freedom.net/review/what-is-blade-os/</link>
       <guid isPermaLink="false">https://pc-freedom.net/review/what-is-blade-os/</guid>
+    </item>
+    <item>
+      <title>EndeavourOS ってなんだ？ 終わった Antergos のコミュニティが作った「導入が楽な Arch」を使ってみた</title>
+      <link>https://pc-freedom.net/review/what-is-endeavouros-2/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/review/what-is-endeavouros-2/</guid>
     </item>
   </channel>
 </rss>

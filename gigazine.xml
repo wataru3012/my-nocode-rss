@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Nov 2026 23:16:02 +0000</lastBuildDate>
-    <item>
-      <title>2万6800円で買えるGoogle製スマートウォッチ「Google Fitbit Edge」の各種機能を使ってみたよレビュー</title>
-      <link>https://gigazine.net/news/20261027-google-fitbit-edge-short-review/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261027-google-fitbit-edge-short-review/</guid>
-    </item>
-    <item>
-      <title>シリーズ最小・最軽量の軽い着け心地で「外す」発想がなくなるAnkerのワイヤレスイヤホン「Liberty Buds 2」を使ってみた</title>
-      <link>https://gigazine.net/news/20261029-anker-liberty-buds-2/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261029-anker-liberty-buds-2/</guid>
-    </item>
+    <lastBuildDate>Thu, 12 Nov 2026 22:32:04 +0000</lastBuildDate>
     <item>
       <title>ホロライブの人気VTuber「森カリオペ」がPC画面で動き回って録り下ろしボイスをしゃべる「Desktop Mate」新DLCを使ってみた</title>
       <link>https://gigazine.net/news/20261029-desktop-mate-mori-calliope-dlc/</link>
@@ -206,6 +196,16 @@
       <title>無料でWebサイト・DNS・AWS認証情報・クレカ・機密文書などにおとりを設置して不審な操作を検知できる「Canarytokens」、インストール不要でセルフホストにも対応</title>
       <link>https://gigazine.net/news/20261111-canarytokens/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261111-canarytokens/</guid>
+    </item>
+    <item>
+      <title>「Qwen4-Max-Preview」が無料で使用可能になったのでゲームを作ってみた</title>
+      <link>https://gigazine.net/news/20261112-qwen4-preview/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261112-qwen4-preview/</guid>
+    </item>
+    <item>
+      <title>『ストリートファイター6』のリュウと春麗がPC画面上に登場して必殺技でウィンドウを吹っ飛ばす「Desktop Mate」のDLCを使ってみた</title>
+      <link>https://gigazine.net/news/20261112-desktop-mate-ryu-chunli-dlc/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261112-desktop-mate-ryu-chunli-dlc/</guid>
     </item>
   </channel>
 </rss>
