@@ -6,12 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Nov 2026 22:31:15 +0000</lastBuildDate>
-    <item>
-      <title>GMKtec M3S － CPUにCore シリーズ3（Core 3 304）を搭載するミニPC、RAM12GBで増設不可な点には注意</title>
-      <link>https://win-tab.net/imported/gmktec-m3s-2610241/</link>
-      <guid isPermaLink="false">https://win-tab.net/imported/gmktec-m3s-2610241/</guid>
-    </item>
+    <lastBuildDate>Fri, 13 Nov 2026 22:19:42 +0000</lastBuildDate>
     <item>
       <title>ASUS ProArt P16 (H7607) / ProArt P14 (H7407) － NVIDIA RTX Spark N1X搭載のハイエンドAI PC</title>
       <link>https://win-tab.net/asus/proart-p16-p14-2610242/</link>
@@ -206,6 +201,11 @@
       <title>MousePro G2 － 12.2インチで重さ1キロ切り、でも「タフネス」なモバイルノート</title>
       <link>https://win-tab.net/mouse/mousepro-g2-2611122/</link>
       <guid isPermaLink="false">https://win-tab.net/mouse/mousepro-g2-2611122/</guid>
+    </item>
+    <item>
+      <title>pCloud ブラックフライデーセール 2026 － 買い切り型のクラウドストレージが最大約61%OFF！</title>
+      <link>https://win-tab.net/sale/pcloud-black-friday-sale-2611131/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/pcloud-black-friday-sale-2611131/</guid>
     </item>
   </channel>
 </rss>
