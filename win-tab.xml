@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Nov 2026 22:19:42 +0000</lastBuildDate>
-    <item>
-      <title>ASUS ProArt P16 (H7607) / ProArt P14 (H7407) － NVIDIA RTX Spark N1X搭載のハイエンドAI PC</title>
-      <link>https://win-tab.net/asus/proart-p16-p14-2610242/</link>
-      <guid isPermaLink="false">https://win-tab.net/asus/proart-p16-p14-2610242/</guid>
-    </item>
-    <item>
-      <title>ORICOの周辺機器がAmazonでセール中、プチプラなHDD/SSDケースと高機能なドッキングステーションに割引クーポン！</title>
-      <link>https://win-tab.net/sale/orico-amazon-sale-2610251/</link>
-      <guid isPermaLink="false">https://win-tab.net/sale/orico-amazon-sale-2610251/</guid>
-    </item>
+    <lastBuildDate>Sat, 14 Nov 2026 21:02:11 +0000</lastBuildDate>
     <item>
       <title>富士通 FMV Note U / FMV Zero － 14インチで634g〜の超軽量モバイルノート、CPUが新しくなってさらにパワフルに！</title>
       <link>https://win-tab.net/fujitsu/fmv-note-u-zero-2610252/</link>
@@ -206,6 +196,16 @@
       <title>pCloud ブラックフライデーセール 2026 － 買い切り型のクラウドストレージが最大約61%OFF！</title>
       <link>https://win-tab.net/sale/pcloud-black-friday-sale-2611131/</link>
       <guid isPermaLink="false">https://win-tab.net/sale/pcloud-black-friday-sale-2611131/</guid>
+    </item>
+    <item>
+      <title>Lenovo セール情報 － いよいよブラックフライデーがスタート！ハイスペックなタブレットに割引クーポンや購入特典あり！</title>
+      <link>https://win-tab.net/sale/lenovo-sale-2611141/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/lenovo-sale-2611141/</guid>
+    </item>
+    <item>
+      <title>GMKtec M10 / M10 PLUS － 旧世代のRyzen 5 / Ryzen 7を搭載し、コストパフォーマンスに優れたミニPC</title>
+      <link>https://win-tab.net/imported/gmktec-m10-m10-plus-2611142/</link>
+      <guid isPermaLink="false">https://win-tab.net/imported/gmktec-m10-m10-plus-2611142/</guid>
     </item>
   </channel>
 </rss>
