@@ -6,7 +6,7 @@
     <description>PC-Freedom</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Nov 2026 21:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 21:25:43 +0000</lastBuildDate>
     <item>
       <title>Gentoo Linux とは？自分で組み上げる Linux が教えてくれる自由の世界</title>
       <link>https://pc-freedom.net/basic/what-is-gentoo-linux/</link>
@@ -128,11 +128,6 @@
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-tuxedo-os/</guid>
     </item>
     <item>
-      <title>Vanilla OS とは？壊れにくい仕組みと Ubuntu との違いを解説</title>
-      <link>https://pc-freedom.net/basic/what-is-vanilla-os/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-vanilla-os/</guid>
-    </item>
-    <item>
       <title>AlmaLinux とは？CentOS の後継として選ばれる理由と使い道</title>
       <link>https://pc-freedom.net/basic/what-is-almalinux/</link>
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-almalinux/</guid>
@@ -186,6 +181,11 @@
       <title>EndeavourOS ってなんだ？ 終わった Antergos のコミュニティが作った「導入が楽な Arch」を使ってみた</title>
       <link>https://pc-freedom.net/review/what-is-endeavouros-2/</link>
       <guid isPermaLink="false">https://pc-freedom.net/review/what-is-endeavouros-2/</guid>
+    </item>
+    <item>
+      <title>Dynebolic とは？ 100% 自由な「持ち運べる制作スタジオ」を使ってみたら、手も足も出なかった話</title>
+      <link>https://pc-freedom.net/review/what-is-dynebolic/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/review/what-is-dynebolic/</guid>
     </item>
   </channel>
 </rss>

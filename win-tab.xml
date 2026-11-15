@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Nov 2026 21:02:11 +0000</lastBuildDate>
-    <item>
-      <title>富士通 FMV Note U / FMV Zero － 14インチで634g〜の超軽量モバイルノート、CPUが新しくなってさらにパワフルに！</title>
-      <link>https://win-tab.net/fujitsu/fmv-note-u-zero-2610252/</link>
-      <guid isPermaLink="false">https://win-tab.net/fujitsu/fmv-note-u-zero-2610252/</guid>
-    </item>
-    <item>
-      <title>富士通 FMV Note C (WC1-L3) － デザイン性に優れた13.3インチのCopilot+ PC、ディスプレイもタッチ対応に！</title>
-      <link>https://win-tab.net/fujitsu/fmv-note-c-2610261/</link>
-      <guid isPermaLink="false">https://win-tab.net/fujitsu/fmv-note-c-2610261/</guid>
-    </item>
+    <lastBuildDate>Sun, 15 Nov 2026 21:25:51 +0000</lastBuildDate>
     <item>
       <title>FMV Keyboard X01M － クラウドファンディングで爆売れしたキーボード、一般販売がスタートしました</title>
       <link>https://win-tab.net/fujitsu/fmv-keyboard-x01m-2610262/</link>
@@ -206,6 +196,16 @@
       <title>GMKtec M10 / M10 PLUS － 旧世代のRyzen 5 / Ryzen 7を搭載し、コストパフォーマンスに優れたミニPC</title>
       <link>https://win-tab.net/imported/gmktec-m10-m10-plus-2611142/</link>
       <guid isPermaLink="false">https://win-tab.net/imported/gmktec-m10-m10-plus-2611142/</guid>
+    </item>
+    <item>
+      <title>Acer Swift Lite 16 － 16インチサイズながら重さわずか1.18kg、モバイルできる大画面ノートPC</title>
+      <link>https://win-tab.net/acer/swift-lite-16-2611151/</link>
+      <guid isPermaLink="false">https://win-tab.net/acer/swift-lite-16-2611151/</guid>
+    </item>
+    <item>
+      <title>EMEET SmartCam S600L レビュー － 1/2インチ大型センサー＆PDAF対応で高画質！実用的なリングライトも備えた4K Webカメラ</title>
+      <link>https://win-tab.net/acc/emeet-smartcam-s600l-review-2611152/</link>
+      <guid isPermaLink="false">https://win-tab.net/acc/emeet-smartcam-s600l-review-2611152/</guid>
     </item>
   </channel>
 </rss>

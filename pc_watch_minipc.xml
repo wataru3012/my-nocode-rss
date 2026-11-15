@@ -6,7 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Nov 2026 21:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 21:25:38 +0000</lastBuildDate>
     <item>
       <title>世界最軽量634gの14型「FMV Note U」、全機種Copilot+ PCに</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2149953.html</link>
@@ -278,16 +278,6 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/gamingdevice/2154149.html</guid>
     </item>
     <item>
-      <title>iPad Airが約1万5千円引き！AppleCare+付きAmazonでセール</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2156158.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2156158.html</guid>
-    </item>
-    <item>
-      <title>4K液晶一体型FMVが約2万円引きでAmazonセール中</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2156169.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2156169.html</guid>
-    </item>
-    <item>
       <title>セキュアブート証明書の期限切れも解説、JEITAのWindows 11資料</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2156183.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2156183.html</guid>
@@ -326,6 +316,21 @@
       <title>電池残量はマウスを見れば分かる、液晶付きの静音マウスが登場</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2156461.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2156461.html</guid>
+    </item>
+    <item>
+      <title>タフブック、国内出荷比率を1割未満から3割へ。異常気象の現場を狙う</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2156558.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2156558.html</guid>
+    </item>
+    <item>
+      <title>ラピトリ調整も即座にダイヤルで。ソフト不要のロジクール「PRO X2 RAPID」</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/gamingdevice/2156370.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/gamingdevice/2156370.html</guid>
+    </item>
+    <item>
+      <title>GPUモリモリVRAM 112GBで「DeepSeek-V4.1-Flash」を動かしてみた</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2156560.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2156560.html</guid>
     </item>
     <item>
       <title>約1万5千円引き！3台同時に使える15.6型モバイルモニターがAmazonセール中</title>
