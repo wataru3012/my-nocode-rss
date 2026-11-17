@@ -6,17 +6,7 @@
     <description>PC-Freedom</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Nov 2026 21:25:43 +0000</lastBuildDate>
-    <item>
-      <title>Gentoo Linux とは？自分で組み上げる Linux が教えてくれる自由の世界</title>
-      <link>https://pc-freedom.net/basic/what-is-gentoo-linux/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-gentoo-linux/</guid>
-    </item>
-    <item>
-      <title>Slackware とは？今も残る Linux の原点と、その不便な自由</title>
-      <link>https://pc-freedom.net/basic/what-is-slackware/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-slackware/</guid>
-    </item>
+    <lastBuildDate>Tue, 17 Nov 2026 00:35:51 +0000</lastBuildDate>
     <item>
       <title>NixOS とは？設定ファイルから環境を再現する、研究から生まれた異色 Linux</title>
       <link>https://pc-freedom.net/basic/what-is-nixos/</link>
@@ -128,6 +118,11 @@
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-tuxedo-os/</guid>
     </item>
     <item>
+      <title>Vanilla OS とは？壊れにくい仕組みと Ubuntu との違いを解説</title>
+      <link>https://pc-freedom.net/basic/what-is-vanilla-os/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-vanilla-os/</guid>
+    </item>
+    <item>
       <title>AlmaLinux とは？CentOS の後継として選ばれる理由と使い道</title>
       <link>https://pc-freedom.net/basic/what-is-almalinux/</link>
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-almalinux/</guid>
@@ -186,6 +181,11 @@
       <title>Dynebolic とは？ 100% 自由な「持ち運べる制作スタジオ」を使ってみたら、手も足も出なかった話</title>
       <link>https://pc-freedom.net/review/what-is-dynebolic/</link>
       <guid isPermaLink="false">https://pc-freedom.net/review/what-is-dynebolic/</guid>
+    </item>
+    <item>
+      <title>Linux Lite とは？ニュージーランド生まれの「Windows から移る人のための Linux」を Xubuntu・MX Linux と比べてみた</title>
+      <link>https://pc-freedom.net/linux/what-is-linux-lite/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/linux/what-is-linux-lite/</guid>
     </item>
   </channel>
 </rss>

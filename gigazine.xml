@@ -6,12 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Nov 2026 21:26:43 +0000</lastBuildDate>
-    <item>
-      <title>『鬼滅の刃』フィギュア・『この世界の片隅に』片渕須直監督インタビュー・書店の減少問題などAmazonで売上トップ10のGIGAZINE記事ランキング2026年9月版はコレ！</title>
-      <link>https://gigazine.net/news/20261031-gigazine-kindle-ranking-2026-09/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261031-gigazine-kindle-ranking-2026-09/</guid>
-    </item>
+    <lastBuildDate>Tue, 17 Nov 2026 00:36:51 +0000</lastBuildDate>
     <item>
       <title>Material 3 Expressiveの画面をブラウザで組み立てて画面同士をつなぎタップして確かめてそのままAIコーディング用のプロンプトにするツール「M3E Canvas」</title>
       <link>https://gigazine.net/news/20261031-m3e-canvas/</link>
@@ -206,6 +201,11 @@
       <title>無料でSQLiteデータベース（.sqlite・.db）・.sqlダンプファイル・CSVファイルなどを編集・変換できる「editsqlite」</title>
       <link>https://gigazine.net/news/20261115-editsqlite/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261115-editsqlite/</guid>
+    </item>
+    <item>
+      <title>無料で高校1年生(数学IA履修程度)を対象に大規模言語モデル(LLM)・GPTの仕組みを数学とプログラミングの初歩から順番に作って学ぶ教材「microgpt-lesson」、Google Colabで動作</title>
+      <link>https://gigazine.net/news/20261116-microgpt-lesson/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261116-microgpt-lesson/</guid>
     </item>
   </channel>
 </rss>
