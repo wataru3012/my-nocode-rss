@@ -6,47 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Nov 2026 00:35:42 +0000</lastBuildDate>
-    <item>
-      <title>1,199gの16型有機ELノート「LG gram Pro 16」など6モデル</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2150374.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150374.html</guid>
-    </item>
-    <item>
-      <title>20万円超の最新Galaxy Tab、ゲームなら“小さいほう”で正解だったワケ</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2150312.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2150312.html</guid>
-    </item>
-    <item>
-      <title>RTX SparkでローカルAIが切り抜き動画を自動作成、たった3日で作ったシステムの中身</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/haishin_shugyousou/2150334.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/haishin_shugyousou/2150334.html</guid>
-    </item>
-    <item>
-      <title>MSI、Core Ultra 9 275HX/GeForce RTX 5070 Ti搭載の16型ゲーミングノート</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2150480.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150480.html</guid>
-    </item>
-    <item>
-      <title>コスパ重視なのに高級感、デル「Dell 14S」の4色を実機でチェック</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2150584.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150584.html</guid>
-    </item>
-    <item>
-      <title>部材高騰でもFMVは攻める、大隈社長が冬モデル発表会で語った戦略</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2150630.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150630.html</guid>
-    </item>
-    <item>
-      <title>7,000mAhバッテリで2日間使えるスマホ「motorola edge 70 fusion」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2150734.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150734.html</guid>
-    </item>
-    <item>
-      <title>ファイル名を自動提案してくれるmacOS 27。Finderの新機能まとめ</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/macinfo/2150976.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/macinfo/2150976.html</guid>
-    </item>
+    <lastBuildDate>Tue, 17 Nov 2026 23:42:50 +0000</lastBuildDate>
     <item>
       <title>PCが高い。本当に高い。それでもミニPCなら10万円で戦える</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/feature/2149827.html</link>
@@ -243,74 +203,14 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2156270.html</guid>
     </item>
     <item>
-      <title>パソコン工房、Core Ultra 9とRTX 5060/5060 Ti搭載のゲーミングPC</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/special/2156130.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2156130.html</guid>
-    </item>
-    <item>
-      <title>懐かしめ！「GeForce 8800 GTXを開封するデモ」がSteamで無料公開</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/yajiuma/2154380.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/yajiuma/2154380.html</guid>
-    </item>
-    <item>
-      <title>【コラム】それってミニPCでは？Core i5と32GBを積んだ4ベイNAS「Beelink ME Pro 4-Bay」</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2154142.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2154142.html</guid>
-    </item>
-    <item>
-      <title>脱GPUへ一手、Googleが独自AIチップ「TPU」に新モデル2種</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2154906.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2154906.html</guid>
-    </item>
-    <item>
-      <title>【レビュー】禁断のAMD B850拡張カード「ESP4B-850」がキタッ！M.2やSATA、USBを一挙増設！</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2154424.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2154424.html</guid>
-    </item>
-    <item>
-      <title>【レビュー】ボタンが足りないなら増やせばいいじゃない！最大23ボタンの「Naga V3 Pro」</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/gamingdevice/2154149.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/gamingdevice/2154149.html</guid>
-    </item>
-    <item>
-      <title>1万円台で27型IPS＋120Hz！ASUSのアイケアモニターが値下げ中</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2156469.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2156469.html</guid>
-    </item>
-    <item>
       <title>タフブック、国内出荷比率を1割未満から3割へ。異常気象の現場を狙う</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2156558.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2156558.html</guid>
     </item>
     <item>
-      <title>ラピトリ調整も即座にダイヤルで。ソフト不要のロジクール「PRO X2 RAPID」</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/gamingdevice/2156370.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/gamingdevice/2156370.html</guid>
-    </item>
-    <item>
-      <title>GPUモリモリVRAM 112GBで「DeepSeek-V4.1-Flash」を動かしてみた</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2156560.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2156560.html</guid>
-    </item>
-    <item>
-      <title>IllustratorもArm版Windows正式対応。Adobe主要アプリ出そろう</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2156620.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2156620.html</guid>
-    </item>
-    <item>
-      <title>「Qwen4-Max」正式リリース。小規模モデルのオープンウェイト化予告も</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2156687.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2156687.html</guid>
-    </item>
-    <item>
-      <title>llama.cpp v1.0.0公開。3年半かけて初のメジャーリリースに</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2156733.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2156733.html</guid>
-    </item>
-    <item>
-      <title>ガチくんに! 第439回切り抜き「8年でみんな変わりすぎ……懐かし写真を振り返る」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2156765.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2156765.html</guid>
+      <title>パソコン工房、Core Ultra 9とRTX 5060/5060 Ti搭載のゲーミングPC</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/special/2156130.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2156130.html</guid>
     </item>
     <item>
       <title>Android 16搭載のスマホ型電子ペーパー「BOOX Palma 3」</title>
@@ -318,34 +218,44 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2156781.html</guid>
     </item>
     <item>
-      <title>2画面や縦置きもOK！広々照らせる最高峰モニターライト「ScreenBar Max」を試す</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2156810.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2156810.html</guid>
+      <title>落下・水濡れも無償修理。大学4年間を任せられる「VAIO F14」を親目線で試す</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2156881.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2156881.html</guid>
     </item>
     <item>
-      <title>32GBメモリのレノボノートが約5万円オフ。HPノートも約7万9千円引き！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2156567.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2156567.html</guid>
+      <title>SX14-R愛用者の本音。「VAIO S13」でうらやましかったのは手厚い新保証だった</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2156884.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2156884.html</guid>
     </item>
     <item>
-      <title>7万円のオフ！RTX 5070 Ti/Ryzen 7 HX搭載ゲーミングノートが大幅値引き</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2156574.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2156574.html</guid>
+      <title>VAIO S13が約976gへ軽量化。しかもユーザー過失の物損故障が無償修理に</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2156889.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2156889.html</guid>
     </item>
     <item>
-      <title>デルの省スペースデスクトップが2万5千円引き。DVD±RWドライブ付属</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2156576.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2156576.html</guid>
+      <title>21万円台からのVAIO F14/F16、USB4対応に加え落下や水濡れも無償修理に</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2156893.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2156893.html</guid>
     </item>
     <item>
-      <title>Type-C/A両対応！バッファロー製USBメモリがAmazonでセール</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2156585.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2156585.html</guid>
+      <title>落下も水濡れも「自己責任」にしないVAIOの新メーカー保証、回数制限すらなし</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2156898.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2156898.html</guid>
     </item>
     <item>
-      <title>チキンラーメンどんぶり×12個セットがお買い得。どん兵衛や焼そばU.F.O.も！</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2156597.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2156597.html</guid>
+      <title>NEC PC、Snapdragon X搭載の15.3型ノート「LAVIE N15」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2156906.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2156906.html</guid>
+    </item>
+    <item>
+      <title>マウス、名取さなコラボのクリエイターPC「DAIV」3機種。29万9,800円から</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2157160.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2157160.html</guid>
+    </item>
+    <item>
+      <title>カバーの装着で念願のページめくりボタンが！2026年版「Kindle Paperwhite シグニチャーエディション」を試す</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/ebook/2157170.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/ebook/2157170.html</guid>
     </item>
   </channel>
 </rss>
