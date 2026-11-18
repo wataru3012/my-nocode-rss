@@ -6,12 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Nov 2026 23:44:00 +0000</lastBuildDate>
-    <item>
-      <title>アニソンヒット曲を聞いて年代を当てる音楽カードゲーム「HITSTER アニソン」プレイレポート</title>
-      <link>https://gigazine.net/news/20261031-hitster-anison/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261031-hitster-anison/</guid>
-    </item>
+    <lastBuildDate>Wed, 18 Nov 2026 23:15:05 +0000</lastBuildDate>
     <item>
       <title>Amazonのクラウドサービス「AWS」がカードゲームになった「AWS BuilderCards」を実際に遊んでみた</title>
       <link>https://gigazine.net/news/20261101-aws-buldercards/</link>
@@ -206,6 +201,11 @@
       <title>ブラウザ上でWindows 98向けソフトのオリジナル実行ファイルが動作するエミュレーター「Wine-Assembly」</title>
       <link>https://gigazine.net/news/20261117-wine-assembly/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261117-wine-assembly/</guid>
+    </item>
+    <item>
+      <title>メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「Cloudflare Tunnel＋Access」を設定してみた</title>
+      <link>https://gigazine.net/news/20261119-cloudflare-tunnel-local-ai/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261119-cloudflare-tunnel-local-ai/</guid>
     </item>
   </channel>
 </rss>

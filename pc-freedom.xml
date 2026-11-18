@@ -6,12 +6,7 @@
     <description>PC-Freedom</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Nov 2026 23:42:59 +0000</lastBuildDate>
-    <item>
-      <title>NixOS とは？設定ファイルから環境を再現する、研究から生まれた異色 Linux</title>
-      <link>https://pc-freedom.net/basic/what-is-nixos/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-nixos/</guid>
-    </item>
+    <lastBuildDate>Wed, 18 Nov 2026 23:14:02 +0000</lastBuildDate>
     <item>
       <title>Q4OS とは？古い PC を Windows 風に蘇らせる軽量 Debian 系 Linux</title>
       <link>https://pc-freedom.net/basic/what-is-q4os/</link>
@@ -186,6 +181,11 @@
       <title>Linux Lite とは？ニュージーランド生まれの「Windows から移る人のための Linux」を Xubuntu・MX Linux と比べてみた</title>
       <link>https://pc-freedom.net/linux/what-is-linux-lite/</link>
       <guid isPermaLink="false">https://pc-freedom.net/linux/what-is-linux-lite/</guid>
+    </item>
+    <item>
+      <title>Vinari OS とは？赤道の国エクアドル生まれ、Debian ベースの「全部入り」Linux を使ってみた</title>
+      <link>https://pc-freedom.net/linux/what-is-vinari-os/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/linux/what-is-vinari-os/</guid>
     </item>
   </channel>
 </rss>

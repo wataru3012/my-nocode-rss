@@ -6,17 +6,7 @@
     <description>Wintab</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Nov 2026 23:43:11 +0000</lastBuildDate>
-    <item>
-      <title>NEC LAVIE N13 / LAVIE Direct N13 － 13.3インチの軽量モバイルノート、新色「セージグリーン」も追加</title>
-      <link>https://win-tab.net/nec/lavie-direct-n13-2610282/</link>
-      <guid isPermaLink="false">https://win-tab.net/nec/lavie-direct-n13-2610282/</guid>
-    </item>
-    <item>
-      <title>ASUS Vivobook S16(S5608) / Vivobook S14(S5408) － Snapdragon X搭載Copilot+ PC、ディスプレイは有機ELでバッテリーも長持ち</title>
-      <link>https://win-tab.net/asus/vivobook-s16-s14-2610291/</link>
-      <guid isPermaLink="false">https://win-tab.net/asus/vivobook-s16-s14-2610291/</guid>
-    </item>
+    <lastBuildDate>Wed, 18 Nov 2026 23:14:14 +0000</lastBuildDate>
     <item>
       <title>NEC LAVIE S13 / LAVIE Direct S13 － Core Ultraシリーズ3搭載の軽量モバイルノート、Z世代向けですが、おっさんにも魅力的</title>
       <link>https://win-tab.net/nec/lavie-direct-s13-2610292/</link>
@@ -206,6 +196,16 @@
       <title>サンワサプライ ワイヤレスマウス MA-WBIRS539 － 薬指置き場のある独特な形状の5ボタンマウス</title>
       <link>https://win-tab.net/acc/sanwa-ma-wbirs539-2611172/</link>
       <guid isPermaLink="false">https://win-tab.net/acc/sanwa-ma-wbirs539-2611172/</guid>
+    </item>
+    <item>
+      <title>HP セール情報 － Black Friday SALEがスタート！発売直後のニューモデルもセール対象に！</title>
+      <link>https://win-tab.net/sale/hp-sale-2611181/</link>
+      <guid isPermaLink="false">https://win-tab.net/sale/hp-sale-2611181/</guid>
+    </item>
+    <item>
+      <title>dynabook M6・MZ/LA － 大幅な軽量化を果たした、日常使いに「ちょうどいい」14インチモバイルノート</title>
+      <link>https://win-tab.net/dynabook/m6-mz-la-2611182/</link>
+      <guid isPermaLink="false">https://win-tab.net/dynabook/m6-mz-la-2611182/</guid>
     </item>
   </channel>
 </rss>
