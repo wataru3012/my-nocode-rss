@@ -6,22 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Nov 2026 23:21:41 +0000</lastBuildDate>
-    <item>
-      <title>M6搭載14インチMacBook Pro登場。GPUが最大30%高速化</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2151796.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151796.html</guid>
-    </item>
-    <item>
-      <title>ASUS、最大30時間駆動の有機ELノート「Vivobook S16/S14」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2151858.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151858.html</guid>
-    </item>
-    <item>
-      <title>M6搭載の新型24インチiMac、写真編集もゲーム性能も最大2倍高速に</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2151889.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151889.html</guid>
-    </item>
+    <lastBuildDate>Fri, 20 Nov 2026 22:53:54 +0000</lastBuildDate>
     <item>
       <title>RAW100枚を1分26秒で現像、RTX 5070搭載パソコン工房クリエイターノート</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/pckoubou_review/2152047.html</link>
@@ -256,6 +241,21 @@
       <title>Kindle専用のはずが……「Kindle Click」はiPhoneでも使えた</title>
       <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2157685.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2157685.html</guid>
+    </item>
+    <item>
+      <title>ポータブルゲーミングPCやUMPCなどが最大43%オフ。天空のBLACK FRIDAY</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2158100.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2158100.html</guid>
+    </item>
+    <item>
+      <title>4:3液晶の縦型Androidゲーム機「KONKR Pocket BLOCK」</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2158302.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2158302.html</guid>
+    </item>
+    <item>
+      <title>機種変更時の「LINE」移行手順を解説、旧機種のトーク履歴も移すには……</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2158403.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2158403.html</guid>
     </item>
   </channel>
 </rss>
