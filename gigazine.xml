@@ -6,12 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Nov 2026 22:55:07 +0000</lastBuildDate>
-    <item>
-      <title>無料ストレージベンチマークアプリ「ATTO Disk Benchmark」の使い方まとめ、「小さいサイズのファイルでも高速に読み書きできるか？」といった観点でSSDの性能を分析して適切な用途を見極め可能</title>
-      <link>https://gigazine.net/news/20261101-atto-disk-benchmark/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261101-atto-disk-benchmark/</guid>
-    </item>
+    <lastBuildDate>Sat, 21 Nov 2026 21:59:29 +0000</lastBuildDate>
     <item>
       <title>誰でも簡単にAndroidやiPhoneで広告ブロックできる「AdGuard 広告ブロッカー」のインストールと使い方、迷惑広告・詐欺広告を全部まとめて一気に削除</title>
       <link>https://gigazine.net/news/20261102-adguard-adblocking/</link>
@@ -206,6 +201,11 @@
       <title>VPN通信に使うWireGuardやOpenVPNをターミナルUIの1画面で管理できる「Vortix」、マルチトンネル制御・リアルタイムテレメトリ・リークガード機能を搭載</title>
       <link>https://gigazine.net/news/20261120-vortix/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261120-vortix/</guid>
+    </item>
+    <item>
+      <title>無料でセルフホストできWindows・macOS・LinuxアプリもあるRSSリーダー「WyrmRSS」、YouTube動画の再生やDiscord・Slackへの新着通知も可能</title>
+      <link>https://gigazine.net/news/20261121-wyrmrss/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261121-wyrmrss/</guid>
     </item>
   </channel>
 </rss>
