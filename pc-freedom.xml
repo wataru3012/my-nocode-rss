@@ -6,12 +6,7 @@
     <description>PC-Freedom</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Nov 2026 21:58:31 +0000</lastBuildDate>
-    <item>
-      <title>antiX とは？古い PC を捨てる前に試したい軽量 Debian 系 Linux</title>
-      <link>https://pc-freedom.net/basic/what-is-antix/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-antix/</guid>
-    </item>
+    <lastBuildDate>Sun, 22 Nov 2026 22:15:59 +0000</lastBuildDate>
     <item>
       <title>Bodhi Linux とは？古い PC に“軽さと個性”を取り戻す Ubuntu 系 Linux</title>
       <link>https://pc-freedom.net/basic/what-is-bodhi-linux/</link>
@@ -128,11 +123,6 @@
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-raspberry-pi-os/</guid>
     </item>
     <item>
-      <title>Ubuntu 公式フレーバーとは？Kubuntu・Xubuntu・Lubuntu の違いと選び方</title>
-      <link>https://pc-freedom.net/basic/what-is-ubuntu-flavours/</link>
-      <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-ubuntu-flavours/</guid>
-    </item>
-    <item>
       <title>Trisquelとは？ 完全自由Linuxの特徴・Wi-Fiと日本語入力の注意点</title>
       <link>https://pc-freedom.net/basic/what-is-trisquel-gnu-linux/</link>
       <guid isPermaLink="false">https://pc-freedom.net/basic/what-is-trisquel-gnu-linux/</guid>
@@ -186,6 +176,11 @@
       <title>NuTyX とは？ LFS 生まれの Linux を入れてみたら、難関はインストールより日本語化だった</title>
       <link>https://pc-freedom.net/today_pc_story/what-is-nutyx/</link>
       <guid isPermaLink="false">https://pc-freedom.net/today_pc_story/what-is-nutyx/</guid>
+    </item>
+    <item>
+      <title>Endless OS とは？「壊れない Linux」を VirtualBox で試したら、日本語の壁は思わぬ場所にありました</title>
+      <link>https://pc-freedom.net/today_pc_story/what-is-endless-os/</link>
+      <guid isPermaLink="false">https://pc-freedom.net/today_pc_story/what-is-endless-os/</guid>
     </item>
   </channel>
 </rss>
