@@ -6,7 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Nov 2026 22:15:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 03:07:31 +0000</lastBuildDate>
     <item>
       <title>80万円からのRTX Spark搭載ノート「XPS 16 Creator Edition」</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2152137.html</link>
@@ -183,11 +183,6 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2157160.html</guid>
     </item>
     <item>
-      <title>カバーの装着で念願のページめくりボタンが！2026年版「Kindle Paperwhite シグニチャーエディション」を試す</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/ebook/2157170.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/ebook/2157170.html</guid>
-    </item>
-    <item>
       <title>ミニマルデザイン採用の14型モバイル「dynabook M6」。16型ノートも</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2157285.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2157285.html</guid>
@@ -208,11 +203,6 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2157584.html</guid>
     </item>
     <item>
-      <title>デスクトップ版RTX Sparkはどこまで速い？128GB搭載のノートPC版と比較</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2157471.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2157471.html</guid>
-    </item>
-    <item>
       <title>ASUSのRTX SparkミニPC「ProArt GR1X」がドスパラで販売中</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2157780.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2157780.html</guid>
@@ -228,59 +218,34 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2157918.html</guid>
     </item>
     <item>
-      <title>Kindle専用のはずが……「Kindle Click」はiPhoneでも使えた</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2157685.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2157685.html</guid>
-    </item>
-    <item>
-      <title>懐かしめ！「GeForce 8800 GTXを開封するデモ」がSteamで無料公開</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/yajiuma/2154380.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/yajiuma/2154380.html</guid>
-    </item>
-    <item>
-      <title>【コラム】それってミニPCでは？Core i5と32GBを積んだ4ベイNAS「Beelink ME Pro 4-Bay」</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2154142.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2154142.html</guid>
-    </item>
-    <item>
-      <title>脱GPUへ一手、Googleが独自AIチップ「TPU」に新モデル2種</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2154906.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2154906.html</guid>
-    </item>
-    <item>
-      <title>【レビュー】禁断のAMD B850拡張カード「ESP4B-850」がキタッ！M.2やSATA、USBを一挙増設！</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2154424.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2154424.html</guid>
-    </item>
-    <item>
-      <title>【レビュー】ボタンが足りないなら増やせばいいじゃない！最大23ボタンの「Naga V3 Pro」</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/gamingdevice/2154149.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/gamingdevice/2154149.html</guid>
-    </item>
-    <item>
-      <title>JEDEC、次世代メモリ「DDR6」プレビュー公開。モジュールは74mmに小型化</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2158081.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2158081.html</guid>
-    </item>
-    <item>
       <title>ポータブルゲーミングPCやUMPCなどが最大43%オフ。天空のBLACK FRIDAY</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2158100.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2158100.html</guid>
     </item>
     <item>
-      <title>NANDフラッシュ、ついに値下がりへ。2027年第1四半期に最大-5%の予測</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2158129.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2158129.html</guid>
-    </item>
-    <item>
-      <title>Windows 11のロック画面をナレーターで突破できる脆弱性。BitLocker環境も対象</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2158179.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2158179.html</guid>
-    </item>
-    <item>
       <title>4:3液晶の縦型Androidゲーム機「KONKR Pocket BLOCK」</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2158302.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2158302.html</guid>
+    </item>
+    <item>
+      <title>【コラム】カバーの装着で念願のページめくりボタンが！2026年版「Kindle Paperwhite シグニチャーエディション」を試す</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/ebook/2157170.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/ebook/2157170.html</guid>
+    </item>
+    <item>
+      <title>【レビュー】デスクトップ版RTX Sparkはどこまで速い？128GB搭載のノートPC版と比較</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2157471.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2157471.html</guid>
+    </item>
+    <item>
+      <title>【コラム】ラピトリ調整も即座にダイヤルで。ソフト不要のロジクール「PRO X2 RAPID」</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/gamingdevice/2156370.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/gamingdevice/2156370.html</guid>
+    </item>
+    <item>
+      <title>【レビュー】Kindle専用のはずが……「Kindle Click」はiPhoneでも使えた</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2157685.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2157685.html</guid>
     </item>
     <item>
       <title>世界初うたう競技向け24.5型/720Hz有機ELゲーミングモニター、ASUSから登場</title>
@@ -318,29 +283,49 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2158418.html</guid>
     </item>
     <item>
-      <title>Office付き14型ASUSノートが3万円引き！Amazonセール</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2158067.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2158067.html</guid>
+      <title>Blender初心者がAIエージェントとダンス動画を3D化、回り込みで撮り直してみた</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2158334.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2158334.html</guid>
     </item>
     <item>
-      <title>FOSSiBOTのタフネスAndroidスマホが約7千円引き、Amazonセール中</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2158069.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2158069.html</guid>
+      <title>NECの「バザールでござーる」今日で引退。約35年の歴史に幕</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2158462.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2158462.html</guid>
     </item>
     <item>
-      <title>寒さ対策にバッチリな電気毛布が1,500円オトク！Amazonセール</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2158074.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2158074.html</guid>
+      <title>NVIDIAジェンスン・フアン氏がCEOに復帰。辞任から11日で</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2158574.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2158574.html</guid>
     </item>
     <item>
-      <title>サントリーの烏龍茶ピーチティーが約800円オトク！Amazonセール</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2158078.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2158078.html</guid>
+      <title>NANDフラッシュの次を狙う176層の強誘電体メモリや2Gbitの大容量MRAMなどがIEDM 2026に登場</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/semicon/2158572.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/semicon/2158572.html</guid>
     </item>
     <item>
       <title>AIスマートグラスのオマケつく。ACEMAGICブラックフライデーでミニPCセール中</title>
       <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2158192.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2158192.html</guid>
+    </item>
+    <item>
+      <title>4G通信可能な6.95型Androidタブレットが約1万5千円でAmazonセール中</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2158587.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2158587.html</guid>
+    </item>
+    <item>
+      <title>ASUSの26.5型OLEDゲーミングモニターが約3万円引き！Amazonセール中</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2158606.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2158606.html</guid>
+    </item>
+    <item>
+      <title>ロボット掃除機のルンバが10万円引きでオトク！Amazonセール中</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2158626.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2158626.html</guid>
+    </item>
+    <item>
+      <title>こだわりの豆は手で挽きたい！HiBREWの手動コーヒーミルがオトク</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2158645.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2158645.html</guid>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Nov 2026 22:16:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 03:08:41 +0000</lastBuildDate>
     <item>
       <title>バックグラウンドで動作するAIエージェント用のメールっぽい受信箱「Pizza Bot」、Windows/macOS/Linuxに対応したセルフホスト型のデスクトップアプリでローカルAIモデルなどあらゆるAIモデルに対応して通知によるアクション管理が可能</title>
       <link>https://gigazine.net/news/20261103-pizza-bot/</link>
