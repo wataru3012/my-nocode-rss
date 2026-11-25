@@ -6,12 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Nov 2026 03:08:41 +0000</lastBuildDate>
-    <item>
-      <title>バックグラウンドで動作するAIエージェント用のメールっぽい受信箱「Pizza Bot」、Windows/macOS/Linuxに対応したセルフホスト型のデスクトップアプリでローカルAIモデルなどあらゆるAIモデルに対応して通知によるアクション管理が可能</title>
-      <link>https://gigazine.net/news/20261103-pizza-bot/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261103-pizza-bot/</guid>
-    </item>
+    <lastBuildDate>Wed, 25 Nov 2026 01:14:23 +0000</lastBuildDate>
     <item>
       <title>車で踏んでも壊れないLEDテープライトを買ったので実際に車で踏んでみた</title>
       <link>https://gigazine.net/news/20261103-hataya-led-light/</link>
@@ -206,6 +201,11 @@
       <title>ケガの応急処置や飲料水の入手方法など膨大なサバイバル情報をPCに保存してオフラインで閲覧可能にする「Lastbook」</title>
       <link>https://gigazine.net/news/20261123-lastbook-offline-knowledge/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261123-lastbook-offline-knowledge/</guid>
+    </item>
+    <item>
+      <title>好みの柄の猫ちゃんを思う存分なでなでできる「猫撫でシミュレーター」が登場、デブ猫やちび猫やゴロゴロ音まで完全再現</title>
+      <link>https://gigazine.net/news/20261124-cat-pet-simulator/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261124-cat-pet-simulator/</guid>
     </item>
   </channel>
 </rss>
