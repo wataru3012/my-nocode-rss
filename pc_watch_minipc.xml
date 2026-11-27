@@ -6,32 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 00:48:13 +0000</lastBuildDate>
-    <item>
-      <title>DGX Spark 2台でLLM生成1.8倍速、llama.cppがNCCLに対応</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2154660.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2154660.html</guid>
-    </item>
-    <item>
-      <title>守るために攻める、レッツノートとタフブックが年100万台に挑む</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/gyokai/2154953.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/gyokai/2154953.html</guid>
-    </item>
-    <item>
-      <title>26万円台のRyzen AI Max+ 388搭載ミニPC、MINISFORUMから</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2155102.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2155102.html</guid>
-    </item>
-    <item>
-      <title>iPhone優勢の日本でも不利なし？Google純正タグPixel Tagを試す</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2155299.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2155299.html</guid>
-    </item>
-    <item>
-      <title>レノボ、7色展開でキーキャップ交換もできる「IdeaPad Vibe Gen 12」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2155347.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2155347.html</guid>
-    </item>
+    <lastBuildDate>Fri, 27 Nov 2026 00:54:22 +0000</lastBuildDate>
     <item>
       <title>タッチパッドでもペンが使える、RTX Spark搭載の2in1「Yoga 9n」</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2155359.html</link>
@@ -256,6 +231,31 @@
       <title>ThinkPadが3万3,880円引き！レノボのブラックフライデーセールが開催中</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/special/2158957.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2158957.html</guid>
+    </item>
+    <item>
+      <title>Core 7 240H搭載の15.6型ノートPC、パソコン工房から</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2159612.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2159612.html</guid>
+    </item>
+    <item>
+      <title>GeForce搭載ゲーミングPCが6万3,000円引き！ブラックフライデー注目モデルまとめ</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/special/2159045.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2159045.html</guid>
+    </item>
+    <item>
+      <title>約3L筐体にGeForce RTX 5080搭載、「ROG NUC 16」にホワイトモデル</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2159765.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2159765.html</guid>
+    </item>
+    <item>
+      <title>これからChatGPTを仕事で活用したい人がノートPCのローカルAIも気にすべき理由</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/special/2151734.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2151734.html</guid>
+    </item>
+    <item>
+      <title>Ryzen搭載ミニPCが2万4千円引き！ブラックフライデーで3万5,998円に</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/special/2158512.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2158512.html</guid>
     </item>
   </channel>
 </rss>

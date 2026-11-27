@@ -6,22 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 00:49:26 +0000</lastBuildDate>
-    <item>
-      <title>無料でネット接続なしでもWikipedia・教科書・オフラインマップが検索できAIアシスタントも搭載したオフライン知識検索ツール「Project NOMAD」</title>
-      <link>https://gigazine.net/news/20261104-project-nomad/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261104-project-nomad/</guid>
-    </item>
-    <item>
-      <title>メトロポリタン美術館の収蔵品で「塊魂」的な遊びができる「Katamari Met」</title>
-      <link>https://gigazine.net/news/20261105-katamari-met/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261105-katamari-met/</guid>
-    </item>
-    <item>
-      <title>国産日本語翻訳AI「PLaMo 3 Translate」の4モデルをPFNが無料公開、スマホ上のローカル動作でも爆速＆高精度の日本語翻訳が可能になったので試してみた</title>
-      <link>https://gigazine.net/news/20261105-plamo-3-translate-open-weight/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261105-plamo-3-translate-open-weight/</guid>
-    </item>
+    <lastBuildDate>Fri, 27 Nov 2026 00:55:35 +0000</lastBuildDate>
     <item>
       <title>ユニクロ大型店舗「ユニクロ 京都」のオープン記念キャンペーンでもらえる特製タンブラーはこんな感じ</title>
       <link>https://gigazine.net/news/20261105-uniqlo-kyoto-open-event-tumbler/</link>
@@ -206,6 +191,21 @@
       <title>無料のCloudflareアカウントを使って動かすパーソナルAIエージェント「Talorys」</title>
       <link>https://gigazine.net/news/20261125-talorys/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261125-talorys/</guid>
+    </item>
+    <item>
+      <title>「猫なで」に続き「馬なで」や「うさぎなで」ができるシミュレーターまで登場、いろんな動物をなで放題で癒され放題</title>
+      <link>https://gigazine.net/news/20261126-pet-horse-rabbit-simulator/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261126-pet-horse-rabbit-simulator/</guid>
+    </item>
+    <item>
+      <title>プロの録音したマルチサンプリング効果音が50種類以上使えて商用利用・改変も自由にOKな「Button Sounds」</title>
+      <link>https://gigazine.net/news/20261126-button-sounds/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261126-button-sounds/</guid>
+    </item>
+    <item>
+      <title>Windows・Mac・Linux・AndroidでファイルやテキストをLAN・インターネット経由で共有できる「flipflop」を使ってみた</title>
+      <link>https://gigazine.net/news/20261126-flipflop/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261126-flipflop/</guid>
     </item>
   </channel>
 </rss>
