@@ -6,22 +6,7 @@
     <description>PC Watch ミニPCニュース</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 00:54:22 +0000</lastBuildDate>
-    <item>
-      <title>タッチパッドでもペンが使える、RTX Spark搭載の2in1「Yoga 9n」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2155359.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2155359.html</guid>
-    </item>
-    <item>
-      <title>レノボ、RTX Spark搭載でペン入力対応の16型2in1</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2155355.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2155355.html</guid>
-    </item>
-    <item>
-      <title>Ryzen搭載で約981gの12.2型軽量・堅牢モバイルノート</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2155391.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2155391.html</guid>
-    </item>
+    <lastBuildDate>Sat, 28 Nov 2026 00:18:50 +0000</lastBuildDate>
     <item>
       <title>iPad miniが実質フルモデルチェンジ、電子書籍の読み心地はどう変わった？</title>
       <link>https://pc.watch.impress.co.jp/docs/column/ebook/2155694.html</link>
@@ -103,11 +88,6 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2157160.html</guid>
     </item>
     <item>
-      <title>カバーの装着で念願のページめくりボタンが！2026年版「Kindle Paperwhite シグニチャーエディション」を試す</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/ebook/2157170.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/ebook/2157170.html</guid>
-    </item>
-    <item>
       <title>ミニマルデザイン採用の14型モバイル「dynabook M6」。16型ノートも</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2157285.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2157285.html</guid>
@@ -128,11 +108,6 @@
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2157584.html</guid>
     </item>
     <item>
-      <title>デスクトップ版RTX Sparkはどこまで速い？128GB搭載のノートPC版と比較</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2157471.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2157471.html</guid>
-    </item>
-    <item>
       <title>ASUSのRTX SparkミニPC「ProArt GR1X」がドスパラで販売中</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2157780.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2157780.html</guid>
@@ -146,11 +121,6 @@
       <title>1.3Lの小型筐体で最大1PFLOPS！MSIのRTX Spark搭載ミニPC</title>
       <link>https://pc.watch.impress.co.jp/docs/news/2157918.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2157918.html</guid>
-    </item>
-    <item>
-      <title>Kindle専用のはずが……「Kindle Click」はiPhoneでも使えた</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2157685.html</link>
-      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2157685.html</guid>
     </item>
     <item>
       <title>ポータブルゲーミングPCやUMPCなどが最大43%オフ。天空のBLACK FRIDAY</title>
@@ -256,6 +226,121 @@
       <title>Ryzen搭載ミニPCが2万4千円引き！ブラックフライデーで3万5,998円に</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/special/2158512.html</link>
       <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2158512.html</guid>
+    </item>
+    <item>
+      <title>ミニPCが一気に10モデル！ASUSがNUC 16 ProやPN55を投入</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2159795.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2159795.html</guid>
+    </item>
+    <item>
+      <title>Ryzen 9 9955HX3DとGeForce RTX 5070搭載のゲーミングミニPC</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2159836.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2159836.html</guid>
+    </item>
+    <item>
+      <title>15万円で君も令和のビジネスパーソンだ！ AI時代のPCの不満を解決する「THIRDWAVE Notebook MA4」【動画】</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/special/2159508.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/special/2159508.html</guid>
+    </item>
+    <item>
+      <title>【コラム】カバーの装着で念願のページめくりボタンが！2026年版「Kindle Paperwhite シグニチャーエディション」を試す</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/ebook/2157170.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/ebook/2157170.html</guid>
+    </item>
+    <item>
+      <title>【レビュー】デスクトップ版RTX Sparkはどこまで速い？128GB搭載のノートPC版と比較</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2157471.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/hothot/2157471.html</guid>
+    </item>
+    <item>
+      <title>【コラム】ラピトリ調整も即座にダイヤルで。ソフト不要のロジクール「PRO X2 RAPID」</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/gamingdevice/2156370.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/gamingdevice/2156370.html</guid>
+    </item>
+    <item>
+      <title>【コラム】Blender初心者がAIエージェントとダンス動画を3D化、回り込みで撮り直してみた</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2158334.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/nishikawa/2158334.html</guid>
+    </item>
+    <item>
+      <title>【レビュー】Kindle専用のはずが……「Kindle Click」はiPhoneでも使えた</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2157685.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2157685.html</guid>
+    </item>
+    <item>
+      <title>厚さ5.64mmで165gの「iPhone Air(512GB)」が5万1,900円引き！</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2159945.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2159945.html</guid>
+    </item>
+    <item>
+      <title>ClaudeのMessages API、Rust化されてCPU使用率が70%削減</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2159943.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2159943.html</guid>
+    </item>
+    <item>
+      <title>REGZAの34型湾曲ゲーミングモニターが1万4,200円引き</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2159951.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2159951.html</guid>
+    </item>
+    <item>
+      <title>GEEKOMのRyzen搭載ミニPCが8万円切り。ブラックフライデー先行セール</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2159961.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2159961.html</guid>
+    </item>
+    <item>
+      <title>最大180型対応のプロジェクタが1万3,280円引き。単体でYouTubeも視聴できる</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2159982.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2159982.html</guid>
+    </item>
+    <item>
+      <title>Windows「ベースライン保護」発表。8つの保護を1つの検証可能な状態に</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2159994.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2159994.html</guid>
+    </item>
+    <item>
+      <title>マウスのRadeon RX 9060 XT搭載ゲーミングPCが約4万円引き</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2159995.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2159995.html</guid>
+    </item>
+    <item>
+      <title>240HzのQD-OLEDが1万8千円引き。ASUS製ゲーミングモニターがセール</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2160047.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2160047.html</guid>
+    </item>
+    <item>
+      <title>“溶ける”で話題の12VHPWRコネクタ、まじめに考察してみた</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2160169.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2160169.html</guid>
+    </item>
+    <item>
+      <title>不要なプリンタやスキャナをまとめて処分！「小型家電リサイクル券」を試してみた</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2160170.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/readitnow/2160170.html</guid>
+    </item>
+    <item>
+      <title>対象のMacとのまとめ買いで、BenQ 4Kモニターが最大10%オフ。Amazonセール</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2160106.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2160106.html</guid>
+    </item>
+    <item>
+      <title>M4チップとWi-Fi 7対応の「11インチiPad Air」が11万6	800円！</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2160157.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2160157.html</guid>
+    </item>
+    <item>
+      <title>Apple Watch Series 12が1万800円引き、SE 3とUltra 3も</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2160159.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2160159.html</guid>
+    </item>
+    <item>
+      <title>約1万2千円引き！4K/160Hzの31.5型ゲーミングモニター</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2160184.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2160184.html</guid>
+    </item>
+    <item>
+      <title>M5 Pro搭載の14.2型MacBook Proが約3万3千円オフ</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2160185.html</link>
+      <guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/todays_sales/2160185.html</guid>
     </item>
   </channel>
 </rss>

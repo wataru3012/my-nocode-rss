@@ -6,17 +6,7 @@
     <description>gigazine</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 00:55:35 +0000</lastBuildDate>
-    <item>
-      <title>ユニクロ大型店舗「ユニクロ 京都」のオープン記念キャンペーンでもらえる特製タンブラーはこんな感じ</title>
-      <link>https://gigazine.net/news/20261105-uniqlo-kyoto-open-event-tumbler/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261105-uniqlo-kyoto-open-event-tumbler/</guid>
-    </item>
-    <item>
-      <title>64ビット版Windows上でWindows 3.1までの時代の16ビット版Windowsアプリを動かす「winevdm on 64-bit Windows」</title>
-      <link>https://gigazine.net/news/20261105-winevdm/</link>
-      <guid isPermaLink="false">https://gigazine.net/news/20261105-winevdm/</guid>
-    </item>
+    <lastBuildDate>Sat, 28 Nov 2026 00:19:57 +0000</lastBuildDate>
     <item>
       <title>無料でローカルAIを簡単にオフライン利用できるオープンソースアプリ「Hob」、Windows・Mac・Linux対応でPCに適したAIモデルの自動選択・ファイル操作・外部アプリ連携が可能</title>
       <link>https://gigazine.net/news/20261106-hob/</link>
@@ -206,6 +196,16 @@
       <title>Windows・Mac・Linux・AndroidでファイルやテキストをLAN・インターネット経由で共有できる「flipflop」を使ってみた</title>
       <link>https://gigazine.net/news/20261126-flipflop/</link>
       <guid isPermaLink="false">https://gigazine.net/news/20261126-flipflop/</guid>
+    </item>
+    <item>
+      <title>YouTubeで広告が出たら自動的にページを再読み込みして広告を消すChrome拡張「YouTube Ad Punisher」</title>
+      <link>https://gigazine.net/news/20261127-youtube-ad-punisher/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261127-youtube-ad-punisher/</guid>
+    </item>
+    <item>
+      <title>シンプルな構文で美しい図を自動生成する「D2」が進化、非営利化で独自レイアウトエンジンもオープンソース化</title>
+      <link>https://gigazine.net/news/20261127-d2/</link>
+      <guid isPermaLink="false">https://gigazine.net/news/20261127-d2/</guid>
     </item>
   </channel>
 </rss>
